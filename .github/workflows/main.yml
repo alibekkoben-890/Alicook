@@ -33,6 +33,21 @@ jobs:
           
           gradle assembleDebug
 
+      - name: Verify APK before publishing
+        run: |
+          set -euo pipefail
+          APK="app/build/outputs/apk/debug/app-debug.apk"
+          test -s "$APK"
+          echo "APK size: $(stat -c%s "$APK") bytes"
+          echo "Android SDK build-tools:"
+          ls -1 "$ANDROID_HOME/build-tools"
+          TOOLS="$(find "$ANDROID_HOME/build-tools" -name apksigner -type f | sort -V | tail -1)"
+          AAPT="$(find "$ANDROID_HOME/build-tools" -name aapt -type f | sort -V | tail -1)"
+          "$TOOLS" verify --verbose --print-certs "$APK"
+          "$AAPT" dump badging "$APK" | head -15
+          unzip -l "$APK" | grep 'assets/index.html'
+          unzip -p "$APK" assets/index.html | grep -q 'catalog'
+
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
