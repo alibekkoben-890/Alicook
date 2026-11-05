@@ -1,6 +1,10 @@
 name: Build signed AliCook release
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/release.yml'
 jobs:
   release:
     runs-on: ubuntu-latest
