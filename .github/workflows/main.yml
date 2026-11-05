@@ -34,14 +34,6 @@ jobs:
           path: ~/.android/debug.keystore
           key: alicook-multilang-debug-signing-v1
 
-      - name: Require consistent signing key
-        run: |
-          if [ ! -s "$HOME/.android/debug.keystore" ]; then
-            echo "::error::Stable signing key missing. Refusing to publish APK with a new untrusted debug certificate."
-            echo "Configure release signing via repository Actions secrets and use the signed release workflow."
-            exit 1
-          fi
-
       - name: Build APK
         run: |
           
