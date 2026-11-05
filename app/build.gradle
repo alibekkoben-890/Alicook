@@ -1,0 +1,12 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'com.alicook.app'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'com.alicook.app'
+        minSdk 24
+        targetSdk 28
+        versionCode 1
+        versionName '1.0'
+    }
+}
