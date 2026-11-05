@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.webkit.WebSettings;
 
 public class MainActivity extends Activity {
     WebView web;
@@ -18,6 +19,11 @@ public class MainActivity extends Activity {
         web.getSettings().setJavaScriptEnabled(true);
         web.getSettings().setDomStorageEnabled(true);
         web.getSettings().setAllowFileAccess(true);
+        web.getSettings().setAllowContentAccess(false);
+        web.getSettings().setAllowFileAccessFromFileURLs(false);
+        web.getSettings().setAllowUniversalAccessFromFileURLs(false);
+        web.getSettings().setMixedContentMode(WebSettings.MIXED_CONTENT_NEVER_ALLOW);
+        WebView.setWebContentsDebuggingEnabled(false);
         web.loadUrl("file:///android_asset/index.html");
     }
 
