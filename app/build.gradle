@@ -13,6 +13,12 @@ android {
         }
     }
     buildTypes {
+        debug {
+            // Use the same permanent key as release so every APK can update the installed app.
+            if (System.getenv('ALICOOK_KEYSTORE_PATH')) {
+                signingConfig signingConfigs.release
+            }
+        }
         release {
             minifyEnabled false
             signingConfig signingConfigs.release
