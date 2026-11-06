@@ -1,4 +1,3 @@
-
 name: Build Ali Cook APK
 
 on:
@@ -22,51 +21,40 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      
-
-
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v4
 
       - name: Load permanent signing key
         env:
           KEYSTORE_B64: ${{ secrets.ALICOOK_KEYSTORE_BASE64 }}
+          STORE_PASSWORD: ${{ secrets.ALICOOK_STORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.ALICOOK_KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.ALICOOK_KEY_PASSWORD }}
         run: |
           set -euo pipefail
-          if [ -z "$KEYSTORE_B64" ]; then
-            echo "::error::Secret ALICOOK_KEYSTORE_BASE64 is not set; APK would get a random key and fail to update the installed app."
-            exit 1
-          fi
+          for value in "$KEYSTORE_B64" "$STORE_PASSWORD" "$KEY_ALIAS" "$KEY_PASSWORD"; do
+            if [ -z "$value" ]; then
+              echo "::error::Signing secrets are not configured. Set ALICOOK_KEYSTORE_BASE64, ALICOOK_STORE_PASSWORD, ALICOOK_KEY_ALIAS and ALICOOK_KEY_PASSWORD in repository Actions secrets."
+              exit 1
+            fi
+          done
           printf '%s' "$KEYSTORE_B64" | base64 --decode > "$RUNNER_TEMP/alicook-release.jks"
           chmod 600 "$RUNNER_TEMP/alicook-release.jks"
 
-      - name: Build APK
+      - name: Build release APK
         env:
           ALICOOK_KEYSTORE_PATH: ${{ runner.temp }}/alicook-release.jks
           ALICOOK_STORE_PASSWORD: ${{ secrets.ALICOOK_STORE_PASSWORD }}
           ALICOOK_KEY_ALIAS: ${{ secrets.ALICOOK_KEY_ALIAS }}
           ALICOOK_KEY_PASSWORD: ${{ secrets.ALICOOK_KEY_PASSWORD }}
-        run: gradle --no-daemon assembleDebug
+        run: gradle --no-daemon assembleRelease
 
-      - name: Verify APK before publishing
-        run: |
-          set -euo pipefail
-          APK="app/build/outputs/apk/debug/app-debug.apk"
-          test -s "$APK"
-          echo "APK size: $(stat -c%s "$APK") bytes"
-          echo "Android SDK build-tools:"
-          ls -1 "$ANDROID_HOME/build-tools"
-          TOOLS="$(find "$ANDROID_HOME/build-tools" -name apksigner -type f | sort -V | tail -1)"
-          AAPT="$(find "$ANDROID_HOME/build-tools" -name aapt -type f | sort -V | tail -1)"
-          "$TOOLS" verify --verbose --print-certs "$APK" | tee "$RUNNER_TEMP/certs.txt"
-          grep -q 'SHA-256 digest: f5f72d4211957b520ce9b3310b6ad7613bd9ecf5152081f3f416a0228fd486e0' "$RUNNER_TEMP/certs.txt" || { echo "::error::APK is not signed with the permanent AliCook key"; exit 1; }
-          "$AAPT" dump badging "$APK" | head -15
-          unzip -l "$APK" | grep 'assets/index.html'
-          unzip -p "$APK" assets/index.html | grep -q 'catalog'
+      - name: Check APK (signature, not debuggable, targetSdk, permissions)
+        run: bash .github/scripts/verify-apk.sh app/build/outputs/apk/release/app-release.apk
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: AliCook-APK
-          path: '**/build/outputs/apk/debug/*.apk'
+          path: app/build/outputs/apk/release/app-release.apk
           if-no-files-found: error

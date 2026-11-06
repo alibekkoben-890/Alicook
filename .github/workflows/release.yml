@@ -6,6 +6,7 @@ on:
     paths:
       - '.github/workflows/release.yml'
       - 'app/**'
+      - '.github/scripts/**'
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -41,15 +42,8 @@ jobs:
           ALICOOK_KEY_ALIAS: ${{ secrets.ALICOOK_KEY_ALIAS }}
           ALICOOK_KEY_PASSWORD: ${{ secrets.ALICOOK_KEY_PASSWORD }}
         run: gradle --no-daemon assembleRelease
-      - name: Verify release signature and package
-        run: |
-          set -euo pipefail
-          APK="app/build/outputs/apk/release/app-release.apk"
-          test -s "$APK"
-          TOOLS="$(find "$ANDROID_HOME/build-tools" -name apksigner -type f | sort -V | tail -1)"
-          AAPT="$(find "$ANDROID_HOME/build-tools" -name aapt -type f | sort -V | tail -1)"
-          "$TOOLS" verify --verbose --print-certs "$APK"
-          "$AAPT" dump badging "$APK" | head -5
+      - name: Check APK (signature, not debuggable, targetSdk, permissions)
+        run: bash .github/scripts/verify-apk.sh app/build/outputs/apk/release/app-release.apk
       - uses: actions/upload-artifact@v4
         with:
           name: AliCook-SIGNED-RELEASE
