@@ -25,8 +25,8 @@ for rid, c in sel.items():
     else:
         continue
     im = ImageOps.exif_transpose(Image.open(io.BytesIO(data))).convert("RGB")
-    im.thumbnail((800, 800))
-    im.save(f"{OUT}/photos/{rid}.jpg", "JPEG", quality=78, optimize=True, progressive=True)
+    im.thumbnail((720, 720))
+    im.save(f"{OUT}/photos/{rid}.jpg", "JPEG", quality=74, optimize=True, progressive=True)
     done[rid] = c
     print(rid, "ok", im.size, flush=True)
     time.sleep(2)
