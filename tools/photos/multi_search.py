@@ -13,7 +13,10 @@ FREE = re.compile(r"^(CC0|Public domain|PD|CC BY(-SA)? \d\.\d)", re.I)
 queries = json.load(open(sys.argv[1], encoding="utf-8"))
 OUT = sys.argv[2]
 os.makedirs(OUT, exist_ok=True)
-TW, TH = 200, 150
+TW, TH = 170, 128
+PER_Q = int(os.environ.get("PER_Q") or "6")
+PACK = int(os.environ.get("PACK") or "6")
+PEXELS_OFF = False
 
 
 def get(url, tries=3):
@@ -70,13 +73,20 @@ def openverse(q):
 
 
 def pexels(q):
+    global PEXELS_OFF
     key = os.environ.get("PEXELS_API_KEY")
-    if not key:
+    if not key or PEXELS_OFF:
         return []
     req = urllib.request.Request("https://api.pexels.com/v1/search?" + urllib.parse.urlencode(dict(query=q, per_page=15)),
                                  headers={"User-Agent": UA, "Authorization": key})
-    d = json.loads(urllib.request.urlopen(req, timeout=40).read())
-    return [{"url": p["src"]["large"], "title": p.get("alt") or "", "author": p.get("photographer") or "—",
+    try:
+        d = json.loads(urllib.request.urlopen(req, timeout=40).read())
+    except urllib.error.HTTPError as e:
+        if e.code == 429:
+            PEXELS_OFF = True
+            print("pexels rate limit reached; continuing without it", flush=True)
+        raise
+    return [{"url": p["src"]["large"], "thumb": p["src"]["medium"], "title": p.get("alt") or "", "author": p.get("photographer") or "—",
              "license": "Pexels License", "license_url": "https://www.pexels.com/license/",
              "source": p["url"], "provider": "pexels", "desc": p.get("alt") or ""} for p in d.get("photos", [])]
 
@@ -87,26 +97,29 @@ def pixabay(q):
         return []
     d = json.loads(get("https://pixabay.com/api/?" + urllib.parse.urlencode(
         dict(key=key, q=q, image_type="photo", category="food", per_page=15, safesearch="true"))))
-    return [{"url": h["largeImageURL"], "title": h.get("tags") or "", "author": h.get("user") or "—",
+    return [{"url": h["largeImageURL"], "thumb": h["webformatURL"], "title": h.get("tags") or "", "author": h.get("user") or "—",
              "license": "Pixabay Content License", "license_url": "https://pixabay.com/service/license-summary/",
              "source": h["pageURL"], "provider": "pixabay", "desc": h.get("tags") or ""} for h in d.get("hits", [])]
 
 
-SOURCES = [pexels, pixabay, commons, openverse]
+SOURCES = [pixabay, pexels, commons, openverse]
+import urllib.error
 cands, blocks = {}, []
 for key, q in queries.items():
     found = []
     for fn in SOURCES:
+        if len(found) >= PER_Q * 2 and fn in (commons, openverse):
+            break
         try:
             found += fn(q)
         except Exception as e:
             print(key, fn.__name__, "failed", e, flush=True)
     keep, tiles = [], []
     for c in found:
-        if len(keep) == 9:
+        if len(keep) == PER_Q:
             break
         try:
-            im = Image.open(io.BytesIO(get(c["url"], 2))).convert("RGB")
+            im = Image.open(io.BytesIO(get(c.get("thumb") or c["url"], 2))).convert("RGB")
         except Exception:
             continue
         im.thumbnail((TW, TH - 14))
@@ -116,7 +129,8 @@ for key, q in queries.items():
         tiles.append(t)
         keep.append(c)
     cands[key] = keep
-    block = Image.new("RGB", (TW * 3, TH * 3 + 18), (235, 235, 235))
+    rows = (PER_Q + 2) // 3
+    block = Image.new("RGB", (TW * 3, TH * rows + 18), (235, 235, 235))
     ImageDraw.Draw(block).text((4, 3), f"[{key}] {q}", fill=(180, 0, 0))
     for i, t in enumerate(tiles):
         block.paste(t, ((i % 3) * TW, 18 + (i // 3) * TH))
@@ -124,9 +138,10 @@ for key, q in queries.items():
     print(key, q, len(keep), flush=True)
     time.sleep(1)
 
-for n in range(0, len(blocks), 4):
-    sheet = Image.new("RGB", (TW * 6 + 10, (TH * 3 + 18) * 2 + 10), "white")
-    for j, b in enumerate(blocks[n:n + 4]):
-        sheet.paste(b, ((j % 2) * (TW * 3 + 10), (j // 2) * (TH * 3 + 28)))
-    sheet.save(f"{OUT}/pack_{n // 4:03d}.jpg", quality=72)
+BH = TH * ((PER_Q + 2) // 3) + 18
+for n in range(0, len(blocks), PACK):
+    sheet = Image.new("RGB", (TW * 9 + 20, (BH + 10) * ((PACK + 2) // 3)), "white")
+    for j, b in enumerate(blocks[n:n + PACK]):
+        sheet.paste(b, ((j % 3) * (TW * 3 + 10), (j // 3) * (BH + 10)))
+    sheet.save(f"{OUT}/pack_{n // PACK:03d}.jpg", quality=74)
 json.dump(cands, open(f"{OUT}/candidates.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)

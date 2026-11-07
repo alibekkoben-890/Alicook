@@ -11,6 +11,7 @@ on:
 jobs:
   photos:
     runs-on: ubuntu-latest
+    timeout-minutes: 300
     permissions:
       contents: write
     steps:
