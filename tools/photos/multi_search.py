@@ -102,13 +102,13 @@ def pixabay(q):
              "source": h["pageURL"], "provider": "pixabay", "desc": h.get("tags") or ""} for h in d.get("hits", [])]
 
 
-SOURCES = [pixabay, pexels, commons, openverse]
+SOURCES = [pexels, pixabay, commons, openverse]
 import urllib.error
 cands, blocks = {}, []
 for key, q in queries.items():
     found = []
     for fn in SOURCES:
-        if len(found) >= PER_Q * 2 and fn in (commons, openverse):
+        if len(found) >= PER_Q and fn in (commons, openverse):
             break
         try:
             found += fn(q)
@@ -136,7 +136,7 @@ for key, q in queries.items():
         block.paste(t, ((i % 3) * TW, 18 + (i // 3) * TH))
     blocks.append(block)
     print(key, q, len(keep), flush=True)
-    time.sleep(1)
+    time.sleep(19 if os.environ.get("PEXELS_API_KEY") and not PEXELS_OFF else 1)
 
 BH = TH * ((PER_Q + 2) // 3) + 18
 for n in range(0, len(blocks), PACK):
