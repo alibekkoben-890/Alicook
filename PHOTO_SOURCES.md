@@ -6,21 +6,42 @@
 
 | Блюдо | Оригинал | Автор | Лицензия |
 |---|---|---|---|
+| Омлет с сыром | https://commons.wikimedia.org/wiki/File:Four_cheese_omelet_with_EVOO.jpg | Philipp Michel Reichold | CC BY-SA 4.0 |
 | Жареный картофель | https://commons.wikimedia.org/wiki/File:Solstice_morning_home_fries_in_pan.jpg | Infrogmation of New Orleans | CC BY-SA 2.0 |
 | Картофельное пюре | https://commons.wikimedia.org/wiki/File:MashedPotatoes.jpg | Renee Comet (photographer) | Public domain |
 | Салат из огурцов и помидоров | https://commons.wikimedia.org/wiki/File:Cucumber_onion_and_tomato_salad_with_mint_coriander_and_lemon.jpg | Voxbyrox | CC BY-SA 4.0 |
+| Макароны с сыром | https://commons.wikimedia.org/wiki/File:Macaroni_and_cheese_(2)_(cropped).jpg | Sumeet Jain from San Francisco, USA | CC BY-SA 2.0 |
 | Куриный суп | https://commons.wikimedia.org/wiki/File:Chicken_Noodle_Soup_US.jpg | Nichijyou123 | CC BY-SA 4.0 |
 | Плов с бараниной | https://commons.wikimedia.org/wiki/File:Plov_with_lamb_and_carrots_in_ceramic_bowl.jpg | Postovalov | CC BY-SA 4.0 |
 | Котлеты из фарша | https://commons.wikimedia.org/wiki/File:Chicken_cutlets.jpg | nayeli @ nyam.ru | CC BY 3.0 |
 | Оладьи | https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D1%96_%D0%9E%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8_(Oladyi).jpg | f7eeae1 | CC BY-SA 4.0 |
 | Блины | https://commons.wikimedia.org/wiki/File:Russian_blini.jpg | Ninaras | CC BY 4.0 |
-| Сырники | https://commons.wikimedia.org/wiki/File:Syrniki6.jpg | Tatyana Morozyuk, color processing by Off-shell | CC BY-SA 3.0 |
+| Сырники | собственное фото пользователя приложения | AliCook | все права у автора |
 | Шакшука | https://commons.wikimedia.org/wiki/File:Shakshuka_by_Calliopejen1.jpg | Calliopejen1 | CC BY-SA 3.0 |
 | Борщ | https://commons.wikimedia.org/wiki/File:Borscht_with_bread.jpg | Juerg Vollmer from Zürich, Schweiz | CC BY-SA 2.0 |
+| Щи | https://commons.wikimedia.org/wiki/File:Shchi.jpg | Victoria Vasilieva | CC BY-SA 2.0 |
+| Суп из чечевицы | https://commons.wikimedia.org/wiki/File:Lentil_soup_done.jpg | Dmitry Bagrov | CC BY-SA 4.0 |
 | Гороховый суп | https://commons.wikimedia.org/wiki/File:Pea_soup_2.jpg | Tiia Monto | CC BY-SA 3.0 |
+| Салат с тунцом | https://commons.wikimedia.org/wiki/File:Tuna_salad_on_mixed_greens,_with_corn,_carrots,_tomatoes,_olive_oil,_red_vinegar,_and_black_pepper_-_Massachusetts.jpg | Daderot | CC0 |
 | Овсяная каша | https://commons.wikimedia.org/wiki/File:Cooked_oatmeal_in_bowl_3.jpg | Bodhi Peace | CC BY-SA 4.0 |
+| Манная каша | https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BD%D0%BD%D0%B0_%D0%BA%D0%B0%D1%88%D0%B0_-_20250808_182334.jpg | Микола Василечко | CC BY-SA 4.0 |
 | Греческий салат | https://commons.wikimedia.org/wiki/File:Greek_Salad_Choriatiki.jpg | zone41 (Flickr) | CC BY 2.0 |
+| Салат из капусты | https://commons.wikimedia.org/wiki/File:Cabbage_Salads.jpg | Namwanje Sauyah | CC0 |
+| Спагетти с томатным соусом | https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Spaghetti_with_Tomato_Sauce.jpg | HaJunkiyada | CC BY-SA 4.0 |
+| Паста с грибами | https://commons.wikimedia.org/wiki/File:Pasta_of_the_Day.jpg | Nikchick | CC BY-SA 2.0 |
+| Картофельный суп | https://commons.wikimedia.org/wiki/File:Brambora%C4%8Dka_022.jpg | Matěj Baťha | CC BY-SA 3.0 |
+| Гренки | https://commons.wikimedia.org/wiki/File:FrenchToast.JPG | Jonathunder | CC BY-SA 3.0 |
+| Фруктовый салат | https://commons.wikimedia.org/wiki/File:Fruit_salad_in_tezpur_university.jpg | Akashdoley13 | CC BY-SA 4.0 |
+| Компот из сухофруктов | https://commons.wikimedia.org/wiki/File:Kompot_z_suszonych_sliwek.JPG | Djdeaka | CC BY-SA 4.0 |
+| Карп в духовке | https://commons.wikimedia.org/wiki/File:Tave_krapi.jpg | Regularcheese | CC BY-SA 4.0 |
 | Сёмга в духовке | https://commons.wikimedia.org/wiki/File:Time_for_another_food_picture_-)_(4200042228).jpg | Andy / Andrew Fogg from near Cambridge, UK | CC BY 2.0 |
+| Скумбрия в духовке | https://commons.wikimedia.org/wiki/File:Baked_Mackereel.jpg | Леонид Котов | CC BY-SA 4.0 |
+| Треска в духовке | https://commons.wikimedia.org/wiki/File:Baked_cod_fillet.jpg | Tiia Monto | CC BY-SA 4.0 |
+| Цветная капуста в духовке | https://commons.wikimedia.org/wiki/File:Plated_roasted_cauliflower_10.jpg | Wheeler Cowperthwaite | CC BY 2.0 |
+| Баклажан в духовке | https://commons.wikimedia.org/wiki/File:Roasted_eggplant_(3339574020).jpg | Karen and Brad Emerson | CC BY 2.0 |
+| Тыква в духовке | https://commons.wikimedia.org/wiki/File:Roasted_pumpkin.jpg | GWphotograph | CC BY-SA 4.0 |
+| Картофель в духовке | https://commons.wikimedia.org/wiki/File:Roasted_potatoes_in_bowl.jpg | Punker1999 | CC0 |
+| Морковь в духовке | https://commons.wikimedia.org/wiki/File:Simply_Roasted_Carrots_-_50383130178.jpg | Alabama Extension | CC0 |
 | Бешбармак | https://commons.wikimedia.org/wiki/File:Kazakh_beshbarmak.jpg | Igors Jefimovs | CC BY 3.0 |
 | Қуырдақ | https://commons.wikimedia.org/wiki/File:Kazakh_quwyrdaq.jpg | Rio Murr from Minsk, Belarus | CC BY-SA 2.0 |
 | Бауырсаки | https://commons.wikimedia.org/wiki/File:Baursaki_Cropped.jpg | Alfiya Smagul from Almaty, Kazakhstan | CC BY 2.0 |
@@ -29,6 +50,14 @@
 | Сборная солянка с колбасой | https://commons.wikimedia.org/wiki/File:Soljanka_food_05.jpg | Pannet | CC BY 4.0 |
 | Окрошка на айране | https://commons.wikimedia.org/wiki/File:%D0%9E%D0%BA%D1%80%D0%BE%D1%88%D0%BA%D0%B0_Okroshka_05.jpg | Nikkolo | CC BY-SA 3.0 |
 | Табуле с булгуром и петрушкой | https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Tabbouleh.jpg | cyclonebill | CC BY-SA 2.0 |
+| Кукурузный суп-пюре | https://commons.wikimedia.org/wiki/File:Corn_cream_soup.jpg | Fumikas Sagisavas | CC0 |
+| Грибной суп с перловкой | https://commons.wikimedia.org/wiki/File:Mushroom_Barley_Soup_(9117161491).jpg | Cajsa Lilliehook from Portland | CC BY-SA 2.0 |
+| Омлет со шпинатом | https://commons.wikimedia.org/wiki/File:Spinach_omelette_(3278835124).jpg | David Pursehouse from Kawasaki, Japan | CC BY 2.0 |
+| Паста со шпинатом и сливками | https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Spaghetti_with_Spinach_and_Cream_Sauce.jpg | HaJunkiyada | CC BY-SA 4.0 |
+| Кукурузная каша с брынзой | https://commons.wikimedia.org/wiki/File:Kulesha%26brunza.jpg | Kagor | CC BY-SA 3.0 |
+| Кус-кус с овощами и кинзой | https://commons.wikimedia.org/wiki/File:Couscous_with_vegetables_(6177185023).jpg | Luca Nebuloni from Milan, Italy | CC BY 2.0 |
+| Суп из красной чечевицы | https://commons.wikimedia.org/wiki/File:Mercimek_%C3%A7orbasi.jpg | E4024 | CC BY-SA 4.0 |
+| Гороховое пюре с жареным луком | https://commons.wikimedia.org/wiki/File:Pea_puree.jpg | Bearas | CC BY 3.0 |
 | Спагетти карбонара | https://commons.wikimedia.org/wiki/File:Espaguetis_carbonara.jpg | Javier Somoza | CC BY-SA 4.0 |
 | Спагетти болоньезе | https://commons.wikimedia.org/wiki/File:Spaghetti_Bolognese.jpg | — | Public domain |
 | Паста аглио э олио | https://commons.wikimedia.org/wiki/File:Spaghetti_Aglio_Olio_Peperoncino.jpg | FakirNL | CC BY-SA 3.0 |
@@ -38,6 +67,7 @@
 | Ризотто с грибами | https://commons.wikimedia.org/wiki/File:Mushroom_and_Leek_Risotto_(49535206656).jpg | spurekar | CC BY 2.0 |
 | Минестроне | https://commons.wikimedia.org/wiki/File:Minestrone_soup.jpg | Katrin Morenz from Aachen, Deutschland | CC BY-SA 2.0 |
 | Салат Капрезе | https://commons.wikimedia.org/wiki/File:Caprese-1.jpg | Rainer Zenz | CC BY-SA 3.0 |
+| Брускетта с помидорами | https://commons.wikimedia.org/wiki/File:Bruschetta_at_The_Bar_at_MacArthur_Place_-_Sarah_Stierch.jpg | Missvain | CC BY 4.0 |
 | Фокачча с маслинами | https://commons.wikimedia.org/wiki/File:Focaccia-erbe-olive.jpg | J.P.Lon | CC BY-SA 3.0 |
 | Курица пармиджана | https://commons.wikimedia.org/wiki/File:Chicken_parmigiana.jpg | Tristan Kenney | CC BY 2.0 |
 | Фриттата с овощами | https://commons.wikimedia.org/wiki/File:Frittata_-_Bam%27s_Kitchen_2024-04-02.jpg | Andy Li | CC0 |
