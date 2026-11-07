@@ -1,0 +1,41 @@
+name: Find dish photos
+
+# Searches Openverse for freely licensed dish photos, or downloads chosen
+# ones, and publishes the result to the photo-work branch for review.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "search or fetch"
+        required: true
+        default: search
+
+jobs:
+  photos:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow==11.0.0
+      - name: Search Openverse
+        if: inputs.mode == 'search'
+        run: python tools/photos/openverse_search.py tools/photos/queries.json out
+      - name: Download selected photos
+        if: inputs.mode == 'fetch'
+        run: python tools/photos/fetch_selected.py tools/photos/selection.json out
+      - name: Publish to photo-work branch
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          cd out
+          git init -q
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "Photo ${{ inputs.mode }} results from run ${{ github.run_id }}"
+          git push -qf "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:photo-work-${{ inputs.mode }}
