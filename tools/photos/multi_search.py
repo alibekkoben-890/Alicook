@@ -69,10 +69,34 @@ def openverse(q):
     return out
 
 
+def pexels(q):
+    key = os.environ.get("PEXELS_API_KEY")
+    if not key:
+        return []
+    req = urllib.request.Request("https://api.pexels.com/v1/search?" + urllib.parse.urlencode(dict(query=q, per_page=15)),
+                                 headers={"User-Agent": UA, "Authorization": key})
+    d = json.loads(urllib.request.urlopen(req, timeout=40).read())
+    return [{"url": p["src"]["large"], "title": p.get("alt") or "", "author": p.get("photographer") or "—",
+             "license": "Pexels License", "license_url": "https://www.pexels.com/license/",
+             "source": p["url"], "provider": "pexels", "desc": p.get("alt") or ""} for p in d.get("photos", [])]
+
+
+def pixabay(q):
+    key = os.environ.get("PIXABAY_API_KEY")
+    if not key:
+        return []
+    d = json.loads(get("https://pixabay.com/api/?" + urllib.parse.urlencode(
+        dict(key=key, q=q, image_type="photo", category="food", per_page=15, safesearch="true"))))
+    return [{"url": h["largeImageURL"], "title": h.get("tags") or "", "author": h.get("user") or "—",
+             "license": "Pixabay Content License", "license_url": "https://pixabay.com/service/license-summary/",
+             "source": h["pageURL"], "provider": "pixabay", "desc": h.get("tags") or ""} for h in d.get("hits", [])]
+
+
+SOURCES = [pexels, pixabay, commons, openverse]
 cands, blocks = {}, []
 for key, q in queries.items():
     found = []
-    for fn in (commons, openverse):
+    for fn in SOURCES:
         try:
             found += fn(q)
         except Exception as e:
