@@ -15,12 +15,18 @@
 | Оладьи | https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D1%96_%D0%9E%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8_(Oladyi).jpg | f7eeae1 | CC BY-SA 4.0 |
 | Блины | https://commons.wikimedia.org/wiki/File:Russian_blini.jpg | Ninaras | CC BY 4.0 |
 | Сырники | https://commons.wikimedia.org/wiki/File:Syrniki6.jpg | Tatyana Morozyuk, color processing by Off-shell | CC BY-SA 3.0 |
+| Шакшука | https://commons.wikimedia.org/wiki/File:Shakshuka_by_Calliopejen1.jpg | Calliopejen1 | CC BY-SA 3.0 |
 | Борщ | https://commons.wikimedia.org/wiki/File:Borscht_with_bread.jpg | Juerg Vollmer from Zürich, Schweiz | CC BY-SA 2.0 |
+| Гороховый суп | https://commons.wikimedia.org/wiki/File:Pea_soup_2.jpg | Tiia Monto | CC BY-SA 3.0 |
+| Овсяная каша | https://commons.wikimedia.org/wiki/File:Cooked_oatmeal_in_bowl_3.jpg | Bodhi Peace | CC BY-SA 4.0 |
+| Греческий салат | https://commons.wikimedia.org/wiki/File:Greek_Salad_Choriatiki.jpg | zone41 (Flickr) | CC BY 2.0 |
+| Сёмга в духовке | https://commons.wikimedia.org/wiki/File:Time_for_another_food_picture_-)_(4200042228).jpg | Andy / Andrew Fogg from near Cambridge, UK | CC BY 2.0 |
 | Бешбармак | https://commons.wikimedia.org/wiki/File:Kazakh_beshbarmak.jpg | Igors Jefimovs | CC BY 3.0 |
 | Қуырдақ | https://commons.wikimedia.org/wiki/File:Kazakh_quwyrdaq.jpg | Rio Murr from Minsk, Belarus | CC BY-SA 2.0 |
 | Бауырсаки | https://commons.wikimedia.org/wiki/File:Baursaki_Cropped.jpg | Alfiya Smagul from Almaty, Kazakhstan | CC BY 2.0 |
 | Шелпек | https://commons.wikimedia.org/wiki/File:ShelpekKZ2.JPG | Ds02006 | Public domain |
 | Жент | https://commons.wikimedia.org/wiki/File:Zhent_2.jpg | Esetok | CC BY-SA 4.0 |
+| Сборная солянка с колбасой | https://commons.wikimedia.org/wiki/File:Soljanka_food_05.jpg | Pannet | CC BY 4.0 |
 | Окрошка на айране | https://commons.wikimedia.org/wiki/File:%D0%9E%D0%BA%D1%80%D0%BE%D1%88%D0%BA%D0%B0_Okroshka_05.jpg | Nikkolo | CC BY-SA 3.0 |
 | Табуле с булгуром и петрушкой | https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Tabbouleh.jpg | cyclonebill | CC BY-SA 2.0 |
 | Спагетти карбонара | https://commons.wikimedia.org/wiki/File:Espaguetis_carbonara.jpg | Javier Somoza | CC BY-SA 4.0 |
@@ -37,3 +43,15 @@
 | Фриттата с овощами | https://commons.wikimedia.org/wiki/File:Frittata_-_Bam%27s_Kitchen_2024-04-02.jpg | Andy Li | CC0 |
 | Тирамису | https://commons.wikimedia.org/wiki/File:Classic_Italian_Tiramisu-3_(29989504485).jpg | Sharon Chen from Austin, United States | CC BY 2.0 |
 | Панна-котта | https://commons.wikimedia.org/wiki/File:Panna_Cotta_with_cream_and_garnish.jpg | hiro | CC BY-SA 2.0 |
+| Цезарь с курицей | https://commons.wikimedia.org/wiki/File:Chicken_Caesar_salad_-_Auckland,_New_Zealand.jpg | Daderot | CC0 |
+| Салат со страчателлой и томатами | https://commons.wikimedia.org/wiki/File:Pomodoro_con_stracciatella_(cropped).jpg | Luistxo | CC BY-SA 3.0 |
+| Тыквенный крем-суп с сухариками | https://commons.wikimedia.org/wiki/File:Pumpkin_soup_1.jpg | Chandrika.Kini | CC BY-SA 4.0 |
+| Суп-лапша по-домашнему | https://commons.wikimedia.org/wiki/File:Chicken_noodle_soup_(1).jpg | Bruin from Columbus, Ohio, U.S.A. | CC BY 2.0 |
+| Том ям с креветками | https://commons.wikimedia.org/wiki/File:Tom_yum_goong_at_Thai_Orchid_Villa_Kamppi.jpg | JIP | CC BY-SA 4.0 |
+| Запечённая куриная грудка с соусом мадера | https://commons.wikimedia.org/wiki/File:Chicken_mushrooms_sauces.jpg | Jon Sullivan | Public domain |
+| Бефстроганов с картофельным пюре | https://commons.wikimedia.org/wiki/File:Olivka_(Novosibirsk_cafe)_07.jpg | К.Артём.1 | CC BY-SA 4.0 |
+| Куриный шницель по-венски | https://commons.wikimedia.org/wiki/File:Classic_chicken_schnitzel_-_Schnitzel_%26_Co._2026-05-16.jpg | Andy Li | CC0 |
+| Курица карри с рисом | https://commons.wikimedia.org/wiki/File:Chicken_Curry_with_Rice.jpg | Gaurav Dhwaj Khadka | CC BY-SA 4.0 |
+| Яйца Бенедикт с лососем | https://commons.wikimedia.org/wiki/File:Eggs-Benedict-With-Smoked-Salmon-2010.jpg | Kham Tran - www.khamtran.com | CC BY-SA 3.0 |
+| Скрэмбл с креветками и гуакамоле | https://commons.wikimedia.org/wiki/File:Baby_shrimp_with_scrambled_egg.jpg | Ser Amantio di Nicolao | CC0 |
+| Йогурт с гранолой и свежими ягодами | https://commons.wikimedia.org/wiki/File:Granola_and_yogurt_-_Bubbles_%2B_Brunch_2018_-_Sarah_Stierch_02.jpg | Missvain | CC0 |
