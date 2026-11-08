@@ -95,9 +95,7 @@ cands, blocks = {}, []
 for key, q in queries.items():
     found = []
     for fn in SOURCES:
-        if len(found) >= PER_Q and fn in (commons, openverse) or os.environ.get("PIXABAY_ONLY"):
-            if fn in (commons, openverse):
-                break
+        if fn in (commons, openverse) and (len(found) >= PER_Q or os.environ.get("PIXABAY_ONLY")):
             break
         try:
             found += fn(q)
