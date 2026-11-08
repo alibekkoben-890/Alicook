@@ -582,3 +582,19 @@
 | photos/618.jpg | Яйца Бенедикт с лососем | https://commons.wikimedia.org/wiki/File:Eggs-Benedict-With-Smoked-Salmon-2010.jpg | Kham Tran - www.khamtran.com | CC BY-SA 3.0 |
 | photos/619.jpg | Скрэмбл с креветками и гуакамоле | https://commons.wikimedia.org/wiki/File:Baby_shrimp_with_scrambled_egg.jpg | Ser Amantio di Nicolao | CC0 |
 | photos/r516fd3514e4d.jpg | Йогурт с гранолой и свежими ягодами | https://pixabay.com/photos/berries-muesli-blackberries-bowl-1846085/ | Pexels | Pixabay Content License |
+| photos/g7478c4507ae8.jpg | Хачапури по-аджарски | https://commons.wikimedia.org/wiki/File:Khachapuri_Adjaruli_with_egg_and_butter_2016.jpg | Eugene Krasnaok | CC BY 4.0 |
+| photos/g1db683a80fbd.jpg | Хачапури по-имеретински | https://commons.wikimedia.org/wiki/File:Tbilisi,_Khachapuri_and_khinkali,_Georgian_traditional_food,_Georgia.jpg | Vyacheslav Argenberg | CC BY 4.0 |
+| photos/g2698545bca24.jpg | Хинкали | https://commons.wikimedia.org/wiki/File:Khinkali_-_Batumi.jpg | Francesc Fort | CC BY-SA 4.0 |
+| photos/g25acae9315e4.jpg | Суп харчо | https://commons.wikimedia.org/wiki/File:Kharcho_meat_soup.jpg | A.Savin | CC BY-SA 3.0 |
+| photos/gbbe7b77fcb70.jpg | Чахохбили | https://commons.wikimedia.org/wiki/File:Chakhokhbili_Closeup.jpg | Georgian Recipes at Georgia About | CC BY 3.0 |
+| photos/g79cf322e8f28.jpg | Сациви из курицы | https://commons.wikimedia.org/wiki/File:Satsivi_(2).jpg | Lesya Dolyk | CC BY-SA 2.0 |
+| photos/gb693815246ad.jpg | Лобио | https://commons.wikimedia.org/wiki/File:Lobio_with_nuts.jpg | Georgian Recipes at Georgia About | CC BY 3.0 |
+| photos/g1b2af44fa651.jpg | Пхали из шпината | https://commons.wikimedia.org/wiki/File:Spinach_pkhali.jpg | Georgian Recipes at Georgia About | CC BY 3.0 |
+| photos/g082c722e4c2e.jpg | Аджапсандали | https://commons.wikimedia.org/wiki/File:Ajapsandali_-_Georgian_eggplant_stew.jpg | Georgian Recipes at Georgia About | CC BY 3.0 |
+| photos/g3eb8d5a7b933.jpg | Чашушули из говядины | https://commons.wikimedia.org/wiki/File:%D0%A7%D0%B0%D1%88%D1%83%D1%88%D1%83%D0%BB%D0%B8_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B.jpg | ZloeDobro | CC0 |
+| photos/gb1b0147579c7.jpg | Оджахури | https://commons.wikimedia.org/wiki/File:Odjakhuri_-_Georgian_(Kartvelian)_dish_with_meat._Served_in_Galaktioni_restaurant_Istanbul.jpg | AlexandreTheGreatt | CC0 |
+| photos/g35a41a727bd2.jpg | Чкмерули | https://commons.wikimedia.org/wiki/File:Shkmeruli.jpg | Eka Samkharadze | CC BY-SA 4.0 |
+| photos/g59b1841d9a76.jpg | Мцвади | https://commons.wikimedia.org/wiki/File:Mtsvadi.jpg | Paata Vardanashvili | CC BY 2.0 |
+| photos/g9ee5be1da028.jpg | Бадриджани с орехами | https://commons.wikimedia.org/wiki/File:Badrijani_(cropped).jpg | salvagekat | CC BY-SA 2.0 |
+| photos/g2e006e9d661b.jpg | Чихиртма | https://commons.wikimedia.org/wiki/File:Chikhirtma.jpg | Lamro | CC BY-SA 4.0 |
+| photos/gc58d340baa8c.jpg | Чурчхела | https://commons.wikimedia.org/wiki/File:Churchkhela,_Tbilisi_(2023).jpg | Lessormore | CC BY 4.0 |
