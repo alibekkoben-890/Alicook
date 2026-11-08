@@ -490,7 +490,6 @@
 | photos/wa8f9b4a59469.jpg | Кеспе көже | https://commons.wikimedia.org/wiki/File:Chicken_noodle_soup_(cropped).jpg | Eli Hodapp from Naperville, United States | CC BY 2.0 |
 | photos/w2cea91c1eb1c.jpg | Сүт көже | https://commons.wikimedia.org/wiki/File:Risgrynsgr%C3%B6t_med_mj%C3%B6lk.jpg | erik forsberg | CC BY 2.0 |
 | photos/532.jpg | Майсөк, Жент | https://commons.wikimedia.org/wiki/File:Zhent_2.jpg | Esetok | CC BY-SA 4.0 |
-| photos/13.jpg | Құймақ | https://commons.wikimedia.org/wiki/File:Russian_blini.jpg | Ninaras | CC BY 4.0 |
 | photos/531.jpg | Қарақұмық ботқасы | https://commons.wikimedia.org/wiki/File:%D0%93%D1%80%D0%B5%D1%87%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D1%88%D0%B0.jpg | Laitr Keiows | CC BY-SA 3.0 |
 | photos/w99ee1c9a46da.jpg | Бал куырдак, Қарын бүрме | https://commons.wikimedia.org/wiki/File:Lamb_popsicles_with_roast_potatoes_and_green_beans_(9905615124).jpg | Ruth Hartnup from Vancouver, Canada | CC BY 2.0 |
 | photos/wcf6d82ab2727.jpg | Өрметөстік | https://commons.wikimedia.org/wiki/File:Lamb_chops_with_mash.JPG | SpaceMonkey~commonswiki (Wikimedia Commons) | Public domain |
