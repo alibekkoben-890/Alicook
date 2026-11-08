@@ -118,10 +118,11 @@
 | photos/w229b80de41c8.jpg | Курица с картофелем на сковороде | https://commons.wikimedia.org/wiki/File:02023_0166_Roasted_Chicken_and_Potatoes_with_fried_Beets.jpg | Silar | CC BY-SA 4.0 |
 | photos/pfe2c57432ade.jpg | Суп с курицей и картофелем | https://pixabay.com/photos/soup-chicken-soup-meal-food-dish-562163/ | kalhh | Pixabay Content License |
 | photos/p64c49b32e0da.jpg | Рагу с курицей и картофелем | https://pixabay.com/photos/chicken-teriyaki-chicken-teriyaki-4813454/ | omisido | Pixabay Content License |
-| photos/w8904449b87f0.jpg | Тушёная курица с капустой, Рагу с курицей и капустой | https://commons.wikimedia.org/wiki/File:9789Pineapple_chicken_with_cabbage_22.jpg | JFVelasquez Floro | CC0 |
+| photos/w8904449b87f0.jpg | Тушёная курица с капустой | https://commons.wikimedia.org/wiki/File:9789Pineapple_chicken_with_cabbage_22.jpg | JFVelasquez Floro | CC0 |
 | photos/q77217a25f08e.jpg | Запечённая курица с капустой | https://pixabay.com/photos/flat-food-gastronomy-tasty-meal-3836181/ | Tjena | Pixabay Content License |
 | photos/q6d9cf887b5fd.jpg | Курица с капустой на сковороде | https://pixabay.com/photos/chicken-fried-food-667935/ | 7997sky | Pixabay Content License |
 | photos/we71c27cab180.jpg | Суп с курицей и капустой, Запечённые шампиньоны с капустой, Шампиньоны с капустой на сковороде | https://commons.wikimedia.org/wiki/File:Lemongrass_chicken_soup_(4428214852).jpg | jeffreyw | CC BY 2.0 |
+| photos/s2d6547efa14d.jpg | Рагу с курицей и капустой | https://pixabay.com/photos/oriental-dish-food-meal-cuisine-2092468/ | Zichrini | Pixabay Content License |
 | photos/wd47f43c19bde.jpg | Тушёная курица с морковью | https://commons.wikimedia.org/wiki/File:Carrots_and_potatoes_with_chicken_01.jpg | FBenjr123 | CC BY-SA 4.0 |
 | photos/p443be92edae9.jpg | Запечённая курица с морковью | https://pixabay.com/photos/roasted-chicken-thighs-potatoes-1005314/ | pixel1 | Pixabay Content License |
 | photos/wd8edc5c4c697.jpg | Курица с морковью на сковороде | https://commons.wikimedia.org/wiki/File:Chicken,_carrots,_peas,_and_corn_on_fried_rice,_with_soy_sauce_and_black_pepper_-_Massachusetts.jpg | Daderot | CC0 |
@@ -149,10 +150,11 @@
 | photos/wae5ca3c96076.jpg | Тушёная индейка с гречкой, Индейка с болгарским перцем на сковороде, Суп с индейкой и болгарским перцем и ещё 1 | https://commons.wikimedia.org/wiki/File:Turkey_breast_on_toasted_white_bread,_with_melted_cheddar,_marinated_olives,_bell_pepper,_chili_powder,_black_pepper,_and_salt_-_Massachusetts.jpg | Daderot | CC0 |
 | photos/pd9b6927dd201.jpg | Запечённая индейка с гречкой | https://pixabay.com/photos/turkey-oven-dinner-meal-cooking-218742/ | PublicDomainPictures | Pixabay Content License |
 | photos/r8cab0cfcc4b6.jpg | Индейка с гречкой на сковороде | https://pixabay.com/photos/sweet-potatoes-potatoes-cook-meal-8295778/ | Mondgesicht | Pixabay Content License |
-| photos/w7becf4bf5415.jpg | Суп с индейкой и гречкой, Индейка с булгуром на сковороде | https://commons.wikimedia.org/wiki/File:%C5%9Eehriyeli_bulgur_and_a_drumstick.jpg | E4024 | CC BY-SA 4.0 |
+| photos/w7becf4bf5415.jpg | Суп с индейкой и гречкой | https://commons.wikimedia.org/wiki/File:%C5%9Eehriyeli_bulgur_and_a_drumstick.jpg | E4024 | CC BY-SA 4.0 |
 | photos/wca7dcfdfc8f9.jpg | Рагу с индейкой и гречкой, Суп с индейкой и кабачками, Рагу с индейкой и кабачками | https://commons.wikimedia.org/wiki/File:Spaghetti_with_turkey_bolognese_and_grilled_zucchini_%E3%82%B0%E3%83%AA%E3%83%AB%E3%81%97%E3%81%9F%E3%82%BA%E3%83%83%E3%82%AD%E3%83%BC%E3%83%8B%E5%85%A5%E3%82%8A%E3%82%BF%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%AD%E3%83%8D%E3%83%BC%E3%82%BC%E3%81%AE%E3%82%B9%E3%83%91%E3%82%B2%E3%83%86%E3%82%A3.jpg | naotakem | CC BY 2.0 |
 | photos/w3b5dd42d7539.jpg | Тушёная индейка с булгуром, Суп с индейкой и булгуром | https://commons.wikimedia.org/wiki/File:Tavuk_bulgur_ve_ayran.jpg | E4024 | CC BY-SA 4.0 |
 | photos/pedc5726b7293.jpg | Запечённая индейка с булгуром | https://pixabay.com/photos/turkey-oven-dinner-meal-cooking-218742/ | PublicDomainPictures | Pixabay Content License |
+| photos/s29f555b9c7e1.jpg | Индейка с булгуром на сковороде | https://pixabay.com/photos/salad-rice-rice-salad-food-kitchen-4305167/ | CreaPark | Pixabay Content License |
 | photos/p7535fbc10ac4.jpg | Рагу с индейкой и булгуром | https://pixabay.com/photos/curry-food-dish-meal-cuisine-7249247/ | joannawielgosz | Pixabay Content License |
 | photos/w4b18ccb7a4a2.jpg | Тушёная индейка с макаронами | https://commons.wikimedia.org/wiki/File:Kremal%C4%B1_Mantarl%C4%B1_Tavuklu_Makarna.jpg | Samizambak | CC BY-SA 4.0 |
 | photos/q33552fa81f45.jpg | Запечённая индейка с макаронами | https://pixabay.com/photos/noodles-pasta-rigatoni-tomatoes-7390775/ | RitaE | Pixabay Content License |
@@ -348,9 +350,10 @@
 | photos/p2bba5202b292.jpg | Суп с рыбой и картофелем | https://pixabay.com/photos/ear-soup-fish-first-meal-food-1637260/ | Alexey_Hulsov | Pixabay Content License |
 | photos/pf9737d889e91.jpg | Рагу с рыбой и картофелем | https://pixabay.com/photos/plate-food-fish-beans-rice-5284899/ | CaioTavares | Pixabay Content License |
 | photos/w745a6f07b297.jpg | Тушёная рыба с капустой | https://commons.wikimedia.org/wiki/File:A_Boiled_fish_with_pickled_cabbage_and_chili_from_Royal_Ming_Graden_Yuen_Long.jpg | Peachyeung316 | CC BY-SA 4.0 |
-| photos/wbb91f07c6d77.jpg | Запечённая рыба с капустой, Рагу с рыбой и капустой | https://commons.wikimedia.org/wiki/File:Fish_masala_with_cabbage_foogath,_mushrooms_and_rice_(3528327082).jpg | Gordon Joly from London, UK | CC BY-SA 2.0 |
+| photos/wbb91f07c6d77.jpg | Запечённая рыба с капустой | https://commons.wikimedia.org/wiki/File:Fish_masala_with_cabbage_foogath,_mushrooms_and_rice_(3528327082).jpg | Gordon Joly from London, UK | CC BY-SA 2.0 |
 | photos/pdeeba813abd1.jpg | Рыба с капустой на сковороде | https://pixabay.com/photos/pikeperch-fillet-pikeperch-fish-2834209/ | RitaE | Pixabay Content License |
 | photos/w9f3572af2beb.jpg | Суп с рыбой и капустой | https://commons.wikimedia.org/wiki/File:%E9%85%B8%E8%8F%9C%E9%B1%BC_Preserved_Mustard_Green_with_Fish_-_Charming_Spice_AUD24.80_(4104355401).jpg | Alpha from Melbourne, Australia | CC BY-SA 2.0 |
+| photos/s198ad856b8a4.jpg | Рагу с рыбой и капустой | https://pixabay.com/photos/espada-fish-carrot-deep-water-fish-1769150/ | mp1746 | Pixabay Content License |
 | photos/w561fc6b83f9b.jpg | Тушёная рыба с морковью | https://commons.wikimedia.org/wiki/File:Tilapia_Fish_braised_with_potatoes,_carrots_and_onions.jpg | Aderiqueza | CC BY-SA 4.0 |
 | photos/pa6b972356c9f.jpg | Запечённая рыба с морковью | https://pixabay.com/photos/food-flat-plate-carrot-potato-2768756/ | Wellographique | Pixabay Content License |
 | photos/p18623935c1f8.jpg | Рыба с морковью на сковороде | https://pixabay.com/photos/pikeperch-fillet-pikeperch-fish-277019/ | RitaE | Pixabay Content License |
@@ -368,7 +371,8 @@
 | photos/pb799c39394b3.jpg | Рагу с рыбой и помидорами | https://pixabay.com/photos/fish-fry-sea-food-fish-gravy-7201666/ | 2SIF | Pixabay Content License |
 | photos/p9c0ce375ff6e.jpg | Тушёная рыба с болгарским перцем | https://pixabay.com/photos/grouper-pan-fish-cooking-delicious-4444693/ | ubert | Pixabay Content License |
 | photos/p151905c566f0.jpg | Запечённая рыба с болгарским перцем | https://pixabay.com/photos/fish-vegetables-sea-bream-fennel-7886076/ | katiklinski | Pixabay Content License |
-| photos/wce3696ebc0bf.jpg | Рыба с болгарским перцем на сковороде, Суп с рыбой и болгарским перцем, Рагу с рыбой и болгарским перцем | https://commons.wikimedia.org/wiki/File:Grilled_Kitong_fish_(cropped).jpg | whologwhy from Philippines | CC BY 2.0 |
+| photos/wce3696ebc0bf.jpg | Рыба с болгарским перцем на сковороде, Суп с рыбой и болгарским перцем | https://commons.wikimedia.org/wiki/File:Grilled_Kitong_fish_(cropped).jpg | whologwhy from Philippines | CC BY 2.0 |
+| photos/s50bd5a3051be.jpg | Рагу с рыбой и болгарским перцем | https://pixabay.com/photos/stir-fried-fish-with-sweet-chili-fish-906248/ | NickyGirly | Pixabay Content License |
 | photos/w6dbe69ee138f.jpg | Тушёные шампиньоны с рисом | https://commons.wikimedia.org/wiki/File:%22Mushroom_Fried_Rice%22.jpg | Thamizhpparithi Maari | CC BY-SA 4.0 |
 | photos/w7940bb9c2f4e.jpg | Запечённые шампиньоны с рисом | https://commons.wikimedia.org/wiki/File:Mushroom_Rice_-_Mini_Madras_2026-03-13.jpg | Andy Li | CC0 |
 | photos/p4935d837200a.jpg | Шампиньоны с рисом на сковороде | https://pixabay.com/photos/rice-fried-travel-yummy-meal-139171/ | Thacreations | Pixabay Content License |
@@ -422,7 +426,7 @@
 | photos/q336d9d3f2cf5.jpg | Нут с рисом на сковороде | https://pixabay.com/photos/kimchi-fried-rice-fried-rice-rice-241051/ | sharonang | Pixabay Content License |
 | photos/qf40b40aea3f5.jpg | Суп с нутом и рисом | https://pixabay.com/photos/fried-rice-chinese-cuisine-food-1762493/ | takedahrs | Pixabay Content License |
 | photos/p180c8f3f3a53.jpg | Рагу с нутом и рисом | https://pixabay.com/photos/couscous-fennel-chick-peas-olives-945029/ | pixel1 | Pixabay Content License |
-| photos/w60ed8ddf0b8a.jpg | Тушёный нут с гречкой, Суп с нутом и гречкой, Запечённый нут с болгарским перцем и ещё 3 | https://www.flickr.com/photos/57841116@N03/53585737402 | birdsey7 | CC BY-SA 2.0 |
+| photos/w60ed8ddf0b8a.jpg | Тушёный нут с гречкой, Суп с нутом и гречкой, Тушёная фасоль с гречкой и ещё 2 | https://www.flickr.com/photos/57841116@N03/53585737402 | birdsey7 | CC BY-SA 2.0 |
 | photos/r1e7b221b7526.jpg | Запечённый нут с гречкой | https://pixabay.com/photos/potato-casserole-potatoes-cheese-2848605/ | RitaE | Pixabay Content License |
 | photos/q57aee03aa5b0.jpg | Нут с гречкой на сковороде | https://pixabay.com/photos/bature-bhatore-bhatura-bhature-10217334/ | kumarsu6745_ | Pixabay Content License |
 | photos/qcb3690e0f60e.jpg | Рагу с нутом и гречкой | https://pixabay.com/photos/restaurant-gourmet-dining-7043095/ | Anilsharma26 | Pixabay Content License |
@@ -441,7 +445,8 @@
 | photos/pfa81f7661b0d.jpg | Нут с картофелем на сковороде | https://pixabay.com/photos/potato-fried-food-potatoes-5279118/ | Alexei_other | Pixabay Content License |
 | photos/wde6a0b9477b9.jpg | Суп с нутом и картофелем | https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Red_lentil_soup_with_vegetables_and_dumpling.jpg | HaJunkiyada | CC BY-SA 4.0 |
 | photos/pe29e73f40787.jpg | Рагу с нутом и картофелем | https://pixabay.com/photos/couscous-turnip-carrot-food-1503949/ | photo-graphe | Pixabay Content License |
-| photos/w83e423e7eba6.jpg | Тушёный нут с капустой, Запечённый нут с капустой, Нут с капустой на сковороде и ещё 3 | https://commons.wikimedia.org/wiki/File:Garbanzos_con_repollo.jpg | Xemenendura | CC BY-SA 4.0 |
+| photos/w83e423e7eba6.jpg | Тушёный нут с капустой, Нут с капустой на сковороде, Суп с нутом и капустой и ещё 2 | https://commons.wikimedia.org/wiki/File:Garbanzos_con_repollo.jpg | Xemenendura | CC BY-SA 4.0 |
+| photos/sf5e78c8d62ba.jpg | Запечённый нут с капустой | https://pixabay.com/photos/vegan-fresh-healthy-food-nutrition-4833043/ | MovimientoActivate | Pixabay Content License |
 | photos/pb48858d112fc.jpg | Тушёный нут с морковью | https://pixabay.com/photos/couscous-vegetable-meat-recipe-3440042/ | chefmouhcine | Pixabay Content License |
 | photos/wb2ef8cecdd05.jpg | Запечённый нут с морковью | https://commons.wikimedia.org/wiki/File:Trida.jpg | Mia1967 | CC BY-SA 4.0 |
 | photos/p7b4e0c4f295d.jpg | Нут с морковью на сковороде | https://pixabay.com/photos/couscous-vegetable-meat-recipe-3440042/ | chefmouhcine | Pixabay Content License |
@@ -458,6 +463,7 @@
 | photos/p5225f3d5c560.jpg | Суп с нутом и помидорами | https://pixabay.com/photos/vegan-soup-meal-healthy-legumes-5376971/ | naschi86 | Pixabay Content License |
 | photos/q1fee838410a8.jpg | Рагу с нутом и помидорами | https://pixabay.com/photos/indian-restaurant-food-dish-8281116/ | u_8miblmpc6h | Pixabay Content License |
 | photos/r33e5c2c7f689.jpg | Тушёный нут с болгарским перцем | https://pixabay.com/photos/pasta-coriander-salad-food-dish-7209002/ | joannawielgosz | Pixabay Content License |
+| photos/s2d291264354d.jpg | Запечённый нут с болгарским перцем | https://pixabay.com/photos/chickpeas-dates-mushrooms-vegan-1794152/ | Einladung_zum_Essen | Pixabay Content License |
 | photos/w53030338cf64.jpg | Тушёная фасоль с рисом | https://commons.wikimedia.org/wiki/File:Red_Beans_and_Rice.jpg | Arnold Gatilao from Fremont, CA, USA | CC BY 2.0 |
 | photos/w2fb2ed0101dd.jpg | Запечённая фасоль с рисом | https://commons.wikimedia.org/wiki/File:New_Orleans_March_2018_Red_Beans_Rice_Dunbars.jpg | Infrogmation of New Orleans | CC BY-SA 4.0 |
 | photos/w5fd043c0f0c6.jpg | Фасоль с рисом на сковороде | https://commons.wikimedia.org/wiki/File:Red_Beans_%26_Rice,_Catfish_Po-Boy.jpg | Gary J. Wood | CC BY-SA 2.0 |
@@ -494,13 +500,14 @@
 | photos/w99ee1c9a46da.jpg | Бал куырдак, Қарын бүрме | https://commons.wikimedia.org/wiki/File:Lamb_popsicles_with_roast_potatoes_and_green_beans_(9905615124).jpg | Ruth Hartnup from Vancouver, Canada | CC BY 2.0 |
 | photos/wcf6d82ab2727.jpg | Өрметөстік | https://commons.wikimedia.org/wiki/File:Lamb_chops_with_mash.JPG | SpaceMonkey~commonswiki (Wikimedia Commons) | Public domain |
 | photos/w9afd2fe40548.jpg | Сірне | https://commons.wikimedia.org/wiki/File:Lamb_Shank_with_Purple_vegetables_and_Potato.jpg | Peachyeung316 | CC BY-SA 4.0 |
-| photos/wb72ae3571ff9.jpg | Классический казахский куырдак, Куырдак из конины | https://commons.wikimedia.org/wiki/File:Kazakh_quwyrdaq.jpg | Rio Murr from Minsk, Belarus | CC BY-SA 2.0 |
+| photos/wb72ae3571ff9.jpg | Классический казахский куырдак | https://commons.wikimedia.org/wiki/File:Kazakh_quwyrdaq.jpg | Rio Murr from Minsk, Belarus | CC BY-SA 2.0 |
 | photos/538.jpg | Сосиски с картофельным пюре | https://commons.wikimedia.org/wiki/File:Bangers_and_Mash.jpg | PapiPijuan | CC BY-SA 4.0 |
 | photos/539.jpg | Яичница с колбасой и зелёным луком | https://commons.wikimedia.org/wiki/File:Sausage_and_lunch_meats_with_fried_eggs_from_Man_Fong_Canteen.jpg | Peachyeung316 | CC BY-SA 4.0 |
 | photos/540.jpg | Макароны с ветчиной и сыром | https://commons.wikimedia.org/wiki/File:A_Baked_Pasta_with_Double_Cheese_and_Ham.jpg | Peachyeung316 | CC BY-SA 4.0 |
 | photos/541.jpg | Сборная солянка с колбасой | https://commons.wikimedia.org/wiki/File:Soljanka_food_05.jpg | Pannet | CC BY 4.0 |
 | photos/542.jpg | Салат с ветчиной и кукурузой | https://commons.wikimedia.org/wiki/File:Salad_of_iceberg_lettuce,_ham,_turkey,_and_corn_fried_in_duck_fat,_artichoke,_bacon,_and_egg,_with_cheese_dressing_and_black_pepper_-_Massachusetts.jpg | Daderot | CC0 |
 | photos/543.jpg | Бешбармак из конины с казы | https://commons.wikimedia.org/wiki/File:Beshbarmak_with_horse_meat.jpg | Muzaffar Murodovich | CC BY-SA 4.0 |
+| photos/s03843bcf07af.jpg | Куырдак из конины | https://pixabay.com/photos/meat-food-protein-shish-kebab-1155132/ | vika-imperia550 | Pixabay Content License |
 | photos/w2ad4fc0444b7.jpg | Сорпа из конины с зеленью | https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%B0%D1%83%D0%BB_%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD,_naryn_soup_with_horse-meat_qaz%C4%B1_and_noodles.jpg | Ser Amantio di Nicolao | CC BY-SA 4.0 |
 | photos/qac4e71647ccd.jpg | Казы с отварным картофелем | https://pixabay.com/photos/ukrainian-dill-potatoes-potatoes-2652561/ | JamesHills | Pixabay Content License |
 | photos/547.jpg | Окрошка на айране | https://commons.wikimedia.org/wiki/File:%D0%9E%D0%BA%D1%80%D0%BE%D1%88%D0%BA%D0%B0_Okroshka_05.jpg | Nikkolo | CC BY-SA 3.0 |
