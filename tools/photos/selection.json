@@ -1,74 +1,122 @@
 {
- "s2d6547efa14d": {
-  "url": "https://pixabay.com/get/g02d3e7896e182ad631da3a7b4c754b0d22c77ca9b3480579dd9567a28ad33745ac3419aef97b18d131b5e4244826e8e663364bbea0544ab30f9c9c061147f139_1280.jpg",
-  "author": "Zichrini",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/oriental-dish-food-meal-cuisine-2092468/",
-  "provider": "pixabay"
+ "g7478c4507ae8": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Khachapuri_Adjaruli_with_egg_and_butter_2016.jpg/1280px-Khachapuri_Adjaruli_with_egg_and_butter_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Eugene Krasnaok",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Khachapuri_Adjaruli_with_egg_and_butter_2016.jpg",
+  "provider": "wikimedia"
  },
- "s29f555b9c7e1": {
-  "url": "https://pixabay.com/get/g910346c5525ebb585f02f750daed30310d92d7a12f681ec6ffd6a916861208f7addcfd19617962492161f75799f0c035e003f6b5f54886b1215a9dbdf6f23943_1280.jpg",
-  "author": "CreaPark",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/salad-rice-rice-salad-food-kitchen-4305167/",
-  "provider": "pixabay"
+ "g2698545bca24": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Khinkali_-_Batumi.jpg/1280px-Khinkali_-_Batumi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Francesc Fort",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Khinkali_-_Batumi.jpg",
+  "provider": "wikimedia"
  },
- "s71737d18eb09": {
-  "url": "https://pixabay.com/get/ga4ff1616892d921c066575744f60be9221e69e1e61e8e58c5b700498b4a56e2dad8355a24b6d016f9e8775904ae1d9414db97aaf7487bf74aa1aa509732d312c_1280.jpg",
-  "author": "JudyMcAuliffe",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/food-lamb-meat-dinner-restaurant-2784023/",
-  "provider": "pixabay"
+ "g25acae9315e4": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Kharcho_meat_soup.jpg/1280px-Kharcho_meat_soup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "A.Savin",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Kharcho_meat_soup.jpg",
+  "provider": "wikimedia"
  },
- "s198ad856b8a4": {
-  "url": "https://pixabay.com/get/gf2aa292a97e02cd8b809d6b28f1e48d0667cff5274cacbbb8faa4ff4cb918e7dc8b2b5507a88c7ab8584108e1f31f542c045a9d6fb0ceb9adf548f57fc5c74e8_1280.jpg",
-  "author": "mp1746",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/espada-fish-carrot-deep-water-fish-1769150/",
-  "provider": "pixabay"
+ "gbbe7b77fcb70": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Chakhokhbili_Closeup.jpg/1280px-Chakhokhbili_Closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Georgian Recipes at Georgia About",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Chakhokhbili_Closeup.jpg",
+  "provider": "wikimedia"
  },
- "s50bd5a3051be": {
-  "url": "https://pixabay.com/get/g5d25df570fc099da6ced664d4f794aae72081bf4fabe767cf64f81503563ca32097dcc401f24273039177ac86d9c58c26b97ad10b2cc242a0c41b9f4bfd7a478_1280.jpg",
-  "author": "NickyGirly",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/stir-fried-fish-with-sweet-chili-fish-906248/",
-  "provider": "pixabay"
+ "g79cf322e8f28": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Satsivi_%282%29.jpg/1280px-Satsivi_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Lesya Dolyk",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Satsivi_(2).jpg",
+  "provider": "wikimedia"
  },
- "sf5e78c8d62ba": {
-  "url": "https://pixabay.com/get/g34ca7ed92b189745e1688dcf09275d9348ed9b093acc63c1298073b1ba48129c5da0e023121605b9773675b317b62d1a2c0899762ee9ec16a2adec3f35eef7b9_1280.jpg",
-  "author": "MovimientoActivate",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/vegan-fresh-healthy-food-nutrition-4833043/",
-  "provider": "pixabay"
+ "gb693815246ad": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Lobio_with_nuts.jpg/1280px-Lobio_with_nuts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Georgian Recipes at Georgia About",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lobio_with_nuts.jpg",
+  "provider": "wikimedia"
  },
- "s2d291264354d": {
-  "url": "https://pixabay.com/get/g48015e970a5a3e22aea6b5356de7e610b7e7229e2e2270c92d3ca5d3bed0823e719f3f8f8708b129fcaba2d43e6e888a7e7f138431d0939017d670ce7c24fe57_1280.jpg",
-  "author": "Einladung_zum_Essen",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/chickpeas-dates-mushrooms-vegan-1794152/",
-  "provider": "pixabay"
+ "g1b2af44fa651": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Spinach_pkhali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "author": "Georgian Recipes at Georgia About",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Spinach_pkhali.jpg",
+  "provider": "wikimedia"
  },
- "s2c2e70780050": {
-  "url": "https://pixabay.com/get/gfffa8a9a12e4a4bf0011347d500d570cd39be86cfa0d52347c875f863e36348845d220afd9559c153d8c743295f55432018dde6a2bfc3553386da3a22fde32ca_1280.jpg",
-  "author": "2427999",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/morocco-lunch-cooking-tajine-smoke-1345803/",
-  "provider": "pixabay"
+ "g082c722e4c2e": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Ajapsandali_-_Georgian_eggplant_stew.jpg/1280px-Ajapsandali_-_Georgian_eggplant_stew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Georgian Recipes at Georgia About",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ajapsandali_-_Georgian_eggplant_stew.jpg",
+  "provider": "wikimedia"
  },
- "s03843bcf07af": {
-  "url": "https://pixabay.com/get/g9433cfac2cae2f24344feda5622e1dd157669e8ba46c9a30cb2835b4310ffd4cb334be4fcc8c2971eae20a8b086bff61bddc68166b7d30eabd9b3bbaae5d7b83_1280.jpg",
-  "author": "vika-imperia550",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/meat-food-protein-shish-kebab-1155132/",
-  "provider": "pixabay"
+ "g3eb8d5a7b933": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/%D0%A7%D0%B0%D1%88%D1%83%D1%88%D1%83%D0%BB%D0%B8_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "author": "ZloeDobro",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:%D0%A7%D0%B0%D1%88%D1%83%D1%88%D1%83%D0%BB%D0%B8_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B.jpg",
+  "provider": "wikimedia"
+ },
+ "gb1b0147579c7": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Odjakhuri_-_Georgian_%28Kartvelian%29_dish_with_meat._Served_in_Galaktioni_restaurant_Istanbul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "author": "AlexandreTheGreatt",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Odjakhuri_-_Georgian_(Kartvelian)_dish_with_meat._Served_in_Galaktioni_restaurant_Istanbul.jpg",
+  "provider": "wikimedia"
+ },
+ "g35a41a727bd2": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Shkmeruli.jpg/1280px-Shkmeruli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Eka Samkharadze",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Shkmeruli.jpg",
+  "provider": "wikimedia"
+ },
+ "g59b1841d9a76": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mtsvadi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "author": "Paata Vardanashvili",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Mtsvadi.jpg",
+  "provider": "wikimedia"
+ },
+ "g9ee5be1da028": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Badrijani_%28cropped%29.jpg/1280px-Badrijani_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "salvagekat",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Badrijani_(cropped).jpg",
+  "provider": "wikimedia"
+ },
+ "g2e006e9d661b": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Chikhirtma.jpg/1280px-Chikhirtma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Lamro",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Chikhirtma.jpg",
+  "provider": "wikimedia"
+ },
+ "gc58d340baa8c": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Churchkhela%2C_Tbilisi_%282023%29.jpg/1280px-Churchkhela%2C_Tbilisi_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Lessormore",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Churchkhela,_Tbilisi_(2023).jpg",
+  "provider": "wikimedia"
  }
 }
