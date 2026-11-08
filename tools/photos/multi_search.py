@@ -74,7 +74,7 @@ def openverse(q):
 
 def pexels(q):
     global PEXELS_OFF
-    key = os.environ.get("PEXELS_API_KEY")
+    key = (os.environ.get("PEXELS_API_KEY") or "").strip()
     if not key or PEXELS_OFF:
         return []
     req = urllib.request.Request("https://api.pexels.com/v1/search?" + urllib.parse.urlencode(dict(query=q, per_page=15)),
@@ -82,7 +82,7 @@ def pexels(q):
     try:
         d = json.loads(urllib.request.urlopen(req, timeout=40).read())
     except urllib.error.HTTPError as e:
-        if e.code == 429:
+        if e.code in (401, 403, 429):
             PEXELS_OFF = True
             print("pexels rate limit reached; continuing without it", flush=True)
         raise
@@ -92,7 +92,7 @@ def pexels(q):
 
 
 def pixabay(q):
-    key = os.environ.get("PIXABAY_API_KEY")
+    key = (os.environ.get("PIXABAY_API_KEY") or "").strip()
     if not key:
         return []
     d = json.loads(get("https://pixabay.com/api/?" + urllib.parse.urlencode(
