@@ -24,6 +24,7 @@ jobs:
         env:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           PER_Q: "9"
+          COMMONS_FIRST: "1"
         run: python tools/photos/multi_search.py tools/photos/queries.json out
       - name: Publish to photo-work branch
         env:

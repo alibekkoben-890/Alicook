@@ -89,7 +89,7 @@ def pixabay(q):
              "source": h["pageURL"], "provider": "pixabay", "desc": h.get("tags") or ""} for h in d.get("hits", [])]
 
 
-SOURCES = [pixabay, commons, openverse]
+SOURCES = [commons, pixabay, openverse] if os.environ.get("COMMONS_FIRST") else [pixabay, commons, openverse]
 import urllib.error
 cands, blocks = {}, []
 for key, q in queries.items():
