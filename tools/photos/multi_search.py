@@ -16,7 +16,6 @@ os.makedirs(OUT, exist_ok=True)
 TW, TH = 170, 128
 PER_Q = int(os.environ.get("PER_Q") or "6")
 PACK = int(os.environ.get("PACK") or "6")
-PEXELS_OFF = False
 
 
 def get(url, tries=3):
@@ -72,25 +71,6 @@ def openverse(q):
     return out
 
 
-def pexels(q):
-    global PEXELS_OFF
-    key = (os.environ.get("PEXELS_API_KEY") or "").strip()
-    if not key or PEXELS_OFF:
-        return []
-    req = urllib.request.Request("https://api.pexels.com/v1/search?" + urllib.parse.urlencode(dict(query=q, per_page=15)),
-                                 headers={"User-Agent": UA, "Authorization": key})
-    try:
-        d = json.loads(urllib.request.urlopen(req, timeout=40).read())
-    except urllib.error.HTTPError as e:
-        if e.code in (401, 403, 429):
-            PEXELS_OFF = True
-            print("pexels rate limit reached; continuing without it", flush=True)
-        raise
-    return [{"url": p["src"]["large"], "thumb": p["src"]["medium"], "title": p.get("alt") or "", "author": p.get("photographer") or "—",
-             "license": "Pexels License", "license_url": "https://www.pexels.com/license/",
-             "source": p["url"], "provider": "pexels", "desc": p.get("alt") or ""} for p in d.get("photos", [])]
-
-
 def pixabay(q):
     key = (os.environ.get("PIXABAY_API_KEY") or "").strip()
     if not key:
@@ -102,7 +82,7 @@ def pixabay(q):
              "source": h["pageURL"], "provider": "pixabay", "desc": h.get("tags") or ""} for h in d.get("hits", [])]
 
 
-SOURCES = [pexels, pixabay, commons, openverse]
+SOURCES = [pixabay, commons, openverse]
 import urllib.error
 cands, blocks = {}, []
 for key, q in queries.items():
@@ -136,7 +116,7 @@ for key, q in queries.items():
         block.paste(t, ((i % 3) * TW, 18 + (i // 3) * TH))
     blocks.append(block)
     print(key, q, len(keep), flush=True)
-    time.sleep(19 if os.environ.get("PEXELS_API_KEY") and not PEXELS_OFF else 1)
+    time.sleep(1)
 
 BH = TH * ((PER_Q + 2) // 3) + 18
 for n in range(0, len(blocks), PACK):

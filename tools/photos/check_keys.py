@@ -18,13 +18,10 @@ def check(name, url, headers=None):
         print(f"{name}: FAILED, {type(e).__name__}")
 
 
-for name in ("PIXABAY_API_KEY", "PEXELS_API_KEY"):
+for name in ("PIXABAY_API_KEY",):
     v = os.environ.get(name, "")
     print(f"{name}: {'set' if v else 'NOT SET'}, length {len(v)}, has spaces: {v != v.strip()}, "
           f"contains '=': {'=' in v}, contains name: {name in v}")
 px = os.environ.get("PIXABAY_API_KEY", "").strip()
 if px:
     check("Pixabay", "https://pixabay.com/api/?" + urllib.parse.urlencode(dict(key=px, q="pasta", image_type="photo")))
-pe = os.environ.get("PEXELS_API_KEY", "").strip()
-if pe:
-    check("Pexels", "https://api.pexels.com/v1/search?query=pasta&per_page=3", {"Authorization": pe})

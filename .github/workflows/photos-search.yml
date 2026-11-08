@@ -20,9 +20,8 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install pillow==11.0.0
-      - name: Search Pexels, Pixabay, Wikimedia Commons and Openverse
+      - name: Search Pixabay, Wikimedia Commons and Openverse
         env:
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
         run: python tools/photos/multi_search.py tools/photos/queries.json out
       - name: Publish to photo-work branch
