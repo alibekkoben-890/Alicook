@@ -23,7 +23,6 @@ jobs:
       - name: Search Pixabay, Wikimedia Commons and Openverse
         env:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
-          PIXABAY_ONLY: "1"
           PER_Q: "9"
         run: python tools/photos/multi_search.py tools/photos/queries.json out
       - name: Publish to photo-work branch
