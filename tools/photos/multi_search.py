@@ -71,12 +71,19 @@ def openverse(q):
     return out
 
 
+EXCLUDE = set(json.load(open("tools/photos/exclude.json"))) if os.path.exists("tools/photos/exclude.json") else set()
+
+
 def pixabay(q):
     key = (os.environ.get("PIXABAY_API_KEY") or "").strip()
     if not key:
         return []
-    d = json.loads(get("https://pixabay.com/api/?" + urllib.parse.urlencode(
-        dict(key=key, q=q, image_type="photo", category="food", per_page=15, safesearch="true"))))
+    out = []
+    for qq in [x.strip() for x in q.split("|") if x.strip()]:
+        d = json.loads(get("https://pixabay.com/api/?" + urllib.parse.urlencode(
+            dict(key=key, q=qq, image_type="photo", category="food", per_page=30, safesearch="true"))))
+        out += [h for h in d.get("hits", []) if h["pageURL"] not in EXCLUDE and h["pageURL"] not in {x["pageURL"] for x in out}]
+    d = {"hits": out}
     return [{"url": h["largeImageURL"], "thumb": h["webformatURL"], "title": h.get("tags") or "", "author": h.get("user") or "—",
              "license": "Pixabay Content License", "license_url": "https://pixabay.com/service/license-summary/",
              "source": h["pageURL"], "provider": "pixabay", "desc": h.get("tags") or ""} for h in d.get("hits", [])]
@@ -88,7 +95,9 @@ cands, blocks = {}, []
 for key, q in queries.items():
     found = []
     for fn in SOURCES:
-        if len(found) >= PER_Q and fn in (commons, openverse):
+        if len(found) >= PER_Q and fn in (commons, openverse) or os.environ.get("PIXABAY_ONLY"):
+            if fn in (commons, openverse):
+                break
             break
         try:
             found += fn(q)
