@@ -78,6 +78,22 @@ public class MainActivity extends Activity {
 
     private class ScreenBridge {
         @JavascriptInterface
+        public void share(final String text) {
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    Intent send = new Intent(Intent.ACTION_SEND);
+                    send.setType("text/plain");
+                    send.putExtra(Intent.EXTRA_TEXT, text);
+                    try {
+                        startActivity(Intent.createChooser(send, null));
+                    } catch (ActivityNotFoundException ignored) {
+                    }
+                }
+            });
+        }
+
+        @JavascriptInterface
         public void keepScreenOn(final boolean on) {
             runOnUiThread(new Runnable() {
                 @Override
