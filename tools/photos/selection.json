@@ -1,26 +1,10 @@
 {
- "t461dcc3cf9b1": {
-  "url": "https://pixabay.com/get/gdfceaa818b31aa50634257dd2512ec99a424bda544d7966b594a61f8169760b857f4a25637520b6b847ef5e1956efdaa645de4e15a575d08ffbc4df1cb031df7_1280.jpg",
-  "author": "webandi",
+ "t561b75ec8ad7": {
+  "url": "https://pixabay.com/get/g490cc3d63ae01b2daa21dc11d4d0a7382a33a2ac737d9391a563d264a4b3edad902dc537bea2f212c1c106d3b85e9b9d13feea2dbcdd118a2d494ab0c80c0734_1280.jpg",
+  "author": "54163631",
   "license": "Pixabay Content License",
   "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/potato-pancakes-potatoes-pancakes-4816487/",
-  "provider": "pixabay"
- },
- "tc726a2271d00": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Zrazy1.jpg/1280px-Zrazy1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "author": "Kuruni",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Zrazy1.jpg",
-  "provider": "wikimedia"
- },
- "t2fffd95e6150": {
-  "url": "https://pixabay.com/get/g2787bc5a0e5f4f79902b582a543470f8f67a501a8c1a58b40f4323f196b0859dde43eba4988d6d5065ed7e708ea52256729903448e7c1f32b3fdced2380b2b34_1280.jpg",
-  "author": "putiru1",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/food-plate-epicure-meal-delicious-3088309/",
+  "source": "https://pixabay.com/photos/gulash-soup-stew-dish-hungarian-10077965/",
   "provider": "pixabay"
  }
 }
