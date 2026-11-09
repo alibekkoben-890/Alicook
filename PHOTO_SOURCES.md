@@ -598,3 +598,15 @@
 | photos/g9ee5be1da028.jpg | Бадриджани с орехами | https://commons.wikimedia.org/wiki/File:Badrijani_(cropped).jpg | salvagekat | CC BY-SA 2.0 |
 | photos/g2e006e9d661b.jpg | Чихиртма | https://commons.wikimedia.org/wiki/File:Chikhirtma.jpg | Lamro | CC BY-SA 4.0 |
 | photos/gc58d340baa8c.jpg | Чурчхела | https://commons.wikimedia.org/wiki/File:Churchkhela,_Tbilisi_(2023).jpg | Lessormore | CC BY 4.0 |
+| photos/d3acd485d2db6.jpg | Шарлотка с яблоками | https://pixabay.com/photos/cosiness-pie-morning-breakfast-1041891/ | LisaLiza | Pixabay Content License |
+| photos/d9c31328bb8e6.jpg | Медовик | https://pixabay.com/photos/cake-layers-bakery-sweet-gourmet-5454297/ | AidylArtisan | Pixabay Content License |
+| photos/d5500b34db10f.jpg | Чизкейк Нью-Йорк | https://pixabay.com/photos/new-york-cheese-cake-cheese-cake-7500156/ | jbooba | Pixabay Content License |
+| photos/dac9711a42933.jpg | Шоколадный брауни | https://pixabay.com/photos/chocolate-cake-brownies-cakes-3689088/ | MissSuki | Pixabay Content License |
+| photos/d6129613367c9.jpg | Печёные яблоки с мёдом и орехами | https://pixabay.com/photos/apple-baked-apple-advent-christmas-1883940/ | RitaE | Pixabay Content License |
+| photos/d51af1737059e.jpg | Овсяное печенье | https://pixabay.com/photos/oatmeal-biscuits-cookies-7913948/ | 28366294 | Pixabay Content License |
+| photos/d8890388a9c06.jpg | Кекс с изюмом | https://pixabay.com/photos/cake-fruitcake-fruits-pineapple-6352164/ | 8618939 | Pixabay Content License |
+| photos/de0466663b03c.jpg | Шак-шак | https://commons.wikimedia.org/wiki/File:Chak-chak-made_02.jpg | Pannet | CC BY 4.0 |
+| photos/d33eabe131863.jpg | Ягодное желе | https://pixabay.com/photos/jelly-red-crimson-raspberry-berry-3356770/ | u11116 | Pixabay Content License |
+| photos/d5c00a0d01f6a.jpg | Банановое мороженое | https://pixabay.com/photos/bananas-dessert-ice-cream-fruit-282305/ | jarmoluk | Pixabay Content License |
+| photos/d72924b750574.jpg | Морковный пирог | https://pixabay.com/photos/carrot-cake-r%C3%BCblitorte-r%C3%BCblikuchen-2209039/ | silviarita | Pixabay Content License |
+| photos/dca2bec63b19b.jpg | Шоколадные маффины | https://pixabay.com/photos/cupcakes-chocolate-dark-dessert-1452178/ | ponce_photography | Pixabay Content License |
