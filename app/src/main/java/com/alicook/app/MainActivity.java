@@ -7,6 +7,7 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.webkit.WebView;
+import android.webkit.ValueCallback;
 import android.webkit.WebResourceRequest;
 import android.webkit.WebViewClient;
 import android.webkit.WebSettings;
@@ -48,10 +49,18 @@ public class MainActivity extends Activity {
 
     @Override
     public void onBackPressed() {
-        if (web.canGoBack()) {
-            web.goBack();
-        } else {
-            super.onBackPressed();
-        }
+        // Let the page close the open recipe, list or panel first; leave the app only from the main list.
+        web.evaluateJavascript("(window.appBack && window.appBack()) ? 'yes' : 'no'", new ValueCallback<String>() {
+            @Override
+            public void onReceiveValue(String handled) {
+                if (!"\"yes\"".equals(handled)) {
+                    systemBack();
+                }
+            }
+        });
+    }
+
+    private void systemBack() {
+        super.onBackPressed();
     }
 }
