@@ -610,3 +610,6 @@
 | photos/d5c00a0d01f6a.jpg | Банановое мороженое | https://pixabay.com/photos/bananas-dessert-ice-cream-fruit-282305/ | jarmoluk | Pixabay Content License |
 | photos/d72924b750574.jpg | Морковный пирог | https://pixabay.com/photos/carrot-cake-r%C3%BCblitorte-r%C3%BCblikuchen-2209039/ | silviarita | Pixabay Content License |
 | photos/dca2bec63b19b.jpg | Шоколадные маффины | https://pixabay.com/photos/cupcakes-chocolate-dark-dessert-1452178/ | ponce_photography | Pixabay Content License |
+| photos/t461dcc3cf9b1.jpg | Драники | https://pixabay.com/photos/potato-pancakes-potatoes-pancakes-4816487/ | webandi | Pixabay Content License |
+| photos/tc726a2271d00.jpg | Зразы мясные с яйцом и луком | https://commons.wikimedia.org/wiki/File:Zrazy1.jpg | Kuruni | CC BY-SA 4.0 |
+| photos/t2fffd95e6150.jpg | Яблочный штрудель | https://pixabay.com/photos/food-plate-epicure-meal-delicious-3088309/ | putiru1 | Pixabay Content License |
