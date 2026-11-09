@@ -613,3 +613,4 @@
 | photos/t461dcc3cf9b1.jpg | Драники | https://pixabay.com/photos/potato-pancakes-potatoes-pancakes-4816487/ | webandi | Pixabay Content License |
 | photos/tc726a2271d00.jpg | Зразы мясные с яйцом и луком | https://commons.wikimedia.org/wiki/File:Zrazy1.jpg | Kuruni | CC BY-SA 4.0 |
 | photos/t2fffd95e6150.jpg | Яблочный штрудель | https://pixabay.com/photos/food-plate-epicure-meal-delicious-3088309/ | putiru1 | Pixabay Content License |
+| photos/t561b75ec8ad7.jpg | Штрудли с мясом и картофелем | https://pixabay.com/photos/gulash-soup-stew-dish-hungarian-10077965/ | 54163631 | Pixabay Content License |
