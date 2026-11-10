@@ -539,7 +539,7 @@
 | photos/t2fffd95e6150.webp | Яблочный штрудель | https://pixabay.com/photos/food-plate-epicure-meal-delicious-3088309/ | putiru1 | Pixabay Content License |
 | photos/t561b75ec8ad7.webp | Штрудли с мясом и картофелем | https://pixabay.com/photos/gulash-soup-stew-dish-hungarian-10077965/ | 54163631 | Pixabay Content License |
 | photos/n84a4e17a4587.webp | Лагман, Мампар | https://pixabay.com/photos/food-japanese-asian-bowl-dish-eat-715542/ | Wow_Pho | Pixabay Content License |
-| photos/n336ae9018ae3.webp | Манты, Манты с тыквой, Турецкие манты с йогуртом | https://pixabay.com/photos/pasta-ravioli-cooking-hungry-7754050/ | Servetphotograph | Pixabay Content License |
+| photos/654.webp | Манты, Манты с тыквой | собственное фото пользователя приложения | AliCook | все права у автора |
 | photos/nd0c5a6b7781a.webp | Самса с мясом, Самса с тыквой | https://commons.wikimedia.org/wiki/File:Samsa_at_G%C3%BClhan_Restaurant,_Beijing_(20210402171539).jpg | N509FZ | CC BY-SA 4.0 |
 | photos/nc8409ca8c206.webp | Плов по-узбекски, Шавля | https://pixabay.com/photos/pilaf-food-rice-834980/ | adamova1210 | Pixabay Content License |
 | photos/n6d65fa466d8a.webp | Пельмени | https://pixabay.com/photos/pelmeni-food-fish-dishes-2023480/ | stafichukanatoly | Pixabay Content License |
@@ -702,6 +702,7 @@
 | photos/x9c1d4c702425.webp | Кёфте по-турецки | https://commons.wikimedia.org/wiki/File:Izgara_k%C3%B6fte.jpg | E4024 | CC BY-SA 4.0 |
 | photos/x3d17e6e56e53.webp | Баклава | https://pixabay.com/photos/food-eastern-sweets-baklava-sweet-5158702/ | luckyhand2010 | Pixabay Content License |
 | photos/x5e0b1bcdb207.webp | Сютлач, Анушабур | https://pixabay.com/photos/rice-pudding-dessert-cinnamon-bowl-10389333/ | tehzeebrokhri | Pixabay Content License |
+| photos/n336ae9018ae3.webp | Турецкие манты с йогуртом | https://pixabay.com/photos/pasta-ravioli-cooking-hungry-7754050/ | Servetphotograph | Pixabay Content License |
 | photos/xf9efac42e6e5.webp | Симит | https://pixabay.com/photos/bagel-pretzels-bakery-food-simit-4291496/ | TanerSoyler | Pixabay Content License |
 | photos/xf55a9ad60d96.webp | Чанахи | https://commons.wikimedia.org/wiki/File:Chanakhi..JPG | Miansari66 | CC0 |
 | photos/x518304094f6a.webp | Лобиани | https://commons.wikimedia.org/wiki/File:Lobiani_-_bean-filled_bread.jpg | Eka Samkharadze | CC BY-SA 4.0 |
