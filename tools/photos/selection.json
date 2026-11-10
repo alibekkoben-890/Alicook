@@ -1,202 +1,66 @@
 {
- "x2955982ccd9e": {
-  "url": "https://pixabay.com/get/gafe35b5ca4b4324dc6ef69204e9ed829e0defd2960406fbc7b24768fe7a4f2def7132ccb94501642be90a0f689a38be9709edb6e68e91ca340223ae527e4b26c_1280.jpg",
-  "author": "52600603",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/adana-kebab-turkish-food-minced-lamb-10478918/",
-  "provider": "pixabay"
- },
- "x31c3faa0a544": {
-  "url": "https://pixabay.com/get/g7fbf3ef678700e4b4c21e5d0c6d54b2ac283647c22c2f71cda7c8d91eb75cf8e086f844513d793c618b914e5ce7711de884c86260781ef7bb6d75fe3ec7573ff_1280.jpg",
-  "author": "Engin_Akyurt",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/lahmacun-pita-dough-crispy-food-6235579/",
-  "provider": "pixabay"
- },
- "xfd618eb88a4c": {
-  "url": "https://pixabay.com/get/g2415219a6fa26a75c307209b553786e53b98a6f538b295c04086346d48ba8c090c5d3ce5a50d3f30b07f07337ce7de9e1dde81c230fc908a9fbb90d48073901b_1280.jpg",
-  "author": "Mekan_4",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/pizza-menu-restaurant-food-8128208/",
-  "provider": "pixabay"
- },
- "xc36bfcc9ad25": {
-  "url": "https://pixabay.com/get/gaa63197b958cd48919403a937edd12331b43e376e74122b6d33844ed1bd74cbcebf5727001954ae5a49fd71dcabd95082d1fdc128443edc67c06aac4d7fe2ff1_1280.jpg",
-  "author": "Engin_Akyurt",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/menemen-egg-casserole-table-wooden-3771970/",
-  "provider": "pixabay"
- },
- "x4cdb74ee0dd6": {
-  "url": "https://pixabay.com/get/g75b6411ee2d0004d443017aa3e5751622219908050adb962745e5b3127601772c13dd65b83e36406fe0bb3676ed8ff5e5d7976141a2794f7f7096a1ae01f7cd4_1280.jpg",
-  "author": "tohma",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/dry-stuffing-aubergine-appetizer-812667/",
-  "provider": "pixabay"
- },
- "x72a7a9754362": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Karniyarik_at_Ankara.jpg/1280px-Karniyarik_at_Ankara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "author": "E4024",
+ "x604326747ba8": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Beef_Khashlama.jpg/1280px-Beef_Khashlama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Արարատ Թրվանց",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Karniyarik_at_Ankara.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Beef_Khashlama.jpg",
   "provider": "wikimedia"
  },
- "x7d4ddebf1b91": {
-  "url": "https://pixabay.com/get/g6dac7777cfc6b64a9e77759f7e74c572ceb71e9755ad6900bd16fd6397556b76161a16e6f1c11bd02c5a6fbc55f397cab1b1d20aef20b536911a154334cd41fc_1280.jpg",
-  "author": "vedatzorluer",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/leaf-wrapping-food-turkish-942455/",
-  "provider": "pixabay"
- },
- "x9c1d4c702425": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Izgara_k%C3%B6fte.jpg/1280px-Izgara_k%C3%B6fte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "author": "E4024",
+ "x601456c00d18": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Khorovats_in_Gyumri.jpg/1280px-Khorovats_in_Gyumri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Armineaghayan",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Izgara_k%C3%B6fte.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Khorovats_in_Gyumri.jpg",
   "provider": "wikimedia"
  },
- "x3d17e6e56e53": {
-  "url": "https://pixabay.com/get/g6768329ae774318d4022ebbe570fee0baff6e7fdc2e510a3f1477a124f09ca0a941ce80e518b7b96444f7f44e93e23fd57f1cca247eff32b2bd8f1a3dcb783dc_1280.jpg",
-  "author": "luckyhand2010",
+ "x91c72f1fcf34": {
+  "url": "https://pixabay.com/get/gcd5cb929abbfc32055211300d14c4dee75eee2be55dd54563cf3cfa0d9dec584696eef3d260c96ce84e2cebeb445f75f9de32c43ce0513283ba030a215e99972_1280.jpg",
+  "author": "zizitop101",
   "license": "Pixabay Content License",
   "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/food-eastern-sweets-baklava-sweet-5158702/",
+  "source": "https://pixabay.com/photos/cabbage-rolls-minced-meat-rolls-7657175/",
   "provider": "pixabay"
  },
- "x5e0b1bcdb207": {
-  "url": "https://pixabay.com/get/g3ba57d61b17a5d4007f874be0bd23907af794907feaafdc3928a762cb84647740221358b7fc6116e7b49e4a9942ef1be3158dd2a56c81d576358ff67d212ed5f_1280.jpg",
-  "author": "tehzeebrokhri",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/rice-pudding-dessert-cinnamon-bowl-10389333/",
-  "provider": "pixabay"
- },
- "xf9efac42e6e5": {
-  "url": "https://pixabay.com/get/g96d67f2844dd344e58b22dcfb707865d624836da53dadcad8a8456bf71ba3aba25ebb264ea2ecd5391a1233a8975a321f30ef6fae4637726e2ef54d126e180a9_1280.jpg",
-  "author": "TanerSoyler",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/bagel-pretzels-bakery-food-simit-4291496/",
-  "provider": "pixabay"
- },
- "xf55a9ad60d96": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Chanakhi..JPG/1280px-Chanakhi..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "author": "Miansari66",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "source": "https://commons.wikimedia.org/wiki/File:Chanakhi..JPG",
-  "provider": "wikimedia"
- },
- "x518304094f6a": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Lobiani_-_bean-filled_bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "author": "Eka Samkharadze",
+ "x7f6cacca9247": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Broth_Khash_in_Bahar_3.jpg/1280px-Broth_Khash_in_Bahar_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Shams948",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Lobiani_-_bean-filled_bread.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Broth_Khash_in_Bahar_3.jpg",
   "provider": "wikimedia"
  },
- "x42a25ef5c451": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Khachapuri_Mingrelian.jpg/1280px-Khachapuri_Mingrelian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "author": "Francesc Fort",
+ "xcf3950b7b1cb": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bozbash_-_la_cuisine_arm%C3%A9nienne_de_Pierrette.jpg/1280px-Bozbash_-_la_cuisine_arm%C3%A9nienne_de_Pierrette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "TDP34",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Bozbash_-_la_cuisine_arm%C3%A9nienne_de_Pierrette.jpg",
+  "provider": "wikimedia"
+ },
+ "xd5c955ec8ead": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Harissa_in_a_plate.jpg/1280px-Harissa_in_a_plate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Armineaghayan",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Khachapuri_Mingrelian.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Harissa_in_a_plate.jpg",
   "provider": "wikimedia"
  },
- "x198dcbd395f9": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Elarji_in_Acha-Chacha_restaurant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "author": "Genioh 07",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "source": "https://commons.wikimedia.org/wiki/File:Elarji_in_Acha-Chacha_restaurant.jpg",
+ "xa9cd705fb6b3": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Armenian_Matnakash_Bread.jpg/1280px-Armenian_Matnakash_Bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "author": "Narek Avetisyan /Narek75/",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Armenian_Matnakash_Bread.jpg",
   "provider": "wikimedia"
  },
- "x77b6ef8b332d": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Chakapuli.jpg/1280px-Chakapuli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "author": "Georgian Recipes at Georgia About",
-  "license": "CC BY 3.0",
-  "license_url": "https://creativecommons.org/licenses/by/3.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Chakapuli.jpg",
-  "provider": "wikimedia"
- },
- "x5e86bfd4c0c8": {
-  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kuchmachi_with_walnuts.jpg/1280px-Kuchmachi_with_walnuts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-  "author": "Georgian Recipes at Georgia About",
-  "license": "CC BY 3.0",
-  "license_url": "https://creativecommons.org/licenses/by/3.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Kuchmachi_with_walnuts.jpg",
-  "provider": "wikimedia"
- },
- "x65ddf75a521d": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Pelamushi_%2820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "author": "https://georgianrecipes.net/2013/11/04/dark-grape-pelamushi-with-corn-flour/",
-  "license": "CC BY 3.0",
-  "license_url": "https://creativecommons.org/licenses/by/3.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Pelamushi_(20).jpg",
-  "provider": "wikimedia"
- },
- "xc129690a771b": {
-  "url": "https://pixabay.com/get/gec69c7eb1ee7c1f1d381f9f562396716348268e970908537f6a9c3f491aebdda6b17bf43b2364f135464ab18dcd54f3c7ead9c20cd4bc35aeb4d71631570d681_1280.jpg",
-  "author": "Andy333",
+ "xf85e1d3237f6": {
+  "url": "https://pixabay.com/get/g2fb3d14399b86e3cdc9c9f8191b9f6a0fc144bad97d4ea88328330232487ab98e9b8571ea285b499827750a6a52c70f2b9d02f0d7de37eef0fa9dc8ab282ea6a_1280.jpg",
+  "author": "belu1004",
   "license": "Pixabay Content License",
   "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/pasta-sleep-noodles-food-meal-1033216/",
+  "source": "https://pixabay.com/photos/meal-food-mashed-potatoes-liver-180826/",
   "provider": "pixabay"
- },
- "x295967c76c41": {
-  "url": "https://pixabay.com/get/g212bd317652c9aea303efe8540664f85e5c9a54637f851588ae8de6c2d997278a8f6644cd34dca958f64751157e92fcafbf18d0293cee272580609a2c4a4e957_1280.jpg",
-  "author": "CrafterChef",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/alfredo-fettuccine-pasta-cheese-8305773/",
-  "provider": "pixabay"
- },
- "x7114293ba1e7": {
-  "url": "https://pixabay.com/get/gcd00c9be2119fd3fa85e88f43ac7bb114fb5b661d78994ddb7de420a54a52221298affa5933d26184b24593450e0e818fd84b5c48dc4ec7121fdbc37c1e731f5_1280.jpg",
-  "author": "35796437",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/recipe-ravioli-food-pastry-8577854/",
-  "provider": "pixabay"
- },
- "x8b6ee88ca1d9": {
-  "url": "https://pixabay.com/get/g1664eaa59d036acdde4d22d130c0e21c1a6cba7c3e8094d9a6133fd7009512f9f303136cd04d433295e66c360751830a556d233d56f2f927b8e19438d8fb66c2_1280.jpg",
-  "author": "bhumann34",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/pizza-pepperoni-pepperoni-pizza-1179404/",
-  "provider": "pixabay"
- },
- "xcd2da04bc8ad": {
-  "url": "https://pixabay.com/get/ga58cbb51a796635fe423a2cae3661e763af3c8f48956f334aad39fd20dcbed4b3447207d0f32d29ee3b78fe2bfad227da05d888bcb9cde4dbda4fc894b92776d_1280.jpg",
-  "author": "tifanitopan",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/arancini-rice-italy-fried-meal-10233159/",
-  "provider": "pixabay"
- },
- "x203a378b3497": {
-  "url": "https://pixabay.com/get/g0502c4169bc33163b16c0e8e1d2f1539431e603c28bd2e8b13484a84c3eb17f3ab3c07238ce58c957997276678ea21d3319828b74fa556603b588280f751eac1_1280.jpg",
-  "author": "RitaE",
-  "license": "Pixabay Content License",
-  "license_url": "https://pixabay.com/service/license-summary/",
-  "source": "https://pixabay.com/photos/calf-veal-beef-ossobuco-meal-cook-2050129/",
-  "provider": "pixabay"
- },
- "x17c51019d958": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sicilian_caponata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-  "author": "Massimoweb",
-  "license": "CC BY-SA 3.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Sicilian_caponata.jpg",
-  "provider": "wikimedia"
  }
 }
