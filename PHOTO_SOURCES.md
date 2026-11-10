@@ -7,15 +7,15 @@
 
 | Файл | Блюда | Оригинал | Автор | Лицензия |
 |---|---|---|---|---|
-| photos/1.webp | Омлет с сыром | https://commons.wikimedia.org/wiki/File:Four_cheese_omelet_with_EVOO.jpg | Philipp Michel Reichold | CC BY-SA 4.0 |
+| photos/1.webp | Омлет с сыром, Овсяноблин с сыром и помидором | https://commons.wikimedia.org/wiki/File:Four_cheese_omelet_with_EVOO.jpg | Philipp Michel Reichold | CC BY-SA 4.0 |
 | photos/2.webp | Жареный картофель | https://commons.wikimedia.org/wiki/File:Solstice_morning_home_fries_in_pan.jpg | Infrogmation of New Orleans | CC BY-SA 2.0 |
 | photos/3.webp | Картофельное пюре | https://commons.wikimedia.org/wiki/File:MashedPotatoes.jpg | Renee Comet (photographer) | Public domain |
-| photos/4.webp | Салат из огурцов и помидоров | https://commons.wikimedia.org/wiki/File:Cucumber_onion_and_tomato_salad_with_mint_coriander_and_lemon.jpg | Voxbyrox | CC BY-SA 4.0 |
+| photos/4.webp | Салат из огурцов и помидоров, Огурцы по-корейски | https://commons.wikimedia.org/wiki/File:Cucumber_onion_and_tomato_salad_with_mint_coriander_and_lemon.jpg | Voxbyrox | CC BY-SA 4.0 |
 | photos/5.webp | Макароны с сыром | https://commons.wikimedia.org/wiki/File:Macaroni_and_cheese_(2)_(cropped).jpg | Sumeet Jain from San Francisco, USA | CC BY-SA 2.0 |
 | photos/6.webp | Гречка с луком | https://commons.wikimedia.org/wiki/File:Grechka.jpg | Kagor | CC BY-SA 3.0 |
 | photos/7.webp | Куриный суп | https://commons.wikimedia.org/wiki/File:Chicken_Noodle_Soup_US.jpg | Nichijyou123 | CC BY-SA 4.0 |
 | photos/pca8eb04789ff.webp | Плов с говядиной | https://pixabay.com/photos/food-pilaf-rice-beef-nutrition-3589513/ | sergey_kim1992 | Pixabay Content License |
-| photos/9.webp | Плов с бараниной | https://commons.wikimedia.org/wiki/File:Plov_with_lamb_and_carrots_in_ceramic_bowl.jpg | Postovalov | CC BY-SA 4.0 |
+| photos/9.webp | Плов с бараниной, Қазақша палау с сухофруктами | https://commons.wikimedia.org/wiki/File:Plov_with_lamb_and_carrots_in_ceramic_bowl.jpg | Postovalov | CC BY-SA 4.0 |
 | photos/10.webp | Рис с овощами | https://commons.wikimedia.org/wiki/File:Fried_Rice_with_Vegetables,_Aug_2024.jpg | Ralff Nestor Nacor | CC BY-SA 4.0 |
 | photos/11.webp | Котлеты из фарша | https://commons.wikimedia.org/wiki/File:Chicken_cutlets.jpg | nayeli @ nyam.ru | CC BY 3.0 |
 | photos/12.webp | Оладьи | https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D1%96_%D0%9E%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8_(Oladyi).jpg | f7eeae1 | CC BY-SA 4.0 |
@@ -59,7 +59,7 @@
 | photos/p2e0b00298785.webp | Говядина с рисом | https://pixabay.com/photos/food-lunch-meat-steak-eating-4571699/ | MiGallery23 | Pixabay Content License |
 | photos/w22d174e62d0b.webp | Говядина с гречкой | https://commons.wikimedia.org/wiki/File:Grechka_and_beef_1.jpg | К.Артём.1 | CC BY-SA 4.0 |
 | photos/p00dbb239d74c.webp | Говядина с овощами | https://pixabay.com/photos/steak-beef-food-dinner-asparagus-10412247/ | flutie8211 | Pixabay Content License |
-| photos/53.webp | Баранина с картофелем | https://commons.wikimedia.org/wiki/File:Lamb_popsicles_with_roast_potatoes_and_green_beans_(9905615124).jpg | Ruth Hartnup from Vancouver, Canada | CC BY 2.0 |
+| photos/53.webp | Баранина с картофелем, Қазанжаппай | https://commons.wikimedia.org/wiki/File:Lamb_popsicles_with_roast_potatoes_and_green_beans_(9905615124).jpg | Ruth Hartnup from Vancouver, Canada | CC BY 2.0 |
 | photos/p3d979b2540af.webp | Баранина с рисом | https://pixabay.com/photos/biryani-platter-mutton-lamb-kebab-7253751/ | 2SIF | Pixabay Content License |
 | photos/r3e735bef5bf5.webp | Баранина с гречкой | https://pixabay.com/photos/buckwheat-porridge-groats-diet-3356778/ | u11116 | Pixabay Content License |
 | photos/pbd2ec02b95d7.webp | Баранина с овощами | https://pixabay.com/photos/lamb-ribs-flesh-lamb-chops-chop-656410/ | RitaE | Pixabay Content License |
@@ -419,7 +419,7 @@
 | photos/524.webp | Шелпек, Таба нан | https://commons.wikimedia.org/wiki/File:ShelpekKZ2.JPG | Ds02006 | Public domain |
 | photos/wa8f9b4a59469.webp | Кеспе көже | https://commons.wikimedia.org/wiki/File:Chicken_noodle_soup_(cropped).jpg | Eli Hodapp from Naperville, United States | CC BY 2.0 |
 | photos/w2cea91c1eb1c.webp | Сүт көже | https://commons.wikimedia.org/wiki/File:Risgrynsgr%C3%B6t_med_mj%C3%B6lk.jpg | erik forsberg | CC BY 2.0 |
-| photos/532.webp | Майсөк, Жент | https://commons.wikimedia.org/wiki/File:Zhent_2.jpg | Esetok | CC BY-SA 4.0 |
+| photos/532.webp | Майсөк, Жент, Ірімшік | https://commons.wikimedia.org/wiki/File:Zhent_2.jpg | Esetok | CC BY-SA 4.0 |
 | photos/531.webp | Қарақұмық ботқасы | https://commons.wikimedia.org/wiki/File:%D0%93%D1%80%D0%B5%D1%87%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D1%88%D0%B0.jpg | Laitr Keiows | CC BY-SA 3.0 |
 | photos/w99ee1c9a46da.webp | Бал куырдак, Қарын бүрме | https://commons.wikimedia.org/wiki/File:Lamb_popsicles_with_roast_potatoes_and_green_beans_(9905615124).jpg | Ruth Hartnup from Vancouver, Canada | CC BY 2.0 |
 | photos/wcf6d82ab2727.webp | Өрметөстік | https://commons.wikimedia.org/wiki/File:Lamb_chops_with_mash.JPG | SpaceMonkey~commonswiki (Wikimedia Commons) | Public domain |
@@ -433,9 +433,9 @@
 | photos/543.webp | Бешбармак из конины с казы | https://commons.wikimedia.org/wiki/File:Beshbarmak_with_horse_meat.jpg | Muzaffar Murodovich | CC BY-SA 4.0 |
 | photos/s03843bcf07af.webp | Куырдак из конины | https://pixabay.com/photos/meat-food-protein-shish-kebab-1155132/ | vika-imperia550 | Pixabay Content License |
 | photos/w2ad4fc0444b7.webp | Сорпа из конины с зеленью, Нарын | https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%B0%D1%83%D0%BB_%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD,_naryn_soup_with_horse-meat_qaz%C4%B1_and_noodles.jpg | Ser Amantio di Nicolao | CC BY-SA 4.0 |
-| photos/qac4e71647ccd.webp | Казы с отварным картофелем | https://pixabay.com/photos/ukrainian-dill-potatoes-potatoes-2652561/ | JamesHills | Pixabay Content License |
-| photos/547.webp | Окрошка на айране | https://commons.wikimedia.org/wiki/File:%D0%9E%D0%BA%D1%80%D0%BE%D1%88%D0%BA%D0%B0_Okroshka_05.jpg | Nikkolo | CC BY-SA 3.0 |
-| photos/wd226a291e0f8.webp | Сорпа с куртом | https://commons.wikimedia.org/wiki/File:Kuzu_ha%C5%9Flama_(Turkish_cuisine).jpg | E4024 | CC BY-SA 4.0 |
+| photos/qac4e71647ccd.webp | Казы с отварным картофелем, Шұжық домашний | https://pixabay.com/photos/ukrainian-dill-potatoes-potatoes-2652561/ | JamesHills | Pixabay Content License |
+| photos/547.webp | Окрошка на айране, Шалап | https://commons.wikimedia.org/wiki/File:%D0%9E%D0%BA%D1%80%D0%BE%D1%88%D0%BA%D0%B0_Okroshka_05.jpg | Nikkolo | CC BY-SA 3.0 |
+| photos/wd226a291e0f8.webp | Сорпа с куртом, Құрт домашний | https://commons.wikimedia.org/wiki/File:Kuzu_ha%C5%9Flama_(Turkish_cuisine).jpg | E4024 | CC BY-SA 4.0 |
 | photos/qe2194f019b14.webp | Салат из огурцов с айраном и укропом | https://pixabay.com/photos/cucumber-cucumber-salad-vinegar-oil-697821/ | RitaE | Pixabay Content License |
 | photos/wbcaa61818767.webp | Көже на айране с перловкой | https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%83%D1%80%D1%8B%D0%B7_%D0%BA%D0%BE%D0%B6%D0%B5.jpg | Игорь Улитин | CC BY-SA 4.0 |
 | photos/paf8155913e88.webp | Салат с брынзой и помидорами | https://pixabay.com/photos/salad-greek-salad-feta-food-plate-5904093/ | galyafanaseva | Pixabay Content License |
@@ -544,13 +544,13 @@
 | photos/nc8409ca8c206.webp | Плов по-узбекски, Шавля | https://pixabay.com/photos/pilaf-food-rice-834980/ | adamova1210 | Pixabay Content License |
 | photos/n6d65fa466d8a.webp | Пельмени | https://pixabay.com/photos/pelmeni-food-fish-dishes-2023480/ | stafichukanatoly | Pixabay Content License |
 | photos/nfcc42030dfa8.webp | Голубцы, Голубцы ленивые | https://pixabay.com/photos/herb-cabbage-wrap-cabbage-rolls-3769381/ | ulleo | Pixabay Content License |
-| photos/n70a00223e31e.webp | Салат Оливье | https://pixabay.com/photos/russian-salad-olivier-salad-6754243/ | phamkhanhquynhtrang | Pixabay Content License |
+| photos/n70a00223e31e.webp | Салат Оливье, Салат «Обжорка» | https://pixabay.com/photos/russian-salad-olivier-salad-6754243/ | phamkhanhquynhtrang | Pixabay Content License |
 | photos/n598f2d487834.webp | Сельдь под шубой, Салат Мимоза | https://pixabay.com/photos/herring-under-a-fur-coat-cooking-4491840/ | marinabridger | Pixabay Content License |
 | photos/nbe7c4ad7f5b7.webp | Котлеты по-киевски | https://pixabay.com/photos/food-food-pictures-meat-fresh-diet-3219839/ | Engin_Akyurt | Pixabay Content License |
 | photos/nc269a2f0fccd.webp | Бибимбап | https://pixabay.com/photos/bibimbap-korean-food-gochujang-4887417/ | nikluv | Pixabay Content License |
 | photos/na8765ab0b77d.webp | Пулькоги | https://pixabay.com/photos/pa-bulgogi-bul-gogi-seasoned-bulgogi-7593889/ | lpegasu | Pixabay Content License |
 | photos/nf2d39dc8a4f6.webp | Кимчи | https://pixabay.com/photos/kimchi-korean-food-food-korea-4361465/ | imissyou | Pixabay Content License |
-| photos/n39f3b2a03e5b.webp | Морковь по-корейски | https://pixabay.com/photos/carrots-carrot-salad-vegetables-3467399/ | RitaE | Pixabay Content License |
+| photos/n39f3b2a03e5b.webp | Морковь по-корейски, Баклажаны по-корейски, Морковный салат с сыром и чесноком | https://pixabay.com/photos/carrots-carrot-salad-vegetables-3467399/ | RitaE | Pixabay Content License |
 | photos/na033e56d93a2.webp | Кимчи-тиге | https://pixabay.com/photos/food-korean-food-kimchi-stew-kimchi-1954424/ | eommina | Pixabay Content License |
 | photos/n67853f40901b.webp | Мисо-суп | https://pixabay.com/photos/soup-food-puree-908358/ | Dow | Pixabay Content License |
 | photos/n99292184f8d5.webp | Роллы с лососем и огурцом | https://pixabay.com/photos/sushi-food-japan-japanese-salmon-4774864/ | PiotrZakrzewski | Pixabay Content License |
@@ -574,7 +574,7 @@
 | photos/x9e691263c665.webp | Крабовый салат | https://pixabay.com/photos/salad-useful-summer-snack-762815/ | webar4i | Pixabay Content License |
 | photos/x433a5b8e3749.webp | Свёкла с чесноком и орехами | https://pixabay.com/photos/beets-red-goat-cheese-food-beet-3183557/ | zuzyusa | Pixabay Content License |
 | photos/xbe38f72f6bb5.webp | Салат с фасолью и сухариками | https://pixabay.com/photos/salad-bread-salad-loaf-baguette-4432168/ | RitaE | Pixabay Content License |
-| photos/xbc691e5e03e8.webp | Салат с курицей и ананасом | https://pixabay.com/photos/salad-pineapple-salad-pineapple-1684820/ | kariwil | Pixabay Content License |
+| photos/xbc691e5e03e8.webp | Салат с курицей и ананасом, Салат с курицей и грибами | https://pixabay.com/photos/salad-pineapple-salad-pineapple-1684820/ | kariwil | Pixabay Content License |
 | photos/x238d2014f531.webp | Ачичук | https://pixabay.com/photos/tomato-tomato-salad-salad-onion-1207570/ | RitaE | Pixabay Content License |
 | photos/x42aa40ac9cfb.webp | Шопский салат | https://pixabay.com/photos/food-plate-salad-vegetables-3337622/ | pastel100 | Pixabay Content License |
 | photos/xdc6b55e5eb7d.webp | Салат Витаминный | https://pixabay.com/photos/vegetables-a-plate-healthy-meal-2512080/ | Ajale | Pixabay Content License |
@@ -670,3 +670,25 @@
 | photos/x10c49df38416.webp | Ковурма лагман | https://pixabay.com/photos/soup-lagman-delicious-noodles-1434774/ | isfara | Pixabay Content License |
 | photos/xe6d2a31f834e.webp | Самаркандский плов | https://pixabay.com/photos/meal-pilaf-plov-rice-dish-food-7492407/ | vitaliy-m | Pixabay Content License |
 | photos/xa40aca301c1f.webp | Люля-кебаб | https://pixabay.com/photos/food-meal-dinner-fast-food-6950992/ | Anilsharma26 | Pixabay Content License |
+| photos/x49e3906e8ca0.webp | Тұшпара | https://pixabay.com/photos/soup-beef-soup-beef-dumplings-1256023/ | RitaE | Pixabay Content License |
+| photos/x57f769511f6d.webp | Әсіп | https://pixabay.com/photos/sausage-bread-buns-vegetables-556489/ | Dreblow | Pixabay Content License |
+| photos/xdce7097893c8.webp | Наурыз көже | https://commons.wikimedia.org/wiki/File:Navruzkozhe.jpg | Beqery | CC BY-SA 4.0 |
+| photos/xc774ba6cb0a6.webp | Балқаймақ | https://pixabay.com/photos/pancakes-pancake-week-treats-food-1265878/ | amoreganopa | Pixabay Content License |
+| photos/xa3b1e91ea0f1.webp | Хе из рыбы | https://pixabay.com/photos/food-dining-korean-korean-food-1358238/ | Lisy_ | Pixabay Content License |
+| photos/x043a7f8b6c21.webp | Кукси | https://pixabay.com/photos/korean-food-pyongyang-cold-noodles-2489214/ | macintoy | Pixabay Content License |
+| photos/xed46682b66a4.webp | Чапчхе | https://pixabay.com/photos/japchae-korean-cuisine-noodles-10220569/ | tifanitopan | Pixabay Content License |
+| photos/x4b63c9c6a7d1.webp | Кимпаб | https://pixabay.com/photos/kimbab-food-korean-sushi-lunch-7400440/ | subarasikiai | Pixabay Content License |
+| photos/x024493b0d04e.webp | Самгетан | https://pixabay.com/photos/samgyetang-ginseng-chicken-soup-7528024/ | lpegasu | Pixabay Content License |
+| photos/xff160241ceac.webp | Пачжон | https://commons.wikimedia.org/wiki/File:Pajeon_(spring_onion_pancake)_-_Kogi,_Brighton.jpg | Andy Li | CC0 |
+| photos/x6e04cf87fcc4.webp | Тонкацу | https://pixabay.com/photos/pork-tonkatsu-japanese-meal-1690696/ | takedahrs | Pixabay Content License |
+| photos/x06dd97800018.webp | Оякодон | https://pixabay.com/photos/egg-bowl-of-rice-japanese-food-food-72285/ | PublicDomainPictures | Pixabay Content License |
+| photos/x5db9ce7d5c08.webp | Гюдон | https://pixabay.com/photos/gyudon-beef-egg-bowl-rice-japan-10214748/ | tifanitopan | Pixabay Content License |
+| photos/x8104b6b52a5b.webp | Тамагояки | https://commons.wikimedia.org/wiki/File:Tamagoyaki_01.JPG | Asacyan | CC BY-SA 3.0 |
+| photos/x8bed2f959274.webp | Удон с курицей | https://pixabay.com/photos/soup-noodles-udon-japanese-cook-2225143/ | DominiqueVince | Pixabay Content License |
+| photos/x36ccd0a5484a.webp | Окономияки | https://pixabay.com/photos/okonomiyaki-japanese-cuisine-10214744/ | tifanitopan | Pixabay Content License |
+| photos/x8de603099511.webp | Карааге | https://pixabay.com/photos/chicken-karaage-japanese-food-5644762/ | juno1412 | Pixabay Content License |
+| photos/xa7b13c60fdb3.webp | Салат Нисуаз | https://pixabay.com/photos/salad-nicoise-tuna-healthy-5470315/ | AmandaE | Pixabay Content License |
+| photos/x3d53a264418b.webp | Салат Вальдорф | https://pixabay.com/photos/waldorf-salad-celery-apple-3212344/ | RitaE | Pixabay Content License |
+| photos/xcd991cebfdf3.webp | Омлет как в детском саду | https://pixabay.com/photos/food-omlette-breakfast-delicious-4046229/ | OrnaW | Pixabay Content License |
+| photos/x3d31a8b2d064.webp | Сэндвич с яйцом и ветчиной | https://pixabay.com/photos/bacon-bread-breakfast-delicious-2178770/ | Pexels | Pixabay Content License |
+| photos/x97ea13fba7ab.webp | Ленивая овсянка в банке | https://pixabay.com/photos/breakfast-raspberries-yoghurt-7279558/ | Smacznadietetyka | Pixabay Content License |
