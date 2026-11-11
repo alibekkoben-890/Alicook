@@ -1812,8 +1812,8 @@
 "clip": "a photo of Chicken and pineapple salad"
 },
 "695": {
-"prompt": "Food photo of Achichuk salad: thin sliced tomatoes and white onion rings with herbs on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Achichuk salad: thin sliced tomatoes and white onion rings with herbs on a plate"
+"prompt": "Food photo of a fresh salad of sliced red tomatoes and thin raw onion half-rings with chopped herbs, served in a bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of tomato and onion salad"
 },
 "696": {
 "prompt": "Food photo of Shopska salad: tomatoes, cucumbers, peppers topped with grated white cheese, served in a salad bowl, on a wooden table, natural light, appetizing, high detail",
@@ -2296,8 +2296,11 @@
 "clip": "a photo of Square slice of cottage cheese casserole with berries on a plate"
 },
 "926": {
-"prompt": "Food photo of Sugar-free baked apples with cinnamon, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Sugar-free baked apples with cinnamon"
+"prompt": "Food photo of whole baked red apples with cinnamon, soft wrinkled skin, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of baked apples",
+"avoid": [
+"rice balls"
+]
 },
 "927": {
 "prompt": "Food photo of Oatmeal with nuts (no sugar), served in a bowl, on a wooden table, natural light, appetizing, high detail",
@@ -2512,8 +2515,11 @@
 "clip": "a photo of round baked meat pie cut in wedges"
 },
 "1012": {
-"prompt": "Food photo of Georgian tkemali: red-green plum sauce in a small bowl with herbs and garlic, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Georgian tkemali: red-green plum sauce in a small bowl with herbs and garlic"
+"prompt": "Food photo of a small bowl of smooth plum sauce, with fresh plums, garlic and dill beside it, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of plum sauce in a bowl",
+"avoid": [
+"a stew"
+]
 },
 "1013": {
 "prompt": "Food photo of Georgian adjika: red spicy pepper paste in a small bowl with garlic and herbs, on a wooden table, natural light, appetizing, high detail",
@@ -3556,8 +3562,11 @@
 "clip": "a photo of Mongolian baked meat pies, golden buns on a plate"
 },
 "1443": {
-"prompt": "Food photo of slices of boiled horse meat on a platter, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of slices of boiled horse meat on a platter"
+"prompt": "Food photo of slices of boiled horse meat, cooked brown-grey meat with onion rings and broth, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of boiled meat slices",
+"avoid": [
+"raw meat"
+]
 },
 "1444": {
 "prompt": "Food photo of fried noodles with meat in a pan, on a wooden table, natural light, appetizing, high detail",

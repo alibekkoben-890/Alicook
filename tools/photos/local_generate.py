@@ -8,7 +8,9 @@ description and penalises typical failures (a burger, fried eggs, a figurine, te
 plate...). The best candidate is kept; small copies of all candidates are kept for manual review.
 
 Reads tools/photos/localgen.json:
-  {"ids": [...], "steps": 6, "candidates": 4, "seed_offset": 0}
+  {"ids": [...], "steps": 6, "candidates": 4, "seed_offset": 0, "pick": {"<id>": k}}
+"pick" overrides the CLIP choice with a candidate chosen by a person after review
+(the same seed reproduces the same candidates).
 and tools/photos/prompts_v2.json: {"<id>": {"prompt": "...", "clip": "...", "avoid": [...]}}.
 SHARD / SHARDS env vars split the ids between parallel jobs.
 Writes out/photos/<id>.webp (384 px), out/cands/<id>_<k>.webp (192 px) and out/meta-<shard>.json.
@@ -66,6 +68,8 @@ for rid in ids:
     avoid = [a for a in GENERIC_AVOID + d.get("avoid", []) if a.split()[-1].rstrip("s") not in title]
     total, good, bad = score(ims, d["clip"], avoid)
     best = max(range(len(ims)), key=lambda k: total[k])
+    if rid in cfg.get("pick", {}):  # manual choice after review
+        best = int(cfg["pick"][rid])
     for k, im in enumerate(ims):
         c = im.copy(); c.thumbnail((192, 192)); c.save(f"out/cands/{rid}_{k}.webp", "WEBP", quality=70)
     im = ims[best]; im.thumbnail((size, size))
