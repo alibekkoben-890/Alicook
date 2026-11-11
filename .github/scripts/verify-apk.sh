@@ -51,4 +51,11 @@ ok "permissions: $(sed -n "s/^uses-permission: name='\([^']*\)'.*/\1/p" "$RUNNER
 unzip -p "$APK" assets/index.html | grep -q 'catalog' || fail "assets/index.html missing from APK"
 ok "assets/index.html packaged"
 
+# 7. Report what is inside, so the build log shows it
+ICONS=$(unzip -l "$APK" | grep -c 'assets/icons/.*\.svg' || true)
+PHOTOS=$(unzip -l "$APK" | grep -c 'assets/photos/' || true)
+ICON_RECIPES=$(unzip -p "$APK" assets/index.html | grep -o '"photo":"icons/' | wc -l)
+APPVER=$(unzip -p "$APK" assets/index.html | grep -o 'id="app-version">[^<]*' | head -1)
+echo "Inside APK: $ICONS icon files, $PHOTOS photo files, $ICON_RECIPES recipes with icons, $APPVER"
+
 echo "All checks passed"
