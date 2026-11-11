@@ -5,7 +5,7 @@ set -euo pipefail
 APK="$1"
 EXPECTED_CERT="f5f72d4211957b520ce9b3310b6ad7613bd9ecf5152081f3f416a0228fd486e0"
 MIN_TARGET_SDK=35
-ALLOWED_PERMISSIONS="android.permission.INTERNET"
+ALLOWED_PERMISSIONS="android.permission.INTERNET android.permission.VIBRATE"
 
 fail() { echo "::error::$1"; exit 1; }
 ok() { echo "OK: $1"; }
@@ -43,7 +43,7 @@ ok "targetSdk $TARGET"
 
 # 5. No extra permissions
 EXTRA=$(sed -n "s/^uses-permission: name='\([^']*\)'.*/\1/p" "$RUNNER_TEMP/badging.txt" \
-  | grep -vxF -e $ALLOWED_PERMISSIONS || true)
+  | grep -vxF $(for p in $ALLOWED_PERMISSIONS; do printf -- "-e %s " "$p"; done) || true)
 [ -z "$EXTRA" ] || fail "Unexpected permissions: $(echo $EXTRA)"
 ok "permissions: $(sed -n "s/^uses-permission: name='\([^']*\)'.*/\1/p" "$RUNNER_TEMP/badging.txt" | tr '\n' ' ')"
 
