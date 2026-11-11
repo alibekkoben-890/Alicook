@@ -4,1145 +4,2208 @@
 Генерируйте пачками по 10 и присылайте в чат с пометкой «партия N» в том же порядке.
 Квадратное или горизонтальное изображение, без текста на картинке.
 
-
 ## Партия 1
 
 1. **Плов с говядиной** (№8)  
-   `Realistic appetizing food photograph of Beef pilaf (beef, dry rice, carrots, onion, garlic), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+   `Realistic appetizing food photograph of Beef pilaf (Uzbek dish), made with beef, carrots, dry rice, onion, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 2. **Тушёная капуста** (№20)  
-   `Realistic appetizing food photograph of Braised cabbage (cabbage, carrots, onion, tomato paste), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+   `Realistic appetizing food photograph of Braised cabbage, made with cabbage, carrots, onion, tomato paste, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 3. **Овощное рагу** (№21)  
-   `Realistic appetizing food photograph of Vegetable stew (zucchini, eggplant, potatoes, sweet pepper, tomatoes, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+   `Realistic appetizing food photograph of Vegetable stew, made with zucchini, eggplant, potatoes, tomatoes, sweet pepper, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 4. **Запечённая рыба** (№22)  
-   `Realistic appetizing food photograph of Baked fish (fish fillet, lemon), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Рисовая каша** (№26)  
-   `Realistic appetizing food photograph of Rice porridge (rice, milk, butter), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **Курица с гречкой** (№30)  
-   `Realistic appetizing food photograph of Chicken with buckwheat (chicken, dry buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Запечённая тыква** (№34)  
-   `Realistic appetizing food photograph of Baked pumpkin (pumpkin, honey), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Творожная запеканка** (№35)  
-   `Realistic appetizing food photograph of Cottage cheese casserole (cottage cheese, egg, semolina, sugar, sour cream), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Лаваш с сыром** (№37)  
-   `Realistic appetizing food photograph of Cheese lavash wrap (lavash flatbread, cheese, tomatoes), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Куриное филе с рисом** (№42)  
-   `Realistic appetizing food photograph of Chicken fillet with rice (chicken fillet, rice, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+   `Realistic appetizing food photograph of Baked fish, made with fish fillet, lemon, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Овсяная каша** (№24)  
+   `Realistic appetizing food photograph of Oatmeal, made with milk, rolled oats, butter, home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Рисовая каша** (№26)  
+   `Realistic appetizing food photograph of Rice porridge, made with milk, rice, butter, home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Салат из капусты** (№28)  
+   `Realistic appetizing food photograph of Cabbage salad, made with cabbage, carrots, lemon juice, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Курица с гречкой** (№30)  
+   `Realistic appetizing food photograph of Chicken with buckwheat, made with chicken, dry buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Запечённая тыква** (№34)  
+   `Realistic appetizing food photograph of Baked pumpkin, made with pumpkin, honey, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Лаваш с сыром** (№37)  
+   `Realistic appetizing food photograph of Cheese lavash wrap, made with lavash flatbread, cheese, tomatoes, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 2
 
-1. **Куриное филе с гречкой** (№43)  
-   `Realistic appetizing food photograph of Chicken fillet with buckwheat (chicken fillet, buckwheat, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Куриное филе с овощами** (№44)  
-   `Realistic appetizing food photograph of Chicken fillet with vegetables (chicken fillet, zucchini, carrots, sweet pepper, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Индейка с рисом** (№46)  
-   `Realistic appetizing food photograph of Turkey with rice (turkey, dry rice, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Индейка с гречкой** (№47)  
-   `Realistic appetizing food photograph of Turkey with buckwheat (turkey, dry buckwheat, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Индейка с овощами** (№48)  
-   `Realistic appetizing food photograph of Turkey with vegetables (turkey, zucchini, carrots, sweet pepper, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **Говядина с рисом** (№50)  
-   `Realistic appetizing food photograph of Beef with rice (beef, dry rice, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Говядина с гречкой** (№51)  
-   `Realistic appetizing food photograph of Beef with buckwheat (beef, dry buckwheat, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Говядина с овощами** (№52)  
-   `Realistic appetizing food photograph of Beef with vegetables (beef, zucchini, carrots, sweet pepper, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Баранина с рисом** (№54)  
-   `Realistic appetizing food photograph of Lamb with rice (lamb, dry rice, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Баранина с гречкой** (№55)  
-   `Realistic appetizing food photograph of Lamb with buckwheat (lamb, dry buckwheat, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Куриное филе с рисом** (№42)  
+   `Realistic appetizing food photograph of Chicken fillet with rice, made with chicken fillet, rice, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Куриное филе с гречкой** (№43)  
+   `Realistic appetizing food photograph of Chicken fillet with buckwheat, made with chicken fillet, buckwheat, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Куриное филе с овощами** (№44)  
+   `Realistic appetizing food photograph of Chicken fillet with vegetables, made with chicken fillet, zucchini, carrots, sweet pepper, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Индейка с рисом** (№46)  
+   `Realistic appetizing food photograph of Turkey with rice, made with turkey, dry rice, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Индейка с гречкой** (№47)  
+   `Realistic appetizing food photograph of Turkey with buckwheat, made with turkey, dry buckwheat, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Индейка с овощами** (№48)  
+   `Realistic appetizing food photograph of Turkey with vegetables, made with turkey, zucchini, carrots, sweet pepper, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Говядина с рисом** (№50)  
+   `Realistic appetizing food photograph of Beef with rice, made with beef, dry rice, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Говядина с гречкой** (№51)  
+   `Realistic appetizing food photograph of Beef with buckwheat, made with beef, dry buckwheat, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Говядина с овощами** (№52)  
+   `Realistic appetizing food photograph of Beef with vegetables, made with beef, zucchini, carrots, sweet pepper, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Баранина с рисом** (№54)  
+   `Realistic appetizing food photograph of Lamb with rice, made with lamb, dry rice, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 3
 
-1. **Баранина с овощами** (№56)  
-   `Realistic appetizing food photograph of Lamb with vegetables (lamb, zucchini, carrots, sweet pepper, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Крольчатина с картофелем** (№57)  
-   `Realistic appetizing food photograph of Rabbit with potatoes (rabbit, potatoes, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Крольчатина с рисом** (№58)  
-   `Realistic appetizing food photograph of Rabbit with rice (rabbit, dry rice, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Крольчатина с гречкой** (№59)  
-   `Realistic appetizing food photograph of Rabbit with buckwheat (rabbit, dry buckwheat, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Крольчатина с овощами** (№60)  
-   `Realistic appetizing food photograph of Rabbit with vegetables (rabbit, zucchini, carrots, sweet pepper, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **Свинина с рисом** (№62)  
-   `Realistic appetizing food photograph of Pork with rice (pork, dry rice, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Свинина с гречкой** (№63)  
-   `Realistic appetizing food photograph of Pork with buckwheat (pork, dry buckwheat, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Свинина с овощами** (№64)  
-   `Realistic appetizing food photograph of Pork with vegetables (pork, zucchini, carrots, sweet pepper, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Филе индейки с картофелем** (№65)  
-   `Realistic appetizing food photograph of Turkey fillet with potatoes (turkey fillet, potatoes, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Филе индейки с рисом** (№66)  
-   `Realistic appetizing food photograph of Turkey fillet with rice (turkey fillet, rice, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Баранина с гречкой** (№55)  
+   `Realistic appetizing food photograph of Lamb with buckwheat, made with lamb, dry buckwheat, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Баранина с овощами** (№56)  
+   `Realistic appetizing food photograph of Lamb with vegetables, made with lamb, zucchini, carrots, sweet pepper, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Крольчатина с картофелем** (№57)  
+   `Realistic appetizing food photograph of Rabbit with potatoes, made with potatoes, rabbit, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Крольчатина с рисом** (№58)  
+   `Realistic appetizing food photograph of Rabbit with rice, made with rabbit, dry rice, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Крольчатина с гречкой** (№59)  
+   `Realistic appetizing food photograph of Rabbit with buckwheat, made with rabbit, dry buckwheat, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Крольчатина с овощами** (№60)  
+   `Realistic appetizing food photograph of Rabbit with vegetables, made with rabbit, zucchini, carrots, sweet pepper, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Свинина с рисом** (№62)  
+   `Realistic appetizing food photograph of Pork with rice, made with pork, dry rice, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Свинина с гречкой** (№63)  
+   `Realistic appetizing food photograph of Pork with buckwheat, made with pork, dry buckwheat, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Свинина с овощами** (№64)  
+   `Realistic appetizing food photograph of Pork with vegetables, made with pork, zucchini, carrots, sweet pepper, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Филе индейки с картофелем** (№65)  
+   `Realistic appetizing food photograph of Turkey fillet with potatoes, made with potatoes, turkey fillet, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 4
 
-1. **Филе индейки с гречкой** (№67)  
-   `Realistic appetizing food photograph of Turkey fillet with buckwheat (turkey fillet, buckwheat, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Филе индейки с овощами** (№68)  
-   `Realistic appetizing food photograph of Turkey fillet with vegetables (turkey fillet, mixed vegetables, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Сазан в духовке** (№69)  
-   `Realistic appetizing food photograph of Oven-baked common carp (common carp, lemon, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Щука в духовке** (№72)  
-   `Realistic appetizing food photograph of Oven-baked pike (pike, lemon, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Сом в духовке** (№73)  
-   `Realistic appetizing food photograph of Oven-baked catfish (catfish, lemon, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **Осётр в духовке** (№74)  
-   `Realistic appetizing food photograph of Oven-baked sturgeon (sturgeon, lemon, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Хек в духовке** (№79)  
-   `Realistic appetizing food photograph of Oven-baked hake (hake, lemon, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Горбуша в духовке** (№80)  
-   `Realistic appetizing food photograph of Oven-baked pink salmon (pink salmon, lemon, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная курица с рисом** (№88)  
-   `Realistic appetizing food photograph of Braised chicken with rice (chicken fillet, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая курица с рисом** (№89)  
-   `Realistic appetizing food photograph of Baked chicken with rice (chicken fillet, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Филе индейки с рисом** (№66)  
+   `Realistic appetizing food photograph of Turkey fillet with rice, made with turkey fillet, rice, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Филе индейки с гречкой** (№67)  
+   `Realistic appetizing food photograph of Turkey fillet with buckwheat, made with turkey fillet, buckwheat, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Филе индейки с овощами** (№68)  
+   `Realistic appetizing food photograph of Turkey fillet with vegetables, made with mixed vegetables, turkey fillet, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Сазан в духовке** (№69)  
+   `Realistic appetizing food photograph of Oven-baked common carp, made with common carp, onion, lemon, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Щука в духовке** (№72)  
+   `Realistic appetizing food photograph of Oven-baked pike, made with pike, onion, lemon, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Сом в духовке** (№73)  
+   `Realistic appetizing food photograph of Oven-baked catfish, made with catfish, onion, lemon, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Осётр в духовке** (№74)  
+   `Realistic appetizing food photograph of Oven-baked sturgeon, made with sturgeon, onion, lemon, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Хек в духовке** (№79)  
+   `Realistic appetizing food photograph of Oven-baked hake, made with hake, onion, lemon, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Горбуша в духовке** (№80)  
+   `Realistic appetizing food photograph of Oven-baked pink salmon, made with pink salmon, onion, lemon, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Морковь в духовке** (№87)  
+   `Realistic appetizing food photograph of Oven-roasted carrots, made with carrots, garlic, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 5
 
-1. **На сковороде: курица и рис** (№90)  
-   `Realistic appetizing food photograph of Pan-fried chicken with rice (chicken fillet, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с курица и рис** (№91)  
-   `Realistic appetizing food photograph of Chicken and rice soup (chicken fillet, rice, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с курица и рис** (№92)  
-   `Realistic appetizing food photograph of Chicken and rice stew (chicken fillet, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная курица с гречкой** (№93)  
-   `Realistic appetizing food photograph of Braised chicken with buckwheat (chicken fillet, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая курица с гречкой** (№94)  
-   `Realistic appetizing food photograph of Baked chicken with buckwheat (chicken fillet, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: курица и гречка** (№95)  
-   `Realistic appetizing food photograph of Pan-fried chicken with buckwheat (chicken fillet, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с курица и гречка** (№96)  
-   `Realistic appetizing food photograph of Chicken and buckwheat soup (chicken fillet, buckwheat, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с курица и гречка** (№97)  
-   `Realistic appetizing food photograph of Chicken and buckwheat stew (chicken fillet, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёная курица с рисом** (№88)  
+   `Realistic appetizing food photograph of Braised chicken with rice, made with chicken fillet, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённая курица с рисом** (№89)  
+   `Realistic appetizing food photograph of Baked chicken with rice, made with chicken fillet, rice, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Курица с рисом на сковороде** (№90)  
+   `Realistic appetizing food photograph of Pan-fried chicken with rice, made with chicken fillet, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с курицей и рисом** (№91)  
+   `Realistic appetizing food photograph of Chicken and rice soup, made with chicken fillet, rice, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёная курица с гречкой** (№93)  
+   `Realistic appetizing food photograph of Braised chicken with buckwheat, made with chicken fillet, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённая курица с гречкой** (№94)  
+   `Realistic appetizing food photograph of Baked chicken with buckwheat, made with chicken fillet, buckwheat, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Курица с гречкой на сковороде** (№95)  
+   `Realistic appetizing food photograph of Pan-fried chicken with buckwheat, made with chicken fillet, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с курицей и гречкой** (№96)  
+   `Realistic appetizing food photograph of Chicken and buckwheat soup, made with chicken fillet, buckwheat, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 9. **Тушёная курица с булгуром** (№98)  
-   `Realistic appetizing food photograph of Braised chicken with bulgur (chicken fillet, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+   `Realistic appetizing food photograph of Braised chicken with bulgur, made with chicken fillet, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 10. **Запечённая курица с булгуром** (№99)  
-   `Realistic appetizing food photograph of Baked chicken with bulgur (chicken fillet, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+   `Realistic appetizing food photograph of Baked chicken with bulgur, made with chicken fillet, bulgur, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 6
 
-1. **На сковороде: курица и булгур** (№100)  
-   `Realistic appetizing food photograph of Pan-fried chicken with bulgur (chicken fillet, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с курица и булгур** (№101)  
-   `Realistic appetizing food photograph of Chicken and bulgur soup (chicken fillet, bulgur, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с курица и булгур** (№102)  
-   `Realistic appetizing food photograph of Chicken and bulgur stew (chicken fillet, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная курица с макаронами** (№103)  
-   `Realistic appetizing food photograph of Braised chicken with pasta (chicken fillet, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая курица с макаронами** (№104)  
-   `Realistic appetizing food photograph of Baked chicken with pasta (chicken fillet, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: курица и макароны** (№105)  
-   `Realistic appetizing food photograph of Pan-fried chicken with pasta (chicken fillet, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с курица и макароны** (№106)  
-   `Realistic appetizing food photograph of Chicken and pasta soup (chicken fillet, pasta, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с курица и макароны** (№107)  
-   `Realistic appetizing food photograph of Chicken and pasta stew (chicken fillet, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная курица с картофелем** (№108)  
-   `Realistic appetizing food photograph of Braised chicken with potatoes (chicken fillet, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая курица с картофелем** (№109)  
-   `Realistic appetizing food photograph of Baked chicken with potatoes (chicken fillet, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Курица с булгуром на сковороде** (№100)  
+   `Realistic appetizing food photograph of Pan-fried chicken with bulgur, made with chicken fillet, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с курицей и булгуром** (№101)  
+   `Realistic appetizing food photograph of Chicken and bulgur soup, made with chicken fillet, bulgur, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёная курица с макаронами** (№103)  
+   `Realistic appetizing food photograph of Braised chicken with pasta, made with chicken fillet, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённая курица с макаронами** (№104)  
+   `Realistic appetizing food photograph of Baked chicken with pasta, made with chicken fillet, pasta, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Курица с макаронами на сковороде** (№105)  
+   `Realistic appetizing food photograph of Pan-fried chicken with pasta, made with chicken fillet, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с курицей и макаронами** (№106)  
+   `Realistic appetizing food photograph of Chicken and pasta soup, made with chicken fillet, pasta, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёная курица с картофелем** (№108)  
+   `Realistic appetizing food photograph of Braised chicken with potatoes, made with potatoes, chicken fillet, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённая курица с картофелем** (№109)  
+   `Realistic appetizing food photograph of Baked chicken with potatoes, made with potatoes, chicken fillet, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Курица с картофелем на сковороде** (№110)  
+   `Realistic appetizing food photograph of Pan-fried chicken with potatoes, made with potatoes, chicken fillet, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с курицей и картофелем** (№111)  
+   `Realistic appetizing food photograph of Chicken and potatoes soup, made with potatoes, chicken fillet, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 7
 
-1. **На сковороде: курица и картофель** (№110)  
-   `Realistic appetizing food photograph of Pan-fried chicken with potatoes (chicken fillet, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с курица и картофель** (№111)  
-   `Realistic appetizing food photograph of Chicken and potatoes soup (chicken fillet, potatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с курица и картофель** (№112)  
-   `Realistic appetizing food photograph of Chicken and potatoes stew (chicken fillet, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная курица с капустой** (№113)  
-   `Realistic appetizing food photograph of Braised chicken with cabbage (chicken fillet, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая курица с капустой** (№114)  
-   `Realistic appetizing food photograph of Baked chicken with cabbage (chicken fillet, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: курица и капуста** (№115)  
-   `Realistic appetizing food photograph of Pan-fried chicken with cabbage (chicken fillet, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с курица и капуста** (№116)  
-   `Realistic appetizing food photograph of Chicken and cabbage soup (chicken fillet, cabbage, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с курица и капуста** (№117)  
-   `Realistic appetizing food photograph of Chicken and cabbage stew (chicken fillet, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная курица с морковью** (№118)  
-   `Realistic appetizing food photograph of Braised chicken with carrots (chicken fillet, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая курица с морковью** (№119)  
-   `Realistic appetizing food photograph of Baked chicken with carrots (chicken fillet, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёная курица с капустой** (№113)  
+   `Realistic appetizing food photograph of Braised chicken with cabbage, made with chicken fillet, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённая курица с капустой** (№114)  
+   `Realistic appetizing food photograph of Baked chicken with cabbage, made with chicken fillet, cabbage, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Курица с капустой на сковороде** (№115)  
+   `Realistic appetizing food photograph of Pan-fried chicken with cabbage, made with chicken fillet, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с курицей и капустой** (№116)  
+   `Realistic appetizing food photograph of Chicken and cabbage soup, made with chicken fillet, cabbage, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёная курица с морковью** (№118)  
+   `Realistic appetizing food photograph of Braised chicken with carrots, made with chicken fillet, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённая курица с морковью** (№119)  
+   `Realistic appetizing food photograph of Baked chicken with carrots, made with chicken fillet, carrots, onion, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Курица с морковью на сковороде** (№120)  
+   `Realistic appetizing food photograph of Pan-fried chicken with carrots, made with chicken fillet, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с курицей и морковью** (№121)  
+   `Realistic appetizing food photograph of Chicken and carrots soup, made with chicken fillet, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёная курица с кабачками** (№123)  
+   `Realistic appetizing food photograph of Braised chicken with zucchini, made with chicken fillet, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённая курица с кабачками** (№124)  
+   `Realistic appetizing food photograph of Baked chicken with zucchini, made with chicken fillet, zucchini, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 8
 
-1. **На сковороде: курица и морковь** (№120)  
-   `Realistic appetizing food photograph of Pan-fried chicken with carrots (chicken fillet, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с курица и морковь** (№121)  
-   `Realistic appetizing food photograph of Chicken and carrots soup (chicken fillet, carrots, onion), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с курица и морковь** (№122)  
-   `Realistic appetizing food photograph of Chicken and carrots stew (chicken fillet, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная курица с кабачками** (№123)  
-   `Realistic appetizing food photograph of Braised chicken with zucchini (chicken fillet, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая курица с кабачками** (№124)  
-   `Realistic appetizing food photograph of Baked chicken with zucchini (chicken fillet, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: курица и кабачки** (№125)  
-   `Realistic appetizing food photograph of Pan-fried chicken with zucchini (chicken fillet, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с курица и кабачки** (№126)  
-   `Realistic appetizing food photograph of Chicken and zucchini soup (chicken fillet, zucchini, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с курица и кабачки** (№127)  
-   `Realistic appetizing food photograph of Chicken and zucchini stew (chicken fillet, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная курица с помидорами** (№128)  
-   `Realistic appetizing food photograph of Braised chicken with tomatoes (chicken fillet, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая курица с помидорами** (№129)  
-   `Realistic appetizing food photograph of Baked chicken with tomatoes (chicken fillet, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Курица с кабачками на сковороде** (№125)  
+   `Realistic appetizing food photograph of Pan-fried chicken with zucchini, made with chicken fillet, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с курицей и кабачками** (№126)  
+   `Realistic appetizing food photograph of Chicken and zucchini soup, made with chicken fillet, zucchini, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёная курица с помидорами** (№128)  
+   `Realistic appetizing food photograph of Braised chicken with tomatoes, made with chicken fillet, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённая курица с помидорами** (№129)  
+   `Realistic appetizing food photograph of Baked chicken with tomatoes, made with chicken fillet, tomatoes, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Курица с помидорами на сковороде** (№130)  
+   `Realistic appetizing food photograph of Pan-fried chicken with tomatoes, made with chicken fillet, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с курицей и помидорами** (№131)  
+   `Realistic appetizing food photograph of Chicken and tomatoes soup, made with chicken fillet, tomatoes, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёная курица с болгарским перцем** (№133)  
+   `Realistic appetizing food photograph of Braised chicken with bell peppers, made with chicken fillet, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённая курица с болгарским перцем** (№134)  
+   `Realistic appetizing food photograph of Baked chicken with bell peppers, made with chicken fillet, bell pepper, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Курица с болгарским перцем на сковороде** (№135)  
+   `Realistic appetizing food photograph of Pan-fried chicken with bell peppers, made with chicken fillet, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с курицей и болгарским перцем** (№136)  
+   `Realistic appetizing food photograph of Chicken and bell peppers soup, made with chicken fillet, bell pepper, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 9
 
-1. **На сковороде: курица и помидоры** (№130)  
-   `Realistic appetizing food photograph of Pan-fried chicken with tomatoes (chicken fillet, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с курица и помидоры** (№131)  
-   `Realistic appetizing food photograph of Chicken and tomatoes soup (chicken fillet, tomatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с курица и помидоры** (№132)  
-   `Realistic appetizing food photograph of Chicken and tomatoes stew (chicken fillet, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная курица с болгарским перцем** (№133)  
-   `Realistic appetizing food photograph of Braised chicken with болгарским перцем (chicken fillet, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая курица с болгарским перцем** (№134)  
-   `Realistic appetizing food photograph of Baked chicken with болгарским перцем (chicken fillet, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: курица и болгарский перец** (№135)  
-   `Realistic appetizing food photograph of Pan-fried chicken with bell peppers (chicken fillet, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с курица и болгарский перец** (№136)  
-   `Realistic appetizing food photograph of Chicken and bell peppers soup (chicken fillet, bell pepper, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с курица и болгарский перец** (№137)  
-   `Realistic appetizing food photograph of Chicken and bell peppers stew (chicken fillet, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная индейка с рисом** (№138)  
-   `Realistic appetizing food photograph of Braised turkey with rice (turkey fillet, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая индейка с рисом** (№139)  
-   `Realistic appetizing food photograph of Baked turkey with rice (turkey fillet, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёная индейка с рисом** (№138)  
+   `Realistic appetizing food photograph of Braised turkey with rice, made with turkey fillet, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённая индейка с рисом** (№139)  
+   `Realistic appetizing food photograph of Baked turkey with rice, made with turkey fillet, rice, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Индейка с рисом на сковороде** (№140)  
+   `Realistic appetizing food photograph of Pan-fried turkey with rice, made with turkey fillet, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с индейкой и рисом** (№141)  
+   `Realistic appetizing food photograph of Turkey and rice soup, made with turkey fillet, rice, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёная индейка с гречкой** (№143)  
+   `Realistic appetizing food photograph of Braised turkey with buckwheat, made with turkey fillet, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённая индейка с гречкой** (№144)  
+   `Realistic appetizing food photograph of Baked turkey with buckwheat, made with turkey fillet, buckwheat, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Индейка с гречкой на сковороде** (№145)  
+   `Realistic appetizing food photograph of Pan-fried turkey with buckwheat, made with turkey fillet, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с индейкой и гречкой** (№146)  
+   `Realistic appetizing food photograph of Turkey and buckwheat soup, made with turkey fillet, buckwheat, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёная индейка с булгуром** (№148)  
+   `Realistic appetizing food photograph of Braised turkey with bulgur, made with turkey fillet, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённая индейка с булгуром** (№149)  
+   `Realistic appetizing food photograph of Baked turkey with bulgur, made with turkey fillet, bulgur, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 10
 
-1. **На сковороде: индейка и рис** (№140)  
-   `Realistic appetizing food photograph of Pan-fried turkey with rice (turkey fillet, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с индейка и рис** (№141)  
-   `Realistic appetizing food photograph of Turkey and rice soup (turkey fillet, rice, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с индейка и рис** (№142)  
-   `Realistic appetizing food photograph of Turkey and rice stew (turkey fillet, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная индейка с гречкой** (№143)  
-   `Realistic appetizing food photograph of Braised turkey with buckwheat (turkey fillet, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая индейка с гречкой** (№144)  
-   `Realistic appetizing food photograph of Baked turkey with buckwheat (turkey fillet, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: индейка и гречка** (№145)  
-   `Realistic appetizing food photograph of Pan-fried turkey with buckwheat (turkey fillet, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с индейка и гречка** (№146)  
-   `Realistic appetizing food photograph of Turkey and buckwheat soup (turkey fillet, buckwheat, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с индейка и гречка** (№147)  
-   `Realistic appetizing food photograph of Turkey and buckwheat stew (turkey fillet, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная индейка с булгуром** (№148)  
-   `Realistic appetizing food photograph of Braised turkey with bulgur (turkey fillet, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая индейка с булгуром** (№149)  
-   `Realistic appetizing food photograph of Baked turkey with bulgur (turkey fillet, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Индейка с булгуром на сковороде** (№150)  
+   `Realistic appetizing food photograph of Pan-fried turkey with bulgur, made with turkey fillet, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с индейкой и булгуром** (№151)  
+   `Realistic appetizing food photograph of Turkey and bulgur soup, made with turkey fillet, bulgur, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёная индейка с макаронами** (№153)  
+   `Realistic appetizing food photograph of Braised turkey with pasta, made with turkey fillet, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённая индейка с макаронами** (№154)  
+   `Realistic appetizing food photograph of Baked turkey with pasta, made with turkey fillet, pasta, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Индейка с макаронами на сковороде** (№155)  
+   `Realistic appetizing food photograph of Pan-fried turkey with pasta, made with turkey fillet, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с индейкой и макаронами** (№156)  
+   `Realistic appetizing food photograph of Turkey and pasta soup, made with turkey fillet, pasta, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёная индейка с картофелем** (№158)  
+   `Realistic appetizing food photograph of Braised turkey with potatoes, made with potatoes, turkey fillet, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённая индейка с картофелем** (№159)  
+   `Realistic appetizing food photograph of Baked turkey with potatoes, made with potatoes, turkey fillet, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Индейка с картофелем на сковороде** (№160)  
+   `Realistic appetizing food photograph of Pan-fried turkey with potatoes, made with potatoes, turkey fillet, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с индейкой и картофелем** (№161)  
+   `Realistic appetizing food photograph of Turkey and potatoes soup, made with potatoes, turkey fillet, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 11
 
-1. **На сковороде: индейка и булгур** (№150)  
-   `Realistic appetizing food photograph of Pan-fried turkey with bulgur (turkey fillet, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с индейка и булгур** (№151)  
-   `Realistic appetizing food photograph of Turkey and bulgur soup (turkey fillet, bulgur, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с индейка и булгур** (№152)  
-   `Realistic appetizing food photograph of Turkey and bulgur stew (turkey fillet, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная индейка с макаронами** (№153)  
-   `Realistic appetizing food photograph of Braised turkey with pasta (turkey fillet, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая индейка с макаронами** (№154)  
-   `Realistic appetizing food photograph of Baked turkey with pasta (turkey fillet, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: индейка и макароны** (№155)  
-   `Realistic appetizing food photograph of Pan-fried turkey with pasta (turkey fillet, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с индейка и макароны** (№156)  
-   `Realistic appetizing food photograph of Turkey and pasta soup (turkey fillet, pasta, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с индейка и макароны** (№157)  
-   `Realistic appetizing food photograph of Turkey and pasta stew (turkey fillet, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная индейка с картофелем** (№158)  
-   `Realistic appetizing food photograph of Braised turkey with potatoes (turkey fillet, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая индейка с картофелем** (№159)  
-   `Realistic appetizing food photograph of Baked turkey with potatoes (turkey fillet, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёная индейка с капустой** (№163)  
+   `Realistic appetizing food photograph of Braised turkey with cabbage, made with turkey fillet, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённая индейка с капустой** (№164)  
+   `Realistic appetizing food photograph of Baked turkey with cabbage, made with turkey fillet, cabbage, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Индейка с капустой на сковороде** (№165)  
+   `Realistic appetizing food photograph of Pan-fried turkey with cabbage, made with turkey fillet, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с индейкой и капустой** (№166)  
+   `Realistic appetizing food photograph of Turkey and cabbage soup, made with turkey fillet, cabbage, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёная индейка с морковью** (№168)  
+   `Realistic appetizing food photograph of Braised turkey with carrots, made with turkey fillet, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённая индейка с морковью** (№169)  
+   `Realistic appetizing food photograph of Baked turkey with carrots, made with turkey fillet, carrots, onion, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Индейка с морковью на сковороде** (№170)  
+   `Realistic appetizing food photograph of Pan-fried turkey with carrots, made with turkey fillet, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с индейкой и морковью** (№171)  
+   `Realistic appetizing food photograph of Turkey and carrots soup, made with turkey fillet, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёная индейка с кабачками** (№173)  
+   `Realistic appetizing food photograph of Braised turkey with zucchini, made with turkey fillet, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённая индейка с кабачками** (№174)  
+   `Realistic appetizing food photograph of Baked turkey with zucchini, made with turkey fillet, zucchini, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 12
 
-1. **На сковороде: индейка и картофель** (№160)  
-   `Realistic appetizing food photograph of Pan-fried turkey with potatoes (turkey fillet, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с индейка и картофель** (№161)  
-   `Realistic appetizing food photograph of Turkey and potatoes soup (turkey fillet, potatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с индейка и картофель** (№162)  
-   `Realistic appetizing food photograph of Turkey and potatoes stew (turkey fillet, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная индейка с капустой** (№163)  
-   `Realistic appetizing food photograph of Braised turkey with cabbage (turkey fillet, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая индейка с капустой** (№164)  
-   `Realistic appetizing food photograph of Baked turkey with cabbage (turkey fillet, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: индейка и капуста** (№165)  
-   `Realistic appetizing food photograph of Pan-fried turkey with cabbage (turkey fillet, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с индейка и капуста** (№166)  
-   `Realistic appetizing food photograph of Turkey and cabbage soup (turkey fillet, cabbage, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с индейка и капуста** (№167)  
-   `Realistic appetizing food photograph of Turkey and cabbage stew (turkey fillet, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная индейка с морковью** (№168)  
-   `Realistic appetizing food photograph of Braised turkey with carrots (turkey fillet, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая индейка с морковью** (№169)  
-   `Realistic appetizing food photograph of Baked turkey with carrots (turkey fillet, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Индейка с кабачками на сковороде** (№175)  
+   `Realistic appetizing food photograph of Pan-fried turkey with zucchini, made with turkey fillet, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с индейкой и кабачками** (№176)  
+   `Realistic appetizing food photograph of Turkey and zucchini soup, made with turkey fillet, zucchini, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёная индейка с помидорами** (№178)  
+   `Realistic appetizing food photograph of Braised turkey with tomatoes, made with turkey fillet, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённая индейка с помидорами** (№179)  
+   `Realistic appetizing food photograph of Baked turkey with tomatoes, made with turkey fillet, tomatoes, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Индейка с помидорами на сковороде** (№180)  
+   `Realistic appetizing food photograph of Pan-fried turkey with tomatoes, made with turkey fillet, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с индейкой и помидорами** (№181)  
+   `Realistic appetizing food photograph of Turkey and tomatoes soup, made with turkey fillet, tomatoes, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёная индейка с болгарским перцем** (№183)  
+   `Realistic appetizing food photograph of Braised turkey with bell peppers, made with turkey fillet, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённая индейка с болгарским перцем** (№184)  
+   `Realistic appetizing food photograph of Baked turkey with bell peppers, made with turkey fillet, bell pepper, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Индейка с болгарским перцем на сковороде** (№185)  
+   `Realistic appetizing food photograph of Pan-fried turkey with bell peppers, made with turkey fillet, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с индейкой и болгарским перцем** (№186)  
+   `Realistic appetizing food photograph of Turkey and bell peppers soup, made with turkey fillet, bell pepper, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 13
 
-1. **На сковороде: индейка и морковь** (№170)  
-   `Realistic appetizing food photograph of Pan-fried turkey with carrots (turkey fillet, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с индейка и морковь** (№171)  
-   `Realistic appetizing food photograph of Turkey and carrots soup (turkey fillet, carrots, onion), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с индейка и морковь** (№172)  
-   `Realistic appetizing food photograph of Turkey and carrots stew (turkey fillet, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная индейка с кабачками** (№173)  
-   `Realistic appetizing food photograph of Braised turkey with zucchini (turkey fillet, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая индейка с кабачками** (№174)  
-   `Realistic appetizing food photograph of Baked turkey with zucchini (turkey fillet, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: индейка и кабачки** (№175)  
-   `Realistic appetizing food photograph of Pan-fried turkey with zucchini (turkey fillet, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с индейка и кабачки** (№176)  
-   `Realistic appetizing food photograph of Turkey and zucchini soup (turkey fillet, zucchini, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с индейка и кабачки** (№177)  
-   `Realistic appetizing food photograph of Turkey and zucchini stew (turkey fillet, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная индейка с помидорами** (№178)  
-   `Realistic appetizing food photograph of Braised turkey with tomatoes (turkey fillet, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая индейка с помидорами** (№179)  
-   `Realistic appetizing food photograph of Baked turkey with tomatoes (turkey fillet, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёная говядина с рисом** (№188)  
+   `Realistic appetizing food photograph of Braised beef with rice, made with beef, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённая говядина с рисом** (№189)  
+   `Realistic appetizing food photograph of Baked beef with rice, made with beef, rice, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Говядина с рисом на сковороде** (№190)  
+   `Realistic appetizing food photograph of Pan-fried beef with rice, made with beef, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с говядиной и рисом** (№191)  
+   `Realistic appetizing food photograph of Beef and rice soup, made with beef, rice, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёная говядина с гречкой** (№193)  
+   `Realistic appetizing food photograph of Braised beef with buckwheat, made with beef, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённая говядина с гречкой** (№194)  
+   `Realistic appetizing food photograph of Baked beef with buckwheat, made with beef, buckwheat, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Говядина с гречкой на сковороде** (№195)  
+   `Realistic appetizing food photograph of Pan-fried beef with buckwheat, made with beef, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с говядиной и гречкой** (№196)  
+   `Realistic appetizing food photograph of Beef and buckwheat soup, made with beef, buckwheat, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёная говядина с булгуром** (№198)  
+   `Realistic appetizing food photograph of Braised beef with bulgur, made with beef, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённая говядина с булгуром** (№199)  
+   `Realistic appetizing food photograph of Baked beef with bulgur, made with beef, bulgur, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 14
 
-1. **На сковороде: индейка и помидоры** (№180)  
-   `Realistic appetizing food photograph of Pan-fried turkey with tomatoes (turkey fillet, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с индейка и помидоры** (№181)  
-   `Realistic appetizing food photograph of Turkey and tomatoes soup (turkey fillet, tomatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с индейка и помидоры** (№182)  
-   `Realistic appetizing food photograph of Turkey and tomatoes stew (turkey fillet, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная индейка с болгарским перцем** (№183)  
-   `Realistic appetizing food photograph of Braised turkey with болгарским перцем (turkey fillet, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая индейка с болгарским перцем** (№184)  
-   `Realistic appetizing food photograph of Baked turkey with болгарским перцем (turkey fillet, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: индейка и болгарский перец** (№185)  
-   `Realistic appetizing food photograph of Pan-fried turkey with bell peppers (turkey fillet, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с индейка и болгарский перец** (№186)  
-   `Realistic appetizing food photograph of Turkey and bell peppers soup (turkey fillet, bell pepper, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с индейка и болгарский перец** (№187)  
-   `Realistic appetizing food photograph of Turkey and bell peppers stew (turkey fillet, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная говядина с рисом** (№188)  
-   `Realistic appetizing food photograph of Braised beef with rice (beef, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая говядина с рисом** (№189)  
-   `Realistic appetizing food photograph of Baked beef with rice (beef, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Говядина с булгуром на сковороде** (№200)  
+   `Realistic appetizing food photograph of Pan-fried beef with bulgur, made with beef, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с говядиной и булгуром** (№201)  
+   `Realistic appetizing food photograph of Beef and bulgur soup, made with beef, bulgur, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёная говядина с макаронами** (№203)  
+   `Realistic appetizing food photograph of Braised beef with pasta, made with beef, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённая говядина с макаронами** (№204)  
+   `Realistic appetizing food photograph of Baked beef with pasta, made with beef, pasta, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Говядина с макаронами на сковороде** (№205)  
+   `Realistic appetizing food photograph of Pan-fried beef with pasta, made with beef, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с говядиной и макаронами** (№206)  
+   `Realistic appetizing food photograph of Beef and pasta soup, made with beef, pasta, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёная говядина с картофелем** (№208)  
+   `Realistic appetizing food photograph of Braised beef with potatoes, made with potatoes, beef, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённая говядина с картофелем** (№209)  
+   `Realistic appetizing food photograph of Baked beef with potatoes, made with potatoes, beef, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Говядина с картофелем на сковороде** (№210)  
+   `Realistic appetizing food photograph of Pan-fried beef with potatoes, made with potatoes, beef, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с говядиной и картофелем** (№211)  
+   `Realistic appetizing food photograph of Beef and potatoes soup, made with potatoes, beef, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 15
 
-1. **На сковороде: говядина и рис** (№190)  
-   `Realistic appetizing food photograph of Pan-fried beef with rice (beef, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с говядина и рис** (№191)  
-   `Realistic appetizing food photograph of Beef and rice soup (beef, rice, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с говядина и рис** (№192)  
-   `Realistic appetizing food photograph of Beef and rice stew (beef, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная говядина с гречкой** (№193)  
-   `Realistic appetizing food photograph of Braised beef with buckwheat (beef, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая говядина с гречкой** (№194)  
-   `Realistic appetizing food photograph of Baked beef with buckwheat (beef, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: говядина и гречка** (№195)  
-   `Realistic appetizing food photograph of Pan-fried beef with buckwheat (beef, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с говядина и гречка** (№196)  
-   `Realistic appetizing food photograph of Beef and buckwheat soup (beef, buckwheat, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с говядина и гречка** (№197)  
-   `Realistic appetizing food photograph of Beef and buckwheat stew (beef, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная говядина с булгуром** (№198)  
-   `Realistic appetizing food photograph of Braised beef with bulgur (beef, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая говядина с булгуром** (№199)  
-   `Realistic appetizing food photograph of Baked beef with bulgur (beef, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёная говядина с капустой** (№213)  
+   `Realistic appetizing food photograph of Braised beef with cabbage, made with beef, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённая говядина с капустой** (№214)  
+   `Realistic appetizing food photograph of Baked beef with cabbage, made with beef, cabbage, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Говядина с капустой на сковороде** (№215)  
+   `Realistic appetizing food photograph of Pan-fried beef with cabbage, made with beef, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с говядиной и капустой** (№216)  
+   `Realistic appetizing food photograph of Beef and cabbage soup, made with beef, cabbage, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёная говядина с морковью** (№218)  
+   `Realistic appetizing food photograph of Braised beef with carrots, made with beef, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённая говядина с морковью** (№219)  
+   `Realistic appetizing food photograph of Baked beef with carrots, made with beef, carrots, onion, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Говядина с морковью на сковороде** (№220)  
+   `Realistic appetizing food photograph of Pan-fried beef with carrots, made with beef, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с говядиной и морковью** (№221)  
+   `Realistic appetizing food photograph of Beef and carrots soup, made with beef, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёная говядина с кабачками** (№223)  
+   `Realistic appetizing food photograph of Braised beef with zucchini, made with beef, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённая говядина с кабачками** (№224)  
+   `Realistic appetizing food photograph of Baked beef with zucchini, made with beef, zucchini, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 16
 
-1. **На сковороде: говядина и булгур** (№200)  
-   `Realistic appetizing food photograph of Pan-fried beef with bulgur (beef, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с говядина и булгур** (№201)  
-   `Realistic appetizing food photograph of Beef and bulgur soup (beef, bulgur, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с говядина и булгур** (№202)  
-   `Realistic appetizing food photograph of Beef and bulgur stew (beef, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная говядина с макаронами** (№203)  
-   `Realistic appetizing food photograph of Braised beef with pasta (beef, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая говядина с макаронами** (№204)  
-   `Realistic appetizing food photograph of Baked beef with pasta (beef, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: говядина и макароны** (№205)  
-   `Realistic appetizing food photograph of Pan-fried beef with pasta (beef, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с говядина и макароны** (№206)  
-   `Realistic appetizing food photograph of Beef and pasta soup (beef, pasta, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с говядина и макароны** (№207)  
-   `Realistic appetizing food photograph of Beef and pasta stew (beef, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная говядина с картофелем** (№208)  
-   `Realistic appetizing food photograph of Braised beef with potatoes (beef, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая говядина с картофелем** (№209)  
-   `Realistic appetizing food photograph of Baked beef with potatoes (beef, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Говядина с кабачками на сковороде** (№225)  
+   `Realistic appetizing food photograph of Pan-fried beef with zucchini, made with beef, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с говядиной и кабачками** (№226)  
+   `Realistic appetizing food photograph of Beef and zucchini soup, made with beef, zucchini, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёная говядина с помидорами** (№228)  
+   `Realistic appetizing food photograph of Braised beef with tomatoes, made with beef, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённая говядина с помидорами** (№229)  
+   `Realistic appetizing food photograph of Baked beef with tomatoes, made with beef, tomatoes, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Говядина с помидорами на сковороде** (№230)  
+   `Realistic appetizing food photograph of Pan-fried beef with tomatoes, made with beef, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с говядиной и помидорами** (№231)  
+   `Realistic appetizing food photograph of Beef and tomatoes soup, made with beef, tomatoes, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёная говядина с болгарским перцем** (№233)  
+   `Realistic appetizing food photograph of Braised beef with bell peppers, made with beef, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённая говядина с болгарским перцем** (№234)  
+   `Realistic appetizing food photograph of Baked beef with bell peppers, made with beef, bell pepper, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Говядина с болгарским перцем на сковороде** (№235)  
+   `Realistic appetizing food photograph of Pan-fried beef with bell peppers, made with beef, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с говядиной и болгарским перцем** (№236)  
+   `Realistic appetizing food photograph of Beef and bell peppers soup, made with beef, bell pepper, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 17
 
-1. **На сковороде: говядина и картофель** (№210)  
-   `Realistic appetizing food photograph of Pan-fried beef with potatoes (beef, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с говядина и картофель** (№211)  
-   `Realistic appetizing food photograph of Beef and potatoes soup (beef, potatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с говядина и картофель** (№212)  
-   `Realistic appetizing food photograph of Beef and potatoes stew (beef, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная говядина с капустой** (№213)  
-   `Realistic appetizing food photograph of Braised beef with cabbage (beef, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая говядина с капустой** (№214)  
-   `Realistic appetizing food photograph of Baked beef with cabbage (beef, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: говядина и капуста** (№215)  
-   `Realistic appetizing food photograph of Pan-fried beef with cabbage (beef, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с говядина и капуста** (№216)  
-   `Realistic appetizing food photograph of Beef and cabbage soup (beef, cabbage, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с говядина и капуста** (№217)  
-   `Realistic appetizing food photograph of Beef and cabbage stew (beef, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная говядина с морковью** (№218)  
-   `Realistic appetizing food photograph of Braised beef with carrots (beef, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая говядина с морковью** (№219)  
-   `Realistic appetizing food photograph of Baked beef with carrots (beef, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёная баранина с рисом** (№238)  
+   `Realistic appetizing food photograph of Braised lamb with rice, made with lamb, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённая баранина с рисом** (№239)  
+   `Realistic appetizing food photograph of Baked lamb with rice, made with lamb, rice, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Баранина с рисом на сковороде** (№240)  
+   `Realistic appetizing food photograph of Pan-fried lamb with rice, made with lamb, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с бараниной и рисом** (№241)  
+   `Realistic appetizing food photograph of Lamb and rice soup, made with lamb, rice, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёная баранина с гречкой** (№243)  
+   `Realistic appetizing food photograph of Braised lamb with buckwheat, made with lamb, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённая баранина с гречкой** (№244)  
+   `Realistic appetizing food photograph of Baked lamb with buckwheat, made with lamb, buckwheat, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Баранина с гречкой на сковороде** (№245)  
+   `Realistic appetizing food photograph of Pan-fried lamb with buckwheat, made with lamb, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с бараниной и гречкой** (№246)  
+   `Realistic appetizing food photograph of Lamb and buckwheat soup, made with lamb, buckwheat, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёная баранина с булгуром** (№248)  
+   `Realistic appetizing food photograph of Braised lamb with bulgur, made with lamb, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённая баранина с булгуром** (№249)  
+   `Realistic appetizing food photograph of Baked lamb with bulgur, made with lamb, bulgur, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 18
 
-1. **На сковороде: говядина и морковь** (№220)  
-   `Realistic appetizing food photograph of Pan-fried beef with carrots (beef, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с говядина и морковь** (№221)  
-   `Realistic appetizing food photograph of Beef and carrots soup (beef, carrots, onion), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с говядина и морковь** (№222)  
-   `Realistic appetizing food photograph of Beef and carrots stew (beef, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная говядина с кабачками** (№223)  
-   `Realistic appetizing food photograph of Braised beef with zucchini (beef, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая говядина с кабачками** (№224)  
-   `Realistic appetizing food photograph of Baked beef with zucchini (beef, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: говядина и кабачки** (№225)  
-   `Realistic appetizing food photograph of Pan-fried beef with zucchini (beef, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с говядина и кабачки** (№226)  
-   `Realistic appetizing food photograph of Beef and zucchini soup (beef, zucchini, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с говядина и кабачки** (№227)  
-   `Realistic appetizing food photograph of Beef and zucchini stew (beef, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная говядина с помидорами** (№228)  
-   `Realistic appetizing food photograph of Braised beef with tomatoes (beef, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая говядина с помидорами** (№229)  
-   `Realistic appetizing food photograph of Baked beef with tomatoes (beef, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Баранина с булгуром на сковороде** (№250)  
+   `Realistic appetizing food photograph of Pan-fried lamb with bulgur, made with lamb, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с бараниной и булгуром** (№251)  
+   `Realistic appetizing food photograph of Lamb and bulgur soup, made with lamb, bulgur, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёная баранина с макаронами** (№253)  
+   `Realistic appetizing food photograph of Braised lamb with pasta, made with lamb, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённая баранина с макаронами** (№254)  
+   `Realistic appetizing food photograph of Baked lamb with pasta, made with lamb, pasta, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Баранина с макаронами на сковороде** (№255)  
+   `Realistic appetizing food photograph of Pan-fried lamb with pasta, made with lamb, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с бараниной и макаронами** (№256)  
+   `Realistic appetizing food photograph of Lamb and pasta soup, made with lamb, pasta, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёная баранина с картофелем** (№258)  
+   `Realistic appetizing food photograph of Braised lamb with potatoes, made with potatoes, lamb, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённая баранина с картофелем** (№259)  
+   `Realistic appetizing food photograph of Baked lamb with potatoes, made with potatoes, lamb, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Баранина с картофелем на сковороде** (№260)  
+   `Realistic appetizing food photograph of Pan-fried lamb with potatoes, made with potatoes, lamb, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с бараниной и картофелем** (№261)  
+   `Realistic appetizing food photograph of Lamb and potatoes soup, made with potatoes, lamb, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 19
 
-1. **На сковороде: говядина и помидоры** (№230)  
-   `Realistic appetizing food photograph of Pan-fried beef with tomatoes (beef, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с говядина и помидоры** (№231)  
-   `Realistic appetizing food photograph of Beef and tomatoes soup (beef, tomatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с говядина и помидоры** (№232)  
-   `Realistic appetizing food photograph of Beef and tomatoes stew (beef, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная говядина с болгарским перцем** (№233)  
-   `Realistic appetizing food photograph of Braised beef with болгарским перцем (beef, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая говядина с болгарским перцем** (№234)  
-   `Realistic appetizing food photograph of Baked beef with болгарским перцем (beef, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: говядина и болгарский перец** (№235)  
-   `Realistic appetizing food photograph of Pan-fried beef with bell peppers (beef, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с говядина и болгарский перец** (№236)  
-   `Realistic appetizing food photograph of Beef and bell peppers soup (beef, bell pepper, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с говядина и болгарский перец** (№237)  
-   `Realistic appetizing food photograph of Beef and bell peppers stew (beef, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная баранина с рисом** (№238)  
-   `Realistic appetizing food photograph of Braised lamb with rice (lamb, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая баранина с рисом** (№239)  
-   `Realistic appetizing food photograph of Baked lamb with rice (lamb, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёная баранина с капустой** (№263)  
+   `Realistic appetizing food photograph of Braised lamb with cabbage, made with lamb, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённая баранина с капустой** (№264)  
+   `Realistic appetizing food photograph of Baked lamb with cabbage, made with lamb, cabbage, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Баранина с капустой на сковороде** (№265)  
+   `Realistic appetizing food photograph of Pan-fried lamb with cabbage, made with lamb, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с бараниной и капустой** (№266)  
+   `Realistic appetizing food photograph of Lamb and cabbage soup, made with lamb, cabbage, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёная баранина с морковью** (№268)  
+   `Realistic appetizing food photograph of Braised lamb with carrots, made with lamb, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённая баранина с морковью** (№269)  
+   `Realistic appetizing food photograph of Baked lamb with carrots, made with lamb, carrots, onion, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Баранина с морковью на сковороде** (№270)  
+   `Realistic appetizing food photograph of Pan-fried lamb with carrots, made with lamb, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с бараниной и морковью** (№271)  
+   `Realistic appetizing food photograph of Lamb and carrots soup, made with lamb, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёная баранина с кабачками** (№273)  
+   `Realistic appetizing food photograph of Braised lamb with zucchini, made with lamb, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённая баранина с кабачками** (№274)  
+   `Realistic appetizing food photograph of Baked lamb with zucchini, made with lamb, zucchini, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 20
 
-1. **На сковороде: баранина и рис** (№240)  
-   `Realistic appetizing food photograph of Pan-fried lamb with rice (lamb, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с баранина и рис** (№241)  
-   `Realistic appetizing food photograph of Lamb and rice soup (lamb, rice, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с баранина и рис** (№242)  
-   `Realistic appetizing food photograph of Lamb and rice stew (lamb, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная баранина с гречкой** (№243)  
-   `Realistic appetizing food photograph of Braised lamb with buckwheat (lamb, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая баранина с гречкой** (№244)  
-   `Realistic appetizing food photograph of Baked lamb with buckwheat (lamb, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: баранина и гречка** (№245)  
-   `Realistic appetizing food photograph of Pan-fried lamb with buckwheat (lamb, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с баранина и гречка** (№246)  
-   `Realistic appetizing food photograph of Lamb and buckwheat soup (lamb, buckwheat, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с баранина и гречка** (№247)  
-   `Realistic appetizing food photograph of Lamb and buckwheat stew (lamb, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная баранина с булгуром** (№248)  
-   `Realistic appetizing food photograph of Braised lamb with bulgur (lamb, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая баранина с булгуром** (№249)  
-   `Realistic appetizing food photograph of Baked lamb with bulgur (lamb, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Баранина с кабачками на сковороде** (№275)  
+   `Realistic appetizing food photograph of Pan-fried lamb with zucchini, made with lamb, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с бараниной и кабачками** (№276)  
+   `Realistic appetizing food photograph of Lamb and zucchini soup, made with lamb, zucchini, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёная баранина с помидорами** (№278)  
+   `Realistic appetizing food photograph of Braised lamb with tomatoes, made with lamb, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённая баранина с помидорами** (№279)  
+   `Realistic appetizing food photograph of Baked lamb with tomatoes, made with lamb, tomatoes, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Баранина с помидорами на сковороде** (№280)  
+   `Realistic appetizing food photograph of Pan-fried lamb with tomatoes, made with lamb, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с бараниной и помидорами** (№281)  
+   `Realistic appetizing food photograph of Lamb and tomatoes soup, made with lamb, tomatoes, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёная баранина с болгарским перцем** (№283)  
+   `Realistic appetizing food photograph of Braised lamb with bell peppers, made with lamb, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённая баранина с болгарским перцем** (№284)  
+   `Realistic appetizing food photograph of Baked lamb with bell peppers, made with lamb, bell pepper, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Баранина с болгарским перцем на сковороде** (№285)  
+   `Realistic appetizing food photograph of Pan-fried lamb with bell peppers, made with lamb, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с бараниной и болгарским перцем** (№286)  
+   `Realistic appetizing food photograph of Lamb and bell peppers soup, made with lamb, bell pepper, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 21
 
-1. **На сковороде: баранина и булгур** (№250)  
-   `Realistic appetizing food photograph of Pan-fried lamb with bulgur (lamb, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с баранина и булгур** (№251)  
-   `Realistic appetizing food photograph of Lamb and bulgur soup (lamb, bulgur, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с баранина и булгур** (№252)  
-   `Realistic appetizing food photograph of Lamb and bulgur stew (lamb, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная баранина с макаронами** (№253)  
-   `Realistic appetizing food photograph of Braised lamb with pasta (lamb, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая баранина с макаронами** (№254)  
-   `Realistic appetizing food photograph of Baked lamb with pasta (lamb, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: баранина и макароны** (№255)  
-   `Realistic appetizing food photograph of Pan-fried lamb with pasta (lamb, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с баранина и макароны** (№256)  
-   `Realistic appetizing food photograph of Lamb and pasta soup (lamb, pasta, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с баранина и макароны** (№257)  
-   `Realistic appetizing food photograph of Lamb and pasta stew (lamb, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная баранина с картофелем** (№258)  
-   `Realistic appetizing food photograph of Braised lamb with potatoes (lamb, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая баранина с картофелем** (№259)  
-   `Realistic appetizing food photograph of Baked lamb with potatoes (lamb, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёный фарш с рисом** (№288)  
+   `Realistic appetizing food photograph of Braised ground meat with rice, made with minced meat, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённый фарш с рисом** (№289)  
+   `Realistic appetizing food photograph of Baked ground meat with rice, made with minced meat, rice, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Фарш с рисом на сковороде** (№290)  
+   `Realistic appetizing food photograph of Pan-fried ground meat with rice, made with minced meat, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с фаршем и рисом** (№291)  
+   `Realistic appetizing food photograph of Ground meat and rice soup, made with minced meat, rice, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёный фарш с гречкой** (№293)  
+   `Realistic appetizing food photograph of Braised ground meat with buckwheat, made with minced meat, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённый фарш с гречкой** (№294)  
+   `Realistic appetizing food photograph of Baked ground meat with buckwheat, made with minced meat, buckwheat, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Фарш с гречкой на сковороде** (№295)  
+   `Realistic appetizing food photograph of Pan-fried ground meat with buckwheat, made with minced meat, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с фаршем и гречкой** (№296)  
+   `Realistic appetizing food photograph of Ground meat and buckwheat soup, made with minced meat, buckwheat, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёный фарш с булгуром** (№298)  
+   `Realistic appetizing food photograph of Braised ground meat with bulgur, made with minced meat, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённый фарш с булгуром** (№299)  
+   `Realistic appetizing food photograph of Baked ground meat with bulgur, made with minced meat, bulgur, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 22
 
-1. **На сковороде: баранина и картофель** (№260)  
-   `Realistic appetizing food photograph of Pan-fried lamb with potatoes (lamb, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с баранина и картофель** (№261)  
-   `Realistic appetizing food photograph of Lamb and potatoes soup (lamb, potatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с баранина и картофель** (№262)  
-   `Realistic appetizing food photograph of Lamb and potatoes stew (lamb, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная баранина с капустой** (№263)  
-   `Realistic appetizing food photograph of Braised lamb with cabbage (lamb, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая баранина с капустой** (№264)  
-   `Realistic appetizing food photograph of Baked lamb with cabbage (lamb, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: баранина и капуста** (№265)  
-   `Realistic appetizing food photograph of Pan-fried lamb with cabbage (lamb, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с баранина и капуста** (№266)  
-   `Realistic appetizing food photograph of Lamb and cabbage soup (lamb, cabbage, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с баранина и капуста** (№267)  
-   `Realistic appetizing food photograph of Lamb and cabbage stew (lamb, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная баранина с морковью** (№268)  
-   `Realistic appetizing food photograph of Braised lamb with carrots (lamb, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая баранина с морковью** (№269)  
-   `Realistic appetizing food photograph of Baked lamb with carrots (lamb, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Фарш с булгуром на сковороде** (№300)  
+   `Realistic appetizing food photograph of Pan-fried ground meat with bulgur, made with minced meat, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с фаршем и булгуром** (№301)  
+   `Realistic appetizing food photograph of Ground meat and bulgur soup, made with minced meat, bulgur, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёный фарш с макаронами** (№303)  
+   `Realistic appetizing food photograph of Braised ground meat with pasta, made with minced meat, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённый фарш с макаронами** (№304)  
+   `Realistic appetizing food photograph of Baked ground meat with pasta, made with minced meat, pasta, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Фарш с макаронами на сковороде** (№305)  
+   `Realistic appetizing food photograph of Pan-fried ground meat with pasta, made with minced meat, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с фаршем и макаронами** (№306)  
+   `Realistic appetizing food photograph of Ground meat and pasta soup, made with minced meat, pasta, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёный фарш с картофелем** (№308)  
+   `Realistic appetizing food photograph of Braised ground meat with potatoes, made with potatoes, minced meat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённый фарш с картофелем** (№309)  
+   `Realistic appetizing food photograph of Baked ground meat with potatoes, made with potatoes, minced meat, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Фарш с картофелем на сковороде** (№310)  
+   `Realistic appetizing food photograph of Pan-fried ground meat with potatoes, made with potatoes, minced meat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с фаршем и картофелем** (№311)  
+   `Realistic appetizing food photograph of Ground meat and potatoes soup, made with potatoes, minced meat, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 23
 
-1. **На сковороде: баранина и морковь** (№270)  
-   `Realistic appetizing food photograph of Pan-fried lamb with carrots (lamb, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с баранина и морковь** (№271)  
-   `Realistic appetizing food photograph of Lamb and carrots soup (lamb, carrots, onion), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с баранина и морковь** (№272)  
-   `Realistic appetizing food photograph of Lamb and carrots stew (lamb, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная баранина с кабачками** (№273)  
-   `Realistic appetizing food photograph of Braised lamb with zucchini (lamb, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая баранина с кабачками** (№274)  
-   `Realistic appetizing food photograph of Baked lamb with zucchini (lamb, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: баранина и кабачки** (№275)  
-   `Realistic appetizing food photograph of Pan-fried lamb with zucchini (lamb, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с баранина и кабачки** (№276)  
-   `Realistic appetizing food photograph of Lamb and zucchini soup (lamb, zucchini, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с баранина и кабачки** (№277)  
-   `Realistic appetizing food photograph of Lamb and zucchini stew (lamb, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная баранина с помидорами** (№278)  
-   `Realistic appetizing food photograph of Braised lamb with tomatoes (lamb, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая баранина с помидорами** (№279)  
-   `Realistic appetizing food photograph of Baked lamb with tomatoes (lamb, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёный фарш с капустой** (№313)  
+   `Realistic appetizing food photograph of Braised ground meat with cabbage, made with minced meat, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённый фарш с капустой** (№314)  
+   `Realistic appetizing food photograph of Baked ground meat with cabbage, made with minced meat, cabbage, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Фарш с капустой на сковороде** (№315)  
+   `Realistic appetizing food photograph of Pan-fried ground meat with cabbage, made with minced meat, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с фаршем и капустой** (№316)  
+   `Realistic appetizing food photograph of Ground meat and cabbage soup, made with minced meat, cabbage, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёный фарш с морковью** (№318)  
+   `Realistic appetizing food photograph of Braised ground meat with carrots, made with minced meat, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённый фарш с морковью** (№319)  
+   `Realistic appetizing food photograph of Baked ground meat with carrots, made with minced meat, carrots, onion, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Фарш с морковью на сковороде** (№320)  
+   `Realistic appetizing food photograph of Pan-fried ground meat with carrots, made with minced meat, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с фаршем и морковью** (№321)  
+   `Realistic appetizing food photograph of Ground meat and carrots soup, made with minced meat, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёный фарш с кабачками** (№323)  
+   `Realistic appetizing food photograph of Braised ground meat with zucchini, made with minced meat, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённый фарш с кабачками** (№324)  
+   `Realistic appetizing food photograph of Baked ground meat with zucchini, made with minced meat, zucchini, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 24
 
-1. **На сковороде: баранина и помидоры** (№280)  
-   `Realistic appetizing food photograph of Pan-fried lamb with tomatoes (lamb, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с баранина и помидоры** (№281)  
-   `Realistic appetizing food photograph of Lamb and tomatoes soup (lamb, tomatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с баранина и помидоры** (№282)  
-   `Realistic appetizing food photograph of Lamb and tomatoes stew (lamb, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная баранина с болгарским перцем** (№283)  
-   `Realistic appetizing food photograph of Braised lamb with болгарским перцем (lamb, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая баранина с болгарским перцем** (№284)  
-   `Realistic appetizing food photograph of Baked lamb with болгарским перцем (lamb, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: баранина и болгарский перец** (№285)  
-   `Realistic appetizing food photograph of Pan-fried lamb with bell peppers (lamb, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с баранина и болгарский перец** (№286)  
-   `Realistic appetizing food photograph of Lamb and bell peppers soup (lamb, bell pepper, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с баранина и болгарский перец** (№287)  
-   `Realistic appetizing food photograph of Lamb and bell peppers stew (lamb, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная фарш с рисом** (№288)  
-   `Realistic appetizing food photograph of Braised фарш with rice (minced meat, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая фарш с рисом** (№289)  
-   `Realistic appetizing food photograph of Baked фарш with rice (minced meat, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Фарш с кабачками на сковороде** (№325)  
+   `Realistic appetizing food photograph of Pan-fried ground meat with zucchini, made with minced meat, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с фаршем и кабачками** (№326)  
+   `Realistic appetizing food photograph of Ground meat and zucchini soup, made with minced meat, zucchini, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёный фарш с помидорами** (№328)  
+   `Realistic appetizing food photograph of Braised ground meat with tomatoes, made with minced meat, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённый фарш с помидорами** (№329)  
+   `Realistic appetizing food photograph of Baked ground meat with tomatoes, made with minced meat, tomatoes, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Фарш с помидорами на сковороде** (№330)  
+   `Realistic appetizing food photograph of Pan-fried ground meat with tomatoes, made with minced meat, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с фаршем и помидорами** (№331)  
+   `Realistic appetizing food photograph of Ground meat and tomatoes soup, made with minced meat, tomatoes, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёный фарш с болгарским перцем** (№333)  
+   `Realistic appetizing food photograph of Braised ground meat with bell peppers, made with minced meat, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённый фарш с болгарским перцем** (№334)  
+   `Realistic appetizing food photograph of Baked ground meat with bell peppers, made with minced meat, bell pepper, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Фарш с болгарским перцем на сковороде** (№335)  
+   `Realistic appetizing food photograph of Pan-fried ground meat with bell peppers, made with minced meat, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с фаршем и болгарским перцем** (№336)  
+   `Realistic appetizing food photograph of Ground meat and bell peppers soup, made with minced meat, bell pepper, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 25
 
-1. **На сковороде: фарш и рис** (№290)  
-   `Realistic appetizing food photograph of Pan-fried фарш with rice (minced meat, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с фарш и рис** (№291)  
-   `Realistic appetizing food photograph of Фарш and rice soup (minced meat, rice, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с фарш и рис** (№292)  
-   `Realistic appetizing food photograph of Фарш and rice stew (minced meat, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная фарш с гречкой** (№293)  
-   `Realistic appetizing food photograph of Braised фарш with buckwheat (minced meat, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая фарш с гречкой** (№294)  
-   `Realistic appetizing food photograph of Baked фарш with buckwheat (minced meat, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: фарш и гречка** (№295)  
-   `Realistic appetizing food photograph of Pan-fried фарш with buckwheat (minced meat, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с фарш и гречка** (№296)  
-   `Realistic appetizing food photograph of Фарш and buckwheat soup (minced meat, buckwheat, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с фарш и гречка** (№297)  
-   `Realistic appetizing food photograph of Фарш and buckwheat stew (minced meat, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная фарш с булгуром** (№298)  
-   `Realistic appetizing food photograph of Braised фарш with bulgur (minced meat, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая фарш с булгуром** (№299)  
-   `Realistic appetizing food photograph of Baked фарш with bulgur (minced meat, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёная рыба с рисом** (№338)  
+   `Realistic appetizing food photograph of Braised fish with rice, made with fish fillet, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённая рыба с рисом** (№339)  
+   `Realistic appetizing food photograph of Baked fish with rice, made with fish fillet, rice, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Рыба с рисом на сковороде** (№340)  
+   `Realistic appetizing food photograph of Pan-fried fish with rice, made with fish fillet, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с рыбой и рисом** (№341)  
+   `Realistic appetizing food photograph of Fish and rice soup, made with fish fillet, rice, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёная рыба с гречкой** (№343)  
+   `Realistic appetizing food photograph of Braised fish with buckwheat, made with fish fillet, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённая рыба с гречкой** (№344)  
+   `Realistic appetizing food photograph of Baked fish with buckwheat, made with fish fillet, buckwheat, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Рыба с гречкой на сковороде** (№345)  
+   `Realistic appetizing food photograph of Pan-fried fish with buckwheat, made with fish fillet, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с рыбой и гречкой** (№346)  
+   `Realistic appetizing food photograph of Fish and buckwheat soup, made with fish fillet, buckwheat, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёная рыба с булгуром** (№348)  
+   `Realistic appetizing food photograph of Braised fish with bulgur, made with fish fillet, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённая рыба с булгуром** (№349)  
+   `Realistic appetizing food photograph of Baked fish with bulgur, made with fish fillet, bulgur, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 26
 
-1. **На сковороде: фарш и булгур** (№300)  
-   `Realistic appetizing food photograph of Pan-fried фарш with bulgur (minced meat, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с фарш и булгур** (№301)  
-   `Realistic appetizing food photograph of Фарш and bulgur soup (minced meat, bulgur, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с фарш и булгур** (№302)  
-   `Realistic appetizing food photograph of Фарш and bulgur stew (minced meat, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная фарш с макаронами** (№303)  
-   `Realistic appetizing food photograph of Braised фарш with pasta (minced meat, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая фарш с макаронами** (№304)  
-   `Realistic appetizing food photograph of Baked фарш with pasta (minced meat, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: фарш и макароны** (№305)  
-   `Realistic appetizing food photograph of Pan-fried фарш with pasta (minced meat, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с фарш и макароны** (№306)  
-   `Realistic appetizing food photograph of Фарш and pasta soup (minced meat, pasta, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с фарш и макароны** (№307)  
-   `Realistic appetizing food photograph of Фарш and pasta stew (minced meat, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная фарш с картофелем** (№308)  
-   `Realistic appetizing food photograph of Braised фарш with potatoes (minced meat, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая фарш с картофелем** (№309)  
-   `Realistic appetizing food photograph of Baked фарш with potatoes (minced meat, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Рыба с булгуром на сковороде** (№350)  
+   `Realistic appetizing food photograph of Pan-fried fish with bulgur, made with fish fillet, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с рыбой и булгуром** (№351)  
+   `Realistic appetizing food photograph of Fish and bulgur soup, made with fish fillet, bulgur, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёная рыба с макаронами** (№353)  
+   `Realistic appetizing food photograph of Braised fish with pasta, made with fish fillet, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённая рыба с макаронами** (№354)  
+   `Realistic appetizing food photograph of Baked fish with pasta, made with fish fillet, pasta, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Рыба с макаронами на сковороде** (№355)  
+   `Realistic appetizing food photograph of Pan-fried fish with pasta, made with fish fillet, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с рыбой и макаронами** (№356)  
+   `Realistic appetizing food photograph of Fish and pasta soup, made with fish fillet, pasta, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёная рыба с картофелем** (№358)  
+   `Realistic appetizing food photograph of Braised fish with potatoes, made with potatoes, fish fillet, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённая рыба с картофелем** (№359)  
+   `Realistic appetizing food photograph of Baked fish with potatoes, made with potatoes, fish fillet, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Рыба с картофелем на сковороде** (№360)  
+   `Realistic appetizing food photograph of Pan-fried fish with potatoes, made with potatoes, fish fillet, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с рыбой и картофелем** (№361)  
+   `Realistic appetizing food photograph of Fish and potatoes soup, made with potatoes, fish fillet, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 27
 
-1. **На сковороде: фарш и картофель** (№310)  
-   `Realistic appetizing food photograph of Pan-fried фарш with potatoes (minced meat, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с фарш и картофель** (№311)  
-   `Realistic appetizing food photograph of Фарш and potatoes soup (minced meat, potatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с фарш и картофель** (№312)  
-   `Realistic appetizing food photograph of Фарш and potatoes stew (minced meat, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная фарш с капустой** (№313)  
-   `Realistic appetizing food photograph of Braised фарш with cabbage (minced meat, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая фарш с капустой** (№314)  
-   `Realistic appetizing food photograph of Baked фарш with cabbage (minced meat, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: фарш и капуста** (№315)  
-   `Realistic appetizing food photograph of Pan-fried фарш with cabbage (minced meat, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с фарш и капуста** (№316)  
-   `Realistic appetizing food photograph of Фарш and cabbage soup (minced meat, cabbage, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с фарш и капуста** (№317)  
-   `Realistic appetizing food photograph of Фарш and cabbage stew (minced meat, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная фарш с морковью** (№318)  
-   `Realistic appetizing food photograph of Braised фарш with carrots (minced meat, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая фарш с морковью** (№319)  
-   `Realistic appetizing food photograph of Baked фарш with carrots (minced meat, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёная рыба с капустой** (№363)  
+   `Realistic appetizing food photograph of Braised fish with cabbage, made with fish fillet, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённая рыба с капустой** (№364)  
+   `Realistic appetizing food photograph of Baked fish with cabbage, made with fish fillet, cabbage, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Рыба с капустой на сковороде** (№365)  
+   `Realistic appetizing food photograph of Pan-fried fish with cabbage, made with fish fillet, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с рыбой и капустой** (№366)  
+   `Realistic appetizing food photograph of Fish and cabbage soup, made with fish fillet, cabbage, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёная рыба с морковью** (№368)  
+   `Realistic appetizing food photograph of Braised fish with carrots, made with fish fillet, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённая рыба с морковью** (№369)  
+   `Realistic appetizing food photograph of Baked fish with carrots, made with fish fillet, carrots, onion, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Рыба с морковью на сковороде** (№370)  
+   `Realistic appetizing food photograph of Pan-fried fish with carrots, made with fish fillet, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с рыбой и морковью** (№371)  
+   `Realistic appetizing food photograph of Fish and carrots soup, made with fish fillet, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёная рыба с кабачками** (№373)  
+   `Realistic appetizing food photograph of Braised fish with zucchini, made with fish fillet, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённая рыба с кабачками** (№374)  
+   `Realistic appetizing food photograph of Baked fish with zucchini, made with fish fillet, zucchini, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 28
 
-1. **На сковороде: фарш и морковь** (№320)  
-   `Realistic appetizing food photograph of Pan-fried фарш with carrots (minced meat, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с фарш и морковь** (№321)  
-   `Realistic appetizing food photograph of Фарш and carrots soup (minced meat, carrots, onion), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с фарш и морковь** (№322)  
-   `Realistic appetizing food photograph of Фарш and carrots stew (minced meat, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная фарш с кабачками** (№323)  
-   `Realistic appetizing food photograph of Braised фарш with zucchini (minced meat, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая фарш с кабачками** (№324)  
-   `Realistic appetizing food photograph of Baked фарш with zucchini (minced meat, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: фарш и кабачки** (№325)  
-   `Realistic appetizing food photograph of Pan-fried фарш with zucchini (minced meat, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с фарш и кабачки** (№326)  
-   `Realistic appetizing food photograph of Фарш and zucchini soup (minced meat, zucchini, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с фарш и кабачки** (№327)  
-   `Realistic appetizing food photograph of Фарш and zucchini stew (minced meat, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная фарш с помидорами** (№328)  
-   `Realistic appetizing food photograph of Braised фарш with tomatoes (minced meat, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая фарш с помидорами** (№329)  
-   `Realistic appetizing food photograph of Baked фарш with tomatoes (minced meat, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Рыба с кабачками на сковороде** (№375)  
+   `Realistic appetizing food photograph of Pan-fried fish with zucchini, made with fish fillet, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с рыбой и кабачками** (№376)  
+   `Realistic appetizing food photograph of Fish and zucchini soup, made with fish fillet, zucchini, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёная рыба с помидорами** (№378)  
+   `Realistic appetizing food photograph of Braised fish with tomatoes, made with fish fillet, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённая рыба с помидорами** (№379)  
+   `Realistic appetizing food photograph of Baked fish with tomatoes, made with fish fillet, tomatoes, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Рыба с помидорами на сковороде** (№380)  
+   `Realistic appetizing food photograph of Pan-fried fish with tomatoes, made with fish fillet, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с рыбой и помидорами** (№381)  
+   `Realistic appetizing food photograph of Fish and tomatoes soup, made with fish fillet, tomatoes, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёная рыба с болгарским перцем** (№383)  
+   `Realistic appetizing food photograph of Braised fish with bell peppers, made with fish fillet, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённая рыба с болгарским перцем** (№384)  
+   `Realistic appetizing food photograph of Baked fish with bell peppers, made with fish fillet, bell pepper, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Рыба с болгарским перцем на сковороде** (№385)  
+   `Realistic appetizing food photograph of Pan-fried fish with bell peppers, made with fish fillet, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с рыбой и болгарским перцем** (№386)  
+   `Realistic appetizing food photograph of Fish and bell peppers soup, made with fish fillet, bell pepper, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 29
 
-1. **На сковороде: фарш и помидоры** (№330)  
-   `Realistic appetizing food photograph of Pan-fried фарш with tomatoes (minced meat, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с фарш и помидоры** (№331)  
-   `Realistic appetizing food photograph of Фарш and tomatoes soup (minced meat, tomatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с фарш и помидоры** (№332)  
-   `Realistic appetizing food photograph of Фарш and tomatoes stew (minced meat, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная фарш с болгарским перцем** (№333)  
-   `Realistic appetizing food photograph of Braised фарш with болгарским перцем (minced meat, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая фарш с болгарским перцем** (№334)  
-   `Realistic appetizing food photograph of Baked фарш with болгарским перцем (minced meat, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: фарш и болгарский перец** (№335)  
-   `Realistic appetizing food photograph of Pan-fried фарш with bell peppers (minced meat, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с фарш и болгарский перец** (№336)  
-   `Realistic appetizing food photograph of Фарш and bell peppers soup (minced meat, bell pepper, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с фарш и болгарский перец** (№337)  
-   `Realistic appetizing food photograph of Фарш and bell peppers stew (minced meat, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная рыба с рисом** (№338)  
-   `Realistic appetizing food photograph of Braised fish with rice (fish fillet, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая рыба с рисом** (№339)  
-   `Realistic appetizing food photograph of Baked fish with rice (fish fillet, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёные шампиньоны с рисом** (№388)  
+   `Realistic appetizing food photograph of Braised mushrooms with rice, made with button mushrooms, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённые шампиньоны с рисом** (№389)  
+   `Realistic appetizing food photograph of Baked mushrooms with rice, made with button mushrooms, rice, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Шампиньоны с рисом на сковороде** (№390)  
+   `Realistic appetizing food photograph of Pan-fried mushrooms with rice, made with button mushrooms, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с шампиньонами и рисом** (№391)  
+   `Realistic appetizing food photograph of Mushrooms and rice soup, made with button mushrooms, rice, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёные шампиньоны с гречкой** (№393)  
+   `Realistic appetizing food photograph of Braised mushrooms with buckwheat, made with button mushrooms, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённые шампиньоны с гречкой** (№394)  
+   `Realistic appetizing food photograph of Baked mushrooms with buckwheat, made with button mushrooms, buckwheat, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Шампиньоны с гречкой на сковороде** (№395)  
+   `Realistic appetizing food photograph of Pan-fried mushrooms with buckwheat, made with button mushrooms, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с шампиньонами и гречкой** (№396)  
+   `Realistic appetizing food photograph of Mushrooms and buckwheat soup, made with button mushrooms, buckwheat, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёные шампиньоны с булгуром** (№398)  
+   `Realistic appetizing food photograph of Braised mushrooms with bulgur, made with button mushrooms, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённые шампиньоны с булгуром** (№399)  
+   `Realistic appetizing food photograph of Baked mushrooms with bulgur, made with button mushrooms, bulgur, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 30
 
-1. **На сковороде: рыба и рис** (№340)  
-   `Realistic appetizing food photograph of Pan-fried fish with rice (fish fillet, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с рыба и рис** (№341)  
-   `Realistic appetizing food photograph of Fish and rice soup (fish fillet, rice, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с рыба и рис** (№342)  
-   `Realistic appetizing food photograph of Fish and rice stew (fish fillet, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная рыба с гречкой** (№343)  
-   `Realistic appetizing food photograph of Braised fish with buckwheat (fish fillet, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая рыба с гречкой** (№344)  
-   `Realistic appetizing food photograph of Baked fish with buckwheat (fish fillet, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: рыба и гречка** (№345)  
-   `Realistic appetizing food photograph of Pan-fried fish with buckwheat (fish fillet, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с рыба и гречка** (№346)  
-   `Realistic appetizing food photograph of Fish and buckwheat soup (fish fillet, buckwheat, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с рыба и гречка** (№347)  
-   `Realistic appetizing food photograph of Fish and buckwheat stew (fish fillet, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная рыба с булгуром** (№348)  
-   `Realistic appetizing food photograph of Braised fish with bulgur (fish fillet, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая рыба с булгуром** (№349)  
-   `Realistic appetizing food photograph of Baked fish with bulgur (fish fillet, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Шампиньоны с булгуром на сковороде** (№400)  
+   `Realistic appetizing food photograph of Pan-fried mushrooms with bulgur, made with button mushrooms, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с шампиньонами и булгуром** (№401)  
+   `Realistic appetizing food photograph of Mushrooms and bulgur soup, made with button mushrooms, bulgur, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёные шампиньоны с макаронами** (№403)  
+   `Realistic appetizing food photograph of Braised mushrooms with pasta, made with button mushrooms, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённые шампиньоны с макаронами** (№404)  
+   `Realistic appetizing food photograph of Baked mushrooms with pasta, made with button mushrooms, pasta, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Шампиньоны с макаронами на сковороде** (№405)  
+   `Realistic appetizing food photograph of Pan-fried mushrooms with pasta, made with button mushrooms, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с шампиньонами и макаронами** (№406)  
+   `Realistic appetizing food photograph of Mushrooms and pasta soup, made with button mushrooms, pasta, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёные шампиньоны с картофелем** (№408)  
+   `Realistic appetizing food photograph of Braised mushrooms with potatoes, made with potatoes, button mushrooms, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённые шампиньоны с картофелем** (№409)  
+   `Realistic appetizing food photograph of Baked mushrooms with potatoes, made with potatoes, button mushrooms, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Шампиньоны с картофелем на сковороде** (№410)  
+   `Realistic appetizing food photograph of Pan-fried mushrooms with potatoes, made with potatoes, button mushrooms, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с шампиньонами и картофелем** (№411)  
+   `Realistic appetizing food photograph of Mushrooms and potatoes soup, made with potatoes, button mushrooms, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 31
 
-1. **На сковороде: рыба и булгур** (№350)  
-   `Realistic appetizing food photograph of Pan-fried fish with bulgur (fish fillet, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с рыба и булгур** (№351)  
-   `Realistic appetizing food photograph of Fish and bulgur soup (fish fillet, bulgur, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с рыба и булгур** (№352)  
-   `Realistic appetizing food photograph of Fish and bulgur stew (fish fillet, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная рыба с макаронами** (№353)  
-   `Realistic appetizing food photograph of Braised fish with pasta (fish fillet, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая рыба с макаронами** (№354)  
-   `Realistic appetizing food photograph of Baked fish with pasta (fish fillet, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: рыба и макароны** (№355)  
-   `Realistic appetizing food photograph of Pan-fried fish with pasta (fish fillet, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с рыба и макароны** (№356)  
-   `Realistic appetizing food photograph of Fish and pasta soup (fish fillet, pasta, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с рыба и макароны** (№357)  
-   `Realistic appetizing food photograph of Fish and pasta stew (fish fillet, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная рыба с картофелем** (№358)  
-   `Realistic appetizing food photograph of Braised fish with potatoes (fish fillet, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая рыба с картофелем** (№359)  
-   `Realistic appetizing food photograph of Baked fish with potatoes (fish fillet, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёные шампиньоны с капустой** (№413)  
+   `Realistic appetizing food photograph of Braised mushrooms with cabbage, made with button mushrooms, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённые шампиньоны с капустой** (№414)  
+   `Realistic appetizing food photograph of Baked mushrooms with cabbage, made with button mushrooms, cabbage, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Шампиньоны с капустой на сковороде** (№415)  
+   `Realistic appetizing food photograph of Pan-fried mushrooms with cabbage, made with button mushrooms, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с шампиньонами и капустой** (№416)  
+   `Realistic appetizing food photograph of Mushrooms and cabbage soup, made with button mushrooms, cabbage, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёные шампиньоны с морковью** (№418)  
+   `Realistic appetizing food photograph of Braised mushrooms with carrots, made with button mushrooms, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённые шампиньоны с морковью** (№419)  
+   `Realistic appetizing food photograph of Baked mushrooms with carrots, made with button mushrooms, carrots, onion, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Шампиньоны с морковью на сковороде** (№420)  
+   `Realistic appetizing food photograph of Pan-fried mushrooms with carrots, made with button mushrooms, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с шампиньонами и морковью** (№421)  
+   `Realistic appetizing food photograph of Mushrooms and carrots soup, made with button mushrooms, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёные шампиньоны с кабачками** (№423)  
+   `Realistic appetizing food photograph of Braised mushrooms with zucchini, made with button mushrooms, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённые шампиньоны с кабачками** (№424)  
+   `Realistic appetizing food photograph of Baked mushrooms with zucchini, made with button mushrooms, zucchini, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 32
 
-1. **На сковороде: рыба и картофель** (№360)  
-   `Realistic appetizing food photograph of Pan-fried fish with potatoes (fish fillet, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с рыба и картофель** (№361)  
-   `Realistic appetizing food photograph of Fish and potatoes soup (fish fillet, potatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с рыба и картофель** (№362)  
-   `Realistic appetizing food photograph of Fish and potatoes stew (fish fillet, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная рыба с капустой** (№363)  
-   `Realistic appetizing food photograph of Braised fish with cabbage (fish fillet, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая рыба с капустой** (№364)  
-   `Realistic appetizing food photograph of Baked fish with cabbage (fish fillet, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: рыба и капуста** (№365)  
-   `Realistic appetizing food photograph of Pan-fried fish with cabbage (fish fillet, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с рыба и капуста** (№366)  
-   `Realistic appetizing food photograph of Fish and cabbage soup (fish fillet, cabbage, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с рыба и капуста** (№367)  
-   `Realistic appetizing food photograph of Fish and cabbage stew (fish fillet, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная рыба с морковью** (№368)  
-   `Realistic appetizing food photograph of Braised fish with carrots (fish fillet, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая рыба с морковью** (№369)  
-   `Realistic appetizing food photograph of Baked fish with carrots (fish fillet, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Шампиньоны с кабачками на сковороде** (№425)  
+   `Realistic appetizing food photograph of Pan-fried mushrooms with zucchini, made with button mushrooms, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с шампиньонами и кабачками** (№426)  
+   `Realistic appetizing food photograph of Mushrooms and zucchini soup, made with button mushrooms, zucchini, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёные шампиньоны с помидорами** (№428)  
+   `Realistic appetizing food photograph of Braised mushrooms with tomatoes, made with button mushrooms, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённые шампиньоны с помидорами** (№429)  
+   `Realistic appetizing food photograph of Baked mushrooms with tomatoes, made with button mushrooms, tomatoes, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Шампиньоны с помидорами на сковороде** (№430)  
+   `Realistic appetizing food photograph of Pan-fried mushrooms with tomatoes, made with button mushrooms, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с шампиньонами и помидорами** (№431)  
+   `Realistic appetizing food photograph of Mushrooms and tomatoes soup, made with button mushrooms, tomatoes, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёные шампиньоны с болгарским перцем** (№433)  
+   `Realistic appetizing food photograph of Braised mushrooms with bell peppers, made with button mushrooms, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённые шампиньоны с болгарским перцем** (№434)  
+   `Realistic appetizing food photograph of Baked mushrooms with bell peppers, made with button mushrooms, bell pepper, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Шампиньоны с болгарским перцем на сковороде** (№435)  
+   `Realistic appetizing food photograph of Pan-fried mushrooms with bell peppers, made with button mushrooms, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с шампиньонами и болгарским перцем** (№436)  
+   `Realistic appetizing food photograph of Mushrooms and bell peppers soup, made with button mushrooms, bell pepper, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 33
 
-1. **На сковороде: рыба и морковь** (№370)  
-   `Realistic appetizing food photograph of Pan-fried fish with carrots (fish fillet, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с рыба и морковь** (№371)  
-   `Realistic appetizing food photograph of Fish and carrots soup (fish fillet, carrots, onion), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с рыба и морковь** (№372)  
-   `Realistic appetizing food photograph of Fish and carrots stew (fish fillet, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная рыба с кабачками** (№373)  
-   `Realistic appetizing food photograph of Braised fish with zucchini (fish fillet, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая рыба с кабачками** (№374)  
-   `Realistic appetizing food photograph of Baked fish with zucchini (fish fillet, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: рыба и кабачки** (№375)  
-   `Realistic appetizing food photograph of Pan-fried fish with zucchini (fish fillet, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с рыба и кабачки** (№376)  
-   `Realistic appetizing food photograph of Fish and zucchini soup (fish fillet, zucchini, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с рыба и кабачки** (№377)  
-   `Realistic appetizing food photograph of Fish and zucchini stew (fish fillet, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная рыба с помидорами** (№378)  
-   `Realistic appetizing food photograph of Braised fish with tomatoes (fish fillet, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая рыба с помидорами** (№379)  
-   `Realistic appetizing food photograph of Baked fish with tomatoes (fish fillet, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёный нут с рисом** (№438)  
+   `Realistic appetizing food photograph of Braised chickpeas with rice, made with chickpeas, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённый нут с рисом** (№439)  
+   `Realistic appetizing food photograph of Baked chickpeas with rice, made with chickpeas, rice, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Нут с рисом на сковороде** (№440)  
+   `Realistic appetizing food photograph of Pan-fried chickpeas with rice, made with chickpeas, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с нутом и рисом** (№441)  
+   `Realistic appetizing food photograph of Chickpeas and rice soup, made with chickpeas, rice, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёный нут с гречкой** (№443)  
+   `Realistic appetizing food photograph of Braised chickpeas with buckwheat, made with chickpeas, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённый нут с гречкой** (№444)  
+   `Realistic appetizing food photograph of Baked chickpeas with buckwheat, made with chickpeas, buckwheat, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Нут с гречкой на сковороде** (№445)  
+   `Realistic appetizing food photograph of Pan-fried chickpeas with buckwheat, made with chickpeas, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с нутом и гречкой** (№446)  
+   `Realistic appetizing food photograph of Chickpeas and buckwheat soup, made with chickpeas, buckwheat, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёный нут с булгуром** (№448)  
+   `Realistic appetizing food photograph of Braised chickpeas with bulgur, made with chickpeas, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённый нут с булгуром** (№449)  
+   `Realistic appetizing food photograph of Baked chickpeas with bulgur, made with chickpeas, bulgur, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 34
 
-1. **На сковороде: рыба и помидоры** (№380)  
-   `Realistic appetizing food photograph of Pan-fried fish with tomatoes (fish fillet, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с рыба и помидоры** (№381)  
-   `Realistic appetizing food photograph of Fish and tomatoes soup (fish fillet, tomatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с рыба и помидоры** (№382)  
-   `Realistic appetizing food photograph of Fish and tomatoes stew (fish fillet, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная рыба с болгарским перцем** (№383)  
-   `Realistic appetizing food photograph of Braised fish with болгарским перцем (fish fillet, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая рыба с болгарским перцем** (№384)  
-   `Realistic appetizing food photograph of Baked fish with болгарским перцем (fish fillet, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: рыба и болгарский перец** (№385)  
-   `Realistic appetizing food photograph of Pan-fried fish with bell peppers (fish fillet, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с рыба и болгарский перец** (№386)  
-   `Realistic appetizing food photograph of Fish and bell peppers soup (fish fillet, bell pepper, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с рыба и болгарский перец** (№387)  
-   `Realistic appetizing food photograph of Fish and bell peppers stew (fish fillet, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная шампиньоны с рисом** (№388)  
-   `Realistic appetizing food photograph of Braised шампиньоны with rice (button mushrooms, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая шампиньоны с рисом** (№389)  
-   `Realistic appetizing food photograph of Baked шампиньоны with rice (button mushrooms, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Нут с булгуром на сковороде** (№450)  
+   `Realistic appetizing food photograph of Pan-fried chickpeas with bulgur, made with chickpeas, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с нутом и булгуром** (№451)  
+   `Realistic appetizing food photograph of Chickpeas and bulgur soup, made with chickpeas, bulgur, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёный нут с макаронами** (№453)  
+   `Realistic appetizing food photograph of Braised chickpeas with pasta, made with chickpeas, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённый нут с макаронами** (№454)  
+   `Realistic appetizing food photograph of Baked chickpeas with pasta, made with chickpeas, pasta, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Нут с макаронами на сковороде** (№455)  
+   `Realistic appetizing food photograph of Pan-fried chickpeas with pasta, made with chickpeas, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с нутом и макаронами** (№456)  
+   `Realistic appetizing food photograph of Chickpeas and pasta soup, made with chickpeas, pasta, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёный нут с картофелем** (№458)  
+   `Realistic appetizing food photograph of Braised chickpeas with potatoes, made with potatoes, chickpeas, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённый нут с картофелем** (№459)  
+   `Realistic appetizing food photograph of Baked chickpeas with potatoes, made with potatoes, chickpeas, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Нут с картофелем на сковороде** (№460)  
+   `Realistic appetizing food photograph of Pan-fried chickpeas with potatoes, made with potatoes, chickpeas, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с нутом и картофелем** (№461)  
+   `Realistic appetizing food photograph of Chickpeas and potatoes soup, made with potatoes, chickpeas, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 35
 
-1. **На сковороде: шампиньоны и рис** (№390)  
-   `Realistic appetizing food photograph of Pan-fried шампиньоны with rice (button mushrooms, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с шампиньоны и рис** (№391)  
-   `Realistic appetizing food photograph of Шампиньоны and rice soup (button mushrooms, rice, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с шампиньоны и рис** (№392)  
-   `Realistic appetizing food photograph of Шампиньоны and rice stew (button mushrooms, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная шампиньоны с гречкой** (№393)  
-   `Realistic appetizing food photograph of Braised шампиньоны with buckwheat (button mushrooms, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая шампиньоны с гречкой** (№394)  
-   `Realistic appetizing food photograph of Baked шампиньоны with buckwheat (button mushrooms, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: шампиньоны и гречка** (№395)  
-   `Realistic appetizing food photograph of Pan-fried шампиньоны with buckwheat (button mushrooms, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с шампиньоны и гречка** (№396)  
-   `Realistic appetizing food photograph of Шампиньоны and buckwheat soup (button mushrooms, buckwheat, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с шампиньоны и гречка** (№397)  
-   `Realistic appetizing food photograph of Шампиньоны and buckwheat stew (button mushrooms, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная шампиньоны с булгуром** (№398)  
-   `Realistic appetizing food photograph of Braised шампиньоны with bulgur (button mushrooms, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая шампиньоны с булгуром** (№399)  
-   `Realistic appetizing food photograph of Baked шампиньоны with bulgur (button mushrooms, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёный нут с капустой** (№463)  
+   `Realistic appetizing food photograph of Braised chickpeas with cabbage, made with chickpeas, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённый нут с капустой** (№464)  
+   `Realistic appetizing food photograph of Baked chickpeas with cabbage, made with chickpeas, cabbage, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Нут с капустой на сковороде** (№465)  
+   `Realistic appetizing food photograph of Pan-fried chickpeas with cabbage, made with chickpeas, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с нутом и капустой** (№466)  
+   `Realistic appetizing food photograph of Chickpeas and cabbage soup, made with chickpeas, cabbage, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёный нут с морковью** (№468)  
+   `Realistic appetizing food photograph of Braised chickpeas with carrots, made with chickpeas, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённый нут с морковью** (№469)  
+   `Realistic appetizing food photograph of Baked chickpeas with carrots, made with chickpeas, carrots, onion, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Нут с морковью на сковороде** (№470)  
+   `Realistic appetizing food photograph of Pan-fried chickpeas with carrots, made with chickpeas, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с нутом и морковью** (№471)  
+   `Realistic appetizing food photograph of Chickpeas and carrots soup, made with chickpeas, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёный нут с кабачками** (№473)  
+   `Realistic appetizing food photograph of Braised chickpeas with zucchini, made with chickpeas, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённый нут с кабачками** (№474)  
+   `Realistic appetizing food photograph of Baked chickpeas with zucchini, made with chickpeas, zucchini, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 36
 
-1. **На сковороде: шампиньоны и булгур** (№400)  
-   `Realistic appetizing food photograph of Pan-fried шампиньоны with bulgur (button mushrooms, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с шампиньоны и булгур** (№401)  
-   `Realistic appetizing food photograph of Шампиньоны and bulgur soup (button mushrooms, bulgur, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с шампиньоны и булгур** (№402)  
-   `Realistic appetizing food photograph of Шампиньоны and bulgur stew (button mushrooms, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная шампиньоны с макаронами** (№403)  
-   `Realistic appetizing food photograph of Braised шампиньоны with pasta (button mushrooms, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая шампиньоны с макаронами** (№404)  
-   `Realistic appetizing food photograph of Baked шампиньоны with pasta (button mushrooms, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: шампиньоны и макароны** (№405)  
-   `Realistic appetizing food photograph of Pan-fried шампиньоны with pasta (button mushrooms, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с шампиньоны и макароны** (№406)  
-   `Realistic appetizing food photograph of Шампиньоны and pasta soup (button mushrooms, pasta, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с шампиньоны и макароны** (№407)  
-   `Realistic appetizing food photograph of Шампиньоны and pasta stew (button mushrooms, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная шампиньоны с картофелем** (№408)  
-   `Realistic appetizing food photograph of Braised шампиньоны with potatoes (button mushrooms, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая шампиньоны с картофелем** (№409)  
-   `Realistic appetizing food photograph of Baked шампиньоны with potatoes (button mushrooms, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Нут с кабачками на сковороде** (№475)  
+   `Realistic appetizing food photograph of Pan-fried chickpeas with zucchini, made with chickpeas, zucchini, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с нутом и кабачками** (№476)  
+   `Realistic appetizing food photograph of Chickpeas and zucchini soup, made with chickpeas, zucchini, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёный нут с помидорами** (№478)  
+   `Realistic appetizing food photograph of Braised chickpeas with tomatoes, made with chickpeas, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённый нут с помидорами** (№479)  
+   `Realistic appetizing food photograph of Baked chickpeas with tomatoes, made with chickpeas, tomatoes, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Нут с помидорами на сковороде** (№480)  
+   `Realistic appetizing food photograph of Pan-fried chickpeas with tomatoes, made with chickpeas, tomatoes, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с нутом и помидорами** (№481)  
+   `Realistic appetizing food photograph of Chickpeas and tomatoes soup, made with chickpeas, tomatoes, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёный нут с болгарским перцем** (№483)  
+   `Realistic appetizing food photograph of Braised chickpeas with bell peppers, made with chickpeas, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённый нут с болгарским перцем** (№484)  
+   `Realistic appetizing food photograph of Baked chickpeas with bell peppers, made with chickpeas, bell pepper, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Нут с болгарским перцем на сковороде** (№485)  
+   `Realistic appetizing food photograph of Pan-fried chickpeas with bell peppers, made with chickpeas, bell pepper, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с нутом и болгарским перцем** (№486)  
+   `Realistic appetizing food photograph of Chickpeas and bell peppers soup, made with chickpeas, bell pepper, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 37
 
-1. **На сковороде: шампиньоны и картофель** (№410)  
-   `Realistic appetizing food photograph of Pan-fried шампиньоны with potatoes (button mushrooms, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с шампиньоны и картофель** (№411)  
-   `Realistic appetizing food photograph of Шампиньоны and potatoes soup (button mushrooms, potatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с шампиньоны и картофель** (№412)  
-   `Realistic appetizing food photograph of Шампиньоны and potatoes stew (button mushrooms, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная шампиньоны с капустой** (№413)  
-   `Realistic appetizing food photograph of Braised шампиньоны with cabbage (button mushrooms, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая шампиньоны с капустой** (№414)  
-   `Realistic appetizing food photograph of Baked шампиньоны with cabbage (button mushrooms, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: шампиньоны и капуста** (№415)  
-   `Realistic appetizing food photograph of Pan-fried шампиньоны with cabbage (button mushrooms, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с шампиньоны и капуста** (№416)  
-   `Realistic appetizing food photograph of Шампиньоны and cabbage soup (button mushrooms, cabbage, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с шампиньоны и капуста** (№417)  
-   `Realistic appetizing food photograph of Шампиньоны and cabbage stew (button mushrooms, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная шампиньоны с морковью** (№418)  
-   `Realistic appetizing food photograph of Braised шампиньоны with carrots (button mushrooms, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая шампиньоны с морковью** (№419)  
-   `Realistic appetizing food photograph of Baked шампиньоны with carrots (button mushrooms, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёная фасоль с рисом** (№488)  
+   `Realistic appetizing food photograph of Braised beans with rice, made with cooked beans, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённая фасоль с рисом** (№489)  
+   `Realistic appetizing food photograph of Baked beans with rice, made with cooked beans, rice, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Фасоль с рисом на сковороде** (№490)  
+   `Realistic appetizing food photograph of Pan-fried beans with rice, made with cooked beans, rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с фасолью и рисом** (№491)  
+   `Realistic appetizing food photograph of Beans and rice soup, made with cooked beans, rice, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёная фасоль с гречкой** (№493)  
+   `Realistic appetizing food photograph of Braised beans with buckwheat, made with cooked beans, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённая фасоль с гречкой** (№494)  
+   `Realistic appetizing food photograph of Baked beans with buckwheat, made with cooked beans, buckwheat, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Фасоль с гречкой на сковороде** (№495)  
+   `Realistic appetizing food photograph of Pan-fried beans with buckwheat, made with cooked beans, buckwheat, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Суп с фасолью и гречкой** (№496)  
+   `Realistic appetizing food photograph of Beans and buckwheat soup, made with cooked beans, buckwheat, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тушёная фасоль с булгуром** (№498)  
+   `Realistic appetizing food photograph of Braised beans with bulgur, made with cooked beans, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Запечённая фасоль с булгуром** (№499)  
+   `Realistic appetizing food photograph of Baked beans with bulgur, made with cooked beans, bulgur, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 38
 
-1. **На сковороде: шампиньоны и морковь** (№420)  
-   `Realistic appetizing food photograph of Pan-fried шампиньоны with carrots (button mushrooms, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с шампиньоны и морковь** (№421)  
-   `Realistic appetizing food photograph of Шампиньоны and carrots soup (button mushrooms, carrots, onion), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с шампиньоны и морковь** (№422)  
-   `Realistic appetizing food photograph of Шампиньоны and carrots stew (button mushrooms, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная шампиньоны с кабачками** (№423)  
-   `Realistic appetizing food photograph of Braised шампиньоны with zucchini (button mushrooms, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая шампиньоны с кабачками** (№424)  
-   `Realistic appetizing food photograph of Baked шампиньоны with zucchini (button mushrooms, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: шампиньоны и кабачки** (№425)  
-   `Realistic appetizing food photograph of Pan-fried шампиньоны with zucchini (button mushrooms, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с шампиньоны и кабачки** (№426)  
-   `Realistic appetizing food photograph of Шампиньоны and zucchini soup (button mushrooms, zucchini, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с шампиньоны и кабачки** (№427)  
-   `Realistic appetizing food photograph of Шампиньоны and zucchini stew (button mushrooms, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная шампиньоны с помидорами** (№428)  
-   `Realistic appetizing food photograph of Braised шампиньоны with tomatoes (button mushrooms, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая шампиньоны с помидорами** (№429)  
-   `Realistic appetizing food photograph of Baked шампиньоны with tomatoes (button mushrooms, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Фасоль с булгуром на сковороде** (№500)  
+   `Realistic appetizing food photograph of Pan-fried beans with bulgur, made with cooked beans, bulgur, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с фасолью и булгуром** (№501)  
+   `Realistic appetizing food photograph of Beans and bulgur soup, made with cooked beans, bulgur, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тушёная фасоль с макаронами** (№503)  
+   `Realistic appetizing food photograph of Braised beans with pasta, made with cooked beans, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Запечённая фасоль с макаронами** (№504)  
+   `Realistic appetizing food photograph of Baked beans with pasta, made with cooked beans, pasta, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Фасоль с макаронами на сковороде** (№505)  
+   `Realistic appetizing food photograph of Pan-fried beans with pasta, made with cooked beans, pasta, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп с фасолью и макаронами** (№506)  
+   `Realistic appetizing food photograph of Beans and pasta soup, made with cooked beans, pasta, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёная фасоль с картофелем** (№508)  
+   `Realistic appetizing food photograph of Braised beans with potatoes, made with potatoes, cooked beans, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Запечённая фасоль с картофелем** (№509)  
+   `Realistic appetizing food photograph of Baked beans with potatoes, made with potatoes, cooked beans, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Фасоль с картофелем на сковороде** (№510)  
+   `Realistic appetizing food photograph of Pan-fried beans with potatoes, made with potatoes, cooked beans, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп с фасолью и картофелем** (№511)  
+   `Realistic appetizing food photograph of Beans and potatoes soup, made with potatoes, cooked beans, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 39
 
-1. **На сковороде: шампиньоны и помидоры** (№430)  
-   `Realistic appetizing food photograph of Pan-fried шампиньоны with tomatoes (button mushrooms, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с шампиньоны и помидоры** (№431)  
-   `Realistic appetizing food photograph of Шампиньоны and tomatoes soup (button mushrooms, tomatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с шампиньоны и помидоры** (№432)  
-   `Realistic appetizing food photograph of Шампиньоны and tomatoes stew (button mushrooms, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная шампиньоны с болгарским перцем** (№433)  
-   `Realistic appetizing food photograph of Braised шампиньоны with болгарским перцем (button mushrooms, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая шампиньоны с болгарским перцем** (№434)  
-   `Realistic appetizing food photograph of Baked шампиньоны with болгарским перцем (button mushrooms, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: шампиньоны и болгарский перец** (№435)  
-   `Realistic appetizing food photograph of Pan-fried шампиньоны with bell peppers (button mushrooms, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с шампиньоны и болгарский перец** (№436)  
-   `Realistic appetizing food photograph of Шампиньоны and bell peppers soup (button mushrooms, bell pepper, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с шампиньоны и болгарский перец** (№437)  
-   `Realistic appetizing food photograph of Шампиньоны and bell peppers stew (button mushrooms, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная нут с рисом** (№438)  
-   `Realistic appetizing food photograph of Braised нут with rice (chickpeas, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая нут с рисом** (№439)  
-   `Realistic appetizing food photograph of Baked нут with rice (chickpeas, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Тушёная фасоль с капустой** (№513)  
+   `Realistic appetizing food photograph of Braised beans with cabbage, made with cooked beans, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Запечённая фасоль с капустой** (№514)  
+   `Realistic appetizing food photograph of Baked beans with cabbage, made with cooked beans, cabbage, onion, carrots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Фасоль с капустой на сковороде** (№515)  
+   `Realistic appetizing food photograph of Pan-fried beans with cabbage, made with cooked beans, cabbage, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Суп с фасолью и капустой** (№516)  
+   `Realistic appetizing food photograph of Beans and cabbage soup, made with cooked beans, cabbage, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тушёная фасоль с морковью** (№518)  
+   `Realistic appetizing food photograph of Braised beans with carrots, made with cooked beans, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённая фасоль с морковью** (№519)  
+   `Realistic appetizing food photograph of Baked beans with carrots, made with cooked beans, carrots, onion, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Фасоль с морковью на сковороде** (№520)  
+   `Realistic appetizing food photograph of Pan-fried beans with carrots, made with cooked beans, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Сорпа из баранины** (№525)  
+   `Realistic appetizing food photograph of Lamb sorpa (Kazakh dish), made with lamb, potatoes, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Кеспе көже** (№526)  
+   `Realistic appetizing food photograph of Kazakh noodle soup (Kazakh dish), made with beef, flour, onion, carrots, egg, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Таба нан** (№527)  
+   `Realistic appetizing food photograph of Taba nan bread (Kazakh dish), made with flour, dry yeast, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 40
 
-1. **На сковороде: нут и рис** (№440)  
-   `Realistic appetizing food photograph of Pan-fried нут with rice (chickpeas, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с нут и рис** (№441)  
-   `Realistic appetizing food photograph of Нут and rice soup (chickpeas, rice, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с нут и рис** (№442)  
-   `Realistic appetizing food photograph of Нут and rice stew (chickpeas, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная нут с гречкой** (№443)  
-   `Realistic appetizing food photograph of Braised нут with buckwheat (chickpeas, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая нут с гречкой** (№444)  
-   `Realistic appetizing food photograph of Baked нут with buckwheat (chickpeas, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: нут и гречка** (№445)  
-   `Realistic appetizing food photograph of Pan-fried нут with buckwheat (chickpeas, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с нут и гречка** (№446)  
-   `Realistic appetizing food photograph of Нут and buckwheat soup (chickpeas, buckwheat, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с нут и гречка** (№447)  
-   `Realistic appetizing food photograph of Нут and buckwheat stew (chickpeas, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная нут с булгуром** (№448)  
-   `Realistic appetizing food photograph of Braised нут with bulgur (chickpeas, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая нут с булгуром** (№449)  
-   `Realistic appetizing food photograph of Baked нут with bulgur (chickpeas, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Сүт көже** (№528)  
+   `Realistic appetizing food photograph of Milk and rice soup (Kazakh dish), made with milk, rice, butter, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Майсөк** (№529)  
+   `Realistic appetizing food photograph of Maisok millet snack (Kazakh dish), made with millet, milk, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Бал куырдак** (№533)  
+   `Realistic appetizing food photograph of Bal kuyrdak (lamb in cream) (Kazakh dish), made with lamb, 20% cream, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Өрметөстік** (№534)  
+   `Realistic appetizing food photograph of Orme tostik (braided lamb breast) (Kazakh dish), made with lamb breast, cleaned lamb intestines, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Қарын бүрме** (№535)  
+   `Realistic appetizing food photograph of Qaryn burme (stuffed lamb stomach) (Kazakh dish), made with lamb, cleaned lamb stomach, potatoes, carrots, tomatoes, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Сірне** (№536)  
+   `Realistic appetizing food photograph of Sirne (slow-braised young lamb) (Kazakh dish), made with young lamb, 20% cream, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Куырдак из конины** (№544)  
+   `Realistic appetizing food photograph of Horse meat kuyrdak (Kazakh dish), made with horse meat, potatoes, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Казы с отварным картофелем** (№546)  
+   `Realistic appetizing food photograph of Kazy with boiled potatoes (Kazakh dish), made with potatoes, kazy (horse sausage), onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Сорпа с куртом** (№548)  
+   `Realistic appetizing food photograph of Lamb broth with kurt (Kazakh dish), made with lamb, onion, kurt (dried cheese), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Салат из огурцов с айраном и укропом** (№549)  
+   `Realistic appetizing food photograph of Cucumber salad with ayran and dill, made with cucumbers, ayran, dill, garlic, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 41
 
-1. **На сковороде: нут и булгур** (№450)  
-   `Realistic appetizing food photograph of Pan-fried нут with bulgur (chickpeas, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с нут и булгур** (№451)  
-   `Realistic appetizing food photograph of Нут and bulgur soup (chickpeas, bulgur, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с нут и булгур** (№452)  
-   `Realistic appetizing food photograph of Нут and bulgur stew (chickpeas, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная нут с макаронами** (№453)  
-   `Realistic appetizing food photograph of Braised нут with pasta (chickpeas, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая нут с макаронами** (№454)  
-   `Realistic appetizing food photograph of Baked нут with pasta (chickpeas, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: нут и макароны** (№455)  
-   `Realistic appetizing food photograph of Pan-fried нут with pasta (chickpeas, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с нут и макароны** (№456)  
-   `Realistic appetizing food photograph of Нут and pasta soup (chickpeas, pasta, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с нут и макароны** (№457)  
-   `Realistic appetizing food photograph of Нут and pasta stew (chickpeas, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная нут с картофелем** (№458)  
-   `Realistic appetizing food photograph of Braised нут with potatoes (chickpeas, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая нут с картофелем** (№459)  
-   `Realistic appetizing food photograph of Baked нут with potatoes (chickpeas, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Салат с брынзой и помидорами** (№551)  
+   `Realistic appetizing food photograph of Tomato salad with brynza, made with tomatoes, cucumbers, bell pepper, brynza cheese, olive oil, green onion, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Кабачки, запечённые с моцареллой** (№552)  
+   `Realistic appetizing food photograph of Zucchini baked with mozzarella, made with zucchini, tomatoes, mozzarella, olive oil, garlic, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Шпинат с брынзой и яйцами** (№553)  
+   `Realistic appetizing food photograph of Spinach with brynza and eggs, made with spinach, eggs, brynza cheese, onion, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Салат из редиса с огурцом и сметаной** (№557)  
+   `Realistic appetizing food photograph of Radish and cucumber salad with sour cream, made with radishes, cucumbers, sour cream, green onion, dill, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Салат из редьки с морковью** (№558)  
+   `Realistic appetizing food photograph of Black radish and carrot salad, made with black radish, carrots, garlic, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Курица с кукурузой и перцем** (№560)  
+   `Realistic appetizing food photograph of Chicken with corn and bell pepper, made with chicken fillet, canned corn, bell pepper, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Вешенки, жаренные с картофелем** (№561)  
+   `Realistic appetizing food photograph of Oyster mushrooms fried with potatoes, made with potatoes, oyster mushrooms, onion, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Перловка с грибами** (№565)  
+   `Realistic appetizing food photograph of Pearl barley with mushrooms, made with oyster mushrooms, pearl barley, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Суп с перловкой и говядиной** (№566)  
+   `Realistic appetizing food photograph of Beef and barley soup, made with beef, potatoes, carrots, onion, pearl barley, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Кукурузная каша на молоке** (№567)  
+   `Realistic appetizing food photograph of Corn porridge with milk, made with milk, corn grits, butter, home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 42
 
-1. **На сковороде: нут и картофель** (№460)  
-   `Realistic appetizing food photograph of Pan-fried нут with potatoes (chickpeas, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с нут и картофель** (№461)  
-   `Realistic appetizing food photograph of Нут and potatoes soup (chickpeas, potatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с нут и картофель** (№462)  
-   `Realistic appetizing food photograph of Нут and potatoes stew (chickpeas, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная нут с капустой** (№463)  
-   `Realistic appetizing food photograph of Braised нут with cabbage (chickpeas, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая нут с капустой** (№464)  
-   `Realistic appetizing food photograph of Baked нут with cabbage (chickpeas, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: нут и капуста** (№465)  
-   `Realistic appetizing food photograph of Pan-fried нут with cabbage (chickpeas, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с нут и капуста** (№466)  
-   `Realistic appetizing food photograph of Нут and cabbage soup (chickpeas, cabbage, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с нут и капуста** (№467)  
-   `Realistic appetizing food photograph of Нут and cabbage stew (chickpeas, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная нут с морковью** (№468)  
-   `Realistic appetizing food photograph of Braised нут with carrots (chickpeas, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая нут с морковью** (№469)  
-   `Realistic appetizing food photograph of Baked нут with carrots (chickpeas, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Маш с рисом** (№570)  
+   `Realistic appetizing food photograph of Mung beans with rice (Uzbek dish), made with mung beans, dry rice, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп из маша с говядиной** (№571)  
+   `Realistic appetizing food photograph of Mung bean soup with beef (Uzbek dish), made with beef, potatoes, mung beans, tomatoes, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Картофельные ньокки со сливочным соусом** (№586)  
+   `Realistic appetizing food photograph of Potato gnocchi with butter and parmesan (Italian dish), made with potatoes, flour, eggs, butter, parmesan, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Салат с баклажаном, фетой и томатами** (№591)  
+   `Realistic appetizing food photograph of Eggplant, feta and tomato salad, made with eggplant, tomatoes, feta cheese, lettuce leaves, olive oil, garlic, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Салат с лососем и ореховым соусом** (№592)  
+   `Realistic appetizing food photograph of Salmon salad with walnut dressing, made with salmon, cucumbers, tomatoes, lettuce leaves, walnuts, olive oil, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Боул с креветками, омлетом и гуакамоле** (№597)  
+   `Realistic appetizing food photograph of Shrimp bowl with omelet and guacamole, made with shrimp, avocado, dry rice, eggs, cucumbers, lemon juice, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Говядина с овощами в устричном соусе** (№601)  
+   `Realistic appetizing food photograph of Beef and vegetables in oyster sauce (Chinese dish), made with beef, bell pepper, broccoli, onion, oyster sauce, soy sauce, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Жаркое из птицы с говяжьими колбасками** (№604)  
+   `Realistic appetizing food photograph of Chicken stew with beef sausages, made with chicken, potatoes, beef sausages, onion, carrots, tomato paste, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Медальоны с грибным соусом и брюссельской капустой** (№606)  
+   `Realistic appetizing food photograph of Beef medallions with mushroom sauce and Brussels sprouts, made with beef tenderloin, Brussels sprouts, button mushrooms, 20% cream, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Котлеты из индейки с сальсой** (№608)  
+   `Realistic appetizing food photograph of Turkey patties with salsa, made with turkey fillet, tomatoes, onion, eggs, cilantro, lemon juice, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 43
 
-1. **На сковороде: нут и морковь** (№470)  
-   `Realistic appetizing food photograph of Pan-fried нут with carrots (chickpeas, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с нут и морковь** (№471)  
-   `Realistic appetizing food photograph of Нут and carrots soup (chickpeas, carrots, onion), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с нут и морковь** (№472)  
-   `Realistic appetizing food photograph of Нут and carrots stew (chickpeas, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная нут с кабачками** (№473)  
-   `Realistic appetizing food photograph of Braised нут with zucchini (chickpeas, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая нут с кабачками** (№474)  
-   `Realistic appetizing food photograph of Baked нут with zucchini (chickpeas, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: нут и кабачки** (№475)  
-   `Realistic appetizing food photograph of Pan-fried нут with zucchini (chickpeas, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с нут и кабачки** (№476)  
-   `Realistic appetizing food photograph of Нут and zucchini soup (chickpeas, zucchini, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с нут и кабачки** (№477)  
-   `Realistic appetizing food photograph of Нут and zucchini stew (chickpeas, zucchini, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная нут с помидорами** (№478)  
-   `Realistic appetizing food photograph of Braised нут with tomatoes (chickpeas, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая нут с помидорами** (№479)  
-   `Realistic appetizing food photograph of Baked нут with tomatoes (chickpeas, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Лосось в соусе бешамель** (№612)  
+   `Realistic appetizing food photograph of Salmon in béchamel sauce, made with salmon, milk, cheese, butter, flour, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Томлёная говядина с сырным соусом** (№614)  
+   `Realistic appetizing food photograph of Slow-braised beef with cheese sauce, made with beef, 20% cream, onion, carrots, cheese, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Цыплёнок на гриле с киноа и муссом из пармезана** (№615)  
+   `Realistic appetizing food photograph of Grilled chicken with quinoa and parmesan mousse, made with chicken fillet, quinoa, 20% cream, parmesan, olive oil, lemon juice, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Творог со сливой и взбитой сметаной** (№616)  
+   `Realistic appetizing food photograph of Cottage cheese with plums and whipped sour cream, made with cottage cheese, plums, sour cream, honey, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Йогурт с гранолой и свежими ягодами** (№620)  
+   `Realistic appetizing food photograph of Yogurt with granola and fresh berries, made with plain yogurt, berries, granola, honey, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Хачапури по-имеретински** (№622)  
+   `Realistic appetizing food photograph of Imeretian khachapuri (Georgian dish), made with suluguni cheese, flour, plain yogurt, eggs, butter, baking powder, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Шарлотка с яблоками** (№637)  
+   `Realistic appetizing food photograph of Apple charlotte cake, made with apple, eggs, flour, butter, cinnamon, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Кекс с изюмом** (№643)  
+   `Realistic appetizing food photograph of Raisin pound cake, made with flour, eggs, butter, raisins, baking powder, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Ягодное желе** (№645)  
+   `Realistic appetizing food photograph of Berry jelly, made with berries, gelatin, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Банановое мороженое** (№646)  
+   `Realistic appetizing food photograph of Banana ice cream, made with banana, honey, cocoa, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 44
 
-1. **На сковороде: нут и помидоры** (№480)  
-   `Realistic appetizing food photograph of Pan-fried нут with tomatoes (chickpeas, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с нут и помидоры** (№481)  
-   `Realistic appetizing food photograph of Нут and tomatoes soup (chickpeas, tomatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с нут и помидоры** (№482)  
-   `Realistic appetizing food photograph of Нут and tomatoes stew (chickpeas, tomatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная нут с болгарским перцем** (№483)  
-   `Realistic appetizing food photograph of Braised нут with болгарским перцем (chickpeas, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая нут с болгарским перцем** (№484)  
-   `Realistic appetizing food photograph of Baked нут with болгарским перцем (chickpeas, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: нут и болгарский перец** (№485)  
-   `Realistic appetizing food photograph of Pan-fried нут with bell peppers (chickpeas, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с нут и болгарский перец** (№486)  
-   `Realistic appetizing food photograph of Нут and bell peppers soup (chickpeas, bell pepper, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с нут и болгарский перец** (№487)  
-   `Realistic appetizing food photograph of Нут and bell peppers stew (chickpeas, bell pepper, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная фасоль с рисом** (№488)  
-   `Realistic appetizing food photograph of Braised beans with rice (cooked beans, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая фасоль с рисом** (№489)  
-   `Realistic appetizing food photograph of Baked beans with rice (cooked beans, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Штрудли с мясом и картофелем** (№652)  
+   `Realistic appetizing food photograph of Strudli (meat and potatoes with steamed dough rolls), made with potatoes, pork, flour, kefir, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Лагман** (№653)  
+   `Realistic appetizing food photograph of Lagman (Uzbek dish), made with beef, lagman noodles, tomatoes, bell pepper, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Шурпа из баранины** (№656)  
+   `Realistic appetizing food photograph of Lamb shurpa (Uzbek dish), made with lamb, potatoes, tomatoes, carrots, onion, bell pepper, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Котлеты по-киевски** (№662)  
+   `Realistic appetizing food photograph of Chicken Kiev (Russian dish), made with chicken fillet, breadcrumbs, eggs, butter, flour, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Морковь по-корейски** (№666)  
+   `Realistic appetizing food photograph of Korean-style carrot salad (Korean dish), made with carrots, vinegar, garlic, sesame seeds, chili pepper, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Мисо-суп** (№668)  
+   `Realistic appetizing food photograph of Miso soup (Japanese dish), made with tofu, miso paste, green onion, wakame seaweed, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Курица терияки** (№670)  
+   `Realistic appetizing food photograph of Chicken teriyaki (Japanese dish), made with chicken fillet, dry rice, soy sauce, honey, ginger, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Морс ягодный** (№673)  
+   `Realistic appetizing food photograph of Berry mors, made with berries, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Казахский чай с молоком** (№674)  
+   `Realistic appetizing food photograph of Kazakh tea with milk (Kazakh dish), made with milk, black tea, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Домашний лимонад с мятой** (№675)  
+   `Realistic appetizing food photograph of Homemade mint lemonade, made with lemon, mint, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 45
 
-1. **На сковороде: фасоль и рис** (№490)  
-   `Realistic appetizing food photograph of Pan-fried beans with rice (cooked beans, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с фасоль и рис** (№491)  
-   `Realistic appetizing food photograph of Beans and rice soup (cooked beans, rice, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с фасоль и рис** (№492)  
-   `Realistic appetizing food photograph of Beans and rice stew (cooked beans, rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная фасоль с гречкой** (№493)  
-   `Realistic appetizing food photograph of Braised beans with buckwheat (cooked beans, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая фасоль с гречкой** (№494)  
-   `Realistic appetizing food photograph of Baked beans with buckwheat (cooked beans, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: фасоль и гречка** (№495)  
-   `Realistic appetizing food photograph of Pan-fried beans with buckwheat (cooked beans, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с фасоль и гречка** (№496)  
-   `Realistic appetizing food photograph of Beans and buckwheat soup (cooked beans, buckwheat, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с фасоль и гречка** (№497)  
-   `Realistic appetizing food photograph of Beans and buckwheat stew (cooked beans, buckwheat, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная фасоль с булгуром** (№498)  
-   `Realistic appetizing food photograph of Braised beans with bulgur (cooked beans, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая фасоль с булгуром** (№499)  
-   `Realistic appetizing food photograph of Baked beans with bulgur (cooked beans, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Кисель ягодный** (№677)  
+   `Realistic appetizing food photograph of Berry kissel (Russian dish), made with berries, starch, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с фрикадельками** (№681)  
+   `Realistic appetizing food photograph of Meatball soup, made with minced meat, potatoes, onion, carrots, eggs, vermicelli, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Сырный суп с курицей** (№682)  
+   `Realistic appetizing food photograph of Cheese soup with chicken, made with chicken fillet, potatoes, processed cheese, carrots, onion, butter, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Грибной крем-суп** (№683)  
+   `Realistic appetizing food photograph of Cream of mushroom soup, made with button mushrooms, potatoes, 20% cream, onion, butter, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Фасолевый суп** (№684)  
+   `Realistic appetizing food photograph of Bean soup, made with cooked beans, potatoes, carrots, onion, tomato paste, parsley, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Французский луковый суп** (№685)  
+   `Realistic appetizing food photograph of French onion soup (French dish), made with onion, bread, cheese, butter, flour, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Суп-пюре из брокколи** (№687)  
+   `Realistic appetizing food photograph of Broccoli cream soup, made with broccoli, potatoes, 20% cream, onion, butter, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Свекольник холодный** (№688)  
+   `Realistic appetizing food photograph of Cold beetroot soup (svekolnik) (Russian dish), made with beetroot, cucumbers, eggs, sour cream, green onion, lemon juice, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Салат Мимоза** (№690)  
+   `Realistic appetizing food photograph of Mimosa salad (Russian dish), made with potatoes, canned fish, eggs, carrots, mayonnaise, cheese, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Крабовый салат** (№691)  
+   `Realistic appetizing food photograph of Crab stick salad, made with crab sticks, canned corn, eggs, cucumbers, mayonnaise, dry rice, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 46
 
-1. **На сковороде: фасоль и булгур** (№500)  
-   `Realistic appetizing food photograph of Pan-fried beans with bulgur (cooked beans, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с фасоль и булгур** (№501)  
-   `Realistic appetizing food photograph of Beans and bulgur soup (cooked beans, bulgur, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с фасоль и булгур** (№502)  
-   `Realistic appetizing food photograph of Beans and bulgur stew (cooked beans, bulgur, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная фасоль с макаронами** (№503)  
-   `Realistic appetizing food photograph of Braised beans with pasta (cooked beans, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая фасоль с макаронами** (№504)  
-   `Realistic appetizing food photograph of Baked beans with pasta (cooked beans, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: фасоль и макароны** (№505)  
-   `Realistic appetizing food photograph of Pan-fried beans with pasta (cooked beans, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с фасоль и макароны** (№506)  
-   `Realistic appetizing food photograph of Beans and pasta soup (cooked beans, pasta, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с фасоль и макароны** (№507)  
-   `Realistic appetizing food photograph of Beans and pasta stew (cooked beans, pasta, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная фасоль с картофелем** (№508)  
-   `Realistic appetizing food photograph of Braised beans with potatoes (cooked beans, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая фасоль с картофелем** (№509)  
-   `Realistic appetizing food photograph of Baked beans with potatoes (cooked beans, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Свёкла с чесноком и орехами** (№692)  
+   `Realistic appetizing food photograph of Beetroot with garlic and walnuts, made with beetroot, mayonnaise, walnuts, raisins, garlic, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Салат с фасолью и сухариками** (№693)  
+   `Realistic appetizing food photograph of Bean salad with croutons, made with cooked beans, canned corn, smoked sausage, bread, mayonnaise, garlic, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Салат с курицей и ананасом** (№694)  
+   `Realistic appetizing food photograph of Chicken and pineapple salad, made with chicken fillet, canned pineapple, mayonnaise, eggs, cheese, walnuts, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Ачичук** (№695)  
+   `Realistic appetizing food photograph of Achichuk (tomato and onion salad) (Uzbek dish), made with tomatoes, onion, cilantro, chili pepper, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Шопский салат** (№696)  
+   `Realistic appetizing food photograph of Shopska salad, made with tomatoes, cucumbers, bell pepper, brynza cheese, onion, parsley, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Салат Витаминный** (№697)  
+   `Realistic appetizing food photograph of Vitamin cabbage salad, made with cabbage, carrots, apple, cucumbers, lemon juice, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Пшённая каша с тыквой** (№698)  
+   `Realistic appetizing food photograph of Millet porridge with pumpkin, made with milk, pumpkin, millet, butter, home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Ленивые вареники** (№699)  
+   `Realistic appetizing food photograph of Lazy cottage cheese dumplings (Russian dish), made with cottage cheese, sour cream, flour, eggs, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Жаркое по-домашнему** (№704)  
+   `Realistic appetizing food photograph of Homestyle pot roast with potatoes, made with potatoes, pork, onion, carrots, garlic, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Печень по-строгановски** (№705)  
+   `Realistic appetizing food photograph of Liver stroganoff (Russian dish), made with beef liver, onion, sour cream, flour, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 47
 
-1. **На сковороде: фасоль и картофель** (№510)  
-   `Realistic appetizing food photograph of Pan-fried beans with potatoes (cooked beans, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Суп с фасоль и картофель** (№511)  
-   `Realistic appetizing food photograph of Beans and potatoes soup (cooked beans, potatoes, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Рагу с фасоль и картофель** (№512)  
-   `Realistic appetizing food photograph of Beans and potatoes stew (cooked beans, potatoes, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Тушёная фасоль с капустой** (№513)  
-   `Realistic appetizing food photograph of Braised beans with cabbage (cooked beans, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Запечённая фасоль с капустой** (№514)  
-   `Realistic appetizing food photograph of Baked beans with cabbage (cooked beans, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **На сковороде: фасоль и капуста** (№515)  
-   `Realistic appetizing food photograph of Pan-fried beans with cabbage (cooked beans, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Суп с фасоль и капуста** (№516)  
-   `Realistic appetizing food photograph of Beans and cabbage soup (cooked beans, cabbage, onion, carrots), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Рагу с фасоль и капуста** (№517)  
-   `Realistic appetizing food photograph of Beans and cabbage stew (cooked beans, cabbage, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Тушёная фасоль с морковью** (№518)  
-   `Realistic appetizing food photograph of Braised beans with carrots (cooked beans, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Запечённая фасоль с морковью** (№519)  
-   `Realistic appetizing food photograph of Baked beans with carrots (cooked beans, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Куриная печень в сметане** (№706)  
+   `Realistic appetizing food photograph of Chicken livers in sour cream, made with chicken liver, onion, sour cream, butter, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Куриные крылышки медово-соевые** (№708)  
+   `Realistic appetizing food photograph of Honey-soy chicken wings, made with chicken wings, soy sauce, honey, garlic, sesame seeds, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Мясо по-французски** (№710)  
+   `Realistic appetizing food photograph of French-style baked pork, made with pork, potatoes, onion, cheese, mayonnaise, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Тефтели в томатном соусе** (№712)  
+   `Realistic appetizing food photograph of Meatballs in tomato sauce, made with minced meat, onion, sour cream, dry rice, eggs, tomato paste, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Ёжики с рисом** (№713)  
+   `Realistic appetizing food photograph of Hedgehog meatballs with rice (Russian dish), made with minced meat, dry rice, onion, carrots, sour cream, tomato paste, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Макароны по-флотски** (№714)  
+   `Realistic appetizing food photograph of Navy-style pasta with mince (Russian dish), made with dry pasta, minced meat, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Курица в сливочно-чесночном соусе** (№715)  
+   `Realistic appetizing food photograph of Chicken in creamy garlic sauce, made with chicken fillet, 20% cream, cheese, butter, garlic, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Рыба под маринадом** (№717)  
+   `Realistic appetizing food photograph of Fish under carrot marinade, made with Alaska pollock, carrots, onion, tomato paste, flour, vinegar, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Рыбные котлеты из минтая** (№718)  
+   `Realistic appetizing food photograph of Pollock fish cakes, made with Alaska pollock, onion, bread, milk, breadcrumbs, eggs, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Кальмары в сметане** (№719)  
+   `Realistic appetizing food photograph of Squid in sour cream, made with squid, sour cream, onion, butter, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 48
 
-1. **На сковороде: фасоль и морковь** (№520)  
-   `Realistic appetizing food photograph of Pan-fried beans with carrots (cooked beans, carrots, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Салат из огурцов с айраном и укропом** (№549)  
-   `Realistic appetizing food photograph of Cucumber salad with ayran and dill (cucumbers, ayran, dill, garlic), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Салат с брынзой и помидорами** (№551)  
-   `Realistic appetizing food photograph of Tomato salad with brynza (tomatoes, cucumbers, bell pepper, brynza cheese, green onion, olive oil), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Кабачки, запечённые с моцареллой** (№552)  
-   `Realistic appetizing food photograph of Zucchini baked with mozzarella (zucchini, tomatoes, mozzarella, garlic, olive oil), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Шпинат с брынзой и яйцами** (№553)  
-   `Realistic appetizing food photograph of Spinach with brynza and eggs (spinach, brynza cheese, eggs, onion, butter), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **Салат из редиса с огурцом и сметаной** (№557)  
-   `Realistic appetizing food photograph of Radish and cucumber salad with sour cream (radishes, cucumbers, green onion, dill, sour cream), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Салат из редьки с морковью** (№558)  
-   `Realistic appetizing food photograph of Black radish and carrot salad (black radish, carrots, garlic), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Курица с кукурузой и перцем** (№560)  
-   `Realistic appetizing food photograph of Chicken with corn and bell pepper (chicken fillet, canned corn, bell pepper, onion), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Вешенки, жаренные с картофелем** (№561)  
-   `Realistic appetizing food photograph of Oyster mushrooms fried with potatoes (oyster mushrooms, potatoes, onion, dill), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Перловка с грибами** (№565)  
-   `Realistic appetizing food photograph of Pearl barley with mushrooms (pearl barley, oyster mushrooms, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Плов с курицей** (№721)  
+   `Realistic appetizing food photograph of Chicken plov (Uzbek dish), made with chicken, dry rice, carrots, onion, garlic, cumin, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Голубцы ленивые** (№722)  
+   `Realistic appetizing food photograph of Lazy cabbage rolls, made with minced meat, cabbage, sour cream, onion, dry rice, eggs, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Гречка по-купечески** (№724)  
+   `Realistic appetizing food photograph of Merchant-style buckwheat with pork (Russian dish), made with pork, buckwheat, onion, carrots, tomato paste, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Картофельная запеканка с курицей и грибами** (№725)  
+   `Realistic appetizing food photograph of Potato bake with chicken and mushrooms, made with potatoes, chicken fillet, button mushrooms, 20% cream, cheese, onion, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Қаттама** (№728)  
+   `Realistic appetizing food photograph of Kattama (layered flatbread) (Kazakh dish), made with flour, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Қазақша куырдак из печени** (№730)  
+   `Realistic appetizing food photograph of Kazakh liver kuyrdak (Kazakh dish), made with lamb liver, potatoes, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Казан-кебаб** (№732)  
+   `Realistic appetizing food photograph of Kazan kebab (lamb with fried potatoes) (Uzbek dish), made with lamb, potatoes, onion, cumin, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Пирожки с капустой** (№737)  
+   `Realistic appetizing food photograph of Cabbage pirozhki (Russian dish), made with cabbage, flour, milk, eggs, onion, dry yeast, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Киш с курицей и брокколи** (№739)  
+   `Realistic appetizing food photograph of Chicken and broccoli quiche (French dish), made with chicken fillet, eggs, flour, 20% cream, broccoli, cheese, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Блины с творогом** (№745)  
+   `Realistic appetizing food photograph of Crepes with sweet cottage cheese, made with milk, cottage cheese, flour, eggs, sour cream, raisins, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 49
 
-1. **Суп с перловкой и говядиной** (№566)  
-   `Realistic appetizing food photograph of Beef and barley soup (beef, pearl barley, potatoes, carrots, onion), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Кукурузная каша на молоке** (№567)  
-   `Realistic appetizing food photograph of Corn porridge with milk (corn grits, milk, sugar, butter), home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Маш с рисом** (№570)  
-   `Realistic appetizing food photograph of Mung beans with rice (mung beans, dry rice, onion, carrots), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Суп из маша с говядиной** (№571)  
-   `Realistic appetizing food photograph of Mung bean soup with beef (mung beans, beef, potatoes, onion, carrots, tomatoes, cilantro), home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Картофельные ньокки со сливочным соусом** (№586)  
-   `Realistic appetizing food photograph of Potato gnocchi with butter and parmesan (potatoes, flour, eggs, butter, parmesan), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **Салат с баклажаном, фетой и томатами** (№591)  
-   `Realistic appetizing food photograph of Eggplant, feta and tomato salad (eggplant, tomatoes, feta cheese, lettuce leaves, olive oil, garlic), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-7. **Салат с лососем и ореховым соусом** (№592)  
-   `Realistic appetizing food photograph of Salmon salad with walnut dressing (salmon, lettuce leaves, cucumbers, tomatoes, walnuts, olive oil, lemon juice, garlic), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-8. **Боул с креветками, омлетом и гуакамоле** (№597)  
-   `Realistic appetizing food photograph of Shrimp bowl with omelet and guacamole (shrimp, dry rice, eggs, avocado, cucumbers, lemon juice, chili pepper, soy sauce), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-9. **Говядина с овощами в устричном соусе** (№601)  
-   `Realistic appetizing food photograph of Beef and vegetables in oyster sauce (beef, bell pepper, broccoli, onion, oyster sauce, soy sauce, garlic, ginger), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-10. **Жаркое из птицы с говяжьими колбасками** (№604)  
-   `Realistic appetizing food photograph of Chicken stew with beef sausages (chicken, beef sausages, potatoes, onion, carrots, tomato paste), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Безе** (№747)  
+   `Realistic appetizing food photograph of Meringues (French dish), made with eggs, lemon juice, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Фалафель** (№752)  
+   `Realistic appetizing food photograph of Falafel, made with chickpeas, onion, parsley, cilantro, flour, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Гречневая каша с молоком** (№765)  
+   `Realistic appetizing food photograph of Buckwheat porridge with milk, made with milk, buckwheat, butter, home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Овсянка с яблоком и корицей** (№767)  
+   `Realistic appetizing food photograph of Oatmeal with apple and cinnamon, made with milk, apple, rolled oats, honey, walnuts, cinnamon, home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Компот из яблок** (№768)  
+   `Realistic appetizing food photograph of Apple compote, made with apple, cinnamon, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Безалкогольный глинтвейн** (№770)  
+   `Realistic appetizing food photograph of Non-alcoholic mulled wine, made with red grape juice, apple, lemon, honey, ginger, cinnamon, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Овощи гриль** (№773)  
+   `Realistic appetizing food photograph of Grilled vegetables, made with zucchini, eggplant, bell pepper, tomatoes, olive oil, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Вареники с картошкой** (№776)  
+   `Realistic appetizing food photograph of Vareniki with potato (Russian dish), made with potatoes, flour, onion, sour cream, eggs, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Вареники с вишней** (№777)  
+   `Realistic appetizing food photograph of Vareniki with sour cherries (Russian dish), made with sour cherries, flour, sour cream, eggs, starch, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Курник** (№779)  
+   `Realistic appetizing food photograph of Kurnik (Russian chicken pie) (Russian dish), made with chicken, flour, button mushrooms, eggs, butter, sour cream, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
 
 ## Партия 50
 
-1. **Медальоны с грибным соусом и брюссельской капустой** (№606)  
-   `Realistic appetizing food photograph of Beef medallions with mushroom sauce and Brussels sprouts (beef tenderloin, button mushrooms, 20% cream, Brussels sprouts, butter), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-2. **Котлеты из индейки с сальсой** (№608)  
-   `Realistic appetizing food photograph of Turkey patties with salsa (turkey fillet, onion, eggs, tomatoes, chili pepper, cilantro, lemon juice), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-3. **Лосось в соусе бешамель** (№612)  
-   `Realistic appetizing food photograph of Salmon in béchamel sauce (salmon, milk, butter, flour, cheese), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-4. **Томлёная говядина с сырным соусом** (№614)  
-   `Realistic appetizing food photograph of Slow-braised beef with cheese sauce (beef, onion, carrots, 20% cream, cheese), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-5. **Цыплёнок на гриле с киноа и муссом из пармезана** (№615)  
-   `Realistic appetizing food photograph of Grilled chicken with quinoa and parmesan mousse (chicken fillet, quinoa, parmesan, 20% cream, lemon juice, olive oil), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
-6. **Творог со сливой и взбитой сметаной** (№616)  
-   `Realistic appetizing food photograph of Cottage cheese with plums and whipped sour cream (cottage cheese, plums, sour cream, sugar, honey), home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+1. **Кулебяка с капустой и яйцом** (№780)  
+   `Realistic appetizing food photograph of Kulebyaka with cabbage and egg (Russian dish), made with cabbage, flour, eggs, milk, onion, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Щи суточные из квашеной капусты** (№781)  
+   `Realistic appetizing food photograph of Day-old sauerkraut shchi (Russian dish), made with beef on the bone, sauerkraut, potatoes, carrots, onion, sour cream, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Холодец** (№782)  
+   `Realistic appetizing food photograph of Kholodets (meat jelly) (Russian dish), made with beef on the bone, chicken, onion, carrots, garlic, gelatin, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Гурьевская каша** (№783)  
+   `Realistic appetizing food photograph of Guryev porridge (Russian dish), made with milk, 20% cream, berries, semolina, walnuts, butter, home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Пожарские котлеты** (№784)  
+   `Realistic appetizing food photograph of Pozharsky chicken cutlets (Russian dish), made with chicken fillet, butter, bread, milk, breadcrumbs, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Сбитень** (№788)  
+   `Realistic appetizing food photograph of Sbiten (hot honey drink) (Russian dish), made with honey, lemon, ginger, cinnamon, cloves, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Картофельные зразы с грибами** (№789)  
+   `Realistic appetizing food photograph of Potato zrazy with mushrooms (Russian dish), made with potatoes, button mushrooms, onion, sour cream, flour, eggs, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Кабачковая икра** (№790)  
+   `Realistic appetizing food photograph of Zucchini caviar (spread) (Russian dish), made with zucchini, carrots, onion, tomato paste, garlic, vinegar, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Гречка с грибами в горшочке** (№791)  
+   `Realistic appetizing food photograph of Buckwheat with mushrooms in a pot (Russian dish), made with button mushrooms, dry buckwheat, onion, carrots, butter, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Тульский пряник** (№795)  
+   `Realistic appetizing food photograph of Tula gingerbread (Russian dish), made with flour, jam, eggs, honey, butter, powdered sugar, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 51
+
+1. **Салат из квашеной капусты с клюквой** (№796)  
+   `Realistic appetizing food photograph of Sauerkraut salad with cranberries (Russian dish), made with sauerkraut, onion, cranberries, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Шавля** (№798)  
+   `Realistic appetizing food photograph of Shavlya (wet pilaf) (Uzbek dish), made with lamb, rice, carrots, onion, garlic, cumin, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Угра ош** (№799)  
+   `Realistic appetizing food photograph of Ugra osh (noodle soup) (Uzbek dish), made with beef, flour, black radish, tomatoes, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Мампар** (№800)  
+   `Realistic appetizing food photograph of Mampar (dough-piece soup) (Uzbek dish), made with beef, flour, tomatoes, bell pepper, onion, black radish, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Чалоп** (№801)  
+   `Realistic appetizing food photograph of Chalop (cold yogurt soup) (Uzbek dish), made with kefir, cucumbers, radishes, green onion, dill, cilantro, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Самса с тыквой** (№803)  
+   `Realistic appetizing food photograph of Pumpkin samsa (Uzbek dish), made with pumpkin, flour, onion, butter, eggs, sesame seeds, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тандыр-гушт** (№804)  
+   `Realistic appetizing food photograph of Tandir gosht (slow-roasted lamb) (Uzbek dish), made with lamb, onion, vinegar, cumin, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Ковурма лагман** (№805)  
+   `Realistic appetizing food photograph of Kovurma lagman (fried lagman) (Uzbek dish), made with lagman noodles, beef, bell pepper, tomatoes, onion, cabbage, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Салат «Ташкент»** (№806)  
+   `Realistic appetizing food photograph of Tashkent salad (Uzbek dish), made with black radish, beef, eggs, onion, mayonnaise, flour, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Нухат шурак** (№807)  
+   `Realistic appetizing food photograph of Nukhat shurak (chickpeas with lamb) (Uzbek dish), made with chickpeas, lamb, onion, vinegar, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 52
+
+1. **Жиз-быз** (№808)  
+   `Realistic appetizing food photograph of Jiz-biz (fried lamb and offal) (Uzbek dish), made with lamb, lamb liver, onion, lamb heart, lamb kidneys, lamb tail fat, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Люля-кебаб** (№810)  
+   `Realistic appetizing food photograph of Lyulya kebab (Uzbek dish), made with lamb, onion, lamb tail fat, cilantro, cumin, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Манты с тыквой** (№811)  
+   `Realistic appetizing food photograph of Pumpkin manti (Uzbek dish), made with pumpkin, flour, onion, sour cream, butter, cumin, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Халвайтар** (№812)  
+   `Realistic appetizing food photograph of Halvaytar (flour halva) (Uzbek dish), made with flour, butter, walnuts, vanilla sugar, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тұшпара** (№813)  
+   `Realistic appetizing food photograph of Tushpara (small dumplings in broth) (Kazakh dish), made with minced meat, flour, onion, eggs, green onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Әсіп** (№814)  
+   `Realistic appetizing food photograph of Asip (lamb sausage with rice and offal) (Kazakh dish), made with cleaned lamb intestines, lamb liver, lamb heart, rice, lamb tail fat, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Ірімшік** (№816)  
+   `Realistic appetizing food photograph of Irimshik (sweet browned curd) (Kazakh dish), made with milk, kefir, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Құрт домашний** (№817)  
+   `Realistic appetizing food photograph of Homemade kurt (dried yogurt balls) (Kazakh dish), made with kefir, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Балқаймақ** (№818)  
+   `Realistic appetizing food photograph of Balkaimak (honey cream) (Kazakh dish), made with sour cream, honey, flour, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Қазанжаппай** (№819)  
+   `Realistic appetizing food photograph of Kazanzhappai (lamb stewed under a dough lid) (Kazakh dish), made with lamb, potatoes, flour, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 53
+
+1. **Шұжық домашний** (№820)  
+   `Realistic appetizing food photograph of Homemade shuzhuk (horse meat sausage) (Kazakh dish), made with horse meat, horse fat, cleaned horse casings, garlic, cumin, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Қазақша палау с сухофруктами** (№821)  
+   `Realistic appetizing food photograph of Kazakh palau with dried fruit (Kazakh dish), made with lamb, rice, carrots, onion, dried fruit, cumin, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Шалап** (№822)  
+   `Realistic appetizing food photograph of Shalap (salted ayran drink) (Kazakh dish), made with kefir, mint, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Кукси** (№824)  
+   `Realistic appetizing food photograph of Kuksi (cold noodle soup) (Korean dish), made with egg noodles, beef, cucumbers, tomatoes, eggs, soy sauce, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Баклажаны по-корейски** (№829)  
+   `Realistic appetizing food photograph of Korean-style eggplant salad (Korean dish), made with eggplant, carrots, bell pepper, onion, vinegar, soy sauce, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Огурцы по-корейски** (№830)  
+   `Realistic appetizing food photograph of Korean-style cucumbers (Korean dish), made with cucumbers, soy sauce, vinegar, garlic, sesame seeds, sesame oil, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Удон с курицей** (№835)  
+   `Realistic appetizing food photograph of Chicken udon soup (Japanese dish), made with chicken fillet, udon noodles, button mushrooms, soy sauce, green onion, ginger, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Салат с курицей и грибами** (№839)  
+   `Realistic appetizing food photograph of Chicken and mushroom salad, made with chicken fillet, button mushrooms, eggs, pickled cucumbers, mayonnaise, onion, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Салат «Обжорка»** (№840)  
+   `Realistic appetizing food photograph of Obzhorka salad (beef and pickles), made with beef, pickled cucumbers, onion, carrots, mayonnaise, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Морковный салат с сыром и чесноком** (№841)  
+   `Realistic appetizing food photograph of Carrot salad with cheese and garlic, made with carrots, cheese, mayonnaise, garlic, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 54
+
+1. **Омлет как в детском саду** (№843)  
+   `Realistic appetizing food photograph of Kindergarten-style baked omelette, made with eggs, milk, butter, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Овсяноблин с сыром и помидором** (№844)  
+   `Realistic appetizing food photograph of Oat pancake with cheese and tomato, made with eggs, tomatoes, milk, rolled oats, cheese, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Искендер-кебаб** (№847)  
+   `Realistic appetizing food photograph of Iskender kebab (Turkish dish), made with beef, plain yogurt, lavash flatbread, tomatoes, tomato paste, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Имам баялды** (№852)  
+   `Realistic appetizing food photograph of Imam bayildi (stuffed eggplant) (Turkish dish), made with eggplant, tomatoes, onion, bell pepper, olive oil, parsley, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Чобан салатасы** (№856)  
+   `Realistic appetizing food photograph of Coban salatasi (shepherd's salad) (Turkish dish), made with tomatoes, cucumbers, bell pepper, onion, olive oil, parsley, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Тавук шиш** (№859)  
+   `Realistic appetizing food photograph of Tavuk sis (chicken skewers) (Turkish dish), made with chicken fillet, lavash flatbread, plain yogurt, olive oil, tomato paste, lemon juice, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Гёзлеме со шпинатом и сыром** (№860)  
+   `Realistic appetizing food photograph of Gozleme with spinach and cheese (Turkish dish), made with flour, spinach, feta cheese, onion, plain yogurt, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Эзогелин чорба** (№861)  
+   `Realistic appetizing food photograph of Ezogelin soup (lentil and bulgur) (Turkish dish), made with red lentils, onion, bulgur, lemon, rice, tomato paste, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Капуста по-гурийски** (№870)  
+   `Realistic appetizing food photograph of Gurian pickled cabbage with beetroot (Georgian dish), made with cabbage, beetroot, vinegar, garlic, celery, chili pepper, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Равиоли с рикоттой и шпинатом** (№874)  
+   `Realistic appetizing food photograph of Ricotta and spinach ravioli (Italian dish), made with flour, ricotta, spinach, eggs, parmesan, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 55
+
+1. **Кальцоне с ветчиной и сыром** (№876)  
+   `Realistic appetizing food photograph of Ham and cheese calzone (Italian dish), made with flour, ham, mozzarella, ricotta, strained tomatoes, olive oil, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Пасуц толма** (№882)  
+   `Realistic appetizing food photograph of Pasuts tolma (lenten cabbage rolls with beans and lentils) (Armenian dish), made with cabbage, onion, red kidney beans, dried lentils, chickpeas, bulgur, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Кюфта** (№883)  
+   `Realistic appetizing food photograph of Kyufta (Armenian poached meat balls) (Armenian dish), made with beef, onion, eggs, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Спас** (№885)  
+   `Realistic appetizing food photograph of Spas (yogurt and wheat soup) (Armenian dish), made with plain yogurt, wheat berries, onion, eggs, butter, flour, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Жингялов хац** (№888)  
+   `Realistic appetizing food photograph of Zhingyalov hats (flatbread stuffed with herbs) (Armenian dish), made with flour, spinach, green onion, cilantro, dill, parsley, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Гата** (№889)  
+   `Realistic appetizing food photograph of Gata (Armenian sweet bread) (Armenian dish), made with flour, butter, sour cream, eggs, vanilla sugar, baking powder, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Ишхан (форель) на мангале** (№890)  
+   `Realistic appetizing food photograph of Ishkhan (grilled trout) (Armenian dish), made with trout, lemon, tarragon, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Тжвжик** (№892)  
+   `Realistic appetizing food photograph of Tzhvzhik (fried liver and offal) (Armenian dish), made with lamb liver, lamb heart, onion, tomatoes, lamb kidneys, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Салат хоровац** (№893)  
+   `Realistic appetizing food photograph of Khorovats salad (grilled vegetable salad) (Armenian dish), made with eggplant, bell pepper, tomatoes, onion, cilantro, garlic, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Анушабур** (№894)  
+   `Realistic appetizing food photograph of Anushabur (Armenian wheat pudding) (Armenian dish), made with wheat berries, dried fruit, raisins, walnuts, cinnamon, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 56
+
+1. **Тан** (№895)  
+   `Realistic appetizing food photograph of Tan (Armenian yogurt drink) (Armenian dish), made with plain yogurt, mint, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Куриные котлеты на пару** (№896)  
+   `Realistic appetizing food photograph of Steamed chicken cutlets, made with chicken fillet, onion, eggs, rolled oats, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Треска на пару с овощами** (№897)  
+   `Realistic appetizing food photograph of Steamed cod with vegetables, made with cod, broccoli, zucchini, carrots, lemon, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Тефтели из индейки на пару** (№899)  
+   `Realistic appetizing food photograph of Steamed turkey meatballs, made with turkey, onion, brown rice, eggs, parsley, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Омлет на пару** (№900)  
+   `Realistic appetizing food photograph of Steamed omelette, made with eggs, milk, spinach, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Сёмга на пару с лимоном** (№901)  
+   `Realistic appetizing food photograph of Steamed salmon with lemon, made with salmon, green beans, lemon, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Минтай на пару с морковью и луком** (№902)  
+   `Realistic appetizing food photograph of Steamed pollock with carrot and onion, made with Alaska pollock, carrots, onion, lemon juice, parsley, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Отварная куриная грудка с гречкой** (№904)  
+   `Realistic appetizing food photograph of Boiled chicken breast with buckwheat, made with chicken fillet, dry buckwheat, onion, carrots, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Суп-пюре из кабачков** (№905)  
+   `Realistic appetizing food photograph of Zucchini cream soup, made with zucchini, potatoes, onion, plain yogurt, dill, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Тыква на пару с корицей** (№907)  
+   `Realistic appetizing food photograph of Steamed pumpkin with cinnamon, made with pumpkin, walnuts, honey, cinnamon, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 57
+
+1. **Творожное суфле на пару** (№908)  
+   `Realistic appetizing food photograph of Steamed cottage cheese souffle, made with cottage cheese, eggs, berries, semolina, honey, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Яйца пашот со шпинатом** (№909)  
+   `Realistic appetizing food photograph of Poached eggs with spinach, made with eggs, spinach, vinegar, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Салат из отварной свёклы с йогуртом** (№911)  
+   `Realistic appetizing food photograph of Boiled beetroot salad with yogurt, made with beetroot, plain yogurt, walnuts, dill, garlic, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Бурый рис с овощами на пару** (№912)  
+   `Realistic appetizing food photograph of Brown rice with steamed vegetables, made with brown rice, cauliflower, carrots, green beans, soy sauce, sesame seeds, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Стручковая фасоль на пару с чесноком** (№913)  
+   `Realistic appetizing food photograph of Steamed green beans with garlic, made with green beans, olive oil, garlic, lemon juice, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Рыбные фрикадельки на пару** (№914)  
+   `Realistic appetizing food photograph of Steamed fish balls, made with hake, onion, eggs, rolled oats, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Куриный бульон с яйцом и зеленью** (№916)  
+   `Realistic appetizing food photograph of Chicken broth with egg and herbs, made with chicken, eggs, onion, carrots, dill, green onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Кабачки на пару с зеленью** (№917)  
+   `Realistic appetizing food photograph of Steamed zucchini with herbs, made with zucchini, plain yogurt, dill, parsley, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Куриные голени отварные с овощами** (№918)  
+   `Realistic appetizing food photograph of Boiled chicken drumsticks with vegetables, made with chicken drumsticks, potatoes, broccoli, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Гречка с тушёными овощами** (№919)  
+   `Realistic appetizing food photograph of Buckwheat with stewed vegetables, made with dry buckwheat, zucchini, bell pepper, tomatoes, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 58
+
+1. **Овощной суп с фасолью** (№920)  
+   `Realistic appetizing food photograph of Vegetable and bean soup, made with cooked beans, cabbage, tomatoes, carrots, onion, celery, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Салат из капусты с огурцом и зеленью** (№921)  
+   `Realistic appetizing food photograph of Cabbage, cucumber and herb salad, made with cabbage, cucumbers, green onion, dill, lemon juice, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Омлет с овощами и зеленью** (№924)  
+   `Realistic appetizing food photograph of Vegetable and herb omelette, made with eggs, tomatoes, bell pepper, milk, spinach, olive oil, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Творожная запеканка без сахара и муки** (№925)  
+   `Realistic appetizing food photograph of Sugar-free, flour-free cottage cheese bake, made with cottage cheese, eggs, plain yogurt, berries, rolled oats, cinnamon, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Печёные яблоки с корицей без сахара** (№926)  
+   `Realistic appetizing food photograph of Sugar-free baked apples with cinnamon, made with apple, cottage cheese, walnuts, cinnamon, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Овсяная каша на воде с орехами** (№927)  
+   `Realistic appetizing food photograph of Oatmeal with nuts (no sugar), made with rolled oats, walnuts, cinnamon, home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тушёная капуста с индейкой** (№928)  
+   `Realistic appetizing food photograph of Braised cabbage with turkey, made with cabbage, turkey, carrots, onion, tomato paste, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Кабачки, фаршированные индейкой** (№929)  
+   `Realistic appetizing food photograph of Zucchini stuffed with turkey, made with zucchini, turkey, tomatoes, onion, cheese, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Салат с тунцом и фасолью** (№930)  
+   `Realistic appetizing food photograph of Tuna and bean salad, made with cooked beans, canned tuna, cucumbers, lettuce leaves, onion, olive oil, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Говядина, тушённая с баклажанами** (№931)  
+   `Realistic appetizing food photograph of Beef braised with eggplant, made with beef, eggplant, tomatoes, bell pepper, onion, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 59
+
+1. **Сырники в духовке без сахара** (№932)  
+   `Realistic appetizing food photograph of Oven-baked syrniki without sugar, made with cottage cheese, plain yogurt, eggs, rolled oats, cinnamon, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Овощное рагу с нутом** (№933)  
+   `Realistic appetizing food photograph of Vegetable and chickpea stew, made with zucchini, eggplant, tomatoes, chickpeas, bell pepper, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Запеканка из брокколи с яйцом и сыром** (№935)  
+   `Realistic appetizing food photograph of Broccoli bake with egg and cheese, made with broccoli, eggs, milk, cheese, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Куриный суп с цветной капустой** (№936)  
+   `Realistic appetizing food photograph of Chicken soup with cauliflower, made with chicken fillet, cauliflower, carrots, onion, celery, dill, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Говядина по-бургундски** (№940)  
+   `Realistic appetizing food photograph of Boeuf bourguignon (French dish), made with beef, dry red wine, button mushrooms, onion, carrots, bacon, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Кок-о-вен (курица в вине)** (№941)  
+   `Realistic appetizing food photograph of Coq au vin (French dish), made with chicken, dry red wine, button mushrooms, onion, bacon, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Тарт татен** (№945)  
+   `Realistic appetizing food photograph of Tarte Tatin (French dish), made with apple, puff pastry, butter, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Галета с ветчиной, сыром и яйцом** (№948)  
+   `Realistic appetizing food photograph of Galette complète (ham, cheese and egg crêpe) (French dish), made with milk, eggs, flour, ham, cheese, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Мули маринер (мидии в белом вине)** (№949)  
+   `Realistic appetizing food photograph of Moules marinière (French dish), made with mussels, dry white wine, onion, 20% cream, butter, parsley, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Яблочный крамбл** (№957)  
+   `Realistic appetizing food photograph of Apple crumble (English dish), made with apple, flour, butter, rolled oats, cinnamon, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 60
+
+1. **Хлебный пудинг с изюмом** (№962)  
+   `Realistic appetizing food photograph of Bread and butter pudding (English dish), made with milk, bread, eggs, raisins, butter, vanilla sugar, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Суп с яйцом и помидорами** (№969)  
+   `Realistic appetizing food photograph of Tomato and egg drop soup (Chinese dish), made with tomatoes, eggs, green onion, starch, sesame oil, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Баклажаны юйсян** (№972)  
+   `Realistic appetizing food photograph of Yuxiang eggplant (Sichuan garlic eggplant) (Chinese dish), made with eggplant, minced meat, soy sauce, vinegar, green onion, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Чайные яйца** (№975)  
+   `Realistic appetizing food photograph of Chinese tea eggs (Chinese dish), made with eggs, soy sauce, black tea, star anise, cinnamon, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Құйрық-бауыр** (№977)  
+   `Realistic appetizing food photograph of Kuyryk-bauyr (liver with tail fat) (Kazakh dish), made with lamb liver, lamb tail fat, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Қой басы (отварная баранья голова)** (№978)  
+   `Realistic appetizing food photograph of Koy basy (boiled lamb's head) (Kazakh dish), made with lamb's head, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Жал-жая** (№979)  
+   `Realistic appetizing food photograph of Zhal-zhaya (boiled horse neck fat and hip) (Kazakh dish), made with jaya (smoked horse hip), horse fat, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Сүр ет** (№980)  
+   `Realistic appetizing food photograph of Sur et (salt-cured dried meat) (Kazakh dish), made with lamb, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Қатырма нан** (№981)  
+   `Realistic appetizing food photograph of Katyrma (crisp fried flatbread) (Kazakh dish), made with flour, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Қуырмаш** (№982)  
+   `Realistic appetizing food photograph of Kuyrmash (toasted millet with butter) (Kazakh dish), made with millet, butter, kurt (dried cheese), home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 61
+
+1. **Тары көже** (№983)  
+   `Realistic appetizing food photograph of Tary kozhe (millet and ayran drink) (Kazakh dish), made with kefir, milk, millet, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Тауық кеспе** (№984)  
+   `Realistic appetizing food photograph of Tauyk kespe (chicken noodle soup) (Kazakh dish), made with chicken, potatoes, flour, carrots, onion, eggs, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Бәліш** (№985)  
+   `Realistic appetizing food photograph of Balish (meat and potato pie) (Kazakh dish), made with lamb, flour, potatoes, kefir, onion, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Үй айраны** (№986)  
+   `Realistic appetizing food photograph of Homemade ayran (Kazakh dish), made with milk, kefir, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Талқан с маслом и мёдом** (№987)  
+   `Realistic appetizing food photograph of Talkan with butter and honey (Kazakh dish), made with roasted grain flour, butter, honey, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Кавурма шурпа** (№988)  
+   `Realistic appetizing food photograph of Kovurma shurpa (fried-meat soup) (Uzbek dish), made with lamb, potatoes, carrots, onion, tomatoes, bell pepper, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Шивит оши** (№989)  
+   `Realistic appetizing food photograph of Shivit oshi (green dill noodles) (Uzbek dish), made with flour, beef, potatoes, carrots, bell pepper, plain yogurt, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Гумма** (№990)  
+   `Realistic appetizing food photograph of Gumma (fried pies with offal) (Uzbek dish), made with flour, beef liver, kefir, lamb heart, onion, rice, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Бичак с картошкой** (№991)  
+   `Realistic appetizing food photograph of Bichak (fried potato pies) (Uzbek dish), made with potatoes, flour, onion, green onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Тухум барак** (№992)  
+   `Realistic appetizing food photograph of Tukhum barak (egg-filled dumplings) (Uzbek dish), made with eggs, flour, kefir, milk, butter, green onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 62
+
+1. **Жигар кабоб** (№993)  
+   `Realistic appetizing food photograph of Jigar kabob (liver kebab) (Uzbek dish), made with lamb liver, lamb tail fat, onion, cumin, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Сузьма с зеленью** (№994)  
+   `Realistic appetizing food photograph of Suzma with herbs (Uzbek dish), made with cottage cheese, plain yogurt, cucumbers, dill, cilantro, garlic, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Яхна гушт** (№995)  
+   `Realistic appetizing food photograph of Yakhna gusht (cold boiled meat) (Uzbek dish), made with beef, onion, carrots, cumin, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Парварда** (№997)  
+   `Realistic appetizing food photograph of Parvarda (Uzbek pulled sugar sweets) (Uzbek dish), made with flour, lemon juice, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Товук шурва** (№998)  
+   `Realistic appetizing food photograph of Tovuk shurva (Uzbek chicken soup) (Uzbek dish), made with chicken, potatoes, carrots, onion, tomatoes, bell pepper, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Бухарский плов** (№999)  
+   `Realistic appetizing food photograph of Bukhara plov (with raisins and chickpeas) (Uzbek dish), made with lamb, rice, carrots, onion, chickpeas, raisins, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Самса с курицей** (№1000)  
+   `Realistic appetizing food photograph of Chicken samsa (Uzbek dish), made with puff pastry, chicken fillet, onion, eggs, sesame seeds, cumin, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Жаркоп** (№1001)  
+   `Realistic appetizing food photograph of Zharkop (meat and potato stew) (Uzbek dish), made with potatoes, lamb, onion, tomatoes, carrots, bell pepper, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Ширчой** (№1002)  
+   `Realistic appetizing food photograph of Shirchoy (tea with milk and butter) (Uzbek dish), made with milk, butter, black tea, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Аталя** (№1003)  
+   `Realistic appetizing food photograph of Atala (flour porridge) (Uzbek dish), made with milk, flour, butter, home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 63
+
+1. **Ширгуруч** (№1004)  
+   `Realistic appetizing food photograph of Shirguruch (Uzbek milk rice porridge) (Uzbek dish), made with milk, rice, butter, home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Халим** (№1005)  
+   `Realistic appetizing food photograph of Halim (wheat and meat porridge) (Uzbek dish), made with lamb, wheat berries, onion, butter, cinnamon, home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Хачапури по-гурийски** (№1006)  
+   `Realistic appetizing food photograph of Gurian khachapuri (crescent with egg) (Georgian dish), made with flour, suluguni cheese, eggs, kefir, butter, dry yeast, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Ачма** (№1007)  
+   `Realistic appetizing food photograph of Achma (layered cheese pie) (Georgian dish), made with suluguni cheese, flour, butter, eggs, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Купаты** (№1008)  
+   `Realistic appetizing food photograph of Kupaty (Georgian sausages) (Georgian dish), made with pork, beef, onion, cleaned lamb intestines, garlic, khmeli suneli spice, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Цыплёнок табака** (№1009)  
+   `Realistic appetizing food photograph of Chicken tabaka (pressed fried chicken) (Georgian dish), made with chicken, butter, garlic, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Мчади** (№1010)  
+   `Realistic appetizing food photograph of Mchadi (corn cakes) (Georgian dish), made with corn grits, suluguni cheese, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Кубдари** (№1011)  
+   `Realistic appetizing food photograph of Kubdari (Svan meat pie) (Georgian dish), made with flour, beef, pork, kefir, onion, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Соус ткемали домашний** (№1012)  
+   `Realistic appetizing food photograph of Homemade tkemali (plum sauce) (Georgian dish), made with plums, cilantro, garlic, dill, mint, chili pepper, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Аджика по-грузински** (№1013)  
+   `Realistic appetizing food photograph of Georgian adjika (Georgian dish), made with chili pepper, garlic, cilantro, walnuts, khmeli suneli spice, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 64
+
+1. **Пхали из свёклы** (№1014)  
+   `Realistic appetizing food photograph of Beetroot pkhali (Georgian dish), made with beetroot, walnuts, pomegranate, cilantro, vinegar, garlic, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Кабаби** (№1015)  
+   `Realistic appetizing food photograph of Kababi (Georgian minced kebab) (Georgian dish), made with minced meat, lavash flatbread, onion, cilantro, khmeli suneli spice, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Калмахи (форель с гранатом)** (№1016)  
+   `Realistic appetizing food photograph of Kalmakhi (trout with pomegranate) (Georgian dish), made with trout, pomegranate, lemon, tarragon, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Гозинаки** (№1017)  
+   `Realistic appetizing food photograph of Gozinaki (honey walnut brittle) (Georgian dish), made with walnuts, honey, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Назуки** (№1018)  
+   `Realistic appetizing food photograph of Nazuki (sweet spiced bread) (Georgian dish), made with flour, milk, eggs, butter, raisins, dry yeast, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Шоти пури** (№1019)  
+   `Realistic appetizing food photograph of Shoti puri (Georgian canoe bread) (Georgian dish), made with flour, dry yeast, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Грузинский салат с орехами** (№1020)  
+   `Realistic appetizing food photograph of Georgian salad with walnut dressing (Georgian dish), made with tomatoes, cucumbers, onion, walnuts, cilantro, vinegar, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Пеновани** (№1021)  
+   `Realistic appetizing food photograph of Penovani (puff pastry khachapuri) (Georgian dish), made with puff pastry, suluguni cheese, eggs, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Шила плави** (№1022)  
+   `Realistic appetizing food photograph of Shila plavi (Svan rice with meat) (Georgian dish), made with beef, rice, onion, carrots, butter, khmeli suneli spice, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Остри** (№1023)  
+   `Realistic appetizing food photograph of Ostri (spicy beef stew) (Georgian dish), made with beef, tomatoes, onion, pickled cucumbers, tomato paste, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 65
+
+1. **Грибы с сулугуни в кеци** (№1024)  
+   `Realistic appetizing food photograph of Mushrooms with suluguni in ketsi (Georgian dish), made with button mushrooms, suluguni cheese, butter, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Чирбули** (№1025)  
+   `Realistic appetizing food photograph of Chirbuli (Georgian eggs with tomatoes and walnuts) (Georgian dish), made with tomatoes, eggs, bell pepper, onion, walnuts, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Чвиштари** (№1026)  
+   `Realistic appetizing food photograph of Chvishtari (corn cakes with cheese) (Georgian dish), made with corn grits, suluguni cheese, milk, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Лимонад тархун** (№1027)  
+   `Realistic appetizing food photograph of Tarragon lemonade (Georgian dish), made with lemon, tarragon, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Пицца Четыре сыра** (№1028)  
+   `Realistic appetizing food photograph of Quattro formaggi pizza (Italian dish), made with flour, mozzarella, cheese, blue cheese, parmesan, olive oil, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Пицца Капричоза** (№1029)  
+   `Realistic appetizing food photograph of Pizza capricciosa (Italian dish), made with flour, strained tomatoes, mozzarella, ham, button mushrooms, black olives, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Паста путтанеска** (№1030)  
+   `Realistic appetizing food photograph of Pasta puttanesca (Italian dish), made with dry spaghetti, strained tomatoes, black olives, olive oil, capers, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Паста алла норма** (№1031)  
+   `Realistic appetizing food photograph of Pasta alla Norma (Italian dish), made with eggplant, dry pasta, strained tomatoes, ricotta, olive oil, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Паппа аль помодоро** (№1035)  
+   `Realistic appetizing food photograph of Pappa al pomodoro (tomato bread soup) (Italian dish), made with tomatoes, bread, olive oil, garlic, basil, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Суп страчателла** (№1036)  
+   `Realistic appetizing food photograph of Stracciatella soup (Italian dish), made with chicken, eggs, parmesan, parsley, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 66
+
+1. **Салтимбокка** (№1037)  
+   `Realistic appetizing food photograph of Saltimbocca (veal with sage and ham) (Italian dish), made with veal, ham, dry white wine, butter, flour, sage, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Курица каччаторе** (№1038)  
+   `Realistic appetizing food photograph of Chicken cacciatore (Italian dish), made with chicken, strained tomatoes, bell pepper, button mushrooms, onion, dry red wine, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Панцанелла** (№1040)  
+   `Realistic appetizing food photograph of Panzanella (Tuscan bread salad) (Italian dish), made with tomatoes, bread, cucumbers, onion, olive oil, vinegar, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Полента с грибами** (№1044)  
+   `Realistic appetizing food photograph of Polenta with mushrooms (Italian dish), made with button mushrooms, corn grits, parmesan, butter, garlic, thyme, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Кимчи-покымпап** (№1050)  
+   `Realistic appetizing food photograph of Kimchi bokkeumbap (kimchi fried rice) (Korean dish), made with rice, kimchi, eggs, bacon, gochujang, green onion, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Миёккук** (№1055)  
+   `Realistic appetizing food photograph of Miyeokguk (seaweed soup) (Korean dish), made with beef, soy sauce, wakame seaweed, sesame oil, garlic, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Кальби-чим** (№1060)  
+   `Realistic appetizing food photograph of Galbi-jjim (braised short ribs) (Korean dish), made with beef short ribs, black radish, pear, carrots, soy sauce, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Ои-собаги** (№1066)  
+   `Realistic appetizing food photograph of Oi sobagi (stuffed cucumber kimchi) (Korean dish), made with cucumbers, carrots, green onion, garlic, fish sauce, chili pepper, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Мусэнчхэ** (№1067)  
+   `Realistic appetizing food photograph of Musaengchae (spicy radish salad) (Korean dish), made with black radish, vinegar, green onion, chili pepper, garlic, sesame seeds, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Кэран-чим** (№1070)  
+   `Realistic appetizing food photograph of Gyeran jjim (steamed eggs) (Korean dish), made with eggs, green onion, sesame oil, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 67
+
+1. **Хобак-чук** (№1073)  
+   `Realistic appetizing food photograph of Hobakjuk (pumpkin porridge) (Korean dish), made with pumpkin, rice flour, red kidney beans, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Тубу-чорим** (№1074)  
+   `Realistic appetizing food photograph of Dubu jorim (braised tofu) (Korean dish), made with tofu, soy sauce, green onion, garlic, sesame seeds, chili pepper, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тубу-кимчи** (№1075)  
+   `Realistic appetizing food photograph of Dubu kimchi (tofu with stir-fried kimchi) (Korean dish), made with tofu, kimchi, pork, gochujang, sesame oil, sesame seeds, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Мандугук** (№1077)  
+   `Realistic appetizing food photograph of Mandu-guk (dumpling soup) (Korean dish), made with flour, minced meat, tofu, kimchi, eggs, green onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Ролл Филадельфия** (№1083)  
+   `Realistic appetizing food photograph of Philadelphia roll (Japanese dish), made with rice, salmon, cream cheese, cucumbers, rice vinegar, nori sheets, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Тэкка-маки (ролл с тунцом)** (№1084)  
+   `Realistic appetizing food photograph of Tekka maki (tuna roll) (Japanese dish), made with rice, fresh tuna, rice vinegar, soy sauce, nori sheets, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Никудзяга** (№1093)  
+   `Realistic appetizing food photograph of Nikujaga (meat and potato stew) (Japanese dish), made with potatoes, beef, carrots, onion, soy sauce, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Тяхан** (№1098)  
+   `Realistic appetizing food photograph of Chahan (Japanese fried rice) (Japanese dish), made with rice, eggs, ham, green onion, soy sauce, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тамаго-сандо** (№1100)  
+   `Realistic appetizing food photograph of Tamago sando (egg salad sandwich) (Japanese dish), made with eggs, bread, mayonnaise, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Саба мисони** (№1102)  
+   `Realistic appetizing food photograph of Saba misoni (mackerel in miso) (Japanese dish), made with mackerel, miso paste, ginger, soy sauce, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 68
+
+1. **Хияякко** (№1104)  
+   `Realistic appetizing food photograph of Hiyayakko (chilled tofu) (Japanese dish), made with tofu, soy sauce, green onion, ginger, sesame seeds, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Эдамамэ с солью** (№1105)  
+   `Realistic appetizing food photograph of Salted edamame (Japanese dish), made with edamame, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Сунемоно с огурцом** (№1107)  
+   `Realistic appetizing food photograph of Cucumber sunomono (Japanese dish), made with cucumbers, rice vinegar, sesame seeds, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Дайфуку с клубникой** (№1109)  
+   `Realistic appetizing food photograph of Strawberry daifuku (Japanese dish), made with rice flour, red kidney beans, strawberries, starch, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Дораяки** (№1110)  
+   `Realistic appetizing food photograph of Dorayaki (filled pancakes) (Japanese dish), made with red kidney beans, flour, eggs, honey, baking powder, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Курица намбан** (№1113)  
+   `Realistic appetizing food photograph of Chicken nanban (Japanese dish), made with chicken fillet, eggs, mayonnaise, flour, pickled cucumbers, rice vinegar, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Яйла чорбасы** (№1115)  
+   `Realistic appetizing food photograph of Yayla corbasi (yogurt mint soup) (Turkish dish), made with plain yogurt, rice, eggs, flour, butter, mint, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Тархана чорбасы** (№1116)  
+   `Realistic appetizing food photograph of Tarhana corbasi (tomato and yogurt soup) (Turkish dish), made with plain yogurt, tomatoes, bell pepper, onion, flour, tomato paste, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Куру фасулье** (№1117)  
+   `Realistic appetizing food photograph of Kuru fasulye (Turkish white bean stew) (Turkish dish), made with cooked beans, beef, onion, bell pepper, tomato paste, paprika, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Пилав с булгуром** (№1118)  
+   `Realistic appetizing food photograph of Bulgur pilavi (Turkish dish), made with bulgur, tomatoes, onion, bell pepper, butter, tomato paste, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 69
+
+1. **Пилав с вермишелью** (№1119)  
+   `Realistic appetizing food photograph of Sehriyeli pilav (rice with vermicelli) (Turkish dish), made with rice, vermicelli, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Хюнкяр бейенди** (№1120)  
+   `Realistic appetizing food photograph of Hunkar begendi (lamb on smoky eggplant puree) (Turkish dish), made with eggplant, lamb, tomatoes, milk, onion, cheese, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Тавук соте** (№1121)  
+   `Realistic appetizing food photograph of Tavuk sote (chicken sauté) (Turkish dish), made with chicken fillet, bell pepper, tomatoes, button mushrooms, onion, tomato paste, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Кёфте по-измирски** (№1122)  
+   `Realistic appetizing food photograph of Izmir kofte (meatballs with potatoes) (Turkish dish), made with minced meat, potatoes, tomatoes, bell pepper, onion, bread, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Тава-кебаб** (№1124)  
+   `Realistic appetizing food photograph of Tava kebabi (pan kebab) (Turkish dish), made with lamb, tomatoes, bell pepper, onion, butter, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Урфа-кебаб** (№1125)  
+   `Realistic appetizing food photograph of Urfa kebab (mild minced lamb kebab) (Turkish dish), made with lamb, lavash flatbread, onion, lamb tail fat, parsley, sumac, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Сигара бёрек** (№1128)  
+   `Realistic appetizing food photograph of Sigara boregi (cheese filo rolls) (Turkish dish), made with filo pastry, feta cheese, eggs, parsley, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Пиде с сыром и яйцом** (№1129)  
+   `Realistic appetizing food photograph of Kasarli yumurtali pide (cheese and egg pide) (Turkish dish), made with flour, cheese, eggs, butter, dry yeast, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Ичли кёфте** (№1131)  
+   `Realistic appetizing food photograph of Icli kofte (stuffed bulgur shells) (Turkish dish), made with minced meat, bulgur, onion, walnuts, tomato paste, paprika, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Долма из перцев с рисом** (№1132)  
+   `Realistic appetizing food photograph of Biber dolmasi (rice-stuffed peppers) (Turkish dish), made with bell pepper, rice, onion, tomatoes, olive oil, pine nuts, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 70
+
+1. **Пияз салатасы** (№1134)  
+   `Realistic appetizing food photograph of Piyaz (white bean salad) (Turkish dish), made with cooked beans, tomatoes, eggs, onion, olive oil, parsley, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Мюджвер** (№1137)  
+   `Realistic appetizing food photograph of Mucver (zucchini fritters with feta) (Turkish dish), made with zucchini, eggs, feta cheese, flour, dill, green onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Кюнефе** (№1140)  
+   `Realistic appetizing food photograph of Kunefe (cheese pastry in syrup) (Turkish dish), made with filo pastry, mozzarella, butter, pistachios, lemon juice, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Ревани** (№1141)  
+   `Realistic appetizing food photograph of Revani (semolina syrup cake) (Turkish dish), made with eggs, semolina, plain yogurt, flour, desiccated coconut, lemon juice, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Ашуре** (№1142)  
+   `Realistic appetizing food photograph of Asure (Noah's pudding) (Turkish dish), made with wheat berries, pomegranate, chickpeas, cooked beans, dried apricots, dried figs, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Айран турецкий** (№1144)  
+   `Realistic appetizing food photograph of Turkish ayran (Turkish dish), made with plain yogurt, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Толма в виноградных листьях** (№1145)  
+   `Realistic appetizing food photograph of Tolma in vine leaves (Armenian dish), made with beef, grape leaves, lamb, plain yogurt, onion, rice, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Капустная толма** (№1146)  
+   `Realistic appetizing food photograph of Cabbage tolma (Armenian dish), made with cabbage, minced meat, onion, rice, tomato paste, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Ахтамар толма (с айвой и яблоками)** (№1147)  
+   `Realistic appetizing food photograph of Akhtamar tolma (stuffed quince and apples) (Armenian dish), made with quince, apple, minced meat, onion, rice, butter, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Бораки** (№1148)  
+   `Realistic appetizing food photograph of Boraki (fried meat dumplings in broth) (Armenian dish), made with flour, minced meat, plain yogurt, onion, butter, eggs, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 71
+
+1. **Мантапур** (№1149)  
+   `Realistic appetizing food photograph of Mantapur (manti soup with yogurt) (Armenian dish), made with plain yogurt, flour, minced meat, onion, butter, tomato paste, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Ангахтапур** (№1150)  
+   `Realistic appetizing food photograph of Ankhatapur (fasting bean and dried fruit soup) (Armenian dish), made with red kidney beans, onion, dried lentils, dried apricots, prunes, cilantro, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Ош (суп с фрикадельками и рисом)** (№1151)  
+   `Realistic appetizing food photograph of Osh (meatball and rice soup) (Armenian dish), made with minced meat, potatoes, tomatoes, rice, onion, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Бозбаш по-ереванский** (№1152)  
+   `Realistic appetizing food photograph of Yerevan bozbash (lamb and quince stew) (Armenian dish), made with lamb, potatoes, quince, chickpeas, onion, tomato paste, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Суп с говядиной и овощами по-армянски** (№1153)  
+   `Realistic appetizing food photograph of Armenian beef and vegetable soup (Armenian dish), made with beef, potatoes, tomatoes, bell pepper, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Кололак** (№1154)  
+   `Realistic appetizing food photograph of Kololak (Armenian meatballs in broth) (Armenian dish), made with beef, onion, rice, eggs, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Хоровац из баранины** (№1155)  
+   `Realistic appetizing food photograph of Lamb khorovats (Armenian dish), made with lamb, onion, lavash flatbread, purple basil, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Хоровац из курицы** (№1156)  
+   `Realistic appetizing food photograph of Chicken khorovats (Armenian dish), made with chicken thighs, onion, lavash flatbread, plain yogurt, paprika, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Люля-кебаб по-армянски** (№1157)  
+   `Realistic appetizing food photograph of Armenian lula kebab (Armenian dish), made with lamb, beef, lavash flatbread, onion, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Чанахи по-армянски** (№1158)  
+   `Realistic appetizing food photograph of Armenian chanakh (lamb hotpot) (Armenian dish), made with lamb, eggplant, potatoes, tomatoes, bell pepper, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 72
+
+1. **Тапака** (№1159)  
+   `Realistic appetizing food photograph of Tapaka (pan-pressed chicken) (Armenian dish), made with chicken, butter, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Ишли кюфта** (№1160)  
+   `Realistic appetizing food photograph of Ishli kufta (stuffed bulgur shells) (Armenian dish), made with minced meat, bulgur, onion, walnuts, butter, paprika, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Чи кюфта** (№1161)  
+   `Realistic appetizing food photograph of Chi kufta (bulgur and herb patties) (Armenian dish), made with bulgur, onion, bell pepper, tomato paste, parsley, green onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Аджапсандал по-армянски** (№1162)  
+   `Realistic appetizing food photograph of Armenian ajapsandal (vegetable stew) (Armenian dish), made with eggplant, tomatoes, bell pepper, potatoes, onion, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Аришта** (№1163)  
+   `Realistic appetizing food photograph of Arishta (fried homemade noodles) (Armenian dish), made with flour, plain yogurt, eggs, butter, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Плов с сухофруктами (ширин пилаф)** (№1164)  
+   `Realistic appetizing food photograph of Shirin pilaf (rice with dried fruit) (Armenian dish), made with rice, dried apricots, raisins, prunes, butter, cinnamon, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Яйца с помидорами (лолик-дзу)** (№1165)  
+   `Realistic appetizing food photograph of Lolik dzu (eggs with tomatoes) (Armenian dish), made with tomatoes, eggs, onion, butter, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Сыр мотал с зеленью** (№1166)  
+   `Realistic appetizing food photograph of Motal-style cheese with herbs (Armenian dish), made with brynza cheese, lavash flatbread, cucumbers, tarragon, cilantro, purple basil, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Мацун домашний** (№1168)  
+   `Realistic appetizing food photograph of Homemade matsun (yogurt) (Armenian dish), made with milk, plain yogurt, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Пахлава армянская** (№1169)  
+   `Realistic appetizing food photograph of Armenian paklava (Armenian dish), made with flour, walnuts, butter, sour cream, eggs, honey, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 73
+
+1. **Назук** (№1170)  
+   `Realistic appetizing food photograph of Nazook (sweet rolled pastry) (Armenian dish), made with flour, butter, sour cream, eggs, vanilla sugar, dry yeast, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Алани (абрикосы с орехами)** (№1171)  
+   `Realistic appetizing food photograph of Alani (dried apricots stuffed with nuts) (Armenian dish), made with dried apricots, walnuts, cinnamon, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Шароц** (№1172)  
+   `Realistic appetizing food photograph of Sharots (walnut and grape juice sweet) (Armenian dish), made with grape juice, walnuts, flour, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Армянский кофе** (№1174)  
+   `Realistic appetizing food photograph of Armenian coffee (Armenian dish), made with coffee, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Компот из айвы** (№1175)  
+   `Realistic appetizing food photograph of Quince compote (Armenian dish), made with quince, cinnamon, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Суп потаж из овощей** (№1177)  
+   `Realistic appetizing food photograph of Potage de légumes (vegetable soup) (French dish), made with potatoes, carrots, leek, zucchini, 20% cream, butter, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Суп писту** (№1178)  
+   `Realistic appetizing food photograph of Soupe au pistou (French dish), made with cooked beans, zucchini, potatoes, tomatoes, green beans, carrots, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Куриный фрикасе** (№1179)  
+   `Realistic appetizing food photograph of Chicken fricassée (French dish), made with chicken, button mushrooms, 20% cream, onion, dry white wine, eggs, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Бланкет из телятины** (№1180)  
+   `Realistic appetizing food photograph of Blanquette de veau (French dish), made with veal, button mushrooms, carrots, 20% cream, onion, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Пот-о-фё** (№1181)  
+   `Realistic appetizing food photograph of Pot-au-feu (French dish), made with beef on the bone, potatoes, cabbage, carrots, leek, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 74
+
+1. **Курица с прованскими травами** (№1183)  
+   `Realistic appetizing food photograph of Poulet aux herbes de Provence (French dish), made with chicken, potatoes, lemon, olive oil, garlic, thyme, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Стейк фрит** (№1184)  
+   `Realistic appetizing food photograph of Steak frites (French dish), made with potatoes, beef tenderloin, butter, parsley, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Стейк с перечным соусом** (№1185)  
+   `Realistic appetizing food photograph of Steak au poivre (French dish), made with beef tenderloin, 20% cream, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Рыба меньер** (№1186)  
+   `Realistic appetizing food photograph of Sole meunière (fish in brown butter) (French dish), made with fish fillet, butter, lemon, flour, parsley, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Салат Лионский** (№1188)  
+   `Realistic appetizing food photograph of Salade lyonnaise (French dish), made with lettuce leaves, bacon, eggs, bread, olive oil, vinegar, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Салат с козьим сыром** (№1189)  
+   `Realistic appetizing food photograph of Warm goat cheese salad (French dish), made with lettuce leaves, feta cheese, baguette, walnuts, olive oil, honey, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Омлет по-французски** (№1190)  
+   `Realistic appetizing food photograph of French omelette (French dish), made with eggs, cheese, butter, green onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Яйца кокот** (№1192)  
+   `Realistic appetizing food photograph of Oeufs cocotte (baked eggs in cream) (French dish), made with eggs, 20% cream, ham, cheese, butter, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Писсаладьер** (№1194)  
+   `Realistic appetizing food photograph of Pissaladière (onion tart) (French dish), made with onion, flour, black olives, olive oil, dry yeast, thyme, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Картофель Анна** (№1196)  
+   `Realistic appetizing food photograph of Pommes Anna (layered potato cake) (French dish), made with potatoes, butter, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 75
+
+1. **Пюре по-французски** (№1197)  
+   `Realistic appetizing food photograph of Pommes purée (silky French mash) (French dish), made with potatoes, milk, butter, nutmeg, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Морковь Виши** (№1198)  
+   `Realistic appetizing food photograph of Carottes Vichy (glazed carrots) (French dish), made with carrots, butter, parsley, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Клафути с вишней** (№1200)  
+   `Realistic appetizing food photograph of Cherry clafoutis (French dish), made with sour cherries, milk, eggs, flour, butter, powdered sugar, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Груши в вине** (№1203)  
+   `Realistic appetizing food photograph of Poires au vin (pears poached in wine) (French dish), made with pear, dry red wine, orange, cinnamon, cloves, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Крепы Сюзетт** (№1204)  
+   `Realistic appetizing food photograph of Crêpes Suzette (French dish), made with milk, orange, flour, eggs, butter, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Плавающие острова** (№1205)  
+   `Realistic appetizing food photograph of Île flottante (floating islands) (French dish), made with milk, eggs, vanilla sugar, starch, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Сосиски в тесте (toad in the hole)** (№1208)  
+   `Realistic appetizing food photograph of Toad in the hole (English dish), made with frankfurters, milk, eggs, flour, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Коттедж-пай** (№1210)  
+   `Realistic appetizing food photograph of Cottage pie (beef and mash pie) (English dish), made with potatoes, minced meat, onion, carrots, milk, cheese, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Рыбный пирог** (№1213)  
+   `Realistic appetizing food photograph of Fish pie (English dish), made with potatoes, milk, cod, salmon, shrimp, eggs, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Ланкаширское рагу (хотпот)** (№1214)  
+   `Realistic appetizing food photograph of Lancashire hotpot (English dish), made with lamb, potatoes, onion, butter, flour, Worcestershire sauce, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 76
+
+1. **Бабл-энд-сквик** (№1215)  
+   `Realistic appetizing food photograph of Bubble and squeak (English dish), made with potatoes, cabbage, onion, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Корнуоллские пирожки с курицей** (№1216)  
+   `Realistic appetizing food photograph of Chicken pasties (English dish), made with flour, chicken fillet, potatoes, butter, onion, carrots, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Валлийские гренки (уэлш-рэбит)** (№1218)  
+   `Realistic appetizing food photograph of Welsh rarebit (cheese on toast) (English dish), made with cheddar, bread, milk, butter, flour, mustard, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Коронационная курица** (№1221)  
+   `Realistic appetizing food photograph of Coronation chicken (English dish), made with chicken fillet, mayonnaise, plain yogurt, lettuce leaves, jam, raisins, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Сэндвич с беконом** (№1225)  
+   `Realistic appetizing food photograph of Bacon butty (English dish), made with bread, bacon, ketchup, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Запечённая баранья нога с мятным соусом** (№1228)  
+   `Realistic appetizing food photograph of Roast leg of lamb with mint sauce (English dish), made with lamb, vinegar, olive oil, mint, garlic, rosemary, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Воскресный запечённый цыплёнок** (№1229)  
+   `Realistic appetizing food photograph of Sunday roast chicken (English dish), made with chicken, potatoes, carrots, onion, lemon, butter, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Липкий финиковый пудинг** (№1231)  
+   `Realistic appetizing food photograph of Sticky toffee pudding (English dish), made with dates, 20% cream, flour, butter, eggs, baking soda, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Виктория-сандвич (бисквит с джемом)** (№1232)  
+   `Realistic appetizing food photograph of Victoria sponge (English dish), made with eggs, flour, butter, jam, 20% cream, powdered sugar, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Банофи-пай** (№1234)  
+   `Realistic appetizing food photograph of Banoffee pie (English dish), made with condensed milk, banana, shortbread biscuits, 20% cream, butter, dark chocolate, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 77
+
+1. **Итонский беспорядок (Eton mess)** (№1235)  
+   `Realistic appetizing food photograph of Eton mess (English dish), made with strawberries, 20% cream, meringues, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Кексы-капкейки с глазурью** (№1238)  
+   `Realistic appetizing food photograph of Fairy cakes (English dish), made with flour, butter, powdered sugar, eggs, lemon juice, baking powder, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Курица кунг-пао по-сычуаньски** (№1242)  
+   `Realistic appetizing food photograph of Sichuan kung pao chicken with cashews (Chinese dish), made with chicken fillet, cashews, green onion, soy sauce, vinegar, starch, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Курица в апельсиновом соусе** (№1243)  
+   `Realistic appetizing food photograph of Orange chicken (Chinese dish), made with chicken fillet, orange, starch, eggs, soy sauce, vinegar, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Курица с лимоном** (№1244)  
+   `Realistic appetizing food photograph of Lemon chicken (Chinese dish), made with chicken fillet, lemon, starch, eggs, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Говядина в устричном соусе с перцем** (№1245)  
+   `Realistic appetizing food photograph of Pepper beef in oyster sauce (Chinese dish), made with beef, bell pepper, onion, oyster sauce, soy sauce, starch, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Мясо по-монгольски** (№1246)  
+   `Realistic appetizing food photograph of Mongolian beef (Chinese dish), made with beef, green onion, soy sauce, starch, garlic, ginger, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Свиные рёбрышки в кисло-сладком соусе** (№1247)  
+   `Realistic appetizing food photograph of Sweet and sour spare ribs (Chinese dish), made with pork spare ribs, vinegar, soy sauce, ketchup, ginger, sesame seeds, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Хуншао жоу (красная тушёная свинина)** (№1248)  
+   `Realistic appetizing food photograph of Hong shao rou (red-braised pork belly) (Chinese dish), made with pork, soy sauce, green onion, ginger, star anise, cinnamon, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Рыба на пару по-кантонски** (№1251)  
+   `Realistic appetizing food photograph of Cantonese steamed fish (Chinese dish), made with fish fillet, green onion, soy sauce, ginger, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 78
+
+1. **Сычуаньская стручковая фасоль** (№1253)  
+   `Realistic appetizing food photograph of Sichuan dry-fried green beans (Chinese dish), made with green beans, minced meat, soy sauce, garlic, chili pepper, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Брокколи с чесноком по-китайски** (№1254)  
+   `Realistic appetizing food photograph of Chinese garlic broccoli (Chinese dish), made with broccoli, oyster sauce, garlic, starch, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Жареная пекинская капуста** (№1255)  
+   `Realistic appetizing food photograph of Stir-fried napa cabbage (Chinese dish), made with napa cabbage, vinegar, soy sauce, garlic, chili pepper, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Битые огурцы (пай хуангуа)** (№1256)  
+   `Realistic appetizing food photograph of Smashed cucumber salad (Chinese dish), made with cucumbers, vinegar, soy sauce, garlic, sesame oil, chili pepper, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Кукурузный суп с курицей** (№1259)  
+   `Realistic appetizing food photograph of Chicken and sweetcorn soup (Chinese dish), made with canned corn, chicken fillet, eggs, starch, green onion, ginger, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Лапша дань-дань** (№1260)  
+   `Realistic appetizing food photograph of Dan dan noodles (Chinese dish), made with egg noodles, minced meat, napa cabbage, peanut butter, soy sauce, vinegar, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Рисовый отвар (конджи) с курицей** (№1264)  
+   `Realistic appetizing food photograph of Chicken congee (Chinese dish), made with chicken fillet, rice, green onion, ginger, soy sauce, sesame oil, home-style, served in a bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Жареные пельмени гуотие** (№1267)  
+   `Realistic appetizing food photograph of Guotie (potstickers) (Chinese dish), made with minced meat, flour, napa cabbage, soy sauce, green onion, vinegar, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Индейка на пару с брокколи** (№1274)  
+   `Realistic appetizing food photograph of Steamed turkey with broccoli, made with turkey, broccoli, soy sauce, lemon juice, ginger, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Куриные рулетики со шпинатом на пару** (№1275)  
+   `Realistic appetizing food photograph of Steamed chicken and spinach rolls, made with chicken fillet, spinach, cottage cheese, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 79
+
+1. **Хек на пару с лимоном и укропом** (№1276)  
+   `Realistic appetizing food photograph of Steamed hake with lemon and dill, made with hake, cauliflower, lemon, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Горбуша на пару с овощами** (№1277)  
+   `Realistic appetizing food photograph of Steamed pink salmon with vegetables, made with pink salmon, zucchini, carrots, green beans, lemon juice, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Паровые котлеты из говядины** (№1278)  
+   `Realistic appetizing food photograph of Steamed beef patties, made with beef, zucchini, onion, eggs, rolled oats, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Тефтели из курицы с рисом на пару** (№1279)  
+   `Realistic appetizing food photograph of Steamed chicken and rice meatballs, made with chicken fillet, brown rice, carrots, eggs, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Кальмары отварные с овощным салатом** (№1282)  
+   `Realistic appetizing food photograph of Boiled squid with vegetable salad, made with squid, cucumbers, tomatoes, lettuce leaves, lemon juice, olive oil, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Отварная индейка с булгуром** (№1283)  
+   `Realistic appetizing food photograph of Boiled turkey with bulgur, made with turkey, bulgur, carrots, onion, parsley, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Отварная треска с картофелем и зеленью** (№1285)  
+   `Realistic appetizing food photograph of Poached cod with potatoes and herbs, made with cod, potatoes, onion, dill, bay leaf, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Овощи на пару с соусом из йогурта** (№1286)  
+   `Realistic appetizing food photograph of Steamed vegetables with yogurt sauce, made with broccoli, cauliflower, zucchini, carrots, green beans, plain yogurt, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Цветная капуста на пару с яйцом** (№1287)  
+   `Realistic appetizing food photograph of Steamed cauliflower with egg, made with cauliflower, eggs, dill, olive oil, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Батат на пару с корицей** (№1288)  
+   `Realistic appetizing food photograph of Steamed sweet potato with cinnamon, made with sweet potato, plain yogurt, walnuts, cinnamon, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 80
+
+1. **Гречневый суп с курицей** (№1289)  
+   `Realistic appetizing food photograph of Chicken and buckwheat soup, made with chicken fillet, potatoes, dry buckwheat, carrots, onion, dill, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Уха из горбуши** (№1292)  
+   `Realistic appetizing food photograph of Light pink salmon soup, made with pink salmon, potatoes, carrots, onion, dill, bay leaf, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Салат с отварной курицей и огурцом** (№1296)  
+   `Realistic appetizing food photograph of Poached chicken and cucumber salad, made with chicken fillet, cucumbers, plain yogurt, lettuce leaves, dill, garlic, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Творог с зеленью и огурцом** (№1298)  
+   `Realistic appetizing food photograph of Cottage cheese with herbs and cucumber, made with cottage cheese, cucumbers, plain yogurt, dill, green onion, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Омлет из белков с овощами на пару** (№1299)  
+   `Realistic appetizing food photograph of Steamed egg-white omelette with vegetables, made with eggs, bell pepper, tomatoes, milk, spinach, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Гречка с яйцом и зеленью** (№1301)  
+   `Realistic appetizing food photograph of Buckwheat with egg and herbs, made with dry buckwheat, eggs, green onion, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Запечённые яблоки с творогом и ягодами** (№1302)  
+   `Realistic appetizing food photograph of Baked apples with cottage cheese and berries, made with apple, cottage cheese, berries, honey, cinnamon, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Курица, запечённая в рукаве с овощами** (№1304)  
+   `Realistic appetizing food photograph of Chicken baked in a bag with vegetables, made with chicken thighs, zucchini, bell pepper, carrots, onion, garlic, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Сальса верде** (№1307)  
+   `Realistic appetizing food photograph of Salsa verde (Mexican dish), made with tomatoes, onion, lime, cilantro, jalapeño, garlic, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Бирриа-тако** (№1312)  
+   `Realistic appetizing food photograph of Birria tacos (Mexican dish), made with beef, tortillas, tomatoes, onion, cheese, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 81
+
+1. **Фахитас с говядиной** (№1315)  
+   `Realistic appetizing food photograph of Beef fajitas (Mexican dish), made with beef, bell pepper, tortillas, onion, sour cream, lime, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Посоле с курицей** (№1321)  
+   `Realistic appetizing food photograph of Pozole with chicken (Mexican dish), made with chicken, canned corn, onion, cabbage, radishes, lime, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Суп с тортильями (сопа де тортилья)** (№1322)  
+   `Realistic appetizing food photograph of Sopa de tortilla (tortilla soup) (Mexican dish), made with tomatoes, tortillas, avocado, onion, cheese, sour cream, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Фасолевый суп по-мексикански** (№1323)  
+   `Realistic appetizing food photograph of Mexican black bean soup (Mexican dish), made with red kidney beans, onion, sour cream, lime, cilantro, garlic, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Мексиканский рис** (№1324)  
+   `Realistic appetizing food photograph of Mexican rice (arroz rojo) (Mexican dish), made with rice, strained tomatoes, onion, carrots, green peas, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Тинга де польо** (№1329)  
+   `Realistic appetizing food photograph of Tinga de pollo (chipotle chicken) (Mexican dish), made with chicken fillet, tomatoes, tortillas, onion, garlic, chili pepper, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Курица в соусе моле** (№1330)  
+   `Realistic appetizing food photograph of Chicken mole (Mexican dish), made with chicken, tomatoes, onion, dark chocolate, peanuts, raisins, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Сопес** (№1332)  
+   `Realistic appetizing food photograph of Sopes (thick corn cakes with toppings) (Mexican dish), made with masa harina (corn flour), red kidney beans, minced meat, cheese, sour cream, cabbage, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Тостадас с курицей** (№1333)  
+   `Realistic appetizing food photograph of Chicken tostadas (Mexican dish), made with chicken fillet, tortillas, red kidney beans, tomatoes, lettuce leaves, cheese, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Уэвос ранчерос** (№1335)  
+   `Realistic appetizing food photograph of Huevos rancheros (Mexican dish), made with eggs, strained tomatoes, red kidney beans, tortillas, avocado, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 82
+
+1. **Уэвос а-ля мексикана** (№1336)  
+   `Realistic appetizing food photograph of Huevos a la mexicana (Mexican dish), made with eggs, tomatoes, tortillas, onion, jalapeño, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Креветки а-ля диабла** (№1338)  
+   `Realistic appetizing food photograph of Camarones a la diabla (spicy prawns) (Mexican dish), made with shrimp, strained tomatoes, onion, lime, chili pepper, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Рыба по-веракрусски** (№1339)  
+   `Realistic appetizing food photograph of Pescado a la veracruzana (Mexican dish), made with fish fillet, tomatoes, onion, black olives, olive oil, jalapeño, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Пикадильо** (№1342)  
+   `Realistic appetizing food photograph of Picadillo (spiced mince) (Mexican dish), made with minced meat, potatoes, tomatoes, carrots, onion, raisins, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Сырный соус кесо** (№1346)  
+   `Realistic appetizing food photograph of Queso dip (Mexican dish), made with cheddar, milk, tortillas, tomatoes, jalapeño, starch, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Торт «Три молока» (трес лечес)** (№1349)  
+   `Realistic appetizing food photograph of Tres leches cake (Mexican dish), made with milk, condensed milk, 20% cream, eggs, flour, baking powder, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Арроз кон лече** (№1350)  
+   `Realistic appetizing food photograph of Arroz con leche (cinnamon rice pudding) (Mexican dish), made with milk, rice, raisins, vanilla sugar, cinnamon, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Орчата** (№1352)  
+   `Realistic appetizing food photograph of Horchata (rice drink) (Mexican dish), made with milk, rice, vanilla sugar, cinnamon, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Агуа фреска из арбуза** (№1353)  
+   `Realistic appetizing food photograph of Agua fresca (watermelon cooler) (Mexican dish), made with watermelon, lime, mint, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Поке с лососем** (№1355)  
+   `Realistic appetizing food photograph of Salmon poke bowl (Hawaiian dish), made with salmon, rice, cucumbers, avocado, soy sauce, sesame oil, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 83
+
+1. **Поке с креветками** (№1356)  
+   `Realistic appetizing food photograph of Shrimp poke bowl (Hawaiian dish), made with shrimp, rice, mango, cucumbers, lime, soy sauce, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Поке с тофу** (№1357)  
+   `Realistic appetizing food photograph of Tofu poke bowl (Hawaiian dish), made with tofu, rice, avocado, carrots, soy sauce, sesame oil, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Калуа-пиг (томлёная свинина)** (№1359)  
+   `Realistic appetizing food photograph of Kalua pig (slow-roasted pork) (Hawaiian dish), made with pork, cabbage, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Курица хули-хули** (№1360)  
+   `Realistic appetizing food photograph of Huli huli chicken (Hawaiian dish), made with chicken thighs, pineapple, soy sauce, ketchup, ginger, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Мусуби с ветчиной** (№1361)  
+   `Realistic appetizing food photograph of Spam-style musubi (ham rice blocks) (Hawaiian dish), made with rice, ham, soy sauce, nori sheets, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Креветки с чесноком по-гавайски** (№1362)  
+   `Realistic appetizing food photograph of Hawaiian garlic shrimp (Hawaiian dish), made with shrimp, rice, butter, lemon, garlic, paprika, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Ломи-ломи из лосося** (№1363)  
+   `Realistic appetizing food photograph of Lomi lomi salmon (Hawaiian dish), made with salmon, tomatoes, onion, green onion, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Курица с фунчозой (чикен лонг райс)** (№1364)  
+   `Realistic appetizing food photograph of Chicken long rice (Hawaiian dish), made with chicken thighs, glass noodles, green onion, ginger, soy sauce, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Лаулау (свинина в листьях)** (№1365)  
+   `Realistic appetizing food photograph of Laulau (pork wrapped in leaves) (Hawaiian dish), made with pork, cabbage, fish fillet, spinach, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Хаупиа (кокосовый пудинг)** (№1366)  
+   `Realistic appetizing food photograph of Haupia (coconut pudding) (Hawaiian dish), made with coconut milk, starch, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 84
+
+1. **Маласадас (пончики)** (№1367)  
+   `Realistic appetizing food photograph of Malasadas (Hawaiian doughnuts) (Hawaiian dish), made with flour, milk, eggs, butter, dry yeast, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Баттер-моти (рисовый пирог)** (№1368)  
+   `Realistic appetizing food photograph of Butter mochi (Hawaiian dish), made with rice flour, coconut milk, milk, eggs, butter, baking powder, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Гавайский макаронный салат** (№1370)  
+   `Realistic appetizing food photograph of Hawaiian macaroni salad (Hawaiian dish), made with pasta, mayonnaise, carrots, milk, onion, vinegar, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Саймин (суп с лапшой)** (№1375)  
+   `Realistic appetizing food photograph of Saimin (noodle soup) (Hawaiian dish), made with chicken, egg noodles, eggs, ham, soy sauce, green onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Кальби по-гавайски (рёбрышки)** (№1376)  
+   `Realistic appetizing food photograph of Hawaiian-style kalbi short ribs (Hawaiian dish), made with beef short ribs, soy sauce, green onion, garlic, sesame oil, ginger, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Курица кацу по-гавайски** (№1377)  
+   `Realistic appetizing food photograph of Hawaiian chicken katsu (Hawaiian dish), made with chicken thighs, rice, breadcrumbs, eggs, flour, ketchup, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Моти-курица** (№1378)  
+   `Realistic appetizing food photograph of Mochiko chicken (Hawaiian dish), made with chicken thighs, rice flour, eggs, soy sauce, starch, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Гавайский бургер с ананасом** (№1380)  
+   `Realistic appetizing food photograph of Hawaiian burger with pineapple (Hawaiian dish), made with minced meat, burger buns, pineapple, cheese, lettuce leaves, soy sauce, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Шашлычки из свинины с ананасом** (№1381)  
+   `Realistic appetizing food photograph of Pork and pineapple skewers (Hawaiian dish), made with pork, pineapple, bell pepper, soy sauce, honey, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Кокосовые креветки** (№1382)  
+   `Realistic appetizing food photograph of Coconut shrimp (Hawaiian dish), made with shrimp, eggs, desiccated coconut, flour, breadcrumbs, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 85
+
+1. **Сальса из ананаса** (№1384)  
+   `Realistic appetizing food photograph of Pineapple salsa (Hawaiian dish), made with pineapple, bell pepper, onion, lime, cilantro, chili pepper, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Плейт-ланч с курицей терияки** (№1385)  
+   `Realistic appetizing food photograph of Teriyaki chicken plate lunch (Hawaiian dish), made with chicken thighs, rice, pasta, cabbage, mayonnaise, soy sauce, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Батат в кокосовом молоке** (№1386)  
+   `Realistic appetizing food photograph of Sweet potato in coconut milk (Hawaiian dish), made with sweet potato, coconut milk, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Курица на гриле с манго** (№1388)  
+   `Realistic appetizing food photograph of Grilled chicken with mango (Hawaiian dish), made with chicken thighs, mango, lime, soy sauce, honey, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Рыба на гриле с манговой сальсой** (№1389)  
+   `Realistic appetizing food photograph of Grilled fish with mango salsa (Hawaiian dish), made with fish fillet, mango, bell pepper, onion, lime, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Кокосовое печенье** (№1391)  
+   `Realistic appetizing food photograph of Coconut cookies (Hawaiian dish), made with desiccated coconut, eggs, flour, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Ананасовый лимонад** (№1392)  
+   `Realistic appetizing food photograph of Pineapple lemonade (Hawaiian dish), made with pineapple, lemon, mint, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Тефтели с ананасом** (№1394)  
+   `Realistic appetizing food photograph of Hawaiian pineapple meatballs (Hawaiian dish), made with minced meat, pineapple, bell pepper, eggs, ketchup, breadcrumbs, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Гавайский салат из капусты** (№1395)  
+   `Realistic appetizing food photograph of Hawaiian coleslaw (Hawaiian dish), made with cabbage, pineapple, carrots, mayonnaise, vinegar, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Гавайские сладкие булочки** (№1396)  
+   `Realistic appetizing food photograph of Hawaiian sweet rolls (Hawaiian dish), made with flour, pineapple, milk, eggs, butter, dry yeast, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 86
+
+1. **Курица луау со шпинатом и кокосовым молоком** (№1397)  
+   `Realistic appetizing food photograph of Chicken luau with spinach and coconut milk (Hawaiian dish), made with chicken thighs, spinach, coconut milk, onion, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Лосось терияки с ананасом** (№1398)  
+   `Realistic appetizing food photograph of Teriyaki salmon with pineapple (Hawaiian dish), made with salmon, pineapple, soy sauce, honey, ginger, sesame seeds, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Банановый хлеб с кокосом** (№1400)  
+   `Realistic appetizing food photograph of Coconut banana bread (Hawaiian dish), made with banana, flour, eggs, butter, desiccated coconut, baking powder, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Батат-фри с кунжутом** (№1402)  
+   `Realistic appetizing food photograph of Sesame sweet potato fries (Hawaiian dish), made with sweet potato, sesame seeds, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Бууз с бараниной** (№1403)  
+   `Realistic appetizing food photograph of Buuz with lamb (steamed dumplings) (Mongolian dish), made with lamb, flour, onion, garlic, cumin, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Бууз с говядиной** (№1404)  
+   `Realistic appetizing food photograph of Buuz with beef (Mongolian dish), made with beef, flour, onion, lamb tail fat, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Хушуур** (№1405)  
+   `Realistic appetizing food photograph of Khuushuur (fried meat pies) (Mongolian dish), made with lamb, flour, onion, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Хушуур с говядиной** (№1406)  
+   `Realistic appetizing food photograph of Beef khuushuur (Mongolian dish), made with beef, flour, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Цуйван** (№1407)  
+   `Realistic appetizing food photograph of Tsuivan (fried noodles with meat) (Mongolian dish), made with lamb, flour, cabbage, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Хорхог** (№1408)  
+   `Realistic appetizing food photograph of Khorkhog (lamb cooked with hot stones) (Mongolian dish), made with lamb, potatoes, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 87
+
+1. **Банш** (№1409)  
+   `Realistic appetizing food photograph of Bansh (small dumplings) (Mongolian dish), made with lamb, flour, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Банштай цай (чай с баншами)** (№1410)  
+   `Realistic appetizing food photograph of Banshtai tsai (milk tea with dumplings) (Mongolian dish), made with milk, lamb, flour, butter, black tea, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Гурилтай шөл (суп с лапшой)** (№1411)  
+   `Realistic appetizing food photograph of Guriltai shol (mutton noodle soup) (Mongolian dish), made with lamb, flour, potatoes, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Будаатай шөл (рисовый суп с мясом)** (№1412)  
+   `Realistic appetizing food photograph of Budaatai shol (rice and meat soup) (Mongolian dish), made with lamb, potatoes, rice, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Суутэй цай (монгольский чай с молоком)** (№1413)  
+   `Realistic appetizing food photograph of Suutei tsai (salty milk tea) (Mongolian dish), made with milk, black tea, butter, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Ааруул (сушёный творог)** (№1414)  
+   `Realistic appetizing food photograph of Aaruul (dried curds) (Mongolian dish), made with kefir, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Боорцог** (№1415)  
+   `Realistic appetizing food photograph of Boortsog (fried dough biscuits) (Mongolian dish), made with flour, milk, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Салат «Нийслэл»** (№1417)  
+   `Realistic appetizing food photograph of Niislel salad (Mongolian potato salad) (Mongolian dish), made with potatoes, boiled sausage, eggs, carrots, cucumbers, mayonnaise, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Чанасан мах (отварная баранина)** (№1418)  
+   `Realistic appetizing food photograph of Chanasan makh (boiled mutton) (Mongolian dish), made with lamb, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Мах шөл (суп с бараниной и картофелем)** (№1419)  
+   `Realistic appetizing food photograph of Makh shol (mutton and potato soup) (Mongolian dish), made with lamb, potatoes, cabbage, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 88
+
+1. **Гоймонтой шөл (суп с вермишелью)** (№1420)  
+   `Realistic appetizing food photograph of Goimontoi shol (vermicelli soup) (Mongolian dish), made with beef, potatoes, vermicelli, carrots, onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Хуурга (жаркое из баранины с овощами)** (№1422)  
+   `Realistic appetizing food photograph of Khuurga (lamb and vegetable stir-fry) (Mongolian dish), made with lamb, potatoes, cabbage, carrots, onion, bell pepper, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Гурилтай хуурга (жареная лапша с говядиной)** (№1423)  
+   `Realistic appetizing food photograph of Guriltai khuurga (stir-fried noodles with beef) (Mongolian dish), made with beef, flour, cabbage, carrots, onion, soy sauce, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Тахианы хуурга (курица с овощами)** (№1424)  
+   `Realistic appetizing food photograph of Takhiany khuurga (chicken stir-fry) (Mongolian dish), made with chicken fillet, bell pepper, cabbage, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Шарсан мах (жареное мясо с луком)** (№1425)  
+   `Realistic appetizing food photograph of Sharsan makh (fried meat with onion) (Mongolian dish), made with beef, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Хонины элэг (печень с курдючным жиром)** (№1426)  
+   `Realistic appetizing food photograph of Khoniny eleg (liver with tail fat) (Mongolian dish), made with lamb liver, lamb tail fat, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Жигнэсэн мах (мясо на пару)** (№1427)  
+   `Realistic appetizing food photograph of Jignesen makh (steamed meat) (Mongolian dish), made with lamb, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Монгольский гуляш с рисом** (№1428)  
+   `Realistic appetizing food photograph of Mongolian goulash with rice (Mongolian dish), made with beef, rice, onion, carrots, tomato paste, flour, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Котлеты по-монгольски с картофелем** (№1429)  
+   `Realistic appetizing food photograph of Mongolian meat patties with potatoes (Mongolian dish), made with potatoes, minced meat, onion, eggs, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Монгольская говядина (жареная, с зелёным луком)** (№1430)  
+   `Realistic appetizing food photograph of Mongolian-style beef with spring onion (Mongolian dish), made with beef, green onion, soy sauce, starch, garlic, ginger, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 89
+
+1. **Боов (праздничное печенье)** (№1431)  
+   `Realistic appetizing food photograph of Boov (festive biscuits) (Mongolian dish), made with flour, milk, butter, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Өрөм (молочные пенки)** (№1432)  
+   `Realistic appetizing food photograph of Orom (clotted cream) (Mongolian dish), made with milk, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Аарц (кисломолочный напиток)** (№1434)  
+   `Realistic appetizing food photograph of Aarts (curd drink) (Mongolian dish), made with kefir, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Хуушуур с картофелем** (№1435)  
+   `Realistic appetizing food photograph of Potato khuushuur (Mongolian dish), made with potatoes, flour, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Бууз с курицей** (№1436)  
+   `Realistic appetizing food photograph of Chicken buuz (Mongolian dish), made with chicken thighs, flour, onion, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Цуйван с говядиной** (№1437)  
+   `Realistic appetizing food photograph of Beef tsuivan (Mongolian dish), made with beef, flour, cabbage, bell pepper, carrots, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Салат из капусты с морковью по-монгольски** (№1439)  
+   `Realistic appetizing food photograph of Mongolian cabbage and carrot salad (Mongolian dish), made with cabbage, carrots, vinegar, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Монгольский суп с фрикадельками** (№1441)  
+   `Realistic appetizing food photograph of Mongolian meatball soup (Mongolian dish), made with minced meat, potatoes, carrots, onion, vermicelli, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Пирожки с мясом по-монгольски (печёные)** (№1442)  
+   `Realistic appetizing food photograph of Mongolian baked meat pies (Mongolian dish), made with flour, lamb, milk, onion, eggs, dry yeast, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Отварная конина по-монгольски** (№1443)  
+   `Realistic appetizing food photograph of Mongolian boiled horse meat (Mongolian dish), made with horse meat, potatoes, onion, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 90
+
+1. **Шарсан гоймон (жареная лапша)** (№1444)  
+   `Realistic appetizing food photograph of Sharsan goimon (fried noodles with meat) (Mongolian dish), made with egg noodles, lamb, cabbage, carrots, onion, soy sauce, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Боорцог с сахарной пудрой** (№1446)  
+   `Realistic appetizing food photograph of Sweet boortsog with icing sugar (Mongolian dish), made with flour, milk, eggs, butter, powdered sugar, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Цай с талканом и маслом** (№1447)  
+   `Realistic appetizing food photograph of Milk tea with roasted flour and butter (Mongolian dish), made with milk, roasted grain flour, butter, black tea, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Шах-плов** (№1448)  
+   `Realistic appetizing food photograph of Shah plov (pilaf baked in lavash) (Azerbaijani dish), made with lamb, rice, lavash flatbread, butter, onion, dried apricots, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Плов с курагой и каштанами (шиюн плов)** (№1449)  
+   `Realistic appetizing food photograph of Plov with dried fruit and chestnuts (Azerbaijani dish), made with chicken, rice, chestnuts, onion, dried apricots, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Сабза-говурма (плов с зеленью)** (№1450)  
+   `Realistic appetizing food photograph of Sabzi qovurma (lamb and herb stew) (Azerbaijani dish), made with lamb, rice, onion, green onion, sorrel, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Долма из виноградных листьев по-азербайджански** (№1451)  
+   `Realistic appetizing food photograph of Yarpaq dolmasi (Azerbaijani vine leaf dolma) (Azerbaijani dish), made with lamb, grape leaves, plain yogurt, onion, rice, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Кялям-долмасы (капустная долма)** (№1452)  
+   `Realistic appetizing food photograph of Kelem dolmasi (cabbage dolma) (Azerbaijani dish), made with cabbage, minced meat, onion, rice, cherry plums, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Бадымджан долмасы (фаршированные овощи)** (№1453)  
+   `Realistic appetizing food photograph of Uch bajilar dolmasi (stuffed eggplant, pepper and tomato) (Azerbaijani dish), made with eggplant, minced meat, bell pepper, tomatoes, onion, rice, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Дюшбара** (№1454)  
+   `Realistic appetizing food photograph of Dushbara (tiny dumplings in broth) (Azerbaijani dish), made with lamb, flour, onion, eggs, vinegar, garlic, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 91
+
+1. **Пити** (№1455)  
+   `Realistic appetizing food photograph of Piti (lamb and chickpea pot soup) (Azerbaijani dish), made with lamb, potatoes, chickpeas, onion, lamb tail fat, lavash flatbread, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Кюфта-бозбаш** (№1456)  
+   `Realistic appetizing food photograph of Kufta bozbash (meatball and chickpea soup) (Azerbaijani dish), made with lamb, potatoes, chickpeas, onion, rice, cherry plums, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Парча-бозбаш** (№1457)  
+   `Realistic appetizing food photograph of Parcha bozbash (lamb chunk soup) (Azerbaijani dish), made with lamb, potatoes, tomatoes, chickpeas, onion, cilantro, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Довга** (№1458)  
+   `Realistic appetizing food photograph of Dovga (yogurt and herb soup) (Azerbaijani dish), made with plain yogurt, spinach, rice, sorrel, eggs, dill, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Лявянги из рыбы** (№1460)  
+   `Realistic appetizing food photograph of Fish lavangi (Azerbaijani dish), made with fish fillet, onion, walnuts, cherry plums, butter, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Люля-кебаб по-азербайджански** (№1461)  
+   `Realistic appetizing food photograph of Azerbaijani lula kebab (Azerbaijani dish), made with lamb, lavash flatbread, onion, lamb tail fat, sumac, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Кебаб из баклажанов и помидоров** (№1463)  
+   `Realistic appetizing food photograph of Grilled eggplant and tomato kebab (Azerbaijani dish), made with eggplant, tomatoes, bell pepper, onion, cilantro, garlic, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Кутабы с мясом** (№1464)  
+   `Realistic appetizing food photograph of Qutab with meat (Azerbaijani dish), made with flour, lamb, onion, pomegranate, butter, sumac, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Кутабы с зеленью** (№1465)  
+   `Realistic appetizing food photograph of Qutab with herbs (Azerbaijani dish), made with flour, spinach, sorrel, green onion, cilantro, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Кутабы с тыквой** (№1466)  
+   `Realistic appetizing food photograph of Qutab with pumpkin (Azerbaijani dish), made with pumpkin, flour, onion, pomegranate, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 92
+
+1. **Кутабы с сыром** (№1467)  
+   `Realistic appetizing food photograph of Qutab with cheese (Azerbaijani dish), made with flour, brynza cheese, butter, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Садж с бараниной и овощами** (№1468)  
+   `Realistic appetizing food photograph of Saj with lamb and vegetables (Azerbaijani dish), made with lamb, potatoes, eggplant, tomatoes, bell pepper, lavash flatbread, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Садж с курицей** (№1469)  
+   `Realistic appetizing food photograph of Chicken saj (Azerbaijani dish), made with chicken thighs, potatoes, bell pepper, tomatoes, onion, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Говурма из баранины** (№1470)  
+   `Realistic appetizing food photograph of Qovurma (fried lamb) (Azerbaijani dish), made with lamb, onion, cherry plums, butter, saffron, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Чыгыртма из курицы** (№1471)  
+   `Realistic appetizing food photograph of Chicken chighirtma (chicken with tomatoes and eggs) (Azerbaijani dish), made with chicken, tomatoes, eggs, onion, butter, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Буглама (баранина, тушённая с овощами)** (№1472)  
+   `Realistic appetizing food photograph of Buglama (lamb steamed with vegetables) (Azerbaijani dish), made with lamb, tomatoes, potatoes, bell pepper, onion, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Аджапсандал по-азербайджански** (№1473)  
+   `Realistic appetizing food photograph of Azerbaijani ajabsandal (Azerbaijani dish), made with eggplant, tomatoes, potatoes, bell pepper, onion, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Кюкю с зеленью** (№1474)  
+   `Realistic appetizing food photograph of Kuku (herb frittata) (Azerbaijani dish), made with eggs, spinach, green onion, cilantro, dill, walnuts, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Чыгыртма из баклажанов с яйцом** (№1475)  
+   `Realistic appetizing food photograph of Eggplant chighirtma with eggs (Azerbaijani dish), made with eggplant, tomatoes, eggs, onion, cilantro, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Пахлава бакинская** (№1476)  
+   `Realistic appetizing food photograph of Baku pakhlava (Azerbaijani dish), made with flour, milk, butter, hazelnuts, walnuts, honey, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 93
+
+1. **Шекербура** (№1477)  
+   `Realistic appetizing food photograph of Shekerbura (nut-filled pastries) (Azerbaijani dish), made with flour, hazelnuts, butter, sour cream, eggs, dry yeast, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Гогал** (№1478)  
+   `Realistic appetizing food photograph of Gogal (spiced layered buns) (Azerbaijani dish), made with flour, milk, butter, eggs, sesame seeds, dry yeast, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Бадамбура** (№1479)  
+   `Realistic appetizing food photograph of Badambura (almond pastries) (Azerbaijani dish), made with flour, butter, almonds, sour cream, powdered sugar, cardamom, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Овдух (холодный суп на йогурте)** (№1482)  
+   `Realistic appetizing food photograph of Ovdukh (cold yogurt soup) (Azerbaijani dish), made with plain yogurt, cucumbers, eggs, dill, cilantro, green onion, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Салат «Чобан» по-азербайджански** (№1483)  
+   `Realistic appetizing food photograph of Azerbaijani shepherd's salad (Azerbaijani dish), made with tomatoes, cucumbers, onion, cilantro, basil, sumac, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Мангал-салаты** (№1484)  
+   `Realistic appetizing food photograph of Mangal salad (grilled vegetable salad) (Azerbaijani dish), made with eggplant, tomatoes, bell pepper, onion, cilantro, basil, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Гюрза (жареные пельмени)** (№1485)  
+   `Realistic appetizing food photograph of Gurza (pleated dumplings) (Azerbaijani dish), made with flour, lamb, plain yogurt, onion, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Хингал** (№1486)  
+   `Realistic appetizing food photograph of Khingal (pasta with fried meat and yogurt) (Azerbaijani dish), made with lamb, flour, plain yogurt, onion, eggs, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Плов с курицей и шафраном** (№1487)  
+   `Realistic appetizing food photograph of Saffron chicken plov (Azerbaijani dish), made with chicken, rice, onion, butter, raisins, saffron, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Плов с рыбой** (№1488)  
+   `Realistic appetizing food photograph of Fish plov (Azerbaijani dish), made with fish fillet, rice, onion, butter, cherry plums, saffron, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 94
+
+1. **Пахлава с грецкими орехами (домашняя)** (№1489)  
+   `Realistic appetizing food photograph of Walnut pakhlava (home style) (Azerbaijani dish), made with filo pastry, walnuts, butter, honey, cardamom, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Шекер-чурек** (№1490)  
+   `Realistic appetizing food photograph of Shakar chorek (butter cookies) (Azerbaijani dish), made with flour, butter, powdered sugar, eggs, cardamom, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Гаймак с мёдом** (№1491)  
+   `Realistic appetizing food photograph of Gaymak with honey (Azerbaijani dish), made with sour cream, bread, honey, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Халва азербайджанская (уну халвасы)** (№1492)  
+   `Realistic appetizing food photograph of Azerbaijani flour halva (Azerbaijani dish), made with flour, butter, walnuts, saffron, cardamom, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Азербайджанский чай с чабрецом** (№1494)  
+   `Realistic appetizing food photograph of Azerbaijani tea with thyme (Azerbaijani dish), made with jam, lemon, black tea, thyme, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Айран с огурцом и мятой** (№1495)  
+   `Realistic appetizing food photograph of Ayran with cucumber and mint (Azerbaijani dish), made with plain yogurt, cucumbers, mint, home-style, served in a glass on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Пастицио** (№1496)  
+   `Realistic appetizing food photograph of Pastitsio (Greek pasta bake) (Greek dish), made with milk, minced meat, pasta, strained tomatoes, onion, eggs, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Тиропита** (№1503)  
+   `Realistic appetizing food photograph of Tiropita (cheese pie) (Greek dish), made with filo pastry, feta cheese, eggs, cottage cheese, milk, butter, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Долмадес с рисом** (№1504)  
+   `Realistic appetizing food photograph of Dolmades (rice-stuffed vine leaves) (Greek dish), made with grape leaves, rice, onion, lemon, olive oil, dill, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Кефтедес (греческие тефтели)** (№1505)  
+   `Realistic appetizing food photograph of Keftedes (Greek meatballs) (Greek dish), made with minced meat, onion, olive oil, bread, eggs, flour, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 95
+
+1. **Стифадо (говядина с луком)** (№1506)  
+   `Realistic appetizing food photograph of Stifado (beef and onion stew) (Greek dish), made with beef, onion, strained tomatoes, dry red wine, olive oil, vinegar, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Клефтико (баранина в пергаменте)** (№1507)  
+   `Realistic appetizing food photograph of Kleftiko (slow-baked lamb parcels) (Greek dish), made with lamb, potatoes, feta cheese, lemon, olive oil, garlic, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Авголемоно (куриный суп с лимоном)** (№1510)  
+   `Realistic appetizing food photograph of Avgolemono (egg-lemon chicken soup) (Greek dish), made with chicken, eggs, rice, lemon, home-style, served in a deep bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Фава (пюре из гороха)** (№1511)  
+   `Realistic appetizing food photograph of Fava (yellow split pea purée) (Greek dish), made with dried peas, onion, olive oil, lemon juice, capers, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Саганаки (жареный сыр)** (№1513)  
+   `Realistic appetizing food photograph of Saganaki (pan-fried cheese) (Greek dish), made with halloumi, lemon, flour, olive oil, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Фета в духовке (буюрди)** (№1514)  
+   `Realistic appetizing food photograph of Bouyiourdi (baked feta) (Greek dish), made with feta cheese, tomatoes, bell pepper, olive oil, chili pepper, oregano, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Креветки саганаки** (№1517)  
+   `Realistic appetizing food photograph of Shrimp saganaki (Greek dish), made with shrimp, tomatoes, feta cheese, olive oil, garlic, parsley, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Гиувеци (мясо с орзо)** (№1519)  
+   `Realistic appetizing food photograph of Giouvetsi (beef with orzo) (Greek dish), made with beef, strained tomatoes, pasta, onion, cheese, olive oil, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Лимонный картофель по-гречески** (№1520)  
+   `Realistic appetizing food photograph of Greek lemon potatoes (Greek dish), made with potatoes, lemon, olive oil, garlic, oregano, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+10. **Бриам (запечённые овощи)** (№1521)  
+   `Realistic appetizing food photograph of Briam (Greek roasted vegetables) (Greek dish), made with zucchini, potatoes, tomatoes, eggplant, onion, olive oil, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+
+## Партия 96
+
+1. **Мелидзаносалата (баклажанная икра)** (№1522)  
+   `Realistic appetizing food photograph of Melitzanosalata (eggplant dip) (Greek dish), made with eggplant, olive oil, walnuts, lemon juice, parsley, garlic, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+2. **Скордалья (чесночный соус)** (№1523)  
+   `Realistic appetizing food photograph of Skordalia (garlic potato dip) (Greek dish), made with potatoes, olive oil, garlic, vinegar, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+3. **Хорта (отварная зелень)** (№1524)  
+   `Realistic appetizing food photograph of Horta (boiled greens) (Greek dish), made with spinach, lemon, olive oil, home-style, served in a salad bowl on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+4. **Ревитья (тушёный нут)** (№1525)  
+   `Realistic appetizing food photograph of Revithia (Greek chickpea stew) (Greek dish), made with chickpeas, onion, olive oil, lemon, bay leaf, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+5. **Афелия (свинина в вине с кориандром)** (№1527)  
+   `Realistic appetizing food photograph of Afelia (pork in wine and coriander) (Greek dish), made with pork, dry red wine, olive oil, ground coriander, home-style, served on a plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+6. **Галактобуреко** (№1533)  
+   `Realistic appetizing food photograph of Galaktoboureko (custard filo pie) (Greek dish), made with milk, filo pastry, eggs, butter, semolina, lemon, home-style, served in a baking dish on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+7. **Лукумадес (пончики с мёдом)** (№1534)  
+   `Realistic appetizing food photograph of Loukoumades (honey doughnuts) (Greek dish), made with flour, honey, walnuts, dry yeast, cinnamon, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+8. **Меломакарона** (№1536)  
+   `Realistic appetizing food photograph of Melomakarona (honey cookies) (Greek dish), made with flour, orange, olive oil, honey, walnuts, baking powder, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`
+9. **Кулуракья (пасхальное печенье)** (№1539)  
+   `Realistic appetizing food photograph of Koulourakia (Easter butter cookies) (Greek dish), made with flour, butter, eggs, milk, sesame seeds, vanilla sugar, home-style, served on a dessert plate on a wooden table, natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.`

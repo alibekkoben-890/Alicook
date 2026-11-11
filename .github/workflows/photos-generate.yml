@@ -23,6 +23,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           LIMIT: '50'
+          IMAGE_QUALITY: 'medium'
         run: python tools/photos/generate_images.py
       - name: Publish to photo-work-generate branch
         env:
