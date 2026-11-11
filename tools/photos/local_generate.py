@@ -49,12 +49,13 @@ def gloss(p):
 os.makedirs("out/photos", exist_ok=True)
 meta = {}
 for rid in ids:
+    custom = (cfg.get("prompts") or {}).get(rid)
     p = prompts.get(rid)
-    if not p:
+    if not p and not custom:
         continue
-    p = gloss(p.replace("Realistic appetizing food photograph of", "Food photo of").replace(", home-style,", ",").replace(", natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.", ", natural light, detailed"))
+    p = f"Food photo, {custom}, wooden table, natural light, detailed" if custom else gloss(p.replace("Realistic appetizing food photograph of", "Food photo of").replace(", home-style,", ",").replace(", natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.", ", natural light, detailed"))
     t = time.time()
-    g = torch.Generator("cpu").manual_seed(int(rid) * 7919)
+    g = torch.Generator("cpu").manual_seed(int(rid) * 7919 + int(cfg.get("seed_offset", 0)))
     im = pipe(prompt=p, num_inference_steps=steps, guidance_scale=8.0, width=512, height=512, generator=g).images[0]
     im = im.convert("RGB")
     im.thumbnail((size, size))
