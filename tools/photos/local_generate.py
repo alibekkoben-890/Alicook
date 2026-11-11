@@ -26,13 +26,33 @@ pipe = DiffusionPipeline.from_pretrained(model, torch_dtype=torch.float32, safet
 pipe.to("cpu")
 pipe.set_progress_bar_config(disable=True)
 
+# Hints for dishes the model does not know by name (it was trained mostly on English captions).
+GLOSS = {
+    r"\bmant[yi]\b": "manti (large steamed dumplings)", r"\bkhinkali\b": "khinkali (twisted Georgian dumplings)",
+    r"\bpelmeni\b": "pelmeni (small boiled dumplings)", r"\bvareniki\b": "vareniki (boiled half-moon dumplings)",
+    r"\bbuuz\b": "buuz (steamed dumplings)", r"\bchuchvara\b": "chuchvara (tiny dumplings in broth)",
+    r"\blagman\b": "lagman (thick hand-pulled noodles with meat and vegetables)", r"\bplov\b|\bpilaf\b": "pilaf (rice with meat and carrots)",
+    r"\bbeshbarmak\b": "beshbarmak (boiled meat on flat noodle sheets)", r"\bbaursak\w*": "baursak (fried dough balls)",
+    r"\bsamsa\b": "samsa (baked triangular meat pastry)", r"\bshurpa\b": "shurpa (clear meat and vegetable soup)",
+    r"\bkhachapuri\b": "khachapuri (cheese bread)", r"\bdolma\b": "dolma (stuffed grape leaves or vegetables)",
+    r"\bsyrniki\b": "syrniki (small cottage cheese pancakes)", r"\bblini\b": "blini (thin crepes)",
+    r"\bborscht?\b": "borscht (red beet soup)", r"\bokroshka\b": "okroshka (cold kefir soup with vegetables)",
+    r"\bkharcho\b": "kharcho (spicy beef and rice soup)", r"\bkebab\b": "kebab (grilled meat)",
+    r"non-alcoholic mulled wine": "hot spiced grape punch in a mug with cinnamon and orange",
+}
+import re
+def gloss(p):
+    for rx, rep in GLOSS.items():
+        p = re.sub(rx, rep, p, count=1, flags=re.I)
+    return p
+
 os.makedirs("out/photos", exist_ok=True)
 meta = {}
 for rid in ids:
     p = prompts.get(rid)
     if not p:
         continue
-    p = p.replace("Realistic appetizing food photograph of", "Professional food photography, close-up of") + " Highly detailed, appetizing, sharp focus."
+    p = gloss(p.replace("Realistic appetizing food photograph of", "Food photo of").replace(", home-style,", ",").replace(", natural daylight, 45-degree view, shallow depth of field. No text, no logos, no people, no hands.", ", natural light, detailed"))
     t = time.time()
     g = torch.Generator("cpu").manual_seed(int(rid) * 7919)
     im = pipe(prompt=p, num_inference_steps=steps, guidance_scale=8.0, width=512, height=512, generator=g).images[0]
