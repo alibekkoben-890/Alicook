@@ -55,7 +55,7 @@ ok "assets/index.html packaged"
 ICONS=$(unzip -l "$APK" | grep -c 'assets/icons/.*\.svg' || true)
 PHOTOS=$(unzip -l "$APK" | grep -c 'assets/photos/' || true)
 ICON_RECIPES=$(unzip -p "$APK" assets/index.html | grep -o '"photo":"icons/' | wc -l)
-APPVER=$(unzip -p "$APK" assets/index.html | grep -o 'id="app-version">[^<]*' | head -1)
+APPVER=$(unzip -p "$APK" assets/index.html | grep -o 'app-version"[^>]*>[^<]*' | sed 's/.*>//' || true)
 echo "Inside APK: $ICONS icon files, $PHOTOS photo files, $ICON_RECIPES recipes with icons, $APPVER"
 
 echo "All checks passed"
