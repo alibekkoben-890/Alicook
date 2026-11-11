@@ -614,7 +614,6 @@
 | photos/ai_692.webp | Свёкла с чесноком и орехами | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_693.webp | Салат с фасолью и сухариками | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_694.webp | Салат с курицей и ананасом | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
-| photos/ai_695.webp | Ачичук | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_696.webp | Шопский салат | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_697.webp | Салат Витаминный | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_698.webp | Пшённая каша с тыквой | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
@@ -695,6 +694,7 @@
 | photos/x11fb33c8109c.webp | Цветная капуста в кляре | https://pixabay.com/photos/cauliflower-cheese-vegetables-5082253/ | Einladung_zum_Essen | Pixabay Content License |
 | photos/xcc8f387b0e53.webp | Кабачковые оладьи | https://pixabay.com/photos/zucchini-buffer-vegetables-nutrition-5199726/ | morwanobed | Pixabay Content License |
 | photos/ai_776.webp | Вареники с картошкой | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
+| photos/ai_777.webp | Вареники с вишней | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/x52a0998e0c24.webp | Расстегаи с рыбой | https://commons.wikimedia.org/wiki/File:Russian_Rasstegai_with_Fish.jpg | A.Savin | CC BY-SA 3.0 |
 | photos/ai_779.webp | Курник | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_780.webp | Кулебяка с капустой и яйцом | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
@@ -786,6 +786,7 @@
 | photos/x198dcbd395f9.webp | Эларджи | https://commons.wikimedia.org/wiki/File:Elarji_in_Acha-Chacha_restaurant.jpg | Genioh 07 | CC0 |
 | photos/x77b6ef8b332d.webp | Чакапули | https://commons.wikimedia.org/wiki/File:Chakapuli.jpg | Georgian Recipes at Georgia About | CC BY 3.0 |
 | photos/x5e86bfd4c0c8.webp | Кучмачи | https://commons.wikimedia.org/wiki/File:Kuchmachi_with_walnuts.jpg | Georgian Recipes at Georgia About | CC BY 3.0 |
+| photos/ai_870.webp | Капуста по-гурийски | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/x65ddf75a521d.webp | Пеламуши | https://commons.wikimedia.org/wiki/File:Pelamushi_(20).jpg | https://georgianrecipes.net/2013/11/04/dark-grape-pelamushi-with-corn-flour/ | CC BY 3.0 |
 | photos/xc129690a771b.webp | Паста с песто | https://pixabay.com/photos/pasta-sleep-noodles-food-meal-1033216/ | Andy333 | Pixabay Content License |
 | photos/x295967c76c41.webp | Феттучини Альфредо | https://pixabay.com/photos/alfredo-fettuccine-pasta-cheese-8305773/ | CrafterChef | Pixabay Content License |
@@ -1222,6 +1223,7 @@
 | photos/ai_1304.webp | Курица, запечённая в рукаве с овощами | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/xfb459989781d.webp | Гуакамоле | https://pixabay.com/photos/avocado-guacamole-salt-and-pepper-10206270/ | alyerika | Pixabay Content License |
 | photos/xe10eac24a444.webp | Сальса пико-де-гальо | https://pixabay.com/photos/mexico-pico-de-gallo-taco-tacos-2303112/ | remcoosculiflowers | Pixabay Content License |
+| photos/ai_1307.webp | Сальса верде | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/x153b5ffdc3ee.webp | Тако с курицей | https://pixabay.com/photos/tacos-food-chicken-mexican-4511272/ | guerita76 | Pixabay Content License |
 | photos/xa85866500668.webp | Тако аль пастор | https://pixabay.com/photos/tacos-pastor-tacos-tacos-mexico-4505032/ | Yezmin | Pixabay Content License |
 | photos/xf42fb7d2b590.webp | Рыбные тако | https://pixabay.com/photos/mango-catfish-taco-taco-cooking-2944558/ | platinumproperties1 | Pixabay Content License |
@@ -1357,7 +1359,6 @@
 | photos/xa9ad0dd58889.webp | Салат «Ногоон» | https://pixabay.com/photos/salad-fresh-veggies-vegetables-791891/ | JillWellington | Pixabay Content License |
 | photos/ai_1441.webp | Монгольский суп с фрикадельками | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_1442.webp | Пирожки с мясом по-монгольски (печёные) | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
-| photos/ai_1443.webp | Отварная конина по-монгольски | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_1444.webp | Шарсан гоймон (жареная лапша) | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/xd11b408884c4.webp | Тахианы шөл (куриный суп) | https://pixabay.com/photos/chicken-noodle-soup-6729003/ | Vu_Pham | Pixabay Content License |
 | photos/ai_1446.webp | Боорцог с сахарной пудрой | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
@@ -1400,6 +1401,7 @@
 | photos/ai_1483.webp | Салат «Чобан» по-азербайджански | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_1484.webp | Мангал-салаты | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_1485.webp | Гюрза (жареные пельмени) | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
+| photos/ai_1486.webp | Хингал | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_1487.webp | Плов с курицей и шафраном | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_1488.webp | Плов с рыбой | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_1489.webp | Пахлава с грецкими орехами (домашняя) | https://huggingface.co/SimianLuo/LCM_Dreamshaper_v7 | нейросеть LCM Dreamshaper v7 (Stable Diffusion) | сгенерировано ИИ, условия модели на странице модели |
