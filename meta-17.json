@@ -1,0 +1,26 @@
+{
+ "1469": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of chicken and vegetables on a round convex saj pan, on a wooden table, natural light, appetizing, high detail",
+  "best": 2,
+  "score": [
+   0.2946,
+   0.315,
+   0.2714,
+   0.2603
+  ],
+  "match": [
+   0.2946,
+   0.315,
+   0.2714,
+   0.2603
+  ],
+  "bad": [
+   0.1886,
+   0.1801,
+   0.1872,
+   0.1722
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "1183": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Poulet aux herbes de Provence, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
+  "best": 1,
+  "score": [
+   0.249,
+   0.2475,
+   0.2572,
+   0.2015
+  ],
+  "match": [
+   0.249,
+   0.2475,
+   0.2572,
+   0.2087
+  ],
+  "bad": [
+   0.1783,
+   0.1825,
+   0.1821,
+   0.1729
+  ]
+ }
+}

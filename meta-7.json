@@ -1,0 +1,26 @@
+{
+ "434": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Baked mushrooms with bell peppers, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
+  "best": 3,
+  "score": [
+   0.2913,
+   0.2309,
+   0.1963,
+   0.2317
+  ],
+  "match": [
+   0.2913,
+   0.2309,
+   0.2006,
+   0.2317
+  ],
+  "bad": [
+   0.179,
+   0.173,
+   0.1591,
+   0.1669
+  ]
+ }
+}

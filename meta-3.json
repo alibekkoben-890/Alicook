@@ -1,0 +1,50 @@
+{
+ "561": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Oyster mushrooms fried with potatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
+  "best": 1,
+  "score": [
+   0.2662,
+   0.2244,
+   0.2408,
+   0.2325
+  ],
+  "match": [
+   0.2662,
+   0.2244,
+   0.2408,
+   0.2325
+  ],
+  "bad": [
+   0.1877,
+   0.1548,
+   0.1554,
+   0.1519
+  ]
+ },
+ "926": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of whole baked red apples with cinnamon, soft wrinkled skin, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
+  "best": 1,
+  "score": [
+   0.2479,
+   0.2866,
+   0.2621,
+   0.2838
+  ],
+  "match": [
+   0.2479,
+   0.2866,
+   0.2621,
+   0.2838
+  ],
+  "bad": [
+   0.1947,
+   0.1855,
+   0.1753,
+   0.1792
+  ]
+ }
+}

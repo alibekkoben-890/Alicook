@@ -1,0 +1,26 @@
+{
+ "414": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Baked mushrooms with cabbage, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
+  "best": 1,
+  "score": [
+   0.2345,
+   0.249,
+   0.2702,
+   0.2461
+  ],
+  "match": [
+   0.2345,
+   0.249,
+   0.2702,
+   0.2461
+  ],
+  "bad": [
+   0.1602,
+   0.1598,
+   0.1658,
+   0.159
+  ]
+ }
+}

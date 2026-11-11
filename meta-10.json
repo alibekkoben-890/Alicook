@@ -1,0 +1,26 @@
+{
+ "945": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Tarte Tatin, served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
+  "best": 0,
+  "score": [
+   0.2327,
+   0.3026,
+   0.2372,
+   0.2569
+  ],
+  "match": [
+   0.2327,
+   0.3026,
+   0.2372,
+   0.2569
+  ],
+  "bad": [
+   0.1598,
+   0.2034,
+   0.1698,
+   0.1804
+  ]
+ }
+}

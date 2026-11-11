@@ -1,0 +1,26 @@
+{
+ "1084": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Tekka maki (tuna roll), served on a plate, on a wooden table, natural light, appetizing, high detail",
+  "best": 3,
+  "score": [
+   0.2466,
+   0.2437,
+   0.2429,
+   0.2451
+  ],
+  "match": [
+   0.2466,
+   0.2437,
+   0.2429,
+   0.2451
+  ],
+  "bad": [
+   0.1952,
+   0.1876,
+   0.1902,
+   0.1745
+  ]
+ }
+}

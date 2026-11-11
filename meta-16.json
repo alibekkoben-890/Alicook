@@ -1,0 +1,26 @@
+{
+ "1414": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Mongolian aaruul: dried curd cheese pieces on a plate, on a wooden table, natural light, appetizing, high detail",
+  "best": 3,
+  "score": [
+   0.2856,
+   0.3255,
+   0.3165,
+   0.2037
+  ],
+  "match": [
+   0.2856,
+   0.3255,
+   0.3165,
+   0.2043
+  ],
+  "bad": [
+   0.1705,
+   0.1951,
+   0.1721,
+   0.1557
+  ]
+ }
+}

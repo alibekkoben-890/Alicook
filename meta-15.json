@@ -1,0 +1,26 @@
+{
+ "1216": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of golden crimped pasties on a plate, on a wooden table, natural light, appetizing, high detail",
+  "best": 2,
+  "score": [
+   0.2482,
+   0.2627,
+   0.2348,
+   0.2518
+  ],
+  "match": [
+   0.2482,
+   0.2627,
+   0.2348,
+   0.2518
+  ],
+  "bad": [
+   0.1435,
+   0.1594,
+   0.1385,
+   0.1346
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "536": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of slow-braised young lamb pieces with onions on a plate, on a wooden table, natural light, appetizing, high detail",
+  "best": 3,
+  "score": [
+   0.2409,
+   0.2542,
+   0.265,
+   0.2505
+  ],
+  "match": [
+   0.2409,
+   0.2542,
+   0.265,
+   0.2505
+  ],
+  "bad": [
+   0.1599,
+   0.1674,
+   0.1522,
+   0.1695
+  ]
+ }
+}

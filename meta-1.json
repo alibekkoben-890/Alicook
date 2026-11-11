@@ -1,0 +1,50 @@
+{
+ "59": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Rabbit with buckwheat, served on a plate, on a wooden table, natural light, appetizing, high detail",
+  "best": 1,
+  "score": [
+   0.2888,
+   0.227,
+   0.2886,
+   0.2824
+  ],
+  "match": [
+   0.2888,
+   0.2295,
+   0.2886,
+   0.2824
+  ],
+  "bad": [
+   0.2142,
+   0.1845,
+   0.2043,
+   0.2015
+  ]
+ },
+ "74": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Oven-baked sturgeon, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
+  "best": 0,
+  "score": [
+   0.1944,
+   0.2292,
+   0.2401,
+   0.2172
+  ],
+  "match": [
+   0.2023,
+   0.233,
+   0.2401,
+   0.2266
+  ],
+  "bad": [
+   0.168,
+   0.1905,
+   0.1847,
+   0.1953
+  ]
+ }
+}

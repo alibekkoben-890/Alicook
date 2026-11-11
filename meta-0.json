@@ -1,0 +1,50 @@
+{
+ "58": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Rabbit with rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
+  "best": 3,
+  "score": [
+   0.1819,
+   0.3131,
+   0.2495,
+   0.1902
+  ],
+  "match": [
+   0.1996,
+   0.3131,
+   0.2495,
+   0.2049
+  ],
+  "bad": [
+   0.1849,
+   0.2059,
+   0.1955,
+   0.1843
+  ]
+ },
+ "980": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Sur et (salt-cured dried meat), served on a plate, on a wooden table, natural light, appetizing, high detail",
+  "best": 0,
+  "score": [
+   0.2756,
+   0.2295,
+   0.2234,
+   0.2756
+  ],
+  "match": [
+   0.2756,
+   0.2305,
+   0.2334,
+   0.2756
+  ],
+  "bad": [
+   0.1708,
+   0.1827,
+   0.2035,
+   0.1953
+  ]
+ }
+}

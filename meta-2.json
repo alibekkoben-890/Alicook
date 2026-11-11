@@ -1,0 +1,50 @@
+{
+ "60": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Rabbit with vegetables, served on a plate, on a wooden table, natural light, appetizing, high detail",
+  "best": 1,
+  "score": [
+   0.1985,
+   0.2184,
+   0.2508,
+   0.1477
+  ],
+  "match": [
+   0.2082,
+   0.2283,
+   0.2508,
+   0.1778
+  ],
+  "bad": [
+   0.1777,
+   0.1979,
+   0.1909,
+   0.1879
+  ]
+ },
+ "695": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of a fresh salad of sliced red tomatoes and thin raw onion half-rings with chopped herbs, served in a bowl, on a wooden table, natural light, appetizing, high detail",
+  "best": 0,
+  "score": [
+   0.29,
+   0.2485,
+   0.2297,
+   0.2602
+  ],
+  "match": [
+   0.29,
+   0.2496,
+   0.2342,
+   0.2602
+  ],
+  "bad": [
+   0.2015,
+   0.2018,
+   0.1933,
+   0.1867
+  ]
+ }
+}

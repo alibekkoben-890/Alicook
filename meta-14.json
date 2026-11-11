@@ -1,0 +1,26 @@
+{
+ "1186": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Sole meunière (fish in brown butter), served on a plate, on a wooden table, natural light, appetizing, high detail",
+  "best": 3,
+  "score": [
+   0.2139,
+   0.3044,
+   0.2671,
+   0.2801
+  ],
+  "match": [
+   0.2229,
+   0.3044,
+   0.2671,
+   0.2801
+  ],
+  "bad": [
+   0.1908,
+   0.1903,
+   0.1711,
+   0.1733
+  ]
+ }
+}

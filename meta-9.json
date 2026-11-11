@@ -1,0 +1,26 @@
+{
+ "780": {
+  "model": "SimianLuo/LCM_Dreamshaper_v7",
+  "steps": 6,
+  "prompt": "Food photo of Kulebyaka: long golden braided pie cut to show cabbage and egg filling, served on a plate, on a wooden table, natural light, appetizing, high detail",
+  "best": 0,
+  "score": [
+   0.2638,
+   0.2895,
+   0.3228,
+   0.337
+  ],
+  "match": [
+   0.2638,
+   0.2895,
+   0.3228,
+   0.337
+  ],
+  "bad": [
+   0.1771,
+   0.1768,
+   0.1917,
+   0.1775
+  ]
+ }
+}
