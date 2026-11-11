@@ -1,0 +1,68 @@
+name: Dish pictures (open model)
+
+# Generates dish pictures with an open Stable Diffusion model on CPU runners.
+# Free, no API key. Runs when tools/photos/localgen.json changes.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['ccr-**']
+    paths: ['tools/photos/localgen.json']
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install
+        run: |
+          pip install --index-url https://download.pytorch.org/whl/cpu torch==2.5.1
+          pip install diffusers==0.31.0 transformers==4.46.3 accelerate==1.1.1 pillow==11.0.0 safetensors==0.4.5
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-lcm-dreamshaper-v7
+      - name: Generate
+        env:
+          SHARD: ${{ matrix.shard }}
+          SHARDS: '10'
+        run: python tools/photos/local_generate.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: gen-${{ matrix.shard }}
+          path: out
+          if-no-files-found: ignore
+
+  publish:
+    needs: generate
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: parts
+      - name: Publish to photo-work-localgen branch
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          mkdir -p out/photos
+          for d in parts/*; do cp -r "$d"/photos/* out/photos/ 2>/dev/null || true; cp "$d"/meta-*.json out/ 2>/dev/null || true; done
+          ls out/photos | wc -l
+          [ -n "$(ls out/photos)" ] || { echo "No pictures"; exit 0; }
+          cd out
+          git init -q
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "Pictures from run ${{ github.run_id }}"
+          git push -qf "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:photo-work-localgen
