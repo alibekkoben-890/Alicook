@@ -6,7 +6,16 @@ import android.content.ActivityNotFoundException;
 import android.content.res.Configuration;
 import android.content.Intent;
 import android.net.Uri;
+import android.content.Context;
+import android.media.AudioAttributes;
+import android.media.MediaPlayer;
+import android.media.RingtoneManager;
+import android.os.Build;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Looper;
+import android.os.VibrationEffect;
+import android.os.Vibrator;
 import android.view.WindowManager;
 import android.webkit.JavascriptInterface;
 import android.webkit.WebView;
@@ -17,6 +26,75 @@ import android.webkit.WebSettings;
 
 public class MainActivity extends Activity {
     WebView web;
+    private final Handler timerHandler = new Handler(Looper.getMainLooper());
+    private MediaPlayer alarm;
+    private final Runnable ring = new Runnable() {
+        @Override
+        public void run() {
+            startAlarm();
+        }
+    };
+    private final Runnable autoStop = new Runnable() {
+        @Override
+        public void run() {
+            stopAlarm();
+        }
+    };
+
+    // Cooking timer signal: the phone's alarm sound (alarm volume, so it is heard even when media is muted)
+    // plus vibration. It rings until the user turns it off, at most one minute.
+    private void startAlarm() {
+        stopAlarm();
+        try {
+            Uri uri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_ALARM);
+            if (uri == null) uri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);
+            alarm = new MediaPlayer();
+            alarm.setAudioAttributes(new AudioAttributes.Builder()
+                    .setUsage(AudioAttributes.USAGE_ALARM)
+                    .setContentType(AudioAttributes.CONTENT_TYPE_SONIFICATION).build());
+            alarm.setDataSource(this, uri);
+            alarm.setLooping(true);
+            alarm.prepare();
+            alarm.start();
+        } catch (Exception e) {
+            alarm = null;
+        }
+        try {
+            Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+            if (v != null) {
+                long[] pattern = {0, 600, 400, 600, 400, 600};
+                if (Build.VERSION.SDK_INT >= 26) v.vibrate(VibrationEffect.createWaveform(pattern, 0));
+                else v.vibrate(pattern, 0);
+            }
+        } catch (Exception ignored) {
+        }
+        timerHandler.postDelayed(autoStop, 60000);
+        if (web != null) web.evaluateJavascript("window.onNativeTimerDone && window.onNativeTimerDone()", null);
+    }
+
+    private void stopAlarm() {
+        timerHandler.removeCallbacks(autoStop);
+        if (alarm != null) {
+            try {
+                alarm.stop();
+            } catch (Exception ignored) {
+            }
+            alarm.release();
+            alarm = null;
+        }
+        try {
+            Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+            if (v != null) v.cancel();
+        } catch (Exception ignored) {
+        }
+    }
+
+    @Override
+    protected void onDestroy() {
+        timerHandler.removeCallbacks(ring);
+        stopAlarm();
+        super.onDestroy();
+    }
 
     @Override
     public void onCreate(Bundle state) {
@@ -89,6 +167,29 @@ public class MainActivity extends Activity {
                         startActivity(Intent.createChooser(send, null));
                     } catch (ActivityNotFoundException ignored) {
                     }
+                }
+            });
+        }
+
+        @JavascriptInterface
+        public void startTimer(final int seconds) {
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    timerHandler.removeCallbacks(ring);
+                    stopAlarm();
+                    timerHandler.postDelayed(ring, Math.max(1, seconds) * 1000L);
+                }
+            });
+        }
+
+        @JavascriptInterface
+        public void cancelTimer() {
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    timerHandler.removeCallbacks(ring);
+                    stopAlarm();
                 }
             });
         }
