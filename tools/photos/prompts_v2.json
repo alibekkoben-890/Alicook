@@ -2179,8 +2179,13 @@
 "clip": "a photo of fried lamb and liver pieces with onions in a pan"
 },
 "810": {
-"prompt": "Food photo of lula kebab: long minced meat skewers grilled, with onions, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of lula kebab: long minced meat skewers grilled, with onions"
+"prompt": "Food photo of lula kebab: long sausage-shaped kebabs of smooth ground minced lamb, uniform cylinders with grill marks, no meat chunks, taken off the skewers and lying on thin lavash flatbread, with raw onion rings sprinkled with red sumac and fresh herbs, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of long minced meat sausage-shaped kebabs on flatbread",
+"avoid": [
+"meat chunks on skewers",
+"shish kebab with cubes of meat",
+"a shawarma wrap"
+]
 },
 "811": {
 "prompt": "Food photo of Uzbek manti: large steamed dumplings with pumpkin filling, sour cream, on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2884,8 +2889,13 @@
 "clip": "a photo of lamb and vegetables cooked in a pan"
 },
 "1125": {
-"prompt": "Food photo of minced lamb kebab with grilled tomatoes and peppers, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of minced lamb kebab with grilled tomatoes and peppers"
+"prompt": "Food photo of lula kebab: long sausage-shaped kebabs of smooth ground minced lamb, uniform cylinders with grill marks, no meat chunks, taken off the skewers and lying on thin lavash flatbread, with raw onion rings sprinkled with red sumac and fresh herbs, grilled tomatoes and green peppers, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of long minced meat sausage-shaped kebabs on flatbread",
+"avoid": [
+"meat chunks on skewers",
+"shish kebab with cubes of meat",
+"a shawarma wrap"
+]
 },
 "1128": {
 "prompt": "Food photo of Turkish sigara borek: thin fried pastry cigars filled with cheese on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2979,8 +2989,13 @@
 "clip": "a photo of grilled chicken skewers with grilled vegetables"
 },
 "1157": {
-"prompt": "Food photo of long grilled minced meat kebab on lavash, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of long grilled minced meat kebab on lavash"
+"prompt": "Food photo of lula kebab: long sausage-shaped kebabs of smooth ground minced lamb, uniform cylinders with grill marks, no meat chunks, taken off the skewers and lying on thin lavash flatbread, with raw onion rings sprinkled with red sumac and fresh herbs, grilled tomatoes, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of long minced meat sausage-shaped kebabs on flatbread",
+"avoid": [
+"meat chunks on skewers",
+"shish kebab with cubes of meat",
+"a shawarma wrap"
+]
 },
 "1158": {
 "prompt": "Food photo of lamb and vegetable hotpot in a clay pot, on a wooden table, natural light, appetizing, high detail",
@@ -3770,8 +3785,13 @@
 "clip": "a photo of baked fish stuffed with walnut filling"
 },
 "1461": {
-"prompt": "Food photo of long minced meat kebab on lavash with onions, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of long minced meat kebab on lavash with onions"
+"prompt": "Food photo of lula kebab: long sausage-shaped kebabs of smooth ground minced lamb, uniform cylinders with grill marks, no meat chunks, taken off the skewers and lying on thin lavash flatbread, with raw onion rings sprinkled with red sumac and fresh herbs, grilled tomatoes and peppers, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of long minced meat sausage-shaped kebabs on flatbread",
+"avoid": [
+"meat chunks on skewers",
+"shish kebab with cubes of meat",
+"a shawarma wrap"
+]
 },
 "1463": {
 "prompt": "Food photo of grilled eggplant and tomato skewers, served on a plate, on a wooden table, natural light, appetizing, high detail",
