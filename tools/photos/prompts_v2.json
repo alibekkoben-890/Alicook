@@ -2431,10 +2431,10 @@
 "clip": "a photo of Square slice of cottage cheese casserole with berries on a plate"
 },
 "926": {
-"prompt": "Food photo of whole baked red apples with cinnamon, soft wrinkled skin, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of baked apples",
+"prompt": "Food photo of whole oven-baked red apples, soft wrinkled skin, cored and filled, sprinkled with cinnamon, in a baking dish, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of baked apples in a baking dish",
 "avoid": [
-"rice balls"
+"fresh raw apples"
 ]
 },
 "927": {
@@ -2932,8 +2932,11 @@
 "clip": "a photo of Tolma in vine leaves"
 },
 "1146": {
-"prompt": "Food photo of Cabbage tolma, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Cabbage tolma"
+"prompt": "Food photo of cabbage rolls: cabbage leaves rolled around meat and rice filling, in tomato sauce, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of stuffed cabbage rolls",
+"avoid": [
+"raw cabbage leaves"
+]
 },
 "1147": {
 "prompt": "Food photo of Akhtamar tolma (stuffed quince and apples), served in a baking dish, on a wooden table, natural light, appetizing, high detail",
