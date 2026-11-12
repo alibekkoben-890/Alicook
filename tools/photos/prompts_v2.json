@@ -52,16 +52,25 @@
 "clip": "a photo of Chicken fillet with vegetables"
 },
 "46": {
-"prompt": "Food photo of Turkey with rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Turkey with rice"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with boiled rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with boiled rice",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "47": {
-"prompt": "Food photo of Turkey with buckwheat, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Turkey with buckwheat"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with buckwheat, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with buckwheat",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "48": {
-"prompt": "Food photo of Turkey with vegetables, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Turkey with vegetables"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with vegetables, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with vegetables",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "50": {
 "prompt": "Food photo of Beef with rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -88,20 +97,36 @@
 "clip": "a photo of Lamb with vegetables"
 },
 "57": {
-"prompt": "Food photo of Braised rabbit meat pieces with potato chunks and carrots in gravy on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Braised rabbit meat pieces with potato chunks and carrots in gravy on a plate"
+"prompt": "Food photo of pieces of stewed rabbit meat on the bone in gravy with potatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of stewed meat pieces with potatoes",
+"avoid": [
+"a live rabbit",
+"an animal"
+]
 },
 "58": {
-"prompt": "Food photo of Rabbit with rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Rabbit with rice"
+"prompt": "Food photo of pieces of stewed rabbit meat on the bone in gravy with boiled rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of stewed meat pieces with boiled rice",
+"avoid": [
+"a live rabbit",
+"an animal"
+]
 },
 "59": {
-"prompt": "Food photo of Rabbit with buckwheat, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Rabbit with buckwheat"
+"prompt": "Food photo of pieces of stewed rabbit meat on the bone in gravy with buckwheat, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of stewed meat pieces with buckwheat",
+"avoid": [
+"a live rabbit",
+"an animal"
+]
 },
 "60": {
-"prompt": "Food photo of Rabbit with vegetables, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Rabbit with vegetables"
+"prompt": "Food photo of pieces of stewed rabbit meat on the bone in gravy with vegetables, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of stewed meat pieces with vegetables",
+"avoid": [
+"a live rabbit",
+"an animal"
+]
 },
 "62": {
 "prompt": "Food photo of Pork with rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -116,20 +141,32 @@
 "clip": "a photo of Pork with vegetables"
 },
 "65": {
-"prompt": "Food photo of Roasted turkey breast slices with roasted potato wedges and herbs on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Roasted turkey breast slices with roasted potato wedges and herbs on a plate"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with potatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with potatoes",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "66": {
-"prompt": "Food photo of Sliced turkey fillet in light sauce on fluffy white rice on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Sliced turkey fillet in light sauce on fluffy white rice on a plate"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with boiled rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with boiled rice",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "67": {
-"prompt": "Food photo of Turkey fillet with buckwheat, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Turkey fillet with buckwheat"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with buckwheat, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with buckwheat",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "68": {
-"prompt": "Food photo of Turkey fillet with vegetables, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Turkey fillet with vegetables"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with vegetables, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with vegetables",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "69": {
 "prompt": "Food photo of Oven-baked common carp, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
@@ -320,160 +357,250 @@
 "clip": "a photo of Chicken and bell peppers soup"
 },
 "138": {
-"prompt": "Food photo of Braised turkey with rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Braised turkey with rice"
+"prompt": "Food photo of bite-size pieces of turkey breast meat braised in sauce with boiled rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with boiled rice",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "139": {
-"prompt": "Food photo of Baked turkey with rice, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Baked turkey with rice"
+"prompt": "Food photo of bite-size pieces of turkey breast meat oven-baked with boiled rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with boiled rice",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "140": {
-"prompt": "Food photo of Pan-fried turkey with rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Pan-fried turkey with rice"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with boiled rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with boiled rice",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "141": {
 "prompt": "Food photo of Turkey and rice soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Turkey and rice soup"
 },
 "143": {
-"prompt": "Food photo of Braised turkey with buckwheat, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Braised turkey with buckwheat"
+"prompt": "Food photo of bite-size pieces of turkey breast meat braised in sauce with buckwheat, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with buckwheat",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "144": {
-"prompt": "Food photo of Baked turkey with buckwheat, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Baked turkey with buckwheat"
+"prompt": "Food photo of bite-size pieces of turkey breast meat oven-baked with buckwheat, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with buckwheat",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "145": {
-"prompt": "Food photo of Pan-fried turkey with buckwheat, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Pan-fried turkey with buckwheat"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with buckwheat, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with buckwheat",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "146": {
 "prompt": "Food photo of Turkey and buckwheat soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Turkey and buckwheat soup"
 },
 "148": {
-"prompt": "Food photo of Braised turkey with bulgur, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Braised turkey with bulgur"
+"prompt": "Food photo of bite-size pieces of turkey breast meat braised in sauce with bulgur, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with bulgur",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "149": {
-"prompt": "Food photo of Baked turkey with bulgur, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Baked turkey with bulgur"
+"prompt": "Food photo of bite-size pieces of turkey breast meat oven-baked with bulgur, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with bulgur",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "150": {
-"prompt": "Food photo of Pan-fried turkey with bulgur, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Pan-fried turkey with bulgur"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with bulgur, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with bulgur",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "151": {
 "prompt": "Food photo of Turkey and bulgur soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Turkey and bulgur soup"
 },
 "153": {
-"prompt": "Food photo of Braised turkey with pasta, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Braised turkey with pasta"
+"prompt": "Food photo of bite-size pieces of turkey breast meat braised in sauce with pasta, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with pasta",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "154": {
-"prompt": "Food photo of Baked turkey with pasta, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Baked turkey with pasta"
+"prompt": "Food photo of bite-size pieces of turkey breast meat oven-baked with pasta, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with pasta",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "155": {
-"prompt": "Food photo of Pan-fried turkey with pasta, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Pan-fried turkey with pasta"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with pasta, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with pasta",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "156": {
 "prompt": "Food photo of Turkey and pasta soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Turkey and pasta soup"
 },
 "158": {
-"prompt": "Food photo of pieces of turkey meat braised with potato chunks in gravy, served in a deep plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Braised turkey with potatoes"
+"prompt": "Food photo of bite-size pieces of turkey breast meat braised in sauce with potatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with potatoes",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "159": {
-"prompt": "Food photo of Baked turkey with potatoes, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Baked turkey with potatoes"
+"prompt": "Food photo of bite-size pieces of turkey breast meat oven-baked with potatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with potatoes",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "160": {
-"prompt": "Food photo of Pan-fried turkey with potatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Pan-fried turkey with potatoes"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with potatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with potatoes",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "161": {
 "prompt": "Food photo of Turkey and potatoes soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Turkey and potatoes soup"
 },
 "163": {
-"prompt": "Food photo of Braised turkey with cabbage, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Braised turkey with cabbage"
+"prompt": "Food photo of bite-size pieces of turkey breast meat braised in sauce with stewed cabbage, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with stewed cabbage",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "164": {
-"prompt": "Food photo of Baked turkey with cabbage, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Baked turkey with cabbage"
+"prompt": "Food photo of bite-size pieces of turkey breast meat oven-baked with stewed cabbage, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with stewed cabbage",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "165": {
-"prompt": "Food photo of Pan-fried turkey with cabbage, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Pan-fried turkey with cabbage"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with stewed cabbage, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with stewed cabbage",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "166": {
 "prompt": "Food photo of Turkey and cabbage soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Turkey and cabbage soup"
 },
 "168": {
-"prompt": "Food photo of Braised turkey with carrots, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Braised turkey with carrots"
+"prompt": "Food photo of bite-size pieces of turkey breast meat braised in sauce with carrots, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with carrots",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "169": {
-"prompt": "Food photo of Baked turkey with carrots, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Baked turkey with carrots"
+"prompt": "Food photo of bite-size pieces of turkey breast meat oven-baked with carrots, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with carrots",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "170": {
-"prompt": "Food photo of Pan-fried turkey with carrots, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Pan-fried turkey with carrots"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with carrots, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with carrots",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "171": {
 "prompt": "Food photo of Turkey and carrots soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Turkey and carrots soup"
 },
 "173": {
-"prompt": "Food photo of Braised turkey with zucchini, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Braised turkey with zucchini"
+"prompt": "Food photo of bite-size pieces of turkey breast meat braised in sauce with zucchini, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with zucchini",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "174": {
-"prompt": "Food photo of Baked turkey with zucchini, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Baked turkey with zucchini"
+"prompt": "Food photo of bite-size pieces of turkey breast meat oven-baked with zucchini, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with zucchini",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "175": {
-"prompt": "Food photo of Pan-fried turkey with zucchini, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Pan-fried turkey with zucchini"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with zucchini, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with zucchini",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "176": {
 "prompt": "Food photo of Turkey and zucchini soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Turkey and zucchini soup"
 },
 "178": {
-"prompt": "Food photo of Braised turkey with tomatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Braised turkey with tomatoes"
+"prompt": "Food photo of bite-size pieces of turkey breast meat braised in sauce with tomatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with tomatoes",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "179": {
-"prompt": "Food photo of Baked turkey with tomatoes, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Baked turkey with tomatoes"
+"prompt": "Food photo of bite-size pieces of turkey breast meat oven-baked with tomatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with tomatoes",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "180": {
-"prompt": "Food photo of Pan-fried turkey with tomatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Pan-fried turkey with tomatoes"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with tomatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with tomatoes",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "181": {
 "prompt": "Food photo of Turkey and tomatoes soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Turkey and tomatoes soup"
 },
 "183": {
-"prompt": "Food photo of Braised turkey with bell peppers, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Braised turkey with bell peppers"
+"prompt": "Food photo of bite-size pieces of turkey breast meat braised in sauce with bell peppers, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with bell peppers",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "184": {
-"prompt": "Food photo of Baked turkey with bell peppers, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Baked turkey with bell peppers"
+"prompt": "Food photo of bite-size pieces of turkey breast meat oven-baked with bell peppers, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with bell peppers",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "185": {
-"prompt": "Food photo of Pan-fried turkey with bell peppers, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Pan-fried turkey with bell peppers"
+"prompt": "Food photo of bite-size pieces of turkey breast meat pan-fried with bell peppers, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with bell peppers",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "186": {
 "prompt": "Food photo of Turkey and bell peppers soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
@@ -1668,8 +1795,9 @@
 "clip": "a photo of Beef and vegetables in oyster sauce"
 },
 "604": {
-"prompt": "Food photo of Chicken stew with beef sausages, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Chicken stew with beef sausages"
+"prompt": "Food photo of a pot roast of chicken pieces, beef chunks and sliced sausages with potatoes in gravy, served in a pan, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a stew with chicken, beef and sausages",
+"avoid": []
 },
 "606": {
 "prompt": "Food photo of Beef tenderloin medallions with creamy mushroom sauce and roasted brussels sprouts on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -1724,8 +1852,11 @@
 "clip": "a photo of Shtrudli: rolled dough spirals steamed on top of meat and potato stew in a pot"
 },
 "653": {
-"prompt": "Food photo of lagman: thick hand-pulled noodles topped with beef, peppers and tomato sauce in a bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of lagman: thick hand-pulled noodles topped with beef, peppers and tomato sauce in a bowl"
+"prompt": "Food photo of one bowl of lagman: thick hand-pulled noodles with beef and vegetable sauce of peppers and tomatoes, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of noodles with beef and vegetables",
+"avoid": [
+"a collage of several photos"
+]
 },
 "656": {
 "prompt": "Food photo of shurpa: clear lamb soup with big potato and carrot pieces in a bowl, on a wooden table, natural light, appetizing, high detail",
@@ -1752,8 +1883,12 @@
 "clip": "a photo of Glass of red berry mors drink (cranberry juice) with ice, berries beside it"
 },
 "674": {
-"prompt": "Food photo of cup of tea with milk, bowl of sugar and small fried dough pieces, served in a glass, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of cup of tea with milk, bowl of sugar and small fried dough pieces"
+"prompt": "Food photo of a cup of strong black tea with milk, Kazakh style, in a small bowl-shaped cup (kese), with baursak fried dough pieces beside it, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a cup of tea with milk",
+"avoid": [
+"profiteroles",
+"a cake"
+]
 },
 "675": {
 "prompt": "Food photo of Homemade mint lemonade, served in a glass, on a wooden table, natural light, appetizing, high detail",
@@ -2307,8 +2442,11 @@
 "clip": "a photo of Oatmeal with nuts (no sugar)"
 },
 "928": {
-"prompt": "Food photo of Braised cabbage with turkey pieces and carrots in a pan, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Braised cabbage with turkey pieces and carrots in a pan"
+"prompt": "Food photo of bite-size pieces of turkey breast meat braised in sauce with stewed cabbage, served on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of turkey meat with stewed cabbage",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "929": {
 "prompt": "Food photo of Zucchini stuffed with turkey, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
