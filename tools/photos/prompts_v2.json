@@ -16,8 +16,12 @@
 "clip": "a photo of Baked fish"
 },
 "24": {
-"prompt": "Food photo of Oatmeal, served in a bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Oatmeal"
+"prompt": "Food photo of a bowl of hot creamy oatmeal porridge cooked with milk, soft oat flakes, a pat of butter melting on top, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of creamy oatmeal porridge",
+"avoid": [
+"dry nuts",
+"granola"
+]
 },
 "26": {
 "prompt": "Food photo of Rice porridge, served in a bowl, on a wooden table, natural light, appetizing, high detail",
@@ -189,8 +193,11 @@
 "clip": "a photo of Oven-baked hake"
 },
 "80": {
-"prompt": "Food photo of Oven-baked pink salmon, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Oven-baked pink salmon"
+"prompt": "Food photo of baked pink salmon: two fillets of pink salmon baked in a dish with lemon slices, onion and dill, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of baked pink salmon fillets with lemon",
+"avoid": [
+"ham"
+]
 },
 "87": {
 "prompt": "Food photo of Oven-roasted carrots, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
@@ -1683,8 +1690,12 @@
 "clip": "a photo of Kazakh kespe: chicken noodle soup with homemade noodles in a bowl"
 },
 "527": {
-"prompt": "Food photo of round golden Kazakh flatbread baked in a pan, cut in wedges, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of round golden Kazakh flatbread baked in a pan, cut in wedges"
+"prompt": "Food photo of taba nan: a thick round domed golden-brown Kazakh bread loaf baked in a covered cast iron pan, cracked crust, one slice cut, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a thick round bread loaf baked in a pan",
+"avoid": [
+"a pizza",
+"a pie"
+]
 },
 "528": {
 "prompt": "Food photo of milky rice soup in a bowl with butter, on a wooden table, natural light, appetizing, high detail",
@@ -1703,8 +1714,11 @@
 "clip": "a photo of braided roasted lamb breast on a board"
 },
 "535": {
-"prompt": "Food photo of Kazakh qaryn burme: boiled stuffed lamb stomach sausage, sliced, on a plate with onions, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Kazakh qaryn burme: boiled stuffed lamb stomach sausage, sliced, on a plate with onions"
+"prompt": "Food photo of karyn burme: a whole round stuffed lamb stomach, baked golden brown, cut open on a platter showing lamb meat, potato and carrot filling, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a stuffed lamb stomach cut open",
+"avoid": [
+"sliced meat"
+]
 },
 "536": {
 "prompt": "Food photo of slow-braised young lamb pieces with onions on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -1715,8 +1729,12 @@
 "clip": "a photo of fried horse meat pieces with onions in a cast iron pan"
 },
 "546": {
-"prompt": "Food photo of slices of kazy horse meat sausage with boiled potatoes on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of slices of kazy horse meat sausage with boiled potatoes on a plate"
+"prompt": "Food photo of kazy: slices of Kazakh horse meat sausage, each round slice is dark red meat surrounded by a thick white fat ring, with boiled potatoes and onion, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of slices of horse sausage with a white fat ring",
+"avoid": [
+"salami",
+"ham"
+]
 },
 "548": {
 "prompt": "Food photo of lamb broth in a bowl with crumbled kurt cheese, on a wooden table, natural light, appetizing, high detail",
@@ -1751,8 +1769,9 @@
 "clip": "a photo of Chicken with corn and bell pepper"
 },
 "561": {
-"prompt": "Food photo of Oyster mushrooms fried with potatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Oyster mushrooms fried with potatoes"
+"prompt": "Food photo of oyster mushrooms fried with sliced potatoes in a frying pan, golden potato slices and fan-shaped grey-brown oyster mushrooms, dill, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of fried potato slices with oyster mushrooms in a pan",
+"avoid": []
 },
 "565": {
 "prompt": "Food photo of Pearl barley with mushrooms, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -1883,11 +1902,12 @@
 "clip": "a photo of Glass of red berry mors drink (cranberry juice) with ice, berries beside it"
 },
 "674": {
-"prompt": "Food photo of a cup of strong black tea with milk, Kazakh style, in a small bowl-shaped cup (kese), with baursak fried dough pieces beside it, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of a cup of tea with milk",
+"prompt": "Food photo of Kazakh tea with milk: opaque light beige-brown milky tea, tea mixed with a lot of milk, poured in a small wide white porcelain bowl without handle (kese), a small milk jug and a teapot beside, a plate of golden fried baursak dough pieces, raisins and kurt, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of milky tea in a small bowl with fried dough pieces",
 "avoid": [
-"profiteroles",
-"a cake"
+"black tea without milk",
+"clear amber tea",
+"a cup with a handle"
 ]
 },
 "675": {
@@ -1983,8 +2003,9 @@
 "clip": "a photo of Honey-soy chicken wings"
 },
 "710": {
-"prompt": "Food photo of French-style baked pork, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of French-style baked pork"
+"prompt": "Food photo of Russian meat a la francaise: baked layers of pork slices, onion and potato under a golden brown melted cheese crust, a square portion cut from a baking dish, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a portion of baked meat and potato layers under a cheese crust",
+"avoid": []
 },
 "712": {
 "prompt": "Food photo of meatballs in tomato sauce on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2019,8 +2040,11 @@
 "clip": "a photo of chicken plov: yellow rice with chicken and carrots on a large plate"
 },
 "722": {
-"prompt": "Food photo of Lazy cabbage rolls: oval meat and rice patties with cabbage baked in tomato sauce, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Lazy cabbage rolls: oval meat and rice patties with cabbage baked in tomato sauce"
+"prompt": "Food photo of lazy golubtsy: oval patties of minced meat mixed with shredded cabbage and rice, baked in tomato and sour cream sauce in a dish, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of oval meat and cabbage patties in tomato sauce",
+"avoid": [
+"whole cabbage leaves rolls"
+]
 },
 "724": {
 "prompt": "Food photo of buckwheat with pieces of pork and onions in a pan, on a wooden table, natural light, appetizing, high detail",
@@ -2071,8 +2095,11 @@
 "clip": "a photo of Oatmeal with apple and cinnamon"
 },
 "768": {
-"prompt": "Food photo of Apple compote, served in a glass, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Apple compote"
+"prompt": "Food photo of a tall glass jug and glass of clear pale golden apple compote drink with apple slices floating, cinnamon stick, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a jug of clear apple compote drink with apple slices",
+"avoid": [
+"jam jar"
+]
 },
 "770": {
 "prompt": "Food photo of Non-alcoholic mulled wine, served in a glass, on a wooden table, natural light, appetizing, high detail",
@@ -2111,8 +2138,11 @@
 "clip": "a photo of Guryev porridge: semolina pudding with nuts and berries in a baking dish"
 },
 "784": {
-"prompt": "Food photo of breaded chicken cutlets with mashed potatoes, served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of breaded chicken cutlets with mashed potatoes"
+"prompt": "Food photo of pozharsky cutlets: oval breaded minced chicken cutlets with crispy golden breadcrumb crust, served with mashed potatoes and butter, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of oval breaded chicken cutlets with mashed potatoes",
+"avoid": [
+"fried chicken pieces"
+]
 },
 "788": {
 "prompt": "Food photo of mug of hot honey drink with spices, served in a glass, on a wooden table, natural light, appetizing, high detail",
@@ -2131,8 +2161,12 @@
 "clip": "a photo of buckwheat with mushrooms in a clay pot"
 },
 "795": {
-"prompt": "Food photo of Tula gingerbread: flat rectangular glazed spice cake with jam filling, cut, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Tula gingerbread: flat rectangular glazed spice cake with jam filling, cut"
+"prompt": "Food photo of Tula pryanik: a flat rectangular Russian gingerbread with a raised embossed pattern and lettering-free ornament on top, white sugar glaze, one piece cut showing thin jam layer inside, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a flat rectangular glazed gingerbread with an embossed pattern",
+"avoid": [
+"bread loaf",
+"cake"
+]
 },
 "796": {
 "prompt": "Food photo of sauerkraut salad with cranberries in a bowl, on a wooden table, natural light, appetizing, high detail",
@@ -2171,8 +2205,12 @@
 "clip": "a photo of Tashkent salad: strips of boiled beef, radish and fried onion, quail egg halves"
 },
 "807": {
-"prompt": "Food photo of chickpeas with boiled lamb and onions on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of chickpeas with boiled lamb and onions on a plate"
+"prompt": "Food photo of nukhat shurak: boiled whole chickpeas tossed with thin raw onion rings, vinegar, ground red pepper and chopped herbs on a plate, Uzbek street food, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of chickpeas with onion rings and herbs",
+"avoid": [
+"meatballs",
+"falafel"
+]
 },
 "808": {
 "prompt": "Food photo of fried lamb and liver pieces with onions in a pan, on a wooden table, natural light, appetizing, high detail",
@@ -2192,32 +2230,51 @@
 "clip": "a photo of Uzbek manti: large steamed dumplings with pumpkin filling, sour cream, on a plate"
 },
 "812": {
-"prompt": "Food photo of Uzbek halvaytar: thick flour and butter halva cream in a bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Uzbek halvaytar: thick flour and butter halva cream in a bowl"
+"prompt": "Food photo of khalvaitar: Uzbek liquid flour halva, smooth thick glossy beige cream of fried flour, butter and sugar in a bowl, walnut pieces on top, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of smooth beige sweet flour cream",
+"avoid": [
+"mashed potatoes"
+]
 },
 "813": {
 "prompt": "Food photo of Tushpara: tiny meat dumplings in clear broth in a bowl with herbs, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Tushpara: tiny meat dumplings in clear broth in a bowl with herbs"
 },
 "814": {
-"prompt": "Food photo of asip: boiled lamb sausage sliced on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of asip: boiled lamb sausage sliced on a plate"
+"prompt": "Food photo of asip: boiled Kazakh sausage made of lamb intestine stuffed with rice, liver and meat, sliced into rounds showing the grey-brown rice filling, on a platter, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of slices of boiled sausage with rice filling",
+"avoid": [
+"grilled sausages",
+"hot dogs"
+]
 },
 "816": {
-"prompt": "Food photo of Kazakh irimshik: dry sweet browned curd pieces in a bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Kazakh irimshik: dry sweet browned curd pieces in a bowl"
+"prompt": "Food photo of irimshik: Kazakh dried sweet curd cheese, crumbly light orange-brown caramel coloured pieces in a wooden bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of crumbly light brown dried curd pieces",
+"avoid": [
+"white feta cubes"
+]
 },
 "817": {
-"prompt": "Food photo of Kazakh kurt: small round dried cheese balls on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Kazakh kurt: small round dried cheese balls on a plate"
+"prompt": "Food photo of kurt: hard dried salty white balls of Kazakh fermented milk cheese, small chalk-white irregular balls in a bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of small hard white cheese balls",
+"avoid": [
+"fried balls",
+"orange balls"
+]
 },
 "818": {
-"prompt": "Food photo of thick honey cream in a bowl with bread, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of thick honey cream in a bowl with bread"
+"prompt": "Food photo of balkaimak: thick heavy cream mixed with honey, glossy pale caramel-yellow thick cream in a small bowl, with baursak fried dough pieces beside, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of thick honey cream in a bowl with fried dough",
+"avoid": [
+"a glass of milk",
+"soup"
+]
 },
 "819": {
-"prompt": "Food photo of lamb stew in a pot covered with a baked dough lid, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of lamb stew in a pot covered with a baked dough lid"
+"prompt": "Food photo of kazanzhappai: lamb and potato stew in a black cast iron kazan covered with a baked golden dough lid, the lid partly cut open showing the stew, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a pot covered with a baked dough lid",
+"avoid": []
 },
 "820": {
 "prompt": "Food photo of homemade horse meat sausage sliced on a board, on a wooden table, natural light, appetizing, high detail",
@@ -2240,8 +2297,11 @@
 "clip": "a photo of Korean-style eggplant salad"
 },
 "830": {
-"prompt": "Food photo of Korean-style cucumbers, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Korean-style cucumbers"
+"prompt": "Food photo of Korean spicy cucumber salad: sliced cucumbers dressed with red chili flakes, garlic, sesame seeds and oil, in a bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of sliced cucumbers in red chili dressing",
+"avoid": [
+"whole cucumbers"
+]
 },
 "835": {
 "prompt": "Food photo of Chicken udon soup, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2308,20 +2368,25 @@
 "clip": "a photo of Pasuts tolma: cabbage leaves stuffed with beans, lentils and chickpeas on a plate"
 },
 "883": {
-"prompt": "Food photo of Armenian kyufta: large smooth boiled beef meatballs sliced, with onions and herbs, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Armenian kyufta: large smooth boiled beef meatballs sliced, with onions and herbs"
+"prompt": "Food photo of Armenian kufta: large smooth pale pink boiled pounded beef meatballs cut into thick slices, garnished with thin raw onion rings and parsley, butter melted on top, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of slices of large smooth pale boiled meatballs with onion",
+"avoid": [
+"fried meatballs"
+]
 },
 "885": {
-"prompt": "Food photo of white yogurt soup with wheat and herbs in a bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of white yogurt soup with wheat and herbs in a bowl"
+"prompt": "Food photo of spas: Armenian hot yogurt soup with wheat grains, smooth white soup with whole wheat grains and dried mint and cilantro, in a bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of white yogurt soup with wheat grains and herbs",
+"avoid": []
 },
 "888": {
 "prompt": "Food photo of flatbread stuffed with green herbs, cut, served on a plate, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of flatbread stuffed with green herbs, cut"
 },
 "889": {
-"prompt": "Food photo of gata: round sweet bread with patterned top, served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of gata: round sweet bread with patterned top"
+"prompt": "Food photo of gata: Armenian sweet bread, a round flat golden glazed cake with a carved decorative pattern on top, cut showing a buttery sweet filling layer, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a round flat glazed sweet bread with a carved pattern",
+"avoid": []
 },
 "890": {
 "prompt": "Food photo of whole grilled trout with lemon, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2376,8 +2441,12 @@
 "clip": "a photo of Zucchini cream soup"
 },
 "907": {
-"prompt": "Food photo of Steamed pumpkin with cinnamon, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Steamed pumpkin with cinnamon"
+"prompt": "Food photo of steamed pumpkin cubes: soft bright orange cubes of steamed pumpkin on a plate, sprinkled with ground cinnamon, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of steamed orange pumpkin cubes with cinnamon",
+"avoid": [
+"a whole pumpkin",
+"cake"
+]
 },
 "908": {
 "prompt": "Food photo of Steamed cottage cheese souffle, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2436,10 +2505,10 @@
 "clip": "a photo of Square slice of cottage cheese casserole with berries on a plate"
 },
 "926": {
-"prompt": "Food photo of whole oven-baked red apples, soft wrinkled skin, cored and filled, sprinkled with cinnamon, in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of baked apples in a baking dish",
+"prompt": "Food photo of whole baked apples: soft wrinkled red apples baked until tender, skin split and slightly collapsed, cored, juices caramelized, sprinkled with cinnamon, in a baking dish, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of soft wrinkled baked apples with cinnamon",
 "avoid": [
-"fresh raw apples"
+"fresh shiny raw apples"
 ]
 },
 "927": {
@@ -2510,28 +2579,42 @@
 "clip": "a photo of Bread and butter pudding"
 },
 "969": {
-"prompt": "Food photo of Tomato and egg drop soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Tomato and egg drop soup"
+"prompt": "Food photo of Chinese egg drop and tomato soup: red tomato broth with silky yellow egg ribbons swirled through, chopped green onion, in a bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of tomato soup with silky egg ribbons",
+"avoid": [
+"boiled egg halves"
+]
 },
 "972": {
 "prompt": "Food photo of Yuxiang eggplant (Sichuan garlic eggplant), served on a plate, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Yuxiang eggplant (Sichuan garlic eggplant)"
 },
 "975": {
-"prompt": "Food photo of Chinese tea eggs, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Chinese tea eggs"
+"prompt": "Food photo of Chinese tea eggs: peeled hard-boiled eggs with a brown marbled crackle pattern on the white, some still in cracked shells, in dark tea broth with star anise, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of marbled brown tea eggs",
+"avoid": [
+"fried eggs",
+"white eggs"
+]
 },
 "977": {
-"prompt": "Food photo of Kuyryk-bauyr (liver with tail fat), served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Kuyryk-bauyr (liver with tail fat)"
+"prompt": "Food photo of kuiryk-bauyr: thin slices of boiled lamb liver arranged with thin white slices of lamb tail fat on a platter, with onion rings, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of slices of liver alternating with white fat slices",
+"avoid": [
+"steak"
+]
 },
 "978": {
 "prompt": "Food photo of Koy basy (boiled lamb's head), served on a plate, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Koy basy (boiled lamb's head)"
 },
 "979": {
-"prompt": "Food photo of Kazakh zhal-zhaya: sliced horse meat delicacy with fat layer on a wooden board, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Kazakh zhal-zhaya: sliced horse meat delicacy with fat layer on a wooden board"
+"prompt": "Food photo of zhal-zhaya: boiled horse meat delicacy, sliced pink-brown meat with a thick layer of white fat, arranged on a wooden board with onion, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of slices of boiled meat with thick white fat",
+"avoid": [
+"raw ham",
+"bacon"
+]
 },
 "980": {
 "prompt": "Food photo of Sur et (salt-cured dried meat), served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2542,8 +2625,12 @@
 "clip": "a photo of Katyrma (crisp fried flatbread)"
 },
 "982": {
-"prompt": "Food photo of Kuyrmash (toasted millet with butter), served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Kuyrmash (toasted millet with butter)"
+"prompt": "Food photo of kuyrmash: a bowl of roasted crunchy golden millet grains mixed with butter and sugar, small white kurt pieces beside, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of roasted golden millet grains",
+"avoid": [
+"a pancake",
+"corn"
+]
 },
 "983": {
 "prompt": "Food photo of Tary kozhe (millet and ayran drink), served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
@@ -2562,8 +2649,12 @@
 "clip": "a photo of glass of white ayran yogurt drink"
 },
 "987": {
-"prompt": "Food photo of roasted flour mixed with butter and honey in a bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of roasted flour mixed with butter and honey in a bowl"
+"prompt": "Food photo of talkan with butter and honey: brown roasted ground millet flour mixed with melted butter and honey into a crumbly brown mass in a bowl, small lumps, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of brown crumbly roasted flour with butter and honey",
+"avoid": [
+"custard",
+"yellow cream"
+]
 },
 "988": {
 "prompt": "Food photo of soup with fried meat and potatoes in a bowl, on a wooden table, natural light, appetizing, high detail",
@@ -2594,8 +2685,12 @@
 "clip": "a photo of thick strained yogurt with herbs in a bowl"
 },
 "995": {
-"prompt": "Food photo of Uzbek yakhna gusht: slices of cold boiled beef with onions and herbs on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Uzbek yakhna gusht: slices of cold boiled beef with onions and herbs on a plate"
+"prompt": "Food photo of yakhna gusht: cold boiled beef sliced thin, arranged on a platter with radish slices, onion rings and fresh herbs, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of slices of cold boiled beef with radish and onion",
+"avoid": [
+"raw meat",
+"stew"
+]
 },
 "997": {
 "prompt": "Food photo of Uzbek parvarda: white pulled sugar candies on a plate with tea, on a wooden table, natural light, appetizing, high detail",
@@ -2658,10 +2753,11 @@
 "clip": "a photo of round baked meat pie cut in wedges"
 },
 "1012": {
-"prompt": "Food photo of a small bowl of smooth plum sauce, with fresh plums, garlic and dill beside it, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of plum sauce in a bowl",
+"prompt": "Food photo of tkemali: Georgian sour plum sauce, thin smooth reddish-brown sauce in a small glass bowl, fresh green and red plums, garlic and dill beside, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of plum sauce in a small bowl with fresh plums",
 "avoid": [
-"a stew"
+"jelly",
+"beetroot"
 ]
 },
 "1013": {
@@ -2669,8 +2765,12 @@
 "clip": "a photo of Georgian adjika: red spicy pepper paste in a small bowl with garlic and herbs"
 },
 "1014": {
-"prompt": "Food photo of Beetroot pkhali, served in a salad bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Beetroot pkhali"
+"prompt": "Food photo of beet pkhali: Georgian appetizer of small round balls of finely minced beetroot with walnut paste, each topped with pomegranate seeds, on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of small beetroot walnut balls with pomegranate seeds",
+"avoid": [
+"beet slices",
+"salad"
+]
 },
 "1015": {
 "prompt": "Food photo of minced meat kebab in lavash with onion, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2717,16 +2817,25 @@
 "clip": "a photo of eggs with tomatoes and walnuts in a pan"
 },
 "1026": {
-"prompt": "Food photo of corn cakes with cheese on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of corn cakes with cheese on a plate"
+"prompt": "Food photo of chvishtari: Georgian cornbread with cheese, thick oval golden corn flour patties with melted sulguni cheese, fried in a pan, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of thick oval fried cornbread patties with cheese",
+"avoid": [
+"pancakes"
+]
 },
 "1027": {
 "prompt": "Food photo of Tarragon lemonade, served in a glass, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Tarragon lemonade"
 },
 "1028": {
-"prompt": "Food photo of Quattro formaggi pizza, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Quattro formaggi pizza"
+"prompt": "Food photo of quattro formaggi pizza: white pizza without tomato sauce, covered with four kinds of melted cheese, mozzarella, gorgonzola with blue veins, parmesan and fontina, golden bubbly spots, on a wooden board, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a white pizza with four melted cheeses",
+"avoid": [
+"pepperoni",
+"olives",
+"anchovies",
+"tomato sauce"
+]
 },
 "1029": {
 "prompt": "Food photo of Pizza capricciosa, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2745,8 +2854,11 @@
 "clip": "a photo of Pappa al pomodoro (tomato bread soup)"
 },
 "1036": {
-"prompt": "Food photo of Stracciatella soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Stracciatella soup"
+"prompt": "Food photo of stracciatella soup: clear golden chicken broth with thin shreds of beaten egg and parmesan, chopped parsley, in a bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of clear broth with egg shreds",
+"avoid": [
+"cream soup"
+]
 },
 "1037": {
 "prompt": "Food photo of Saltimbocca (veal with sage and ham), served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2769,24 +2881,31 @@
 "clip": "a photo of Kimchi bokkeumbap (kimchi fried rice)"
 },
 "1055": {
-"prompt": "Food photo of Miyeokguk (seaweed soup), served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Miyeokguk (seaweed soup)"
+"prompt": "Food photo of miyeokguk: Korean seaweed soup, dark green soft wakame seaweed and small beef pieces in clear brown broth, in a bowl, rice beside, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of seaweed soup with beef",
+"avoid": []
 },
 "1060": {
-"prompt": "Food photo of Galbi-jjim (braised short ribs), served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Galbi-jjim (braised short ribs)"
+"prompt": "Food photo of galbi-jjim: Korean braised beef short ribs on the bone in glossy dark soy sauce with chunks of carrot, radish and chestnuts, in a bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of braised short ribs on the bone with vegetables",
+"avoid": []
 },
 "1066": {
-"prompt": "Food photo of Oi sobagi (stuffed cucumber kimchi), served in a salad bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Oi sobagi (stuffed cucumber kimchi)"
+"prompt": "Food photo of oi-sobagi: Korean stuffed cucumber kimchi, short cucumber pieces cut crosswise and stuffed with red chili, chives and radish filling, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of cucumber pieces stuffed with red spicy filling",
+"avoid": []
 },
 "1067": {
 "prompt": "Food photo of Musaengchae (spicy radish salad), served in a salad bowl, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Musaengchae (spicy radish salad)"
 },
 "1070": {
-"prompt": "Food photo of Gyeran jjim (steamed eggs), served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Gyeran jjim (steamed eggs)"
+"prompt": "Food photo of gyeran-jjim: Korean steamed egg custard, fluffy puffed yellow steamed egg rising over the rim of a small black earthenware pot, chopped green onion on top, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of fluffy steamed egg in a small black pot",
+"avoid": [
+"flan",
+"cheese"
+]
 },
 "1073": {
 "prompt": "Food photo of Hobakjuk (pumpkin porridge), served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2809,8 +2928,9 @@
 "clip": "a photo of Philadelphia sushi rolls with salmon on top and cream cheese, 8 pieces on a board"
 },
 "1084": {
-"prompt": "Food photo of Tekka maki (tuna roll), served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Tekka maki (tuna roll)"
+"prompt": "Food photo of tekkamaki: thin Japanese sushi rolls, nori seaweed outside, white rice ring and a single bright red raw tuna strip in the centre, cut into pieces, with soy sauce and wasabi, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of thin nori rolls with a red tuna centre",
+"avoid": []
 },
 "1093": {
 "prompt": "Food photo of nikujaga: Japanese beef and potato stew in a bowl, on a wooden table, natural light, appetizing, high detail",
@@ -2837,8 +2957,11 @@
 "clip": "a photo of Salted edamame"
 },
 "1107": {
-"prompt": "Food photo of Cucumber sunomono, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Cucumber sunomono"
+"prompt": "Food photo of sunomono: Japanese cucumber salad, very thin cucumber slices with wakame seaweed in rice vinegar dressing, sesame seeds, in a small bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of thin cucumber slices with seaweed in a small bowl",
+"avoid": [
+"whole cucumbers"
+]
 },
 "1109": {
 "prompt": "Food photo of Strawberry daifuku, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2873,8 +2996,11 @@
 "clip": "a photo of Sehriyeli pilav (rice with vermicelli)"
 },
 "1120": {
-"prompt": "Food photo of Hunkar begendi (lamb on smoky eggplant puree), served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Hunkar begendi (lamb on smoky eggplant puree)"
+"prompt": "Food photo of hunkar begendi: tender lamb stew in tomato sauce served on a bed of smooth creamy white smoked eggplant puree with cheese, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of lamb stew on creamy white eggplant puree",
+"avoid": [
+"orange puree"
+]
 },
 "1121": {
 "prompt": "Food photo of Tavuk sote (chicken sauté), served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2906,8 +3032,12 @@
 "clip": "a photo of boat-shaped pide bread with cheese and egg"
 },
 "1131": {
-"prompt": "Food photo of oval fried bulgur shells stuffed with meat, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of oval fried bulgur shells stuffed with meat"
+"prompt": "Food photo of ichli kofte: oval football-shaped bulgur shells stuffed with minced meat and walnuts, deep-fried dark golden brown, on a plate with lemon and parsley, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of fried oval bulgur balls",
+"avoid": [
+"tarts",
+"cupcakes"
+]
 },
 "1132": {
 "prompt": "Food photo of Biber dolmasi (rice-stuffed peppers), served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2922,16 +3052,22 @@
 "clip": "a photo of zucchini fritters with yogurt dip"
 },
 "1140": {
-"prompt": "Food photo of kunefe: shredded pastry with melted cheese and syrup, pistachios, served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of kunefe: shredded pastry with melted cheese and syrup, pistachios"
+"prompt": "Food photo of kunefe: Turkish dessert of golden crispy shredded kadayif pastry threads with melted stretchy cheese inside, soaked in syrup, topped with green ground pistachios, in a round metal plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of golden shredded pastry dessert with green pistachios",
+"avoid": [
+"a cake"
+]
 },
 "1141": {
 "prompt": "Food photo of Revani: semolina sponge cake soaked in syrup, cut into squares, served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Revani: semolina sponge cake soaked in syrup, cut into squares"
 },
 "1142": {
-"prompt": "Food photo of asure pudding with nuts, dried fruit and pomegranate in a bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of asure pudding with nuts, dried fruit and pomegranate in a bowl"
+"prompt": "Food photo of ashure: Turkish Noah's pudding, thick beige pudding of wheat grains, chickpeas and beans in a bowl, topped with pomegranate seeds, chopped walnuts, dried apricots and cinnamon, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of thick grain pudding topped with pomegranate seeds and nuts",
+"avoid": [
+"fruit compote"
+]
 },
 "1144": {
 "prompt": "Food photo of glass of foamy white ayran drink, served in a glass, on a wooden table, natural light, appetizing, high detail",
@@ -2949,16 +3085,21 @@
 ]
 },
 "1147": {
-"prompt": "Food photo of Akhtamar tolma (stuffed quince and apples), served in a baking dish, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Akhtamar tolma (stuffed quince and apples)"
+"prompt": "Food photo of akhtamar tolma: quinces and apples hollowed out and stuffed with rice, minced meat and dried fruit, baked, in a baking dish, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of baked stuffed quinces and apples",
+"avoid": []
 },
 "1148": {
-"prompt": "Food photo of fried meat dumplings in broth with yogurt, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of fried meat dumplings in broth with yogurt"
+"prompt": "Food photo of boraki: Armenian fried rolled pastries, cylinder-shaped dough tubes filled with minced meat, deep-fried golden, with yogurt sauce, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of fried golden cylinder pastries with meat",
+"avoid": [
+"dumplings in sauce"
+]
 },
 "1149": {
-"prompt": "Food photo of baked small dumplings in broth with yogurt in a bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of baked small dumplings in broth with yogurt in a bowl"
+"prompt": "Food photo of mantapur: Armenian soup with small baked boat-shaped dumplings in broth with chickpeas and yogurt, in a bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of soup with small baked dumplings",
+"avoid": []
 },
 "1150": {
 "prompt": "Food photo of bean soup with dried fruit in a bowl, on a wooden table, natural light, appetizing, high detail",
@@ -3006,8 +3147,9 @@
 "clip": "a photo of Armenian tapaka: flattened fried whole chicken with crispy skin in a pan"
 },
 "1160": {
-"prompt": "Food photo of Ishli kufta: fried bulgur shells stuffed with meat, oval shape, on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Ishli kufta: fried bulgur shells stuffed with meat, oval shape, on a plate"
+"prompt": "Food photo of ishli kufta: oval football-shaped bulgur shells stuffed with minced meat, deep-fried golden brown, several on a plate with lemon, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of fried oval bulgur balls stuffed with meat",
+"avoid": []
 },
 "1161": {
 "prompt": "Food photo of small oval bulgur and herb patties with lettuce, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -3018,8 +3160,11 @@
 "clip": "a photo of eggplant, pepper and tomato stew in a pan"
 },
 "1163": {
-"prompt": "Food photo of fried homemade noodles in a pan, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of fried homemade noodles in a pan"
+"prompt": "Food photo of arishta: Armenian homemade noodles fried golden brown in butter, crispy short noodles in a pan, topped with yogurt and garlic, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of golden fried short homemade noodles",
+"avoid": [
+"spaghetti"
+]
 },
 "1164": {
 "prompt": "Food photo of Shirin pilaf (rice with meat and carrots) (rice with dried fruit), served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -3042,16 +3187,25 @@
 "clip": "a photo of diamond-shaped layered walnut baklava"
 },
 "1170": {
-"prompt": "Food photo of Armenian nazuk: sweet rolled pastry slices with flaky layers on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Armenian nazuk: sweet rolled pastry slices with flaky layers on a plate"
+"prompt": "Food photo of nazuk: Armenian sweet pastry, rectangular slices of rolled flaky golden dough log with a sweet buttery filling, glossy yellow top, on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of rectangular slices of golden sweet pastry roll",
+"avoid": []
 },
 "1171": {
-"prompt": "Food photo of Alani (dried apricots stuffed with nuts), served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Alani (dried apricots stuffed with nuts)"
+"prompt": "Food photo of alani: dried apricots stuffed with crushed walnuts and sugar, dark orange dried apricots with walnut filling showing, on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of dried apricots stuffed with walnuts",
+"avoid": [
+"fresh apricots",
+"oranges"
+]
 },
 "1172": {
-"prompt": "Food photo of dark grape and walnut candy slices, served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of dark grape and walnut candy slices"
+"prompt": "Food photo of sharots: Armenian candy of walnuts threaded on a string and dipped in thick grape juice jelly, long dark purple-brown sausage-shaped sweets, sliced to show walnuts, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of long dark grape candy with walnuts inside, sliced",
+"avoid": [
+"cake",
+"layered dessert"
+]
 },
 "1174": {
 "prompt": "Food photo of small cup of black coffee, served in a glass, on a wooden table, natural light, appetizing, high detail",
@@ -3142,8 +3296,9 @@
 "clip": "a photo of Crêpes Suzette"
 },
 "1205": {
-"prompt": "Food photo of Île flottante (floating islands), served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Île flottante (floating islands)"
+"prompt": "Food photo of ile flottante: soft white poached meringue clouds floating on pale yellow vanilla custard cream in a shallow bowl, drizzled with golden caramel, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of white meringue clouds floating on yellow custard",
+"avoid": []
 },
 "1208": {
 "prompt": "Food photo of Toad in the hole: sausages baked in Yorkshire pudding batter in a dish, on a wooden table, natural light, appetizing, high detail",
@@ -3254,8 +3409,11 @@
 "clip": "a photo of Stir-fried napa cabbage"
 },
 "1256": {
-"prompt": "Food photo of Smashed cucumber salad, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Smashed cucumber salad"
+"prompt": "Food photo of pai huang gua: Chinese smashed cucumber salad, irregular smashed cucumber chunks with garlic, chili oil and black vinegar, in a bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of smashed cucumber chunks in chili oil",
+"avoid": [
+"neat cucumber slices"
+]
 },
 "1259": {
 "prompt": "Food photo of Chicken and sweetcorn soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
@@ -3274,8 +3432,11 @@
 "clip": "a photo of pan-fried potstickers with crispy bottoms"
 },
 "1274": {
-"prompt": "Food photo of Steamed turkey with broccoli, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Steamed turkey with broccoli"
+"prompt": "Food photo of steamed turkey breast slices with steamed broccoli florets on a plate, pale moist turkey slices, no crust, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of steamed turkey slices with broccoli",
+"avoid": [
+"a whole roasted bird"
+]
 },
 "1275": {
 "prompt": "Food photo of Steamed chicken and spinach rolls, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -3318,8 +3479,9 @@
 "clip": "a photo of Steamed cauliflower with egg"
 },
 "1288": {
-"prompt": "Food photo of Steamed sweet potato with cinnamon, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Steamed sweet potato with cinnamon"
+"prompt": "Food photo of steamed sweet potato chunks, soft orange pieces sprinkled with cinnamon on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of steamed orange sweet potato pieces with cinnamon",
+"avoid": []
 },
 "1289": {
 "prompt": "Food photo of Chicken and buckwheat soup, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
@@ -3390,8 +3552,12 @@
 "clip": "a photo of chicken in dark brown mole sauce with sesame seeds"
 },
 "1332": {
-"prompt": "Food photo of thick corn cakes topped with beans, meat, lettuce and cheese, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of thick corn cakes topped with beans, meat, lettuce and cheese"
+"prompt": "Food photo of sopes: thick small round corn masa cakes with pinched raised edges, topped with refried beans, shredded meat, lettuce, crumbled white cheese and salsa, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of thick corn cakes with raised edges and toppings",
+"avoid": [
+"pancakes",
+"burger"
+]
 },
 "1333": {
 "prompt": "Food photo of Chicken tostadas, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -3402,8 +3568,12 @@
 "clip": "a photo of huevos rancheros: fried eggs on tortillas with salsa"
 },
 "1336": {
-"prompt": "Food photo of Huevos a la mexicana, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Huevos a la mexicana"
+"prompt": "Food photo of huevos a la mexicana: soft scrambled eggs mixed with diced tomato, white onion and green jalapeno chili, in a pan, corn tortillas beside, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of scrambled eggs with tomato, onion and green chili",
+"avoid": [
+"fried eggs",
+"sunny side up"
+]
 },
 "1338": {
 "prompt": "Food photo of Camarones a la diabla (spicy prawns), served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -3422,8 +3592,11 @@
 "clip": "a photo of melted cheese dip in a bowl with tortilla chips"
 },
 "1349": {
-"prompt": "Food photo of Tres leches cake, served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Tres leches cake"
+"prompt": "Food photo of tres leches cake: a square slice of white sponge cake soaked in milk, topped with whipped cream and a sprinkle of cinnamon, milk pooling on the plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a milk soaked sponge cake slice with whipped cream",
+"avoid": [
+"text"
+]
 },
 "1350": {
 "prompt": "Food photo of Arroz con leche (cinnamon rice pudding), served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
@@ -3458,16 +3631,22 @@
 "clip": "a photo of grilled glazed chicken pieces"
 },
 "1361": {
-"prompt": "Food photo of musubi: rice blocks topped with grilled ham, wrapped in nori, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of musubi: rice blocks topped with grilled ham, wrapped in nori"
+"prompt": "Food photo of spam musubi: rectangular blocks of white rice topped with a slice of grilled glossy spam, wrapped with a band of nori seaweed around the middle, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of rectangular rice blocks with a spam slice and nori band",
+"avoid": [
+"sushi rolls"
+]
 },
 "1362": {
 "prompt": "Food photo of Hawaiian garlic shrimp, served on a plate, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Hawaiian garlic shrimp"
 },
 "1363": {
-"prompt": "Food photo of Lomi lomi salmon, served in a salad bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Lomi lomi salmon"
+"prompt": "Food photo of lomi-lomi salmon: Hawaiian side dish of small diced raw salted salmon cubes mixed with diced tomatoes and green onion, in a bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of diced salmon with tomato and green onion in a bowl",
+"avoid": [
+"salmon fillet"
+]
 },
 "1364": {
 "prompt": "Food photo of chicken soup with clear glass noodles in a bowl, on a wooden table, natural light, appetizing, high detail",
@@ -3586,8 +3765,9 @@
 "clip": "a photo of steamed dumplings with beef filling on a plate"
 },
 "1405": {
-"prompt": "Food photo of khuushuur: flat fried half-moon meat pies, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of khuushuur: flat fried half-moon meat pies"
+"prompt": "Food photo of khuushuur: Mongolian large flat half-moon fried meat pastries with crimped edge, golden deep-fried, several on a plate, one cut showing minced mutton, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of flat half-moon fried meat pastries",
+"avoid": []
 },
 "1406": {
 "prompt": "Food photo of flat fried half-moon meat pies, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -3622,20 +3802,28 @@
 "clip": "a photo of bowl of milky tea"
 },
 "1414": {
-"prompt": "Food photo of Mongolian aaruul: dried curd cheese pieces on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Mongolian aaruul: dried curd cheese pieces on a plate"
+"prompt": "Food photo of aaruul: Mongolian dried curds, small hard pale yellow-white pieces with pressed patterns and irregular shapes on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of hard dried curd pieces",
+"avoid": []
 },
 "1415": {
-"prompt": "Food photo of boortsog: fried dough biscuits in a bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of boortsog: fried dough biscuits in a bowl"
+"prompt": "Food photo of boortsog: Mongolian fried dough cookies, small flat rectangular and diamond shaped golden fried dough pieces in a bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of small flat fried dough pieces",
+"avoid": [
+"round bread rolls"
+]
 },
 "1417": {
 "prompt": "Food photo of Niislel salad (Mongolian potato salad), served in a salad bowl, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Niislel salad (Mongolian potato salad)"
 },
 "1418": {
-"prompt": "Food photo of large pieces of boiled mutton on a platter, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of large pieces of boiled mutton on a platter"
+"prompt": "Food photo of chanasan makh: boiled mutton on the bone, large grey-brown boiled pieces of lamb with fat and ribs, with boiled potatoes and carrots on a platter, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of large boiled mutton pieces on the bone",
+"avoid": [
+"raw meat",
+"ham"
+]
 },
 "1419": {
 "prompt": "Food photo of mutton and potato soup in a bowl, on a wooden table, natural light, appetizing, high detail",
@@ -3662,40 +3850,54 @@
 "clip": "a photo of fried meat with onion on a plate"
 },
 "1426": {
-"prompt": "Food photo of fried liver pieces with onions, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of fried liver pieces with onions"
+"prompt": "Food photo of khonin eleg: fried lamb liver pieces with small white cubes of tail fat and onion in a pan, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of fried liver pieces with fat and onion",
+"avoid": []
 },
 "1427": {
-"prompt": "Food photo of steamed meat pieces on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of steamed meat pieces on a plate"
+"prompt": "Food photo of zhignesen makh: steamed mutton, grey-brown tender steamed lamb pieces on a plate with steamed potato and carrot, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of steamed lamb pieces with vegetables",
+"avoid": [
+"raw meat",
+"ham"
+]
 },
 "1428": {
 "prompt": "Food photo of Mongolian goulash with rice, served on a plate, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Mongolian goulash with rice"
 },
 "1429": {
-"prompt": "Food photo of Mongolian meat patties with potatoes, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Mongolian meat patties with potatoes"
+"prompt": "Food photo of Mongolian meat patties with boiled potatoes, flat fried minced mutton patties next to boiled potatoes on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of fried meat patties with potatoes",
+"avoid": []
 },
 "1430": {
 "prompt": "Food photo of Mongolian-style beef with spring onion, served on a plate, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of Mongolian-style beef with spring onion"
 },
 "1431": {
-"prompt": "Food photo of boov: flat rectangular Mongolian biscuits stacked, served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of boov: flat rectangular Mongolian biscuits stacked"
+"prompt": "Food photo of boov: Mongolian festive biscuits, flat rectangular pale cookies with pressed patterns on top, stacked in layers, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of flat stacked patterned cookies",
+"avoid": []
 },
 "1432": {
-"prompt": "Food photo of thick clotted cream in a bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of thick clotted cream in a bowl"
+"prompt": "Food photo of urum: Mongolian clotted cream, thick yellowish skin of boiled milk folded on a plate, with sugar, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of thick yellow clotted cream skin",
+"avoid": [
+"mashed potatoes"
+]
 },
 "1434": {
 "prompt": "Food photo of glass of white curd drink, served in a glass, on a wooden table, natural light, appetizing, high detail",
 "clip": "a photo of glass of white curd drink"
 },
 "1435": {
-"prompt": "Food photo of flat fried half-moon pies with potato filling, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of flat fried half-moon pies with potato filling"
+"prompt": "Food photo of khuushuur with potato: flat half-moon fried pastries with crimped edge, cut open showing mashed potato filling, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of half-moon fried pastries with potato filling",
+"avoid": [
+"tarts",
+"muffins"
+]
 },
 "1436": {
 "prompt": "Food photo of steamed dumplings with chicken filling on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -3714,14 +3916,19 @@
 "clip": "a photo of Mongolian meatball soup"
 },
 "1442": {
-"prompt": "Food photo of Mongolian baked meat pies, golden buns on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Mongolian baked meat pies, golden buns on a plate"
+"prompt": "Food photo of Mongolian baked meat pies: oval golden baked yeast dough pies with minced meat filling, one cut open, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of baked oval meat pies, one cut",
+"avoid": [
+"burger buns"
+]
 },
 "1443": {
-"prompt": "Food photo of slices of boiled horse meat, cooked brown-grey meat with onion rings and broth, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of boiled meat slices",
+"prompt": "Food photo of Mongolian boiled horse meat: large grey-brown boiled horse meat pieces with fat, on a platter with onion, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of boiled meat pieces with fat",
 "avoid": [
-"raw meat"
+"raw beef",
+"ham",
+"tongue"
 ]
 },
 "1444": {
@@ -3761,8 +3968,9 @@
 "clip": "a photo of stuffed eggplant, peppers and tomatoes in a pan"
 },
 "1454": {
-"prompt": "Food photo of tiny dumplings in clear broth in a bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of tiny dumplings in clear broth in a bowl"
+"prompt": "Food photo of dushbara: soup of very many tiny dumplings in clear lamb broth, the bowl full of tiny dumplings, sprinkled with dried mint, vinegar with garlic beside, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of clear broth full of tiny dumplings",
+"avoid": []
 },
 "1455": {
 "prompt": "Food photo of piti: lamb and chickpea soup in a clay pot, on a wooden table, natural light, appetizing, high detail",
@@ -3846,20 +4054,31 @@
 "clip": "a photo of eggplant with tomatoes and eggs in a pan"
 },
 "1476": {
-"prompt": "Food photo of Baku pakhlava: diamond-shaped layered nut pastry with almond on top, served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Baku pakhlava: diamond-shaped layered nut pastry with almond on top"
+"prompt": "Food photo of Baku pakhlava: diamond-shaped pieces of layered nut pastry with dark red saffron glazed top and a walnut half on each piece, on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of diamond-shaped baklava pieces with red tops and walnuts",
+"avoid": [
+"cake slice"
+]
 },
 "1477": {
-"prompt": "Food photo of shekerbura: crescent-shaped pastries with braided pattern, served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of shekerbura: crescent-shaped pastries with braided pattern"
+"prompt": "Food photo of shekerbura: small half-moon sweet pastries with crimped braided pattern on top, filled with ground nuts, pale golden, several on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of half-moon pastries with braided pattern",
+"avoid": [
+"croissant"
+]
 },
 "1478": {
-"prompt": "Food photo of round layered spiced buns, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of round layered spiced buns"
+"prompt": "Food photo of gogal: round flaky golden pastry buns with turmeric and fennel seeds, spiral layers visible, sprinkled with sesame, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of round flaky spiral layered buns",
+"avoid": [
+"chocolate",
+"burger"
+]
 },
 "1479": {
-"prompt": "Food photo of small almond-filled pastries, served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of small almond-filled pastries"
+"prompt": "Food photo of badambura: small oval flaky pastries filled with ground almonds, dusted with powdered sugar, on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of small flaky pastries dusted with powdered sugar",
+"avoid": []
 },
 "1482": {
 "prompt": "Food photo of cold yogurt soup with cucumber and herbs, served in a deep bowl, on a wooden table, natural light, appetizing, high detail",
@@ -3878,8 +4097,12 @@
 "clip": "a photo of pleated dumplings fried on a plate"
 },
 "1486": {
-"prompt": "Food photo of Azerbaijani khingal: square noodle pieces with fried minced meat and yogurt, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Azerbaijani khingal: square noodle pieces with fried minced meat and yogurt"
+"prompt": "Food photo of khingal: Azerbaijani dish of square flat pieces of boiled dough layered with fried minced meat and onion, topped with garlic yogurt sauce, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of square flat pieces of boiled dough with minced meat and yogurt",
+"avoid": [
+"spaghetti",
+"noodles"
+]
 },
 "1487": {
 "prompt": "Food photo of saffron rice pilaf with chicken, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -3894,16 +4117,22 @@
 "clip": "a photo of diamond-shaped walnut baklava"
 },
 "1490": {
-"prompt": "Food photo of round butter cookies, served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of round butter cookies"
+"prompt": "Food photo of shekerchurek: round shortbread cookies with a small cracked dome top, pale cream colour, on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of round pale shortbread cookies",
+"avoid": []
 },
 "1491": {
-"prompt": "Food photo of Bowl of thick clotted cream gaymag with honey poured on top, served on a plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Bowl of thick clotted cream gaymag with honey poured on top"
+"prompt": "Food photo of gaymak with honey: thick clotted cream in a small bowl with honey poured over, bread beside, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of clotted cream with honey in a bowl",
+"avoid": [
+"a meringue",
+"ice cream"
+]
 },
 "1492": {
-"prompt": "Food photo of brown flour halva in a bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of brown flour halva in a bowl"
+"prompt": "Food photo of unu halvasi: Azerbaijani flour halva, brown crumbly sweet mass of roasted flour, butter and sugar shaped into small pieces in a bowl, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of brown crumbly flour halva",
+"avoid": []
 },
 "1494": {
 "prompt": "Food photo of glass of tea with thyme sprig, served in a glass, on a wooden table, natural light, appetizing, high detail",
@@ -3942,8 +4171,11 @@
 "clip": "a photo of Avgolemono (egg-lemon chicken soup)"
 },
 "1511": {
-"prompt": "Food photo of Greek fava: smooth yellow split pea puree with olive oil, capers and red onion, served in a salad bowl, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of Greek fava: smooth yellow split pea puree with olive oil, capers and red onion"
+"prompt": "Food photo of Greek fava: smooth creamy yellow split pea puree spread on a plate, topped with olive oil, red onion rings and capers, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of smooth yellow split pea puree with onion and capers",
+"avoid": [
+"chunky stew"
+]
 },
 "1513": {
 "prompt": "Food photo of fried cheese slice with lemon, served on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -3998,11 +4230,16 @@
 "clip": "a photo of small honey-glazed doughnut balls"
 },
 "1536": {
-"prompt": "Food photo of oval honey cookies with walnuts, served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of oval honey cookies with walnuts"
+"prompt": "Food photo of melomakarona: oval Greek honey cookies soaked in honey syrup, sprinkled with crushed walnuts, glossy brown, on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of oval honey cookies sprinkled with walnuts",
+"avoid": []
 },
 "1539": {
-"prompt": "Food photo of twisted butter cookies, served on a dessert plate, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of twisted butter cookies"
+"prompt": "Food photo of koulourakia: Greek Easter butter cookies twisted into braids and S-shapes, shiny golden egg-washed, sprinkled with sesame, on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of twisted braided golden cookies",
+"avoid": [
+"pancakes",
+"stack"
+]
 }
 }
