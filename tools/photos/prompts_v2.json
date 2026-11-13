@@ -2277,14 +2277,15 @@
 "avoid": []
 },
 "820": {
-"prompt": "Food photo of sliced boiled homemade sausage, round slices with a dark brown cooked meat and many large white fat pieces inside like a mosaic, a thick sausage link in brown natural casing beside, on a wooden board with onion, rustic wooden table, warm light, high detail",
-"clip": "a photo of sausage slices with dark brown meat and white fat pieces",
+"prompt": "Food photo of Kazakh shuzhuk horse sausage: thick oval diagonal slices fanned out overlapping on a white plate, each slice has a thin pale grey-beige translucent natural casing ring around the edge, inside coarse large chunks of very dark brown almost black boiled horse meat with pale yellowish translucent pieces of fat between them, cooked, matte, not pink, close-up, soft daylight, high detail",
+"clip": "a photo of oval sausage slices with very dark brown meat chunks and yellowish fat in a thin casing on a white plate",
 "avoid": [
 "pink meat",
 "red meat",
 "raw meat",
 "ham",
-"roast beef"
+"salami",
+"smooth sausage"
 ]
 },
 "821": {
