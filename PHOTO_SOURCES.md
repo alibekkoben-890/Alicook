@@ -390,7 +390,7 @@
 | photos/ai_817.webp | Құрт домашний | https://huggingface.co/ByteDance/SDXL-Lightning | нейросеть SDXL-Lightning (ByteDance) на базе Stable Diffusion XL | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_818.webp | Балқаймақ | https://huggingface.co/ByteDance/SDXL-Lightning | нейросеть SDXL-Lightning (ByteDance) на базе Stable Diffusion XL | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_819.webp | Қазанжаппай | https://huggingface.co/ByteDance/SDXL-Lightning | нейросеть SDXL-Lightning (ByteDance) на базе Stable Diffusion XL | сгенерировано ИИ, условия модели на странице модели |
-| photos/ai_820.webp | Шұжық домашний | https://huggingface.co/ByteDance/SDXL-Lightning | нейросеть SDXL-Lightning (ByteDance) на базе Stable Diffusion XL | сгенерировано ИИ, условия модели на странице модели |
+| photos/820.webp | Шұжық домашний | https://commons.wikimedia.org/wiki/File:Horsemeat_platter.jpg | Sara Yeomans | CC BY 2.0 |
 | photos/ai_821.webp | Қазақша палау с сухофруктами | https://huggingface.co/ByteDance/SDXL-Lightning | нейросеть SDXL-Lightning (ByteDance) на базе Stable Diffusion XL | сгенерировано ИИ, условия модели на странице модели |
 | photos/ai_822.webp | Шалап | https://huggingface.co/ByteDance/SDXL-Lightning | нейросеть SDXL-Lightning (ByteDance) на базе Stable Diffusion XL | сгенерировано ИИ, условия модели на странице модели |
 | photos/xa3b1e91ea0f1.webp | Хе из рыбы | https://pixabay.com/photos/food-dining-korean-korean-food-1358238/ | Lisy_ | Pixabay Content License |
