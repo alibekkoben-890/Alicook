@@ -4241,5 +4241,185 @@
 "pancakes",
 "stack"
 ]
+},
+"1542": {
+"prompt": "Food photo of a bowl of finely shredded white cabbage salad with grated carrot and apple strips, dill, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of finely shredded white cabbage salad with grated carrot and apple strips",
+"avoid": []
+},
+"1543": {
+"prompt": "Food photo of pale steamed chicken patties with green zucchini flecks on a plate with fresh cucumber slices, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pale steamed chicken patties with green zucchini flecks on a plate with fresh cucumber slices",
+"avoid": []
+},
+"1544": {
+"prompt": "Food photo of pieces of baked turkey breast with broccoli and cauliflower florets in a baking dish, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pieces of baked turkey breast with broccoli and cauliflower florets in a baking dish",
+"avoid": []
+},
+"1545": {
+"prompt": "Food photo of a bowl of smooth bright orange pumpkin cream soup sprinkled with sesame seeds, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of smooth bright orange pumpkin cream soup sprinkled with sesame seeds",
+"avoid": []
+},
+"1546": {
+"prompt": "Food photo of a plate of cooked pearl barley mixed with fried mushrooms and onion, parsley, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a plate of cooked pearl barley mixed with fried mushrooms and onion",
+"avoid": []
+},
+"1547": {
+"prompt": "Food photo of pale white steamed fish cakes with dill and a lemon wedge on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of pale white steamed fish cakes with dill and a lemon wedge on a plate",
+"avoid": []
+},
+"1548": {
+"prompt": "Food photo of a bowl of salad with sliced cucumber, pink radish, chopped boiled egg and yogurt dressing, dill, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of salad with sliced cucumber",
+"avoid": []
+},
+"1549": {
+"prompt": "Food photo of a deep plate of beef chunks stewed with zucchini, bell pepper, carrot and tomato, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a deep plate of beef chunks stewed with zucchini",
+"avoid": []
+},
+"1550": {
+"prompt": "Food photo of a fluffy baked omelette with green spinach and white feta in a baking dish, a square portion cut, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a fluffy baked omelette with green spinach and white feta in a baking dish",
+"avoid": []
+},
+"1551": {
+"prompt": "Food photo of a bowl of thick orange red lentil soup with a lemon wedge, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of thick orange red lentil soup with a lemon wedge",
+"avoid": []
+},
+"1552": {
+"prompt": "Food photo of baked salmon fillet with lemon slices and green beans in a baking dish, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of baked salmon fillet with lemon slices and green beans in a baking dish",
+"avoid": []
+},
+"1553": {
+"prompt": "Food photo of a bowl of white cottage cheese mixed with diced cucumber, dill and green onion, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of white cottage cheese mixed with diced cucumber",
+"avoid": []
+},
+"1554": {
+"prompt": "Food photo of a plate of bulgur with chicken pieces, bell pepper and zucchini, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a plate of bulgur with chicken pieces",
+"avoid": []
+},
+"1555": {
+"prompt": "Food photo of turkey meatballs in red tomato sauce in a pan with basil, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of turkey meatballs in red tomato sauce in a pan with basil",
+"avoid": []
+},
+"1556": {
+"prompt": "Food photo of a bowl of grated dark red beet salad with walnuts and yogurt, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of grated dark red beet salad with walnuts and yogurt",
+"avoid": []
+},
+"1557": {
+"prompt": "Food photo of a bowl of cabbage soup with chicken pieces, carrot and dill, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of cabbage soup with chicken pieces",
+"avoid": []
+},
+"1558": {
+"prompt": "Food photo of golden zucchini fritters on a plate with yogurt dip and dill, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of golden zucchini fritters on a plate with yogurt dip and dill",
+"avoid": []
+},
+"1559": {
+"prompt": "Food photo of buckwheat with fried mushrooms and boiled egg halves on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of buckwheat with fried mushrooms and boiled egg halves on a plate",
+"avoid": []
+},
+"1560": {
+"prompt": "Food photo of chicken thighs stewed with eggplant and tomato in a pan, coriander, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of chicken thighs stewed with eggplant and tomato in a pan",
+"avoid": []
+},
+"1561": {
+"prompt": "Food photo of a folded oat pancake filled with white cottage cheese and green herbs, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a folded oat pancake filled with white cottage cheese and green herbs",
+"avoid": []
+},
+"1562": {
+"prompt": "Food photo of a salad of sliced chicken breast, avocado, cherry tomatoes and spinach leaves, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a salad of sliced chicken breast",
+"avoid": []
+},
+"1563": {
+"prompt": "Food photo of white fish fillets baked with carrot, zucchini and lemon on opened foil, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of white fish fillets baked with carrot",
+"avoid": []
+},
+"1564": {
+"prompt": "Food photo of a bowl of clear soup with small turkey meatballs, carrot and herbs, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of clear soup with small turkey meatballs",
+"avoid": []
+},
+"1565": {
+"prompt": "Food photo of broccoli florets set in egg with melted cheese in a frying pan, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of broccoli florets set in egg with melted cheese in a frying pan",
+"avoid": []
+},
+"1566": {
+"prompt": "Food photo of a plate of brown rice with chicken pieces, green peas, carrot and pepper, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a plate of brown rice with chicken pieces",
+"avoid": []
+},
+"1567": {
+"prompt": "Food photo of baked orange pumpkin cubes topped with cottage cheese, walnuts and cinnamon in a dish, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of baked orange pumpkin cubes topped with cottage cheese",
+"avoid": []
+},
+"1568": {
+"prompt": "Food photo of stir-fried thin beef strips with green beans in a pan, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of stir-fried thin beef strips with green beans in a pan",
+"avoid": []
+},
+"1569": {
+"prompt": "Food photo of a bowl of cold white kefir soup with diced cucumber, radish, egg, chicken and green herbs, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of cold white kefir soup with diced cucumber",
+"avoid": []
+},
+"1570": {
+"prompt": "Food photo of bell peppers stuffed with minced turkey in tomato sauce in a pot, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of bell peppers stuffed with minced turkey in tomato sauce in a pot",
+"avoid": []
+},
+"1571": {
+"prompt": "Food photo of a bowl of chickpea salad with diced cucumber, tomato, red onion and parsley, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a bowl of chickpea salad with diced cucumber",
+"avoid": []
+},
+"1572": {
+"prompt": "Food photo of a glass with layers of white yogurt, fresh berries and toasted oats, walnuts on top, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a glass with layers of white yogurt",
+"avoid": []
+},
+"1573": {
+"prompt": "Food photo of chicken breast pieces with sliced mushrooms in a creamy white yogurt sauce in a pan, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of chicken breast pieces with sliced mushrooms in a creamy white yogurt sauce in a pan",
+"avoid": []
+},
+"1574": {
+"prompt": "Food photo of cauliflower florets baked with golden melted cheese in a baking dish, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of cauliflower florets baked with golden melted cheese in a baking dish",
+"avoid": []
+},
+"1575": {
+"prompt": "Food photo of orange carrot patties on a plate with yogurt and herbs, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of orange carrot patties on a plate with yogurt and herbs",
+"avoid": []
+},
+"1576": {
+"prompt": "Food photo of a steamed salmon fillet with bright green broccoli on a plate, dill and lemon, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of a steamed salmon fillet with bright green broccoli on a plate",
+"avoid": []
+},
+"1577": {
+"prompt": "Food photo of steamed beef patties with stewed cabbage on a plate, on a wooden table, natural light, appetizing, high detail",
+"clip": "a photo of steamed beef patties with stewed cabbage on a plate",
+"avoid": []
 }
 }
