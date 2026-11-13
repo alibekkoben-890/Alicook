@@ -59,6 +59,13 @@ with torch.no_grad():
         emb[rid] = (pe, pp)
 pipe.text_encoder = pipe.text_encoder_2 = None
 gc.collect()
+init_imgs = cfg.get("init", {})  # optional colour/layout sketch per dish (img2img)
+strength = float(cfg.get("strength", 0.75))
+i2i = None
+if any(rid in init_imgs for rid in ids):
+    from diffusers import StableDiffusionXLImg2ImgPipeline
+    i2i = StableDiffusionXLImg2ImgPipeline(**pipe.components)
+    i2i.set_progress_bar_config(disable=True)
 
 for rid in ids:
     t = time.time()
@@ -66,11 +73,16 @@ for rid in ids:
     for k in range(n_cand):
         g = torch.Generator("cpu").manual_seed(int(rid) * 7919 + int(cfg.get("seed_offset", 0)) + k)
         with torch.no_grad():
-            im = pipe(prompt_embeds=pe, pooled_prompt_embeds=pp, num_inference_steps=steps, guidance_scale=0.0,
-                      width=size, height=size, generator=g).images[0]
+            if rid in init_imgs:
+                init = Image.open(init_imgs[rid]).convert("RGB").resize((size, size))
+                im = i2i(prompt_embeds=pe, pooled_prompt_embeds=pp, image=init, strength=strength,
+                         num_inference_steps=int(round(steps / strength)), guidance_scale=0.0, generator=g).images[0]
+            else:
+                im = pipe(prompt_embeds=pe, pooled_prompt_embeds=pp, num_inference_steps=steps, guidance_scale=0.0,
+                          width=size, height=size, generator=g).images[0]
         im.convert("RGB").save(f"work/{rid}_{k}.png")
     print(rid, "drawn", n_cand, "in", round(time.time() - t, 1), "s", flush=True)
-del pipe, unet, emb
+del pipe, unet, emb, i2i
 gc.collect()
 
 # 3. Pick the best candidate with CLIP.
