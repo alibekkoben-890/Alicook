@@ -2277,8 +2277,14 @@
 "avoid": []
 },
 "820": {
-"prompt": "Food photo of homemade horse meat sausage sliced on a board, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of homemade horse meat sausage sliced on a board"
+"prompt": "Food photo of Kazakh shuzhuk: a whole boiled horse meat sausage in natural casing, thick and curved, and round slices cut from it, each slice shows a mosaic of dark red-brown cooked horse meat chunks and large white fat pieces, on a wooden board with onion rings and bread, on a wooden table, warm natural light, appetizing, high detail",
+"clip": "a photo of a thick boiled sausage cut into slices showing dark meat and white fat chunks",
+"avoid": [
+"raw meat",
+"steak",
+"roast beef",
+"salami"
+]
 },
 "821": {
 "prompt": "Food photo of rice pilaf with dried apricots and raisins on a plate, on a wooden table, natural light, appetizing, high detail",
@@ -2598,10 +2604,14 @@
 ]
 },
 "977": {
-"prompt": "Food photo of kuiryk-bauyr: thin slices of boiled lamb liver arranged with thin white slices of lamb tail fat on a platter, with onion rings, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of slices of liver alternating with white fat slices",
+"prompt": "Food photo of Kazakh kuiryk-bauyr: on a round platter, thin slices of boiled lamb liver, dark grey-brown cooked liver with matte texture, alternating with thin slices of pure white boiled lamb tail fat, arranged in a circle like a fan, sprinkled with black pepper, thin raw onion rings on top, on a wooden table, warm natural light, appetizing, high detail",
+"clip": "a photo of alternating dark brown liver slices and white fat slices on a platter",
 "avoid": [
-"steak"
+"raw meat",
+"pink meat",
+"ham",
+"bacon",
+"mushrooms"
 ]
 },
 "978": {
