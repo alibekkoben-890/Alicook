@@ -1902,12 +1902,12 @@
 "clip": "a photo of Glass of red berry mors drink (cranberry juice) with ice, berries beside it"
 },
 "674": {
-"prompt": "Food photo of Kazakh tea with milk: opaque light beige-brown milky tea, tea mixed with a lot of milk, poured in a small wide white porcelain bowl without handle (kese), a small milk jug and a teapot beside, a plate of golden fried baursak dough pieces, raisins and kurt, on a wooden table, natural light, appetizing, high detail",
-"clip": "a photo of milky tea in a small bowl with fried dough pieces",
+"prompt": "Food photo of a small wide white porcelain bowl without handle (kese) filled to the top with opaque creamy light beige milk tea, the colour of coffee with lots of milk, not transparent, a small jug of milk being poured into it, a plate of golden fried baursak dough puffs beside, on a wooden table, natural light, high detail",
+"clip": "a photo of a bowl of opaque beige milky tea with fried dough",
 "avoid": [
-"black tea without milk",
 "clear amber tea",
-"a cup with a handle"
+"transparent tea",
+"a teacup with a handle"
 ]
 },
 "675": {
