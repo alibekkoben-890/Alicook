@@ -2277,13 +2277,14 @@
 "avoid": []
 },
 "820": {
-"prompt": "Food photo of Kazakh shuzhuk: a whole boiled horse meat sausage in natural casing, thick and curved, and round slices cut from it, each slice shows a mosaic of dark red-brown cooked horse meat chunks and large white fat pieces, on a wooden board with onion rings and bread, on a wooden table, warm natural light, appetizing, high detail",
-"clip": "a photo of a thick boiled sausage cut into slices showing dark meat and white fat chunks",
+"prompt": "Food photo of sliced boiled homemade sausage, round slices with a dark brown cooked meat and many large white fat pieces inside like a mosaic, a thick sausage link in brown natural casing beside, on a wooden board with onion, rustic wooden table, warm light, high detail",
+"clip": "a photo of sausage slices with dark brown meat and white fat pieces",
 "avoid": [
+"pink meat",
+"red meat",
 "raw meat",
-"steak",
-"roast beef",
-"salami"
+"ham",
+"roast beef"
 ]
 },
 "821": {
@@ -2604,14 +2605,13 @@
 ]
 },
 "977": {
-"prompt": "Food photo of Kazakh kuiryk-bauyr: on a round platter, thin slices of boiled lamb liver, dark grey-brown cooked liver with matte texture, alternating with thin slices of pure white boiled lamb tail fat, arranged in a circle like a fan, sprinkled with black pepper, thin raw onion rings on top, on a wooden table, warm natural light, appetizing, high detail",
-"clip": "a photo of alternating dark brown liver slices and white fat slices on a platter",
+"prompt": "Food photo, top view of a round platter with two kinds of slices laid in a circle, alternating: dark chocolate-brown slices of boiled liver and snow-white slices of boiled fat, black and white checker pattern, onion rings in the centre, rustic wooden table, warm light, high detail",
+"clip": "a photo of dark brown and white slices alternating on a platter",
 "avoid": [
-"raw meat",
 "pink meat",
-"ham",
-"bacon",
-"mushrooms"
+"red meat",
+"raw meat",
+"ham"
 ]
 },
 "978": {
