@@ -41,6 +41,19 @@ jobs:
           printf '%s' "$KEYSTORE_B64" | base64 --decode > "$RUNNER_TEMP/alicook-release.jks"
           chmod 600 "$RUNNER_TEMP/alicook-release.jks"
 
+      - name: Insert Home Connect app ID (repository variable HOME_CONNECT_CLIENT_ID)
+        env:
+          HC_ID: ${{ vars.HOME_CONNECT_CLIENT_ID }}
+        run: |
+          set -euo pipefail
+          if [ -z "$HC_ID" ]; then
+            echo "::warning::HOME_CONNECT_CLIENT_ID is not set: the one-button oven connection stays off in this build."
+            exit 0
+          fi
+          case "$HC_ID" in *[!A-Za-z0-9_-]*) echo "::error::HOME_CONNECT_CLIENT_ID has unexpected characters"; exit 1;; esac
+          sed -i "s/__HC_APP_ID__/$HC_ID/" app/src/main/assets/index.html
+          grep -c "HC_APP_ID='$HC_ID'" app/src/main/assets/index.html
+
       - name: Build release APK
         env:
           ALICOOK_KEYSTORE_PATH: ${{ runner.temp }}/alicook-release.jks
