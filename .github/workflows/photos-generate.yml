@@ -1,0 +1,40 @@
+name: Dish photos generate
+
+# Generates dish images with an image API when tools/photos/generate.json or
+# generated_done.json changes. Does nothing unless the OPENAI_API_KEY secret is set.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['ccr-**']
+    paths: ['tools/photos/generate.json', 'tools/photos/generated_done.json']
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow==11.0.0
+      - name: Generate images
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          LIMIT: '50'
+          IMAGE_QUALITY: 'medium'
+        run: python tools/photos/generate_images.py
+      - name: Publish to photo-work-generate branch
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          [ -s out/generated.json ] || { echo "No images generated"; exit 0; }
+          cd out
+          git init -q
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "Generated images from run ${{ github.run_id }}"
+          git push -qf "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:photo-work-generate

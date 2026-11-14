@@ -1,4 +1,3 @@
-
 name: Build Ali Cook APK
 
 on:
@@ -22,41 +21,53 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      
-
-
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v4
 
-      - name: Keep signing key for future updates
-        uses: actions/cache@v4
-        with:
-          path: ~/.android/debug.keystore
-          key: alicook-multilang-debug-signing-v1
-
-      - name: Build APK
-        run: |
-          
-          gradle assembleDebug
-
-      - name: Verify APK before publishing
+      - name: Load permanent signing key
+        env:
+          KEYSTORE_B64: ${{ secrets.ALICOOK_KEYSTORE_BASE64 }}
+          STORE_PASSWORD: ${{ secrets.ALICOOK_STORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.ALICOOK_KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.ALICOOK_KEY_PASSWORD }}
         run: |
           set -euo pipefail
-          APK="app/build/outputs/apk/debug/app-debug.apk"
-          test -s "$APK"
-          echo "APK size: $(stat -c%s "$APK") bytes"
-          echo "Android SDK build-tools:"
-          ls -1 "$ANDROID_HOME/build-tools"
-          TOOLS="$(find "$ANDROID_HOME/build-tools" -name apksigner -type f | sort -V | tail -1)"
-          AAPT="$(find "$ANDROID_HOME/build-tools" -name aapt -type f | sort -V | tail -1)"
-          "$TOOLS" verify --verbose --print-certs "$APK"
-          "$AAPT" dump badging "$APK" | head -15
-          unzip -l "$APK" | grep 'assets/index.html'
-          unzip -p "$APK" assets/index.html | grep -q 'catalog'
+          for value in "$KEYSTORE_B64" "$STORE_PASSWORD" "$KEY_ALIAS" "$KEY_PASSWORD"; do
+            if [ -z "$value" ]; then
+              echo "::error::Signing secrets are not configured. Set ALICOOK_KEYSTORE_BASE64, ALICOOK_STORE_PASSWORD, ALICOOK_KEY_ALIAS and ALICOOK_KEY_PASSWORD in repository Actions secrets."
+              exit 1
+            fi
+          done
+          printf '%s' "$KEYSTORE_B64" | base64 --decode > "$RUNNER_TEMP/alicook-release.jks"
+          chmod 600 "$RUNNER_TEMP/alicook-release.jks"
+
+      - name: Insert Home Connect app ID (repository variable HOME_CONNECT_CLIENT_ID)
+        env:
+          HC_ID: ${{ vars.HOME_CONNECT_CLIENT_ID }}
+        run: |
+          set -euo pipefail
+          if [ -z "$HC_ID" ]; then
+            echo "::warning::HOME_CONNECT_CLIENT_ID is not set: the one-button oven connection stays off in this build."
+            exit 0
+          fi
+          case "$HC_ID" in *[!A-Za-z0-9_-]*) echo "::error::HOME_CONNECT_CLIENT_ID has unexpected characters"; exit 1;; esac
+          sed -i "s/__HC_APP_ID__/$HC_ID/" app/src/main/assets/index.html
+          grep -c "HC_APP_ID='$HC_ID'" app/src/main/assets/index.html
+
+      - name: Build release APK
+        env:
+          ALICOOK_KEYSTORE_PATH: ${{ runner.temp }}/alicook-release.jks
+          ALICOOK_STORE_PASSWORD: ${{ secrets.ALICOOK_STORE_PASSWORD }}
+          ALICOOK_KEY_ALIAS: ${{ secrets.ALICOOK_KEY_ALIAS }}
+          ALICOOK_KEY_PASSWORD: ${{ secrets.ALICOOK_KEY_PASSWORD }}
+        run: gradle --no-daemon assembleRelease
+
+      - name: Check APK (signature, not debuggable, targetSdk, permissions)
+        run: bash .github/scripts/verify-apk.sh app/build/outputs/apk/release/app-release.apk
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: AliCook-APK
-          path: '**/build/outputs/apk/debug/*.apk'
+          path: app/build/outputs/apk/release/app-release.apk
           if-no-files-found: error

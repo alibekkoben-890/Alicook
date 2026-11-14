@@ -13,16 +13,22 @@ android {
         }
     }
     buildTypes {
+        debug {
+            // Use the same permanent key as release so every APK can update the installed app.
+            if (System.getenv('ALICOOK_KEYSTORE_PATH')) {
+                signingConfig signingConfigs.release
+            }
+        }
         release {
             minifyEnabled false
             signingConfig signingConfigs.release
         }
     }
     defaultConfig {
-        applicationId 'com.alicook.recipes.catalog17'
+        applicationId 'com.alicook.recipes.v2'
         minSdk 24
         targetSdk 35
-        versionCode 14
-        versionName '1.12'
+        versionCode 78
+        versionName '1.76'
     }
 }

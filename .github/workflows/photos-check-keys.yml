@@ -1,0 +1,19 @@
+name: Dish photos check keys
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ['ccr-**']
+    paths: ['tools/photos/check_keys.py']
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check photo API keys
+        env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+        run: python3 tools/photos/check_keys.py
