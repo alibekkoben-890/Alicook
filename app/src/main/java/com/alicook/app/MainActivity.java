@@ -2,6 +2,13 @@
 package com.alicook.app;
 
 import android.app.Activity;
+import android.app.AlarmManager;
+import android.app.NotificationManager;
+import android.app.PendingIntent;
+import android.content.pm.PackageManager;
+import android.view.View;
+import android.view.WindowInsets;
+import android.widget.FrameLayout;
 import android.content.ActivityNotFoundException;
 import android.content.res.Configuration;
 import android.content.Intent;
@@ -25,13 +32,21 @@ import android.webkit.WebViewClient;
 import android.webkit.WebSettings;
 
 public class MainActivity extends Activity {
+    /** The running activity, if any; the timer receiver uses it to ring inside the app. */
+    static MainActivity current;
     WebView web;
+    private FrameLayout root;
+    private boolean resumed;
+    private boolean timerPending;
+    private boolean pendingDone;
+    private boolean askedNotifications;
+    private String timerText = "";
     private final Handler timerHandler = new Handler(Looper.getMainLooper());
     private MediaPlayer alarm;
     private final Runnable ring = new Runnable() {
         @Override
         public void run() {
-            startAlarm();
+            timerFired();
         }
     };
     private final Runnable autoStop = new Runnable() {
@@ -89,18 +104,171 @@ public class MainActivity extends Activity {
         }
     }
 
+    private PendingIntent alarmIntent(String text) {
+        Intent i = new Intent(this, TimerReceiver.class);
+        if (text != null) i.putExtra("text", text);
+        return PendingIntent.getBroadcast(this, 1, i, PendingIntent.FLAG_UPDATE_CURRENT | PendingIntent.FLAG_IMMUTABLE);
+    }
+
+    // The in-app Handler stops counting while the phone sleeps, so the timer is also given to the
+    // system alarm clock: it wakes the phone and TimerReceiver shows a ringing notification.
+    private void scheduleSystemAlarm(int seconds, String text) {
+        AlarmManager am = (AlarmManager) getSystemService(Context.ALARM_SERVICE);
+        if (am == null) return;
+        long at = System.currentTimeMillis() + Math.max(1, seconds) * 1000L;
+        PendingIntent pi = alarmIntent(text);
+        try {
+            boolean exact = Build.VERSION.SDK_INT < 31 || am.canScheduleExactAlarms();
+            if (exact) am.setExactAndAllowWhileIdle(AlarmManager.RTC_WAKEUP, at, pi);
+            else am.setAndAllowWhileIdle(AlarmManager.RTC_WAKEUP, at, pi);
+        } catch (Exception e) {
+            try {
+                am.setAndAllowWhileIdle(AlarmManager.RTC_WAKEUP, at, pi);
+            } catch (Exception ignored) {
+            }
+        }
+    }
+
+    private void cancelSystemAlarm() {
+        try {
+            AlarmManager am = (AlarmManager) getSystemService(Context.ALARM_SERVICE);
+            if (am != null) am.cancel(alarmIntent(null));
+        } catch (Exception ignored) {
+        }
+    }
+
+    private void cancelTimerNotification() {
+        try {
+            NotificationManager nm = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
+            if (nm != null) nm.cancel(TimerReceiver.NOTIFICATION_ID);
+        } catch (Exception ignored) {
+        }
+    }
+
+    // Android 13+ shows the timer notification only after the user allows notifications.
+    private void askNotificationPermission() {
+        if (Build.VERSION.SDK_INT < 33 || askedNotifications) return;
+        askedNotifications = true;
+        try {
+            if (checkSelfPermission("android.permission.POST_NOTIFICATIONS") != PackageManager.PERMISSION_GRANTED) {
+                requestPermissions(new String[]{"android.permission.POST_NOTIFICATIONS"}, 1);
+            }
+        } catch (Exception ignored) {
+        }
+    }
+
+    /** The timer ran out: called by the in-app Handler or by TimerReceiver, whichever comes first. */
+    void timerFired() {
+        if (!timerPending) return;
+        timerPending = false;
+        timerHandler.removeCallbacks(ring);
+        cancelSystemAlarm();
+        if (resumed) {
+            startAlarm();
+        } else {
+            // The app is in the background: ring through a notification, tell the page when it is opened again.
+            pendingDone = true;
+            TimerReceiver.post(getApplicationContext(), timerText);
+        }
+    }
+
+    boolean hasPendingTimer() {
+        return timerPending;
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        resumed = true;
+        cancelTimerNotification();
+        if (pendingDone) {
+            pendingDone = false;
+            if (web != null) web.evaluateJavascript("window.onNativeTimerDone && window.onNativeTimerDone()", null);
+        }
+    }
+
+    @Override
+    protected void onPause() {
+        resumed = false;
+        super.onPause();
+    }
+
+    @Override
+    protected void onNewIntent(Intent intent) {
+        super.onNewIntent(intent);
+        setIntent(intent);
+    }
+
+    private boolean isDark() {
+        return (getResources().getConfiguration().uiMode & Configuration.UI_MODE_NIGHT_MASK)
+                == Configuration.UI_MODE_NIGHT_YES;
+    }
+
+    // Android 15 draws the app under the status and navigation bars. The page is kept inside the
+    // safe area by padding, and the bar icons are made dark on the light theme.
+    private void styleSystemBars() {
+        boolean dark = isDark();
+        if (root != null) root.setBackgroundColor(dark ? 0xFF1E1E1E : 0xFFFFFFFF);
+        if (Build.VERSION.SDK_INT >= 35) {
+            try {
+                int light = android.view.WindowInsetsController.APPEARANCE_LIGHT_STATUS_BARS
+                        | android.view.WindowInsetsController.APPEARANCE_LIGHT_NAVIGATION_BARS;
+                android.view.WindowInsetsController c = getWindow().getInsetsController();
+                if (c != null) c.setSystemBarsAppearance(dark ? 0 : light, light);
+            } catch (Exception ignored) {
+            }
+        }
+    }
+
+    // Rotation, dark mode and similar changes no longer restart the activity (see configChanges in
+    // the manifest), so the open recipe and a running timer survive them.
+    @Override
+    public void onConfigurationChanged(Configuration newConfig) {
+        super.onConfigurationChanged(newConfig);
+        styleSystemBars();
+        if (web != null) web.evaluateJavascript("window.applyDark && window.applyDark(" + isDark() + ")", null);
+    }
+
     @Override
     protected void onDestroy() {
+        // A running timer stays with the system alarm clock and will still ring as a notification.
         timerHandler.removeCallbacks(ring);
         stopAlarm();
+        if (current == this) current = null;
         super.onDestroy();
     }
 
     @Override
     public void onCreate(Bundle state) {
         super.onCreate(state);
+        current = this;
         web = new WebView(this);
-        setContentView(web);
+        root = new FrameLayout(this);
+        root.addView(web, new FrameLayout.LayoutParams(
+                FrameLayout.LayoutParams.MATCH_PARENT, FrameLayout.LayoutParams.MATCH_PARENT));
+        setContentView(root);
+        root.setOnApplyWindowInsetsListener(new View.OnApplyWindowInsetsListener() {
+            @Override
+            public WindowInsets onApplyWindowInsets(View v, WindowInsets insets) {
+                int l, t, r, b;
+                if (Build.VERSION.SDK_INT >= 30) {
+                    android.graphics.Insets s = insets.getInsets(WindowInsets.Type.systemBars()
+                            | WindowInsets.Type.displayCutout() | WindowInsets.Type.ime());
+                    l = s.left;
+                    t = s.top;
+                    r = s.right;
+                    b = s.bottom;
+                } else {
+                    l = insets.getSystemWindowInsetLeft();
+                    t = insets.getSystemWindowInsetTop();
+                    r = insets.getSystemWindowInsetRight();
+                    b = insets.getSystemWindowInsetBottom();
+                }
+                v.setPadding(l, t, r, b);
+                return insets;
+            }
+        });
+        styleSystemBars();
         web.setWebViewClient(new WebViewClient() {
             @Override
             public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
@@ -119,9 +287,7 @@ public class MainActivity extends Activity {
 
             @Override
             public void onPageFinished(WebView view, String url) {
-                boolean dark = (getResources().getConfiguration().uiMode & Configuration.UI_MODE_NIGHT_MASK)
-                        == Configuration.UI_MODE_NIGHT_YES;
-                view.evaluateJavascript("window.applyDark && window.applyDark(" + dark + ")", null);
+                view.evaluateJavascript("window.applyDark && window.applyDark(" + isDark() + ")", null);
             }
         });
         // Cooking mode asks to keep the screen on while it is open.
@@ -173,12 +339,24 @@ public class MainActivity extends Activity {
 
         @JavascriptInterface
         public void startTimer(final int seconds) {
+            startTimerText(seconds, "");
+        }
+
+        /** Starts the cooking timer; text is shown in the notification if the app is in the background. */
+        @JavascriptInterface
+        public void startTimerText(final int seconds, final String text) {
             runOnUiThread(new Runnable() {
                 @Override
                 public void run() {
                     timerHandler.removeCallbacks(ring);
                     stopAlarm();
+                    cancelTimerNotification();
+                    timerText = text == null ? "" : text;
+                    timerPending = true;
+                    pendingDone = false;
                     timerHandler.postDelayed(ring, Math.max(1, seconds) * 1000L);
+                    scheduleSystemAlarm(seconds, timerText);
+                    askNotificationPermission();
                 }
             });
         }
@@ -188,7 +366,11 @@ public class MainActivity extends Activity {
             runOnUiThread(new Runnable() {
                 @Override
                 public void run() {
+                    timerPending = false;
+                    pendingDone = false;
                     timerHandler.removeCallbacks(ring);
+                    cancelSystemAlarm();
+                    cancelTimerNotification();
                     stopAlarm();
                 }
             });
@@ -273,7 +455,8 @@ public class MainActivity extends Activity {
                 public void run() {
                     Uri u = Uri.parse(url);
                     String host = u.getHost() == null ? "" : u.getHost();
-                    if (!"https".equals(u.getScheme()) || !host.endsWith("home-connect.com")) return;
+                    if (!"https".equals(u.getScheme())
+                            || !(host.equals("home-connect.com") || host.endsWith(".home-connect.com"))) return;
                     try {
                         startActivity(new Intent(Intent.ACTION_VIEW, u));
                     } catch (ActivityNotFoundException ignored) {

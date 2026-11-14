@@ -5,7 +5,7 @@ set -euo pipefail
 APK="$1"
 EXPECTED_CERT="f5f72d4211957b520ce9b3310b6ad7613bd9ecf5152081f3f416a0228fd486e0"
 MIN_TARGET_SDK=35
-ALLOWED_PERMISSIONS="android.permission.INTERNET android.permission.VIBRATE"
+ALLOWED_PERMISSIONS="android.permission.INTERNET android.permission.VIBRATE android.permission.POST_NOTIFICATIONS android.permission.USE_EXACT_ALARM android.permission.SCHEDULE_EXACT_ALARM"
 
 fail() { echo "::error::$1"; exit 1; }
 ok() { echo "OK: $1"; }
