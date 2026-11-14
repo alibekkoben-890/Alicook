@@ -207,5 +207,79 @@ public class MainActivity extends Activity {
                 }
             });
         }
+
+        /** HTTPS requests for Home Connect (Bosch/Siemens/Neff); only Home Connect hosts are allowed. */
+        @JavascriptInterface
+        public void httpRequest(final int id, final String method, final String url, final String headersJson, final String body) {
+            new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    int status = 0;
+                    String text;
+                    java.net.HttpURLConnection c = null;
+                    try {
+                        java.net.URL u = new java.net.URL(url);
+                        String host = u.getHost();
+                        if (!"https".equals(u.getProtocol()) || !(host.equals("api.home-connect.com") || host.equals("simulator.home-connect.com"))) {
+                            throw new SecurityException("host not allowed");
+                        }
+                        c = (java.net.HttpURLConnection) u.openConnection();
+                        c.setConnectTimeout(15000);
+                        c.setReadTimeout(20000);
+                        c.setRequestMethod(method);
+                        org.json.JSONObject h = new org.json.JSONObject(headersJson == null || headersJson.isEmpty() ? "{}" : headersJson);
+                        java.util.Iterator<String> keys = h.keys();
+                        while (keys.hasNext()) {
+                            String k = keys.next();
+                            c.setRequestProperty(k, h.getString(k));
+                        }
+                        if (body != null && !body.isEmpty()) {
+                            c.setDoOutput(true);
+                            java.io.OutputStream os = c.getOutputStream();
+                            os.write(body.getBytes("UTF-8"));
+                            os.close();
+                        }
+                        status = c.getResponseCode();
+                        java.io.InputStream in = status >= 400 ? c.getErrorStream() : c.getInputStream();
+                        StringBuilder sb = new StringBuilder();
+                        if (in != null) {
+                            java.io.BufferedReader br = new java.io.BufferedReader(new java.io.InputStreamReader(in, "UTF-8"));
+                            String line;
+                            while ((line = br.readLine()) != null) sb.append(line).append('\n');
+                            br.close();
+                        }
+                        text = sb.toString();
+                    } catch (Exception e) {
+                        text = String.valueOf(e.getMessage());
+                    } finally {
+                        if (c != null) c.disconnect();
+                    }
+                    final String js = "window.onHttp && window.onHttp(" + id + "," + status + "," + org.json.JSONObject.quote(text) + ")";
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            if (web != null) web.evaluateJavascript(js, null);
+                        }
+                    });
+                }
+            }).start();
+        }
+
+        /** Opens the Home Connect sign-in page in the browser. */
+        @JavascriptInterface
+        public void openUrl(final String url) {
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    Uri u = Uri.parse(url);
+                    String host = u.getHost() == null ? "" : u.getHost();
+                    if (!"https".equals(u.getScheme()) || !host.endsWith("home-connect.com")) return;
+                    try {
+                        startActivity(new Intent(Intent.ACTION_VIEW, u));
+                    } catch (ActivityNotFoundException ignored) {
+                    }
+                }
+            });
+        }
     }
 }
