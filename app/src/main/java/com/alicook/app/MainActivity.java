@@ -37,18 +37,16 @@ public class MainActivity extends Activity {
     WebView web;
     private FrameLayout root;
     private boolean resumed;
-    private boolean timerPending;
-    private boolean pendingDone;
     private boolean askedNotifications;
-    private String timerText = "";
+    // Several cooking timers can run at once; each has its own id, system alarm and notification.
+    private final java.util.HashMap<Integer, Runnable> timerRunnables = new java.util.HashMap<Integer, Runnable>();
+    private final java.util.HashMap<Integer, String> timerTexts = new java.util.HashMap<Integer, String>();
+    private final java.util.HashSet<Integer> doneWhileAway = new java.util.HashSet<Integer>();
+    private String pendingExport;
+    private static final int REQ_EXPORT = 41;
+    private static final int REQ_IMPORT = 42;
     private final Handler timerHandler = new Handler(Looper.getMainLooper());
     private MediaPlayer alarm;
-    private final Runnable ring = new Runnable() {
-        @Override
-        public void run() {
-            timerFired();
-        }
-    };
     private final Runnable autoStop = new Runnable() {
         @Override
         public void run() {
@@ -58,7 +56,7 @@ public class MainActivity extends Activity {
 
     // Cooking timer signal: the phone's alarm sound (alarm volume, so it is heard even when media is muted)
     // plus vibration. It rings until the user turns it off, at most one minute.
-    private void startAlarm() {
+    private void startAlarm(int id) {
         stopAlarm();
         try {
             Uri uri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_ALARM);
@@ -84,7 +82,7 @@ public class MainActivity extends Activity {
         } catch (Exception ignored) {
         }
         timerHandler.postDelayed(autoStop, 60000);
-        if (web != null) web.evaluateJavascript("window.onNativeTimerDone && window.onNativeTimerDone()", null);
+        if (web != null) web.evaluateJavascript("window.onNativeTimerDone && window.onNativeTimerDone(" + id + ")", null);
     }
 
     private void stopAlarm() {
@@ -104,19 +102,20 @@ public class MainActivity extends Activity {
         }
     }
 
-    private PendingIntent alarmIntent(String text) {
+    private PendingIntent alarmIntent(int id, String text) {
         Intent i = new Intent(this, TimerReceiver.class);
+        i.putExtra("id", id);
         if (text != null) i.putExtra("text", text);
-        return PendingIntent.getBroadcast(this, 1, i, PendingIntent.FLAG_UPDATE_CURRENT | PendingIntent.FLAG_IMMUTABLE);
+        return PendingIntent.getBroadcast(this, 100 + id, i, PendingIntent.FLAG_UPDATE_CURRENT | PendingIntent.FLAG_IMMUTABLE);
     }
 
     // The in-app Handler stops counting while the phone sleeps, so the timer is also given to the
     // system alarm clock: it wakes the phone and TimerReceiver shows a ringing notification.
-    private void scheduleSystemAlarm(int seconds, String text) {
+    private void scheduleSystemAlarm(int id, int seconds, String text) {
         AlarmManager am = (AlarmManager) getSystemService(Context.ALARM_SERVICE);
         if (am == null) return;
         long at = System.currentTimeMillis() + Math.max(1, seconds) * 1000L;
-        PendingIntent pi = alarmIntent(text);
+        PendingIntent pi = alarmIntent(id, text);
         try {
             boolean exact = Build.VERSION.SDK_INT < 31 || am.canScheduleExactAlarms();
             if (exact) am.setExactAndAllowWhileIdle(AlarmManager.RTC_WAKEUP, at, pi);
@@ -129,18 +128,18 @@ public class MainActivity extends Activity {
         }
     }
 
-    private void cancelSystemAlarm() {
+    private void cancelSystemAlarm(int id) {
         try {
             AlarmManager am = (AlarmManager) getSystemService(Context.ALARM_SERVICE);
-            if (am != null) am.cancel(alarmIntent(null));
+            if (am != null) am.cancel(alarmIntent(id, null));
         } catch (Exception ignored) {
         }
     }
 
-    private void cancelTimerNotification() {
+    private void cancelTimerNotification(int id) {
         try {
             NotificationManager nm = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
-            if (nm != null) nm.cancel(TimerReceiver.NOTIFICATION_ID);
+            if (nm != null) nm.cancel(TimerReceiver.NOTIFICATION_ID + id);
         } catch (Exception ignored) {
         }
     }
@@ -158,33 +157,102 @@ public class MainActivity extends Activity {
     }
 
     /** The timer ran out: called by the in-app Handler or by TimerReceiver, whichever comes first. */
-    void timerFired() {
-        if (!timerPending) return;
-        timerPending = false;
-        timerHandler.removeCallbacks(ring);
-        cancelSystemAlarm();
+    void timerFired(int id) {
+        Runnable r = timerRunnables.remove(id);
+        if (r == null) return;
+        timerHandler.removeCallbacks(r);
+        cancelSystemAlarm(id);
         if (resumed) {
-            startAlarm();
+            startAlarm(id);
         } else {
             // The app is in the background: ring through a notification, tell the page when it is opened again.
-            pendingDone = true;
-            TimerReceiver.post(getApplicationContext(), timerText);
+            doneWhileAway.add(id);
+            TimerReceiver.post(getApplicationContext(), id, timerTexts.get(id));
         }
     }
 
-    boolean hasPendingTimer() {
-        return timerPending;
+    boolean hasPendingTimer(int id) {
+        return timerRunnables.containsKey(id);
+    }
+
+    private void startTimerInternal(final int id, int seconds, String text) {
+        Runnable old = timerRunnables.remove(id);
+        if (old != null) timerHandler.removeCallbacks(old);
+        cancelTimerNotification(id);
+        doneWhileAway.remove(id);
+        timerTexts.put(id, text == null ? "" : text);
+        Runnable r = new Runnable() {
+            @Override
+            public void run() {
+                timerFired(id);
+            }
+        };
+        timerRunnables.put(id, r);
+        timerHandler.postDelayed(r, Math.max(1, seconds) * 1000L);
+        scheduleSystemAlarm(id, seconds, timerTexts.get(id));
+        askNotificationPermission();
+    }
+
+    private void cancelTimerInternal(int id) {
+        Runnable r = timerRunnables.remove(id);
+        if (r != null) timerHandler.removeCallbacks(r);
+        doneWhileAway.remove(id);
+        cancelSystemAlarm(id);
+        cancelTimerNotification(id);
+        stopAlarm();
+    }
+
+    // Backup: the page hands over a text, the user picks where to save it; or picks a saved file to restore.
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if (requestCode == REQ_EXPORT) {
+            boolean ok = false;
+            String text = pendingExport;
+            pendingExport = null;
+            if (resultCode == RESULT_OK && data != null && data.getData() != null && text != null) {
+                try {
+                    java.io.OutputStream out = getContentResolver().openOutputStream(data.getData());
+                    if (out != null) {
+                        out.write(text.getBytes(java.nio.charset.StandardCharsets.UTF_8));
+                        out.close();
+                        ok = true;
+                    }
+                } catch (Exception ignored) {
+                }
+            }
+            if (web != null) web.evaluateJavascript("window.onBackupSaved && window.onBackupSaved(" + ok + ")", null);
+        } else if (requestCode == REQ_IMPORT) {
+            if (resultCode != RESULT_OK || data == null || data.getData() == null) return;
+            String text = null;
+            try {
+                java.io.InputStream in = getContentResolver().openInputStream(data.getData());
+                if (in != null) {
+                    java.io.ByteArrayOutputStream buf = new java.io.ByteArrayOutputStream();
+                    byte[] chunk = new byte[8192];
+                    int n;
+                    while ((n = in.read(chunk)) > 0 && buf.size() < 5 * 1024 * 1024) buf.write(chunk, 0, n);
+                    in.close();
+                    text = new String(buf.toByteArray(), java.nio.charset.StandardCharsets.UTF_8);
+                }
+            } catch (Exception ignored) {
+            }
+            if (web != null) {
+                web.evaluateJavascript("window.onBackupFile && window.onBackupFile("
+                        + (text == null ? "null" : org.json.JSONObject.quote(text)) + ")", null);
+            }
+        }
     }
 
     @Override
     protected void onResume() {
         super.onResume();
         resumed = true;
-        cancelTimerNotification();
-        if (pendingDone) {
-            pendingDone = false;
-            if (web != null) web.evaluateJavascript("window.onNativeTimerDone && window.onNativeTimerDone()", null);
+        for (Integer id : new java.util.ArrayList<Integer>(doneWhileAway)) {
+            cancelTimerNotification(id);
+            if (web != null) web.evaluateJavascript("window.onNativeTimerDone && window.onNativeTimerDone(" + id + ")", null);
         }
+        doneWhileAway.clear();
     }
 
     @Override
@@ -231,8 +299,9 @@ public class MainActivity extends Activity {
 
     @Override
     protected void onDestroy() {
-        // A running timer stays with the system alarm clock and will still ring as a notification.
-        timerHandler.removeCallbacks(ring);
+        // Running timers stay with the system alarm clock and will still ring as notifications.
+        for (Runnable r : timerRunnables.values()) timerHandler.removeCallbacks(r);
+        timerRunnables.clear();
         stopAlarm();
         if (current == this) current = null;
         super.onDestroy();
@@ -348,15 +417,8 @@ public class MainActivity extends Activity {
             runOnUiThread(new Runnable() {
                 @Override
                 public void run() {
-                    timerHandler.removeCallbacks(ring);
                     stopAlarm();
-                    cancelTimerNotification();
-                    timerText = text == null ? "" : text;
-                    timerPending = true;
-                    pendingDone = false;
-                    timerHandler.postDelayed(ring, Math.max(1, seconds) * 1000L);
-                    scheduleSystemAlarm(seconds, timerText);
-                    askNotificationPermission();
+                    startTimerInternal(0, seconds, text);
                 }
             });
         }
@@ -366,12 +428,70 @@ public class MainActivity extends Activity {
             runOnUiThread(new Runnable() {
                 @Override
                 public void run() {
-                    timerPending = false;
-                    pendingDone = false;
-                    timerHandler.removeCallbacks(ring);
-                    cancelSystemAlarm();
-                    cancelTimerNotification();
-                    stopAlarm();
+                    cancelTimerInternal(0);
+                }
+            });
+        }
+
+        /** Starts one of several timers; id is chosen by the page (1..50). */
+        @JavascriptInterface
+        public void startTimerId(final int id, final int seconds, final String text) {
+            if (id < 0 || id > 50) return;
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    startTimerInternal(id, seconds, text);
+                }
+            });
+        }
+
+        /** Stops a timer, or silences it if it is ringing. */
+        @JavascriptInterface
+        public void cancelTimerId(final int id) {
+            if (id < 0 || id > 50) return;
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    cancelTimerInternal(id);
+                }
+            });
+        }
+
+        /** Lets the user choose where to save a backup file with the given text. */
+        @JavascriptInterface
+        public void exportFile(final String name, final String text) {
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    try {
+                        pendingExport = text;
+                        Intent i = new Intent(Intent.ACTION_CREATE_DOCUMENT);
+                        i.addCategory(Intent.CATEGORY_OPENABLE);
+                        i.setType("application/json");
+                        i.putExtra(Intent.EXTRA_TITLE, name);
+                        startActivityForResult(i, REQ_EXPORT);
+                    } catch (Exception e) {
+                        pendingExport = null;
+                        if (web != null) web.evaluateJavascript("window.onBackupSaved && window.onBackupSaved(false)", null);
+                    }
+                }
+            });
+        }
+
+        /** Lets the user pick a backup file; its text is passed to window.onBackupFile. */
+        @JavascriptInterface
+        public void importFile() {
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    try {
+                        Intent i = new Intent(Intent.ACTION_OPEN_DOCUMENT);
+                        i.addCategory(Intent.CATEGORY_OPENABLE);
+                        i.setType("*/*");
+                        startActivityForResult(i, REQ_IMPORT);
+                    } catch (Exception e) {
+                        if (web != null) web.evaluateJavascript("window.onBackupFile && window.onBackupFile(null)", null);
+                    }
                 }
             });
         }

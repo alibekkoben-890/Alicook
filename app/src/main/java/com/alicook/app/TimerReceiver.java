@@ -23,17 +23,18 @@ public class TimerReceiver extends BroadcastReceiver {
 
     @Override
     public void onReceive(Context context, Intent intent) {
+        int id = intent == null ? 0 : intent.getIntExtra("id", 0);
         MainActivity a = MainActivity.current;
         if (a != null) {
             // The activity decides: ring in the app, or post the notification if it is in the background.
-            if (a.hasPendingTimer()) a.timerFired();
+            if (a.hasPendingTimer(id)) a.timerFired(id);
             return;
         }
         String text = intent == null ? null : intent.getStringExtra("text");
-        post(context.getApplicationContext(), text);
+        post(context.getApplicationContext(), id, text);
     }
 
-    static void post(Context c, String text) {
+    static void post(Context c, int id, String text) {
         try {
             NotificationManager nm = (NotificationManager) c.getSystemService(Context.NOTIFICATION_SERVICE);
             if (nm == null) return;
@@ -62,7 +63,7 @@ public class TimerReceiver extends BroadcastReceiver {
             }
             Intent open = new Intent(c, MainActivity.class);
             open.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_SINGLE_TOP | Intent.FLAG_ACTIVITY_CLEAR_TOP);
-            PendingIntent pi = PendingIntent.getActivity(c, 2, open,
+            PendingIntent pi = PendingIntent.getActivity(c, 200 + id, open,
                     PendingIntent.FLAG_UPDATE_CURRENT | PendingIntent.FLAG_IMMUTABLE);
             b.setSmallIcon(android.R.drawable.ic_lock_idle_alarm)
                     .setContentTitle("Ali Cook")
@@ -75,7 +76,7 @@ public class TimerReceiver extends BroadcastReceiver {
                     .setWhen(System.currentTimeMillis());
             Notification n = b.build();
             n.flags |= Notification.FLAG_INSISTENT;
-            nm.notify(NOTIFICATION_ID, n);
+            nm.notify(NOTIFICATION_ID + id, n);
         } catch (Exception ignored) {
         }
     }
