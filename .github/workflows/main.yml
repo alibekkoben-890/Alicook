@@ -51,8 +51,8 @@ jobs:
             exit 0
           fi
           case "$HC_ID" in *[!A-Za-z0-9_-]*) echo "::error::HOME_CONNECT_CLIENT_ID has unexpected characters"; exit 1;; esac
-          sed -i "s/__HC_APP_ID__/$HC_ID/" app/src/main/assets/index.html
-          grep -c "HC_APP_ID='$HC_ID'" app/src/main/assets/index.html
+          sed -i "s/__HC_APP_ID__/$HC_ID/" app/src/main/assets/app.js
+          grep -c "HC_APP_ID='$HC_ID'" app/src/main/assets/app.js
 
       - name: Build release APK
         env:
