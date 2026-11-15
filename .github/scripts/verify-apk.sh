@@ -58,7 +58,7 @@ ok "assets/index.html, app.js, app.css, catalog.js packaged"
 # 7. Report what is inside, so the build log shows it
 ICONS=$(unzip -l "$APK" | grep -c 'assets/icons/.*\.svg' || true)
 PHOTOS=$(unzip -l "$APK" | grep -c 'assets/photos/' || true)
-ICON_RECIPES=$(unzip -p "$APK" assets/catalog.js | grep -o '"photo":"icons/' | wc -l)
+ICON_RECIPES=$(unzip -p "$APK" assets/catalog.js | { grep -o '"photo":"icons/' || true; } | wc -l)
 APPVER=$(unzip -p "$APK" assets/index.html | grep -o 'app-version"[^>]*>[^<]*' | sed 's/.*>//' || true)
 echo "Inside APK: $ICONS icon files, $PHOTOS photo files, $ICON_RECIPES recipes with icons, $APPVER"
 

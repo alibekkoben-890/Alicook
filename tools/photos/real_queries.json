@@ -1,0 +1,2905 @@
+{
+"8": [
+"Beef pilaf",
+"Плов с говядиной"
+],
+"20": [
+"Braised cabbage",
+"Тушёная капуста"
+],
+"21": [
+"Vegetable stew",
+"Овощное рагу"
+],
+"22": [
+"Baked fish",
+"Запечённая рыба"
+],
+"24": [
+"Oatmeal",
+"Овсяная каша"
+],
+"26": [
+"Rice porridge",
+"Рисовая каша"
+],
+"28": [
+"Cabbage salad",
+"Салат из капусты"
+],
+"30": [
+"Chicken with buckwheat",
+"Курица с гречкой"
+],
+"34": [
+"Baked pumpkin",
+"Запечённая тыква"
+],
+"37": [
+"Cheese lavash wrap",
+"Лаваш с сыром"
+],
+"42": [
+"Chicken fillet with rice",
+"Куриное филе с рисом"
+],
+"43": [
+"Chicken fillet with buckwheat",
+"Куриное филе с гречкой"
+],
+"44": [
+"Chicken fillet with vegetables",
+"Куриное филе с овощами"
+],
+"46": [
+"Turkey with rice",
+"Индейка с рисом"
+],
+"47": [
+"Turkey with buckwheat",
+"Индейка с гречкой"
+],
+"48": [
+"Turkey with vegetables",
+"Индейка с овощами"
+],
+"50": [
+"Beef with rice",
+"Говядина с рисом"
+],
+"51": [
+"Beef with buckwheat",
+"Говядина с гречкой"
+],
+"52": [
+"Beef with vegetables",
+"Говядина с овощами"
+],
+"54": [
+"Lamb with rice",
+"Баранина с рисом"
+],
+"55": [
+"Lamb with buckwheat",
+"Баранина с гречкой"
+],
+"56": [
+"Lamb with vegetables",
+"Баранина с овощами"
+],
+"57": [
+"Rabbit with potatoes",
+"Крольчатина с картофелем"
+],
+"58": [
+"Rabbit with rice",
+"Крольчатина с рисом"
+],
+"59": [
+"Rabbit with buckwheat",
+"Крольчатина с гречкой"
+],
+"60": [
+"Rabbit with vegetables",
+"Крольчатина с овощами"
+],
+"62": [
+"Pork with rice",
+"Свинина с рисом"
+],
+"63": [
+"Pork with buckwheat",
+"Свинина с гречкой"
+],
+"64": [
+"Pork with vegetables",
+"Свинина с овощами"
+],
+"65": [
+"Turkey fillet with potatoes",
+"Филе индейки с картофелем"
+],
+"66": [
+"Turkey fillet with rice",
+"Филе индейки с рисом"
+],
+"67": [
+"Turkey fillet with buckwheat",
+"Филе индейки с гречкой"
+],
+"68": [
+"Turkey fillet with vegetables",
+"Филе индейки с овощами"
+],
+"69": [
+"Oven-baked common carp",
+"Сазан в духовке"
+],
+"72": [
+"Oven-baked pike",
+"Щука в духовке"
+],
+"73": [
+"Oven-baked catfish",
+"Сом в духовке"
+],
+"74": [
+"Oven-baked sturgeon",
+"Осётр в духовке"
+],
+"79": [
+"Oven-baked hake",
+"Хек в духовке"
+],
+"80": [
+"Oven-baked pink salmon",
+"Горбуша в духовке"
+],
+"87": [
+"Oven-roasted carrots",
+"Морковь в духовке"
+],
+"525": [
+"Lamb sorpa",
+"Сорпа из баранины"
+],
+"526": [
+"Kazakh noodle soup",
+"Кеспе көже"
+],
+"527": [
+"Taba nan bread",
+"Таба нан"
+],
+"528": [
+"Milk and rice soup",
+"Сүт көже"
+],
+"529": [
+"Maisok millet snack",
+"Майсөк"
+],
+"533": [
+"Bal kuyrdak",
+"lamb in cream",
+"Бал куырдак"
+],
+"534": [
+"Orme tostik",
+"braided lamb breast",
+"Өрметөстік"
+],
+"535": [
+"Qaryn burme",
+"stuffed lamb stomach",
+"Қарын бүрме"
+],
+"536": [
+"Sirne",
+"slow-braised young lamb",
+"Сірне"
+],
+"544": [
+"Horse meat kuyrdak",
+"Куырдак из конины"
+],
+"546": [
+"Kazy with boiled potatoes",
+"Казы с отварным картофелем"
+],
+"548": [
+"Lamb broth with kurt",
+"Сорпа с куртом"
+],
+"549": [
+"Cucumber salad with ayran and dill",
+"Салат из огурцов с айраном и укропом"
+],
+"551": [
+"Tomato salad with brynza",
+"Салат с брынзой и помидорами"
+],
+"552": [
+"Zucchini baked with mozzarella",
+"Кабачки, запечённые с моцареллой"
+],
+"553": [
+"Spinach with brynza and eggs",
+"Шпинат с брынзой и яйцами"
+],
+"557": [
+"Radish and cucumber salad with sour cream",
+"Салат из редиса с огурцом и сметаной"
+],
+"558": [
+"Black radish and carrot salad",
+"Салат из редьки с морковью"
+],
+"560": [
+"Chicken with corn and bell pepper",
+"Курица с кукурузой и перцем"
+],
+"561": [
+"Oyster mushrooms fried with potatoes",
+"Вешенки, жаренные с картофелем"
+],
+"565": [
+"Pearl barley with mushrooms",
+"Перловка с грибами"
+],
+"566": [
+"Beef and barley soup",
+"Суп с перловкой и говядиной"
+],
+"567": [
+"Corn porridge with milk",
+"Кукурузная каша на молоке"
+],
+"570": [
+"Mung beans with rice",
+"Маш с рисом"
+],
+"571": [
+"Mung bean soup with beef",
+"Суп из маша с говядиной"
+],
+"586": [
+"Potato gnocchi with butter and parmesan",
+"Картофельные ньокки со сливочным соусом"
+],
+"591": [
+"Eggplant, feta and tomato salad",
+"Салат с баклажаном, фетой и томатами"
+],
+"592": [
+"Salmon salad with walnut dressing",
+"Салат с лососем и ореховым соусом"
+],
+"597": [
+"Shrimp bowl with omelet and guacamole",
+"Боул с креветками, омлетом и гуакамоле"
+],
+"601": [
+"Beef and vegetables in oyster sauce",
+"Говядина с овощами в устричном соусе"
+],
+"604": [
+"Chicken stew with beef sausages",
+"Жаркое из птицы с говяжьими колбасками"
+],
+"606": [
+"Beef medallions with mushroom sauce and Brussels sprouts",
+"Медальоны с грибным соусом и брюссельской капустой"
+],
+"608": [
+"Turkey patties with salsa",
+"Котлеты из индейки с сальсой"
+],
+"612": [
+"Salmon in béchamel sauce",
+"Лосось в соусе бешамель"
+],
+"614": [
+"Slow-braised beef with cheese sauce",
+"Томлёная говядина с сырным соусом"
+],
+"615": [
+"Grilled chicken with quinoa and parmesan mousse",
+"Цыплёнок на гриле с киноа и муссом из пармезана"
+],
+"616": [
+"Cottage cheese with plums and whipped sour cream",
+"Творог со сливой и взбитой сметаной"
+],
+"620": [
+"Yogurt with granola and fresh berries",
+"Йогурт с гранолой и свежими ягодами"
+],
+"622": [
+"Imeretian khachapuri",
+"Хачапури по-имеретински"
+],
+"637": [
+"Apple charlotte cake",
+"Шарлотка с яблоками"
+],
+"643": [
+"Raisin pound cake",
+"Кекс с изюмом"
+],
+"645": [
+"Berry jelly",
+"Ягодное желе"
+],
+"646": [
+"Banana ice cream",
+"Банановое мороженое"
+],
+"652": [
+"Strudli",
+"meat and potatoes with steamed dough rolls",
+"Штрудли с мясом и картофелем"
+],
+"653": [
+"Lagman",
+"Лагман"
+],
+"656": [
+"Lamb shurpa",
+"Шурпа из баранины"
+],
+"662": [
+"Chicken Kiev",
+"Котлеты по-киевски"
+],
+"666": [
+"Korean-style carrot salad",
+"Морковь по-корейски"
+],
+"668": [
+"Miso soup",
+"Мисо-суп"
+],
+"670": [
+"Chicken teriyaki",
+"Курица терияки"
+],
+"673": [
+"Berry mors",
+"Морс ягодный"
+],
+"674": [
+"Kazakh tea with milk",
+"Казахский чай с молоком"
+],
+"675": [
+"Homemade mint lemonade",
+"Домашний лимонад с мятой"
+],
+"677": [
+"Berry kissel",
+"Кисель ягодный"
+],
+"681": [
+"Meatball soup",
+"Суп с фрикадельками"
+],
+"682": [
+"Cheese soup with chicken",
+"Сырный суп с курицей"
+],
+"683": [
+"Cream of mushroom soup",
+"Грибной крем-суп"
+],
+"684": [
+"Bean soup",
+"Фасолевый суп"
+],
+"685": [
+"French onion soup",
+"Французский луковый суп"
+],
+"687": [
+"Broccoli cream soup",
+"Суп-пюре из брокколи"
+],
+"688": [
+"Cold beetroot soup",
+"svekolnik",
+"Свекольник холодный"
+],
+"690": [
+"Mimosa salad",
+"Салат Мимоза"
+],
+"691": [
+"Crab stick salad",
+"Крабовый салат"
+],
+"692": [
+"Beetroot with garlic and walnuts",
+"Свёкла с чесноком и орехами"
+],
+"693": [
+"Bean salad with croutons",
+"Салат с фасолью и сухариками"
+],
+"694": [
+"Chicken and pineapple salad",
+"Салат с курицей и ананасом"
+],
+"695": [
+"Achichuk",
+"tomato and onion salad",
+"Ачичук"
+],
+"696": [
+"Shopska salad",
+"Шопский салат"
+],
+"697": [
+"Vitamin cabbage salad",
+"Салат Витаминный"
+],
+"698": [
+"Millet porridge with pumpkin",
+"Пшённая каша с тыквой"
+],
+"699": [
+"Lazy cottage cheese dumplings",
+"Ленивые вареники"
+],
+"704": [
+"Homestyle pot roast with potatoes",
+"Жаркое по-домашнему"
+],
+"705": [
+"Liver stroganoff",
+"Печень по-строгановски"
+],
+"706": [
+"Chicken livers in sour cream",
+"Куриная печень в сметане"
+],
+"708": [
+"Honey-soy chicken wings",
+"Куриные крылышки медово-соевые"
+],
+"710": [
+"French-style baked pork",
+"Мясо по-французски"
+],
+"712": [
+"Meatballs in tomato sauce",
+"Тефтели в томатном соусе"
+],
+"713": [
+"Hedgehog meatballs with rice",
+"Ёжики с рисом"
+],
+"714": [
+"Navy-style pasta with mince",
+"Макароны по-флотски"
+],
+"715": [
+"Chicken in creamy garlic sauce",
+"Курица в сливочно-чесночном соусе"
+],
+"717": [
+"Fish under carrot marinade",
+"Рыба под маринадом"
+],
+"718": [
+"Pollock fish cakes",
+"Рыбные котлеты из минтая"
+],
+"719": [
+"Squid in sour cream",
+"Кальмары в сметане"
+],
+"721": [
+"Chicken plov",
+"Плов с курицей"
+],
+"722": [
+"Lazy cabbage rolls",
+"Голубцы ленивые"
+],
+"724": [
+"Merchant-style buckwheat with pork",
+"Гречка по-купечески"
+],
+"725": [
+"Potato bake with chicken and mushrooms",
+"Картофельная запеканка с курицей и грибами"
+],
+"728": [
+"Kattama",
+"layered flatbread",
+"Қаттама"
+],
+"730": [
+"Kazakh liver kuyrdak",
+"Қазақша куырдак из печени"
+],
+"732": [
+"Kazan kebab",
+"lamb with fried potatoes",
+"Казан-кебаб"
+],
+"737": [
+"Cabbage pirozhki",
+"Пирожки с капустой"
+],
+"739": [
+"Chicken and broccoli quiche",
+"Киш с курицей и брокколи"
+],
+"745": [
+"Crepes with sweet cottage cheese",
+"Блины с творогом"
+],
+"747": [
+"Meringues",
+"Безе"
+],
+"752": [
+"Falafel",
+"Фалафель"
+],
+"765": [
+"Buckwheat porridge with milk",
+"Гречневая каша с молоком"
+],
+"767": [
+"Oatmeal with apple and cinnamon",
+"Овсянка с яблоком и корицей"
+],
+"768": [
+"Apple compote",
+"Компот из яблок"
+],
+"770": [
+"Non-alcoholic mulled wine",
+"Безалкогольный глинтвейн"
+],
+"773": [
+"Grilled vegetables",
+"Овощи гриль"
+],
+"776": [
+"Vareniki with potato",
+"Вареники с картошкой"
+],
+"777": [
+"Vareniki with sour cherries",
+"Вареники с вишней"
+],
+"779": [
+"Kurnik",
+"Russian chicken pie",
+"Курник"
+],
+"780": [
+"Kulebyaka with cabbage and egg",
+"Кулебяка с капустой и яйцом"
+],
+"781": [
+"Day-old sauerkraut shchi",
+"Щи суточные из квашеной капусты"
+],
+"782": [
+"Kholodets",
+"meat jelly",
+"Холодец"
+],
+"783": [
+"Guryev porridge",
+"Гурьевская каша"
+],
+"784": [
+"Pozharsky chicken cutlets",
+"Пожарские котлеты"
+],
+"788": [
+"Sbiten",
+"hot honey drink",
+"Сбитень"
+],
+"789": [
+"Potato zrazy with mushrooms",
+"Картофельные зразы с грибами"
+],
+"790": [
+"Zucchini caviar",
+"spread",
+"Кабачковая икра"
+],
+"791": [
+"Buckwheat with mushrooms in a pot",
+"Гречка с грибами в горшочке"
+],
+"795": [
+"Tula gingerbread",
+"Тульский пряник"
+],
+"796": [
+"Sauerkraut salad with cranberries",
+"Салат из квашеной капусты с клюквой"
+],
+"798": [
+"Shavlya",
+"wet pilaf",
+"Шавля"
+],
+"799": [
+"Ugra osh",
+"noodle soup",
+"Угра ош"
+],
+"800": [
+"Mampar",
+"dough-piece soup",
+"Мампар"
+],
+"801": [
+"Chalop",
+"cold yogurt soup",
+"Чалоп"
+],
+"803": [
+"Pumpkin samsa",
+"Самса с тыквой"
+],
+"804": [
+"Tandir gosht",
+"slow-roasted lamb",
+"Тандыр-гушт"
+],
+"805": [
+"Kovurma lagman",
+"fried lagman",
+"Ковурма лагман"
+],
+"806": [
+"Tashkent salad",
+"Салат «Ташкент»"
+],
+"807": [
+"Nukhat shurak",
+"chickpeas with lamb",
+"Нухат шурак"
+],
+"808": [
+"Jiz-biz",
+"fried lamb and offal",
+"Жиз-быз"
+],
+"810": [
+"Lyulya kebab",
+"Люля-кебаб"
+],
+"811": [
+"Pumpkin manti",
+"Манты с тыквой"
+],
+"812": [
+"Halvaytar",
+"flour halva",
+"Халвайтар"
+],
+"813": [
+"Tushpara",
+"small dumplings in broth",
+"Тұшпара"
+],
+"814": [
+"Asip",
+"lamb sausage with rice and offal",
+"Әсіп"
+],
+"816": [
+"Irimshik",
+"sweet browned curd",
+"Ірімшік"
+],
+"817": [
+"Homemade kurt",
+"dried yogurt balls",
+"Құрт домашний"
+],
+"818": [
+"Balkaimak",
+"honey cream",
+"Балқаймақ"
+],
+"819": [
+"Kazanzhappai",
+"lamb stewed under a dough lid",
+"Қазанжаппай"
+],
+"821": [
+"Kazakh palau with dried fruit",
+"Қазақша палау с сухофруктами"
+],
+"822": [
+"Shalap",
+"salted ayran drink",
+"Шалап"
+],
+"824": [
+"Kuksi",
+"cold noodle soup",
+"Кукси"
+],
+"829": [
+"Korean-style eggplant salad",
+"Баклажаны по-корейски"
+],
+"830": [
+"Korean-style cucumbers",
+"Огурцы по-корейски"
+],
+"835": [
+"Chicken udon soup",
+"Удон с курицей"
+],
+"839": [
+"Chicken and mushroom salad",
+"Салат с курицей и грибами"
+],
+"840": [
+"Obzhorka salad",
+"beef and pickles",
+"Салат «Обжорка»"
+],
+"841": [
+"Carrot salad with cheese and garlic",
+"Морковный салат с сыром и чесноком"
+],
+"843": [
+"Kindergarten-style baked omelette",
+"Омлет как в детском саду"
+],
+"844": [
+"Oat pancake with cheese and tomato",
+"Овсяноблин с сыром и помидором"
+],
+"847": [
+"Iskender kebab",
+"Искендер-кебаб"
+],
+"852": [
+"Imam bayildi",
+"stuffed eggplant",
+"Имам баялды"
+],
+"856": [
+"Coban salatasi",
+"shepherd's salad",
+"Чобан салатасы"
+],
+"859": [
+"Tavuk sis",
+"chicken skewers",
+"Тавук шиш"
+],
+"860": [
+"Gozleme with spinach and cheese",
+"Гёзлеме со шпинатом и сыром"
+],
+"861": [
+"Ezogelin soup",
+"lentil and bulgur",
+"Эзогелин чорба"
+],
+"870": [
+"Gurian pickled cabbage with beetroot",
+"Капуста по-гурийски"
+],
+"874": [
+"Ricotta and spinach ravioli",
+"Равиоли с рикоттой и шпинатом"
+],
+"876": [
+"Ham and cheese calzone",
+"Кальцоне с ветчиной и сыром"
+],
+"882": [
+"Pasuts tolma",
+"lenten cabbage rolls with beans and lentils",
+"Пасуц толма"
+],
+"883": [
+"Kyufta",
+"Armenian poached meat balls",
+"Кюфта"
+],
+"885": [
+"Spas",
+"yogurt and wheat soup",
+"Спас"
+],
+"888": [
+"Zhingyalov hats",
+"flatbread stuffed with herbs",
+"Жингялов хац"
+],
+"889": [
+"Gata",
+"Armenian sweet bread",
+"Гата"
+],
+"890": [
+"Ishkhan",
+"grilled trout",
+"Ишхан на мангале",
+"форель"
+],
+"892": [
+"Tzhvzhik",
+"fried liver and offal",
+"Тжвжик"
+],
+"893": [
+"Khorovats salad",
+"grilled vegetable salad",
+"Салат хоровац"
+],
+"894": [
+"Anushabur",
+"Armenian wheat pudding",
+"Анушабур"
+],
+"895": [
+"Tan",
+"Armenian yogurt drink",
+"Тан"
+],
+"896": [
+"Steamed chicken cutlets",
+"Куриные котлеты на пару"
+],
+"897": [
+"Steamed cod with vegetables",
+"Треска на пару с овощами"
+],
+"899": [
+"Steamed turkey meatballs",
+"Тефтели из индейки на пару"
+],
+"900": [
+"Steamed omelette",
+"Омлет на пару"
+],
+"901": [
+"Steamed salmon with lemon",
+"Сёмга на пару с лимоном"
+],
+"902": [
+"Steamed pollock with carrot and onion",
+"Минтай на пару с морковью и луком"
+],
+"904": [
+"Boiled chicken breast with buckwheat",
+"Отварная куриная грудка с гречкой"
+],
+"905": [
+"Zucchini cream soup",
+"Суп-пюре из кабачков"
+],
+"907": [
+"Steamed pumpkin with cinnamon",
+"Тыква на пару с корицей"
+],
+"908": [
+"Steamed cottage cheese souffle",
+"Творожное суфле на пару"
+],
+"909": [
+"Poached eggs with spinach",
+"Яйца пашот со шпинатом"
+],
+"911": [
+"Boiled beetroot salad with yogurt",
+"Салат из отварной свёклы с йогуртом"
+],
+"912": [
+"Brown rice with steamed vegetables",
+"Бурый рис с овощами на пару"
+],
+"913": [
+"Steamed green beans with garlic",
+"Стручковая фасоль на пару с чесноком"
+],
+"914": [
+"Steamed fish balls",
+"Рыбные фрикадельки на пару"
+],
+"916": [
+"Chicken broth with egg and herbs",
+"Куриный бульон с яйцом и зеленью"
+],
+"917": [
+"Steamed zucchini with herbs",
+"Кабачки на пару с зеленью"
+],
+"918": [
+"Boiled chicken drumsticks with vegetables",
+"Куриные голени отварные с овощами"
+],
+"919": [
+"Buckwheat with stewed vegetables",
+"Гречка с тушёными овощами"
+],
+"920": [
+"Vegetable and bean soup",
+"Овощной суп с фасолью"
+],
+"921": [
+"Cabbage, cucumber and herb salad",
+"Салат из капусты с огурцом и зеленью"
+],
+"924": [
+"Vegetable and herb omelette",
+"Омлет с овощами и зеленью"
+],
+"925": [
+"Sugar-free, flour-free cottage cheese bake",
+"Творожная запеканка без сахара и муки"
+],
+"926": [
+"Sugar-free baked apples with cinnamon",
+"Печёные яблоки с корицей без сахара"
+],
+"927": [
+"Oatmeal with nuts",
+"no sugar",
+"Овсяная каша на воде с орехами"
+],
+"928": [
+"Braised cabbage with turkey",
+"Тушёная капуста с индейкой"
+],
+"929": [
+"Zucchini stuffed with turkey",
+"Кабачки, фаршированные индейкой"
+],
+"930": [
+"Tuna and bean salad",
+"Салат с тунцом и фасолью"
+],
+"931": [
+"Beef braised with eggplant",
+"Говядина, тушённая с баклажанами"
+],
+"932": [
+"Oven-baked syrniki without sugar",
+"Сырники в духовке без сахара"
+],
+"933": [
+"Vegetable and chickpea stew",
+"Овощное рагу с нутом"
+],
+"935": [
+"Broccoli bake with egg and cheese",
+"Запеканка из брокколи с яйцом и сыром"
+],
+"936": [
+"Chicken soup with cauliflower",
+"Куриный суп с цветной капустой"
+],
+"940": [
+"Boeuf bourguignon",
+"Говядина по-бургундски"
+],
+"941": [
+"Coq au vin",
+"Кок-о-вен",
+"курица в вине"
+],
+"945": [
+"Tarte Tatin",
+"Тарт татен"
+],
+"948": [
+"Galette complète",
+"ham, cheese and egg crêpe",
+"Галета с ветчиной, сыром и яйцом"
+],
+"949": [
+"Moules marinière",
+"Мули маринер",
+"мидии в белом вине"
+],
+"957": [
+"Apple crumble",
+"Яблочный крамбл"
+],
+"962": [
+"Bread and butter pudding",
+"Хлебный пудинг с изюмом"
+],
+"969": [
+"Tomato and egg drop soup",
+"Суп с яйцом и помидорами"
+],
+"972": [
+"Yuxiang eggplant",
+"Sichuan garlic eggplant",
+"Баклажаны юйсян"
+],
+"975": [
+"Chinese tea eggs",
+"Чайные яйца"
+],
+"977": [
+"Kuyryk-bauyr",
+"liver with tail fat",
+"Құйрық-бауыр"
+],
+"978": [
+"Koy basy",
+"boiled lamb's head",
+"Қой басы",
+"отварная баранья голова"
+],
+"979": [
+"Zhal-zhaya",
+"boiled horse neck fat and hip",
+"Жал-жая"
+],
+"980": [
+"Sur et",
+"salt-cured dried meat",
+"Сүр ет"
+],
+"981": [
+"Katyrma",
+"crisp fried flatbread",
+"Қатырма нан"
+],
+"982": [
+"Kuyrmash",
+"toasted millet with butter",
+"Қуырмаш"
+],
+"983": [
+"Tary kozhe",
+"millet and ayran drink",
+"Тары көже"
+],
+"984": [
+"Tauyk kespe",
+"chicken noodle soup",
+"Тауық кеспе"
+],
+"985": [
+"Balish",
+"meat and potato pie",
+"Бәліш"
+],
+"986": [
+"Homemade ayran",
+"Үй айраны"
+],
+"987": [
+"Talkan with butter and honey",
+"Талқан с маслом и мёдом"
+],
+"988": [
+"Kovurma shurpa",
+"fried-meat soup",
+"Кавурма шурпа"
+],
+"989": [
+"Shivit oshi",
+"green dill noodles",
+"Шивит оши"
+],
+"990": [
+"Gumma",
+"fried pies with offal",
+"Гумма"
+],
+"991": [
+"Bichak",
+"fried potato pies",
+"Бичак с картошкой"
+],
+"992": [
+"Tukhum barak",
+"egg-filled dumplings",
+"Тухум барак"
+],
+"993": [
+"Jigar kabob",
+"liver kebab",
+"Жигар кабоб"
+],
+"994": [
+"Suzma with herbs",
+"Сузьма с зеленью"
+],
+"995": [
+"Yakhna gusht",
+"cold boiled meat",
+"Яхна гушт"
+],
+"997": [
+"Parvarda",
+"Uzbek pulled sugar sweets",
+"Парварда"
+],
+"998": [
+"Tovuk shurva",
+"Uzbek chicken soup",
+"Товук шурва"
+],
+"999": [
+"Bukhara plov",
+"with raisins and chickpeas",
+"Бухарский плов"
+],
+"1000": [
+"Chicken samsa",
+"Самса с курицей"
+],
+"1001": [
+"Zharkop",
+"meat and potato stew",
+"Жаркоп"
+],
+"1002": [
+"Shirchoy",
+"tea with milk and butter",
+"Ширчой"
+],
+"1003": [
+"Atala",
+"flour porridge",
+"Аталя"
+],
+"1004": [
+"Shirguruch",
+"Uzbek milk rice porridge",
+"Ширгуруч"
+],
+"1005": [
+"Halim",
+"wheat and meat porridge",
+"Халим"
+],
+"1006": [
+"Gurian khachapuri",
+"crescent with egg",
+"Хачапури по-гурийски"
+],
+"1007": [
+"Achma",
+"layered cheese pie",
+"Ачма"
+],
+"1008": [
+"Kupaty",
+"Georgian sausages",
+"Купаты"
+],
+"1009": [
+"Chicken tabaka",
+"pressed fried chicken",
+"Цыплёнок табака"
+],
+"1010": [
+"Mchadi",
+"corn cakes",
+"Мчади"
+],
+"1011": [
+"Kubdari",
+"Svan meat pie",
+"Кубдари"
+],
+"1012": [
+"Homemade tkemali",
+"plum sauce",
+"Соус ткемали домашний"
+],
+"1013": [
+"Georgian adjika",
+"Аджика по-грузински"
+],
+"1014": [
+"Beetroot pkhali",
+"Пхали из свёклы"
+],
+"1015": [
+"Kababi",
+"Georgian minced kebab",
+"Кабаби"
+],
+"1016": [
+"Kalmakhi",
+"trout with pomegranate",
+"Калмахи",
+"форель с гранатом"
+],
+"1017": [
+"Gozinaki",
+"honey walnut brittle",
+"Гозинаки"
+],
+"1018": [
+"Nazuki",
+"sweet spiced bread",
+"Назуки"
+],
+"1019": [
+"Shoti puri",
+"Georgian canoe bread",
+"Шоти пури"
+],
+"1020": [
+"Georgian salad with walnut dressing",
+"Грузинский салат с орехами"
+],
+"1021": [
+"Penovani",
+"puff pastry khachapuri",
+"Пеновани"
+],
+"1022": [
+"Shila plavi",
+"Svan rice with meat",
+"Шила плави"
+],
+"1023": [
+"Ostri",
+"spicy beef stew",
+"Остри"
+],
+"1024": [
+"Mushrooms with suluguni in ketsi",
+"Грибы с сулугуни в кеци"
+],
+"1025": [
+"Chirbuli",
+"Georgian eggs with tomatoes and walnuts",
+"Чирбули"
+],
+"1026": [
+"Chvishtari",
+"corn cakes with cheese",
+"Чвиштари"
+],
+"1027": [
+"Tarragon lemonade",
+"Лимонад тархун"
+],
+"1028": [
+"Quattro formaggi pizza",
+"Пицца Четыре сыра"
+],
+"1029": [
+"Pizza capricciosa",
+"Пицца Капричоза"
+],
+"1030": [
+"Pasta puttanesca",
+"Паста путтанеска"
+],
+"1031": [
+"Pasta alla Norma",
+"Паста алла норма"
+],
+"1035": [
+"Pappa al pomodoro",
+"tomato bread soup",
+"Паппа аль помодоро"
+],
+"1036": [
+"Stracciatella soup",
+"Суп страчателла"
+],
+"1037": [
+"Saltimbocca",
+"veal with sage and ham",
+"Салтимбокка"
+],
+"1038": [
+"Chicken cacciatore",
+"Курица каччаторе"
+],
+"1040": [
+"Panzanella",
+"Tuscan bread salad",
+"Панцанелла"
+],
+"1044": [
+"Polenta with mushrooms",
+"Полента с грибами"
+],
+"1050": [
+"Kimchi bokkeumbap",
+"kimchi fried rice",
+"Кимчи-покымпап"
+],
+"1055": [
+"Miyeokguk",
+"seaweed soup",
+"Миёккук"
+],
+"1060": [
+"Galbi-jjim",
+"braised short ribs",
+"Кальби-чим"
+],
+"1066": [
+"Oi sobagi",
+"stuffed cucumber kimchi",
+"Ои-собаги"
+],
+"1067": [
+"Musaengchae",
+"spicy radish salad",
+"Мусэнчхэ"
+],
+"1070": [
+"Gyeran jjim",
+"steamed eggs",
+"Кэран-чим"
+],
+"1073": [
+"Hobakjuk",
+"pumpkin porridge",
+"Хобак-чук"
+],
+"1074": [
+"Dubu jorim",
+"braised tofu",
+"Тубу-чорим"
+],
+"1075": [
+"Dubu kimchi",
+"tofu with stir-fried kimchi",
+"Тубу-кимчи"
+],
+"1077": [
+"Mandu-guk",
+"dumpling soup",
+"Мандугук"
+],
+"1083": [
+"Philadelphia roll",
+"Ролл Филадельфия"
+],
+"1084": [
+"Tekka maki",
+"tuna roll",
+"Тэкка-маки",
+"ролл с тунцом"
+],
+"1093": [
+"Nikujaga",
+"meat and potato stew",
+"Никудзяга"
+],
+"1098": [
+"Chahan",
+"Japanese fried rice",
+"Тяхан"
+],
+"1100": [
+"Tamago sando",
+"egg salad sandwich",
+"Тамаго-сандо"
+],
+"1102": [
+"Saba misoni",
+"mackerel in miso",
+"Саба мисони"
+],
+"1104": [
+"Hiyayakko",
+"chilled tofu",
+"Хияякко"
+],
+"1105": [
+"Salted edamame",
+"Эдамамэ с солью"
+],
+"1107": [
+"Cucumber sunomono",
+"Сунемоно с огурцом"
+],
+"1109": [
+"Strawberry daifuku",
+"Дайфуку с клубникой"
+],
+"1110": [
+"Dorayaki",
+"filled pancakes",
+"Дораяки"
+],
+"1113": [
+"Chicken nanban",
+"Курица намбан"
+],
+"1115": [
+"Yayla corbasi",
+"yogurt mint soup",
+"Яйла чорбасы"
+],
+"1116": [
+"Tarhana corbasi",
+"tomato and yogurt soup",
+"Тархана чорбасы"
+],
+"1117": [
+"Kuru fasulye",
+"Turkish white bean stew",
+"Куру фасулье"
+],
+"1118": [
+"Bulgur pilavi",
+"Пилав с булгуром"
+],
+"1119": [
+"Sehriyeli pilav",
+"rice with vermicelli",
+"Пилав с вермишелью"
+],
+"1120": [
+"Hunkar begendi",
+"lamb on smoky eggplant puree",
+"Хюнкяр бейенди"
+],
+"1121": [
+"Tavuk sote",
+"chicken sauté",
+"Тавук соте"
+],
+"1122": [
+"Izmir kofte",
+"meatballs with potatoes",
+"Кёфте по-измирски"
+],
+"1124": [
+"Tava kebabi",
+"pan kebab",
+"Тава-кебаб"
+],
+"1125": [
+"Urfa kebab",
+"mild minced lamb kebab",
+"Урфа-кебаб"
+],
+"1128": [
+"Sigara boregi",
+"cheese filo rolls",
+"Сигара бёрек"
+],
+"1129": [
+"Kasarli yumurtali pide",
+"cheese and egg pide",
+"Пиде с сыром и яйцом"
+],
+"1131": [
+"Icli kofte",
+"stuffed bulgur shells",
+"Ичли кёфте"
+],
+"1132": [
+"Biber dolmasi",
+"rice-stuffed peppers",
+"Долма из перцев с рисом"
+],
+"1134": [
+"Piyaz",
+"white bean salad",
+"Пияз салатасы"
+],
+"1137": [
+"Mucver",
+"zucchini fritters with feta",
+"Мюджвер"
+],
+"1140": [
+"Kunefe",
+"cheese pastry in syrup",
+"Кюнефе"
+],
+"1141": [
+"Revani",
+"semolina syrup cake",
+"Ревани"
+],
+"1142": [
+"Asure",
+"Noah's pudding",
+"Ашуре"
+],
+"1144": [
+"Turkish ayran",
+"Айран турецкий"
+],
+"1145": [
+"Tolma in vine leaves",
+"Толма в виноградных листьях"
+],
+"1146": [
+"Cabbage tolma",
+"Капустная толма"
+],
+"1147": [
+"Akhtamar tolma",
+"stuffed quince and apples",
+"Ахтамар толма",
+"с айвой и яблоками"
+],
+"1148": [
+"Boraki",
+"fried meat dumplings in broth",
+"Бораки"
+],
+"1149": [
+"Mantapur",
+"manti soup with yogurt",
+"Мантапур"
+],
+"1150": [
+"Ankhatapur",
+"fasting bean and dried fruit soup",
+"Ангахтапур"
+],
+"1151": [
+"Osh",
+"meatball and rice soup",
+"Ош",
+"суп с фрикадельками и рисом"
+],
+"1152": [
+"Yerevan bozbash",
+"lamb and quince stew",
+"Бозбаш по-ереванский"
+],
+"1153": [
+"Armenian beef and vegetable soup",
+"Суп с говядиной и овощами по-армянски"
+],
+"1154": [
+"Kololak",
+"Armenian meatballs in broth",
+"Кололак"
+],
+"1155": [
+"Lamb khorovats",
+"Хоровац из баранины"
+],
+"1156": [
+"Chicken khorovats",
+"Хоровац из курицы"
+],
+"1157": [
+"Armenian lula kebab",
+"Люля-кебаб по-армянски"
+],
+"1158": [
+"Armenian chanakh",
+"lamb hotpot",
+"Чанахи по-армянски"
+],
+"1159": [
+"Tapaka",
+"pan-pressed chicken",
+"Тапака"
+],
+"1160": [
+"Ishli kufta",
+"stuffed bulgur shells",
+"Ишли кюфта"
+],
+"1161": [
+"Chi kufta",
+"bulgur and herb patties",
+"Чи кюфта"
+],
+"1162": [
+"Armenian ajapsandal",
+"vegetable stew",
+"Аджапсандал по-армянски"
+],
+"1163": [
+"Arishta",
+"fried homemade noodles",
+"Аришта"
+],
+"1164": [
+"Shirin pilaf",
+"rice with dried fruit",
+"Плов с сухофруктами",
+"ширин пилаф"
+],
+"1165": [
+"Lolik dzu",
+"eggs with tomatoes",
+"Яйца с помидорами",
+"лолик-дзу"
+],
+"1166": [
+"Motal-style cheese with herbs",
+"Сыр мотал с зеленью"
+],
+"1168": [
+"Homemade matsun",
+"yogurt",
+"Мацун домашний"
+],
+"1169": [
+"Armenian paklava",
+"Пахлава армянская"
+],
+"1170": [
+"Nazook",
+"sweet rolled pastry",
+"Назук"
+],
+"1171": [
+"Alani",
+"dried apricots stuffed with nuts",
+"Алани",
+"абрикосы с орехами"
+],
+"1172": [
+"Sharots",
+"walnut and grape juice sweet",
+"Шароц"
+],
+"1174": [
+"Armenian coffee",
+"Армянский кофе"
+],
+"1175": [
+"Quince compote",
+"Компот из айвы"
+],
+"1177": [
+"Potage de légumes",
+"vegetable soup",
+"Суп потаж из овощей"
+],
+"1178": [
+"Soupe au pistou",
+"Суп писту"
+],
+"1179": [
+"Chicken fricassée",
+"Куриный фрикасе"
+],
+"1180": [
+"Blanquette de veau",
+"Бланкет из телятины"
+],
+"1181": [
+"Pot-au-feu",
+"Пот-о-фё"
+],
+"1183": [
+"Poulet aux herbes de Provence",
+"Курица с прованскими травами"
+],
+"1184": [
+"Steak frites",
+"Стейк фрит"
+],
+"1185": [
+"Steak au poivre",
+"Стейк с перечным соусом"
+],
+"1186": [
+"Sole meunière",
+"fish in brown butter",
+"Рыба меньер"
+],
+"1188": [
+"Salade lyonnaise",
+"Салат Лионский"
+],
+"1189": [
+"Warm goat cheese salad",
+"Салат с козьим сыром"
+],
+"1190": [
+"French omelette",
+"Омлет по-французски"
+],
+"1192": [
+"Oeufs cocotte",
+"baked eggs in cream",
+"Яйца кокот"
+],
+"1194": [
+"Pissaladière",
+"onion tart",
+"Писсаладьер"
+],
+"1196": [
+"Pommes Anna",
+"layered potato cake",
+"Картофель Анна"
+],
+"1197": [
+"Pommes purée",
+"silky French mash",
+"Пюре по-французски"
+],
+"1198": [
+"Carottes Vichy",
+"glazed carrots",
+"Морковь Виши"
+],
+"1200": [
+"Cherry clafoutis",
+"Клафути с вишней"
+],
+"1203": [
+"Poires au vin",
+"pears poached in wine",
+"Груши в вине"
+],
+"1204": [
+"Crêpes Suzette",
+"Крепы Сюзетт"
+],
+"1205": [
+"Île flottante",
+"floating islands",
+"Плавающие острова"
+],
+"1208": [
+"Toad in the hole",
+"Сосиски в тесте"
+],
+"1210": [
+"Cottage pie",
+"beef and mash pie",
+"Коттедж-пай"
+],
+"1213": [
+"Fish pie",
+"Рыбный пирог"
+],
+"1214": [
+"Lancashire hotpot",
+"Ланкаширское рагу",
+"хотпот"
+],
+"1215": [
+"Bubble and squeak",
+"Бабл-энд-сквик"
+],
+"1216": [
+"Chicken pasties",
+"Корнуоллские пирожки с курицей"
+],
+"1218": [
+"Welsh rarebit",
+"cheese on toast",
+"Валлийские гренки",
+"уэлш-рэбит"
+],
+"1221": [
+"Coronation chicken",
+"Коронационная курица"
+],
+"1225": [
+"Bacon butty",
+"Сэндвич с беконом"
+],
+"1228": [
+"Roast leg of lamb with mint sauce",
+"Запечённая баранья нога с мятным соусом"
+],
+"1229": [
+"Sunday roast chicken",
+"Воскресный запечённый цыплёнок"
+],
+"1231": [
+"Sticky toffee pudding",
+"Липкий финиковый пудинг"
+],
+"1232": [
+"Victoria sponge",
+"Виктория-сандвич",
+"бисквит с джемом"
+],
+"1234": [
+"Banoffee pie",
+"Банофи-пай"
+],
+"1235": [
+"Eton mess",
+"Итонский беспорядок"
+],
+"1238": [
+"Fairy cakes",
+"Кексы-капкейки с глазурью"
+],
+"1242": [
+"Sichuan kung pao chicken with cashews",
+"Курица кунг-пао по-сычуаньски"
+],
+"1243": [
+"Orange chicken",
+"Курица в апельсиновом соусе"
+],
+"1244": [
+"Lemon chicken",
+"Курица с лимоном"
+],
+"1245": [
+"Pepper beef in oyster sauce",
+"Говядина в устричном соусе с перцем"
+],
+"1246": [
+"Mongolian beef",
+"Мясо по-монгольски"
+],
+"1247": [
+"Sweet and sour spare ribs",
+"Свиные рёбрышки в кисло-сладком соусе"
+],
+"1248": [
+"Hong shao rou",
+"red-braised pork belly",
+"Хуншао жоу",
+"красная тушёная свинина"
+],
+"1251": [
+"Cantonese steamed fish",
+"Рыба на пару по-кантонски"
+],
+"1253": [
+"Sichuan dry-fried green beans",
+"Сычуаньская стручковая фасоль"
+],
+"1254": [
+"Chinese garlic broccoli",
+"Брокколи с чесноком по-китайски"
+],
+"1255": [
+"Stir-fried napa cabbage",
+"Жареная пекинская капуста"
+],
+"1256": [
+"Smashed cucumber salad",
+"Битые огурцы",
+"пай хуангуа"
+],
+"1259": [
+"Chicken and sweetcorn soup",
+"Кукурузный суп с курицей"
+],
+"1260": [
+"Dan dan noodles",
+"Лапша дань-дань"
+],
+"1264": [
+"Chicken congee",
+"Рисовый отвар с курицей",
+"конджи"
+],
+"1267": [
+"Guotie",
+"potstickers",
+"Жареные пельмени гуотие"
+],
+"1274": [
+"Steamed turkey with broccoli",
+"Индейка на пару с брокколи"
+],
+"1275": [
+"Steamed chicken and spinach rolls",
+"Куриные рулетики со шпинатом на пару"
+],
+"1276": [
+"Steamed hake with lemon and dill",
+"Хек на пару с лимоном и укропом"
+],
+"1277": [
+"Steamed pink salmon with vegetables",
+"Горбуша на пару с овощами"
+],
+"1278": [
+"Steamed beef patties",
+"Паровые котлеты из говядины"
+],
+"1279": [
+"Steamed chicken and rice meatballs",
+"Тефтели из курицы с рисом на пару"
+],
+"1282": [
+"Boiled squid with vegetable salad",
+"Кальмары отварные с овощным салатом"
+],
+"1283": [
+"Boiled turkey with bulgur",
+"Отварная индейка с булгуром"
+],
+"1285": [
+"Poached cod with potatoes and herbs",
+"Отварная треска с картофелем и зеленью"
+],
+"1286": [
+"Steamed vegetables with yogurt sauce",
+"Овощи на пару с соусом из йогурта"
+],
+"1287": [
+"Steamed cauliflower with egg",
+"Цветная капуста на пару с яйцом"
+],
+"1288": [
+"Steamed sweet potato with cinnamon",
+"Батат на пару с корицей"
+],
+"1289": [
+"Chicken and buckwheat soup",
+"Гречневый суп с курицей"
+],
+"1292": [
+"Light pink salmon soup",
+"Уха из горбуши"
+],
+"1296": [
+"Poached chicken and cucumber salad",
+"Салат с отварной курицей и огурцом"
+],
+"1298": [
+"Cottage cheese with herbs and cucumber",
+"Творог с зеленью и огурцом"
+],
+"1299": [
+"Steamed egg-white omelette with vegetables",
+"Омлет из белков с овощами на пару"
+],
+"1301": [
+"Buckwheat with egg and herbs",
+"Гречка с яйцом и зеленью"
+],
+"1302": [
+"Baked apples with cottage cheese and berries",
+"Запечённые яблоки с творогом и ягодами"
+],
+"1304": [
+"Chicken baked in a bag with vegetables",
+"Курица, запечённая в рукаве с овощами"
+],
+"1307": [
+"Salsa verde",
+"Сальса верде"
+],
+"1312": [
+"Birria tacos",
+"Бирриа-тако"
+],
+"1315": [
+"Beef fajitas",
+"Фахитас с говядиной"
+],
+"1321": [
+"Pozole with chicken",
+"Посоле с курицей"
+],
+"1322": [
+"Sopa de tortilla",
+"tortilla soup",
+"Суп с тортильями",
+"сопа де тортилья"
+],
+"1323": [
+"Mexican black bean soup",
+"Фасолевый суп по-мексикански"
+],
+"1324": [
+"Mexican rice",
+"arroz rojo",
+"Мексиканский рис"
+],
+"1329": [
+"Tinga de pollo",
+"chipotle chicken",
+"Тинга де польо"
+],
+"1330": [
+"Chicken mole",
+"Курица в соусе моле"
+],
+"1332": [
+"Sopes",
+"thick corn cakes with toppings",
+"Сопес"
+],
+"1333": [
+"Chicken tostadas",
+"Тостадас с курицей"
+],
+"1335": [
+"Huevos rancheros",
+"Уэвос ранчерос"
+],
+"1336": [
+"Huevos a la mexicana",
+"Уэвос а-ля мексикана"
+],
+"1338": [
+"Camarones a la diabla",
+"spicy prawns",
+"Креветки а-ля диабла"
+],
+"1339": [
+"Pescado a la veracruzana",
+"Рыба по-веракрусски"
+],
+"1342": [
+"Picadillo",
+"spiced mince",
+"Пикадильо"
+],
+"1346": [
+"Queso dip",
+"Сырный соус кесо"
+],
+"1349": [
+"Tres leches cake",
+"Торт «Три молока»",
+"трес лечес"
+],
+"1350": [
+"Arroz con leche",
+"cinnamon rice pudding",
+"Арроз кон лече"
+],
+"1352": [
+"Horchata",
+"rice drink",
+"Орчата"
+],
+"1353": [
+"Agua fresca",
+"watermelon cooler",
+"Агуа фреска из арбуза"
+],
+"1355": [
+"Salmon poke bowl",
+"Поке с лососем"
+],
+"1356": [
+"Shrimp poke bowl",
+"Поке с креветками"
+],
+"1357": [
+"Tofu poke bowl",
+"Поке с тофу"
+],
+"1359": [
+"Kalua pig",
+"slow-roasted pork",
+"Калуа-пиг",
+"томлёная свинина"
+],
+"1360": [
+"Huli huli chicken",
+"Курица хули-хули"
+],
+"1361": [
+"Spam-style musubi",
+"ham rice blocks",
+"Мусуби с ветчиной"
+],
+"1362": [
+"Hawaiian garlic shrimp",
+"Креветки с чесноком по-гавайски"
+],
+"1363": [
+"Lomi lomi salmon",
+"Ломи-ломи из лосося"
+],
+"1364": [
+"Chicken long rice",
+"Курица с фунчозой",
+"чикен лонг райс"
+],
+"1365": [
+"Laulau",
+"pork wrapped in leaves",
+"Лаулау",
+"свинина в листьях"
+],
+"1366": [
+"Haupia",
+"coconut pudding",
+"Хаупиа",
+"кокосовый пудинг"
+],
+"1367": [
+"Malasadas",
+"Hawaiian doughnuts",
+"Маласадас",
+"пончики"
+],
+"1368": [
+"Butter mochi",
+"Баттер-моти",
+"рисовый пирог"
+],
+"1370": [
+"Hawaiian macaroni salad",
+"Гавайский макаронный салат"
+],
+"1375": [
+"Saimin",
+"noodle soup",
+"Саймин",
+"суп с лапшой"
+],
+"1376": [
+"Hawaiian-style kalbi short ribs",
+"Кальби по-гавайски",
+"рёбрышки"
+],
+"1377": [
+"Hawaiian chicken katsu",
+"Курица кацу по-гавайски"
+],
+"1378": [
+"Mochiko chicken",
+"Моти-курица"
+],
+"1380": [
+"Hawaiian burger with pineapple",
+"Гавайский бургер с ананасом"
+],
+"1381": [
+"Pork and pineapple skewers",
+"Шашлычки из свинины с ананасом"
+],
+"1382": [
+"Coconut shrimp",
+"Кокосовые креветки"
+],
+"1384": [
+"Pineapple salsa",
+"Сальса из ананаса"
+],
+"1385": [
+"Teriyaki chicken plate lunch",
+"Плейт-ланч с курицей терияки"
+],
+"1386": [
+"Sweet potato in coconut milk",
+"Батат в кокосовом молоке"
+],
+"1388": [
+"Grilled chicken with mango",
+"Курица на гриле с манго"
+],
+"1389": [
+"Grilled fish with mango salsa",
+"Рыба на гриле с манговой сальсой"
+],
+"1391": [
+"Coconut cookies",
+"Кокосовое печенье"
+],
+"1392": [
+"Pineapple lemonade",
+"Ананасовый лимонад"
+],
+"1394": [
+"Hawaiian pineapple meatballs",
+"Тефтели с ананасом"
+],
+"1395": [
+"Hawaiian coleslaw",
+"Гавайский салат из капусты"
+],
+"1396": [
+"Hawaiian sweet rolls",
+"Гавайские сладкие булочки"
+],
+"1397": [
+"Chicken luau with spinach and coconut milk",
+"Курица луау со шпинатом и кокосовым молоком"
+],
+"1398": [
+"Teriyaki salmon with pineapple",
+"Лосось терияки с ананасом"
+],
+"1400": [
+"Coconut banana bread",
+"Банановый хлеб с кокосом"
+],
+"1402": [
+"Sesame sweet potato fries",
+"Батат-фри с кунжутом"
+],
+"1403": [
+"Buuz with lamb",
+"steamed dumplings",
+"Бууз с бараниной"
+],
+"1404": [
+"Buuz with beef",
+"Бууз с говядиной"
+],
+"1405": [
+"Khuushuur",
+"fried meat pies",
+"Хушуур"
+],
+"1406": [
+"Beef khuushuur",
+"Хушуур с говядиной"
+],
+"1407": [
+"Tsuivan",
+"fried noodles with meat",
+"Цуйван"
+],
+"1408": [
+"Khorkhog",
+"lamb cooked with hot stones",
+"Хорхог"
+],
+"1409": [
+"Bansh",
+"small dumplings",
+"Банш"
+],
+"1410": [
+"Banshtai tsai",
+"milk tea with dumplings",
+"Банштай цай",
+"чай с баншами"
+],
+"1411": [
+"Guriltai shol",
+"mutton noodle soup",
+"Гурилтай шөл",
+"суп с лапшой"
+],
+"1412": [
+"Budaatai shol",
+"rice and meat soup",
+"Будаатай шөл",
+"рисовый суп с мясом"
+],
+"1413": [
+"Suutei tsai",
+"salty milk tea",
+"Суутэй цай",
+"монгольский чай с молоком"
+],
+"1414": [
+"Aaruul",
+"dried curds",
+"Ааруул",
+"сушёный творог"
+],
+"1415": [
+"Boortsog",
+"fried dough biscuits",
+"Боорцог"
+],
+"1417": [
+"Niislel salad",
+"Mongolian potato salad",
+"Салат «Нийслэл»"
+],
+"1418": [
+"Chanasan makh",
+"boiled mutton",
+"Чанасан мах",
+"отварная баранина"
+],
+"1419": [
+"Makh shol",
+"mutton and potato soup",
+"Мах шөл",
+"суп с бараниной и картофелем"
+],
+"1420": [
+"Goimontoi shol",
+"vermicelli soup",
+"Гоймонтой шөл",
+"суп с вермишелью"
+],
+"1422": [
+"Khuurga",
+"lamb and vegetable stir-fry",
+"Хуурга",
+"жаркое из баранины с овощами"
+],
+"1423": [
+"Guriltai khuurga",
+"stir-fried noodles with beef",
+"Гурилтай хуурга",
+"жареная лапша с говядиной"
+],
+"1424": [
+"Takhiany khuurga",
+"chicken stir-fry",
+"Тахианы хуурга",
+"курица с овощами"
+],
+"1425": [
+"Sharsan makh",
+"fried meat with onion",
+"Шарсан мах",
+"жареное мясо с луком"
+],
+"1426": [
+"Khoniny eleg",
+"liver with tail fat",
+"Хонины элэг",
+"печень с курдючным жиром"
+],
+"1427": [
+"Jignesen makh",
+"steamed meat",
+"Жигнэсэн мах",
+"мясо на пару"
+],
+"1428": [
+"Mongolian goulash with rice",
+"Монгольский гуляш с рисом"
+],
+"1429": [
+"Mongolian meat patties with potatoes",
+"Котлеты по-монгольски с картофелем"
+],
+"1430": [
+"Mongolian-style beef with spring onion",
+"Монгольская говядина",
+"жареная, с зелёным луком"
+],
+"1431": [
+"Boov",
+"festive biscuits",
+"Боов",
+"праздничное печенье"
+],
+"1432": [
+"Orom",
+"clotted cream",
+"Өрөм",
+"молочные пенки"
+],
+"1434": [
+"Aarts",
+"curd drink",
+"Аарц",
+"кисломолочный напиток"
+],
+"1435": [
+"Potato khuushuur",
+"Хуушуур с картофелем"
+],
+"1436": [
+"Chicken buuz",
+"Бууз с курицей"
+],
+"1437": [
+"Beef tsuivan",
+"Цуйван с говядиной"
+],
+"1439": [
+"Mongolian cabbage and carrot salad",
+"Салат из капусты с морковью по-монгольски"
+],
+"1441": [
+"Mongolian meatball soup",
+"Монгольский суп с фрикадельками"
+],
+"1442": [
+"Mongolian baked meat pies",
+"Пирожки с мясом по-монгольски",
+"печёные"
+],
+"1443": [
+"Mongolian boiled horse meat",
+"Отварная конина по-монгольски"
+],
+"1444": [
+"Sharsan goimon",
+"fried noodles with meat",
+"Шарсан гоймон",
+"жареная лапша"
+],
+"1446": [
+"Sweet boortsog with icing sugar",
+"Боорцог с сахарной пудрой"
+],
+"1447": [
+"Milk tea with roasted flour and butter",
+"Цай с талканом и маслом"
+],
+"1448": [
+"Shah plov",
+"pilaf baked in lavash",
+"Шах-плов"
+],
+"1449": [
+"Plov with dried fruit and chestnuts",
+"Плов с курагой и каштанами",
+"шиюн плов"
+],
+"1450": [
+"Sabzi qovurma",
+"lamb and herb stew",
+"Сабза-говурма",
+"плов с зеленью"
+],
+"1451": [
+"Yarpaq dolmasi",
+"Azerbaijani vine leaf dolma",
+"Долма из виноградных листьев по-азербайджански"
+],
+"1452": [
+"Kelem dolmasi",
+"cabbage dolma",
+"Кялям-долмасы",
+"капустная долма"
+],
+"1453": [
+"Uch bajilar dolmasi",
+"stuffed eggplant, pepper and tomato",
+"Бадымджан долмасы",
+"фаршированные овощи"
+],
+"1454": [
+"Dushbara",
+"tiny dumplings in broth",
+"Дюшбара"
+],
+"1455": [
+"Piti",
+"lamb and chickpea pot soup",
+"Пити"
+],
+"1456": [
+"Kufta bozbash",
+"meatball and chickpea soup",
+"Кюфта-бозбаш"
+],
+"1457": [
+"Parcha bozbash",
+"lamb chunk soup",
+"Парча-бозбаш"
+],
+"1458": [
+"Dovga",
+"yogurt and herb soup",
+"Довга"
+],
+"1460": [
+"Fish lavangi",
+"Лявянги из рыбы"
+],
+"1461": [
+"Azerbaijani lula kebab",
+"Люля-кебаб по-азербайджански"
+],
+"1463": [
+"Grilled eggplant and tomato kebab",
+"Кебаб из баклажанов и помидоров"
+],
+"1464": [
+"Qutab with meat",
+"Кутабы с мясом"
+],
+"1465": [
+"Qutab with herbs",
+"Кутабы с зеленью"
+],
+"1466": [
+"Qutab with pumpkin",
+"Кутабы с тыквой"
+],
+"1467": [
+"Qutab with cheese",
+"Кутабы с сыром"
+],
+"1468": [
+"Saj with lamb and vegetables",
+"Садж с бараниной и овощами"
+],
+"1469": [
+"Chicken saj",
+"Садж с курицей"
+],
+"1470": [
+"Qovurma",
+"fried lamb",
+"Говурма из баранины"
+],
+"1471": [
+"Chicken chighirtma",
+"chicken with tomatoes and eggs",
+"Чыгыртма из курицы"
+],
+"1472": [
+"Buglama",
+"lamb steamed with vegetables",
+"Буглама",
+"баранина, тушённая с овощами"
+],
+"1473": [
+"Azerbaijani ajabsandal",
+"Аджапсандал по-азербайджански"
+],
+"1474": [
+"Kuku",
+"herb frittata",
+"Кюкю с зеленью"
+],
+"1475": [
+"Eggplant chighirtma with eggs",
+"Чыгыртма из баклажанов с яйцом"
+],
+"1476": [
+"Baku pakhlava",
+"Пахлава бакинская"
+],
+"1477": [
+"Shekerbura",
+"nut-filled pastries",
+"Шекербура"
+],
+"1478": [
+"Gogal",
+"spiced layered buns",
+"Гогал"
+],
+"1479": [
+"Badambura",
+"almond pastries",
+"Бадамбура"
+],
+"1482": [
+"Ovdukh",
+"cold yogurt soup",
+"Овдух",
+"холодный суп на йогурте"
+],
+"1483": [
+"Azerbaijani shepherd's salad",
+"Салат «Чобан» по-азербайджански"
+],
+"1484": [
+"Mangal salad",
+"grilled vegetable salad",
+"Мангал-салаты"
+],
+"1485": [
+"Gurza",
+"pleated dumplings",
+"Гюрза",
+"жареные пельмени"
+],
+"1486": [
+"Khingal",
+"pasta with fried meat and yogurt",
+"Хингал"
+],
+"1487": [
+"Saffron chicken plov",
+"Плов с курицей и шафраном"
+],
+"1488": [
+"Fish plov",
+"Плов с рыбой"
+],
+"1489": [
+"Walnut pakhlava",
+"home style",
+"Пахлава с грецкими орехами",
+"домашняя"
+],
+"1490": [
+"Shakar chorek",
+"butter cookies",
+"Шекер-чурек"
+],
+"1491": [
+"Gaymak with honey",
+"Гаймак с мёдом"
+],
+"1492": [
+"Azerbaijani flour halva",
+"Халва азербайджанская",
+"уну халвасы"
+],
+"1494": [
+"Azerbaijani tea with thyme",
+"Азербайджанский чай с чабрецом"
+],
+"1495": [
+"Ayran with cucumber and mint",
+"Айран с огурцом и мятой"
+],
+"1496": [
+"Pastitsio",
+"Greek pasta bake",
+"Пастицио"
+],
+"1503": [
+"Tiropita",
+"cheese pie",
+"Тиропита"
+],
+"1504": [
+"Dolmades",
+"rice-stuffed vine leaves",
+"Долмадес с рисом"
+],
+"1505": [
+"Keftedes",
+"Greek meatballs",
+"Кефтедес",
+"греческие тефтели"
+],
+"1506": [
+"Stifado",
+"beef and onion stew",
+"Стифадо",
+"говядина с луком"
+],
+"1507": [
+"Kleftiko",
+"slow-baked lamb parcels",
+"Клефтико",
+"баранина в пергаменте"
+],
+"1510": [
+"Avgolemono",
+"egg-lemon chicken soup",
+"Авголемоно",
+"куриный суп с лимоном"
+],
+"1511": [
+"Fava",
+"yellow split pea purée",
+"Фава",
+"пюре из гороха"
+],
+"1513": [
+"Saganaki",
+"pan-fried cheese",
+"Саганаки",
+"жареный сыр"
+],
+"1514": [
+"Bouyiourdi",
+"baked feta",
+"Фета в духовке",
+"буюрди"
+],
+"1517": [
+"Shrimp saganaki",
+"Креветки саганаки"
+],
+"1519": [
+"Giouvetsi",
+"beef with orzo",
+"Гиувеци",
+"мясо с орзо"
+],
+"1520": [
+"Greek lemon potatoes",
+"Лимонный картофель по-гречески"
+],
+"1521": [
+"Briam",
+"Greek roasted vegetables",
+"Бриам",
+"запечённые овощи"
+],
+"1522": [
+"Melitzanosalata",
+"eggplant dip",
+"Мелидзаносалата",
+"баклажанная икра"
+],
+"1523": [
+"Skordalia",
+"garlic potato dip",
+"Скордалья",
+"чесночный соус"
+],
+"1524": [
+"Horta",
+"boiled greens",
+"Хорта",
+"отварная зелень"
+],
+"1525": [
+"Revithia",
+"Greek chickpea stew",
+"Ревитья",
+"тушёный нут"
+],
+"1527": [
+"Afelia",
+"pork in wine and coriander",
+"Афелия",
+"свинина в вине с кориандром"
+],
+"1533": [
+"Galaktoboureko",
+"custard filo pie",
+"Галактобуреко"
+],
+"1534": [
+"Loukoumades",
+"honey doughnuts",
+"Лукумадес",
+"пончики с мёдом"
+],
+"1536": [
+"Melomakarona",
+"honey cookies",
+"Меломакарона"
+],
+"1539": [
+"Koulourakia",
+"Easter butter cookies",
+"Кулуракья",
+"пасхальное печенье"
+],
+"1542": [
+"Fresh cabbage salad with apple and carrot",
+"Салат из свежей капусты с яблоком и морковью"
+],
+"1543": [
+"Steamed chicken and zucchini patties",
+"Куриные котлеты с кабачком на пару"
+],
+"1544": [
+"Turkey baked with broccoli and cauliflower",
+"Индейка, запечённая с брокколи и цветной капустой"
+],
+"1545": [
+"Pumpkin cream soup without cream",
+"Суп-пюре из тыквы без сливок"
+],
+"1546": [
+"Pearl barley with mushrooms and onion",
+"Перловка с грибами и луком"
+],
+"1547": [
+"Steamed cod fish cakes",
+"Рыбные котлеты из трески на пару"
+],
+"1548": [
+"Cucumber, radish and egg salad with yogurt",
+"Салат из огурцов, редиса и яйца с йогуртом"
+],
+"1549": [
+"Beef stewed with vegetables, no potatoes",
+"Говядина, тушённая с овощами без картофеля"
+],
+"1550": [
+"Oven omelette with spinach and feta",
+"Омлет со шпинатом и фетой в духовке"
+],
+"1551": [
+"Lentil soup with vegetables",
+"Чечевичный суп с овощами"
+],
+"1552": [
+"Baked salmon with lemon and green beans",
+"Запечённый лосось с лимоном и спаржевой фасолью"
+],
+"1553": [
+"Cottage cheese with cucumber and herbs",
+"Творог с огурцом и зеленью"
+],
+"1554": [
+"Chicken with bulgur and vegetables",
+"Курица с булгуром и овощами"
+],
+"1555": [
+"Turkey meatballs in sugar-free tomato sauce",
+"Тефтели из индейки в томатном соусе без сахара"
+],
+"1556": [
+"Beet salad with walnuts and garlic, no mayonnaise",
+"Салат из свёклы с орехами и чесноком без майонеза"
+],
+"1557": [
+"Fresh cabbage shchi with chicken broth",
+"Щи из свежей капусты на курином бульоне"
+],
+"1558": [
+"Flourless zucchini fritters",
+"Кабачковые оладьи без муки"
+],
+"1559": [
+"Buckwheat with mushrooms and egg",
+"Гречневая каша с грибами и яйцом"
+],
+"1560": [
+"Chicken stewed with eggplant and tomatoes",
+"Курица, тушённая с баклажанами и помидорами"
+],
+"1561": [
+"Oat pancake with cottage cheese and herbs",
+"Овсяноблин с творогом и зеленью"
+],
+"1562": [
+"Chicken, avocado and spinach salad",
+"Салат с курицей, авокадо и шпинатом"
+],
+"1563": [
+"Pollock baked with vegetables in foil",
+"Минтай, запечённый с овощами в фольге"
+],
+"1564": [
+"Turkey meatball soup with herbs",
+"Суп с фрикадельками из индейки и зеленью"
+],
+"1565": [
+"Pan-cooked broccoli with egg and cheese",
+"Брокколи с яйцом и сыром на сковороде"
+],
+"1566": [
+"Brown rice with chicken and vegetables",
+"Бурый рис с курицей и овощами"
+],
+"1567": [
+"Pumpkin baked with cottage cheese and cinnamon",
+"Тыква, запечённая с творогом и корицей"
+],
+"1568": [
+"Green beans with beef",
+"Фасоль стручковая с говядиной"
+],
+"1569": [
+"Kefir okroshka without potatoes",
+"Окрошка на кефире без картофеля"
+],
+"1570": [
+"Peppers stuffed with turkey and vegetables",
+"Перец, фаршированный индейкой и овощами"
+],
+"1571": [
+"Chickpea, cucumber and tomato salad",
+"Салат из нута, огурца и помидоров"
+],
+"1572": [
+"Sugar-free yogurt berry dessert",
+"Ягодный десерт из йогурта без сахара"
+],
+"1573": [
+"Chicken breast with mushrooms in yogurt sauce",
+"Куриная грудка с грибами в йогуртовом соусе"
+],
+"1574": [
+"Cauliflower baked with cheese",
+"Капуста цветная, запечённая с сыром"
+],
+"1575": [
+"Carrot patties with oats",
+"Морковные котлеты с овсянкой"
+],
+"1576": [
+"Steamed salmon with broccoli",
+"Сёмга на пару с брокколи"
+],
+"1577": [
+"Steamed beef and cabbage patties",
+"Паровые котлеты из говядины с капустой"
+]
+}
