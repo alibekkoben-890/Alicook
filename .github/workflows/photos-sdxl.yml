@@ -1,0 +1,78 @@
+name: Dish pictures (SDXL-Lightning, open model)
+
+# Generates dish pictures with SDXL base 1.0 + ByteDance SDXL-Lightning on CPU runners.
+# Free, no API key. Runs when tools/photos/sdxl.json changes. Results go to the photo-work-sdxl branch.
+on:
+  workflow_dispatch:
+  push:
+    branches: ['ccr-**']
+    paths: ['tools/photos/sdxl.json']
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    steps:
+      - name: Free disk space (the model needs about 12 GB)
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL
+          df -h /
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install
+        run: |
+          pip install --index-url https://download.pytorch.org/whl/cpu torch==2.5.1
+          pip install diffusers==0.31.0 transformers==4.46.3 accelerate==1.1.1 pillow==11.0.0 safetensors==0.4.5 huggingface_hub==0.26.2
+      - name: Generate
+        env:
+          SHARD: ${{ matrix.shard }}
+          SHARDS: '20'
+        run: python tools/photos/sdxl_generate.py
+      - name: Upload
+        id: up
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: sdxl-${{ matrix.shard }}
+          path: out
+          if-no-files-found: ignore
+      - name: Upload (retry)
+        if: steps.up.outcome == 'failure'
+        uses: actions/upload-artifact@v4
+        with:
+          name: sdxl-${{ matrix.shard }}-retry
+          path: out
+          if-no-files-found: ignore
+
+  publish:
+    needs: generate
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: parts
+      - name: Publish to photo-work-sdxl branch
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          mkdir -p out/photos out/cands
+          for d in parts/*; do cp -r "$d"/photos/* out/photos/ 2>/dev/null || true; cp -r "$d"/cands/* out/cands/ 2>/dev/null || true; cp "$d"/meta-*.json out/ 2>/dev/null || true; done
+          ls out/photos | wc -l
+          [ -n "$(ls out/photos)" ] || { echo "No pictures"; exit 0; }
+          cd out
+          git init -q
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "Pictures from run ${{ github.run_id }}"
+          git push -qf "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:photo-work-sdxl
