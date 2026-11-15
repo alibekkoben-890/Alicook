@@ -48,13 +48,17 @@ EXTRA=$(sed -n "s/^uses-permission: name='\([^']*\)'.*/\1/p" "$RUNNER_TEMP/badgi
 ok "permissions: $(sed -n "s/^uses-permission: name='\([^']*\)'.*/\1/p" "$RUNNER_TEMP/badging.txt" | tr '\n' ' ')"
 
 # 6. App content is packaged
-unzip -p "$APK" assets/index.html | grep -q 'catalog' || fail "assets/index.html missing from APK"
-ok "assets/index.html packaged"
+unzip -p "$APK" assets/index.html | grep -q 'catalog.js' || fail "assets/index.html missing from APK"
+for f in app.js app.css catalog.js; do
+  unzip -l "$APK" | grep -q "assets/$f\$" || fail "assets/$f missing from APK"
+done
+unzip -p "$APK" assets/catalog.js | head -c 14 | grep -q 'const catalog=' || fail "assets/catalog.js is not the recipe catalog"
+ok "assets/index.html, app.js, app.css, catalog.js packaged"
 
 # 7. Report what is inside, so the build log shows it
 ICONS=$(unzip -l "$APK" | grep -c 'assets/icons/.*\.svg' || true)
 PHOTOS=$(unzip -l "$APK" | grep -c 'assets/photos/' || true)
-ICON_RECIPES=$(unzip -p "$APK" assets/index.html | grep -o '"photo":"icons/' | wc -l)
+ICON_RECIPES=$(unzip -p "$APK" assets/catalog.js | grep -o '"photo":"icons/' | wc -l)
 APPVER=$(unzip -p "$APK" assets/index.html | grep -o 'app-version"[^>]*>[^<]*' | sed 's/.*>//' || true)
 echo "Inside APK: $ICONS icon files, $PHOTOS photo files, $ICON_RECIPES recipes with icons, $APPVER"
 

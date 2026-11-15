@@ -1,0 +1,76 @@
+body{font-family:system-ui;margin:0;background:#f7f7f7;color:#222}
+header{background:#fff;padding:18px;position:sticky;top:0;z-index:50;box-shadow:0 1px 4px #ddd}
+h1{margin:0 0 12px}
+input,select{padding:12px;border:1px solid #ccc;border-radius:10px;box-sizing:border-box;width:100%;margin:4px 0}
+main{padding:12px 12px 100px}
+.recipe-photo{width:100%;max-height:290px;object-fit:cover;border-radius:12px;margin:10px 0}
+.photo-credit{font-size:12px;color:#555;margin:4px 0 14px}
+.photo-credit a{color:#1c7d53}
+.item{background:white;border-radius:12px;padding:16px;margin-bottom:10px;cursor:pointer}
+.item.with-photo{min-height:64px;padding-left:96px;position:relative}
+.item .thumb{position:absolute;left:12px;top:12px;width:72px;height:72px;object-fit:cover;border-radius:10px}
+small{color:#666}
+button{padding:10px;border:0;border-radius:8px;background:#1c7d53;color:white}
+.back{position:fixed;left:16px;right:16px;bottom:calc(20px + env(safe-area-inset-bottom, 0px));z-index:9999;min-height:54px;font-size:18px;font-weight:700;box-shadow:0 3px 12px #0003;touch-action:manipulation}
+li{margin:8px 0}
+ .product-controls{display:flex;gap:8px;margin:10px 0}
+.product-controls button{flex:1}
+.product-panel{background:#fff;padding:14px;border-radius:12px;margin-bottom:12px}
+.product-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;max-height:230px;overflow:auto}
+.product-choice{background:#f2f4f5;color:#222;text-align:left;font-size:14px;min-height:42px}
+.product-choice.selected{background:#1c7d53;color:white}
+.status{font-size:13px;color:#555}
+.diab-note{background:#fff4e0;color:#7a4b00;border-radius:8px;padding:8px 10px}
+.dark .diab-note{background:#3a2e1a;color:#ffd08a}
+.hidden{display:none!important}
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0}
+.actions button,.sbtn{background:#edf1f2;color:#1c7d53;font-weight:600}
+.actions button.on{background:#1c7d53;color:#fff}
+.scaler{display:flex;align-items:center;gap:10px;margin:6px 0 4px}
+.scaler button{width:42px;height:42px;font-size:20px;padding:0}
+.scaler span{min-width:48px;text-align:center;font-weight:700}
+.shop-item{display:flex;align-items:center;gap:10px;background:#fff;border-radius:10px;padding:12px;margin-bottom:8px}
+.shop-item input{width:22px;height:22px;margin:0}
+.shop-item.done span{text-decoration:line-through;color:#999}
+.note{color:#1c7d53;font-size:14px;min-height:18px}
+.filters{display:flex;gap:6px}
+.filters select{flex:1}
+.more{width:100%;margin:6px 0 12px;background:#edf1f2;color:#1c7d53;font-weight:600}
+.variants{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 12px}
+.variants button{background:#edf1f2;color:#1c7d53;font-size:14px;padding:8px 10px}
+.variants button.cur{background:#1c7d53;color:#fff}
+.recipe-photo{cursor:zoom-in}
+.recipe-photo.icon-photo{width:160px;height:160px;max-height:none;display:block;margin:10px auto;border-radius:24px}
+#zoom{position:fixed;inset:0;background:#000e;z-index:10001;display:flex;align-items:center;justify-content:center}
+#zoom img{max-width:100%;max-height:100%;object-fit:contain}
+.cook{position:fixed;inset:0;background:#fff;z-index:10000;display:flex;flex-direction:column;padding:20px 18px calc(20px + env(safe-area-inset-bottom,0px));box-sizing:border-box}
+.cook .ct{font-size:15px;color:#666}
+.cook .cs{flex:1;overflow:auto;font-size:26px;line-height:1.35;margin:14px 0}
+.cook .tm{font-size:40px;font-weight:700;text-align:center;margin:8px 0;color:#1c7d53}
+.cook .tm.done{color:#c0392b}
+.cook .row{display:flex;gap:8px}
+.cook .row button{flex:1;min-height:54px;font-size:18px}
+.cook .ghost{background:#edf1f2;color:#1c7d53}
+.kcal{color:#666}
+textarea{width:100%;box-sizing:border-box;padding:10px;border:1px solid #ccc;border-radius:10px;font:inherit}
+.badges{display:flex;gap:6px;flex-wrap:wrap;margin:4px 0 6px}
+.badge{font-size:13px;padding:4px 8px;border-radius:12px;background:#eef6f1;color:#1c7d53}
+.b-spicy{background:#fdecea;color:#c0392b}
+html.dark textarea{background:#1e1e1e;color:#e6e6e6;border-color:#444}
+html.dark .badge{background:#23332b;color:#9be3bd}
+html.dark .b-spicy{background:#3a2422;color:#ff8a80}
+#to-top{position:fixed;right:16px;bottom:calc(24px + env(safe-area-inset-bottom,0px));z-index:9998;width:54px;height:54px;border-radius:27px;font-size:24px;padding:0;box-shadow:0 3px 12px #0004;display:none}
+#to-top.show{display:block}
+
+html.dark body{background:#121212;color:#e6e6e6}
+html.dark header,html.dark .item,html.dark .product-panel,html.dark .shop-item,html.dark .cook{background:#1e1e1e;box-shadow:none}
+html.dark input,html.dark select{background:#1e1e1e;color:#e6e6e6;border-color:#444}
+html.dark small,html.dark .status,html.dark .photo-credit,html.dark .kcal,html.dark .cook .ct{color:#aaa}
+html.dark .photo-credit a{color:#6fcf97}
+html.dark .actions button,html.dark .sbtn,html.dark .more,html.dark .variants button,html.dark .lang button,html.dark .product-choice,html.dark .cook .ghost{background:#2a2f2e;color:#9be3bd}
+html.dark .actions button.on,html.dark .variants button.cur,html.dark .lang button.active,html.dark .product-choice.selected{background:#1c7d53;color:#fff}
+html.dark .note,html.dark .cook .tm{color:#6fcf97}
+ header .lang{display:flex;gap:6px;margin:4px 0 12px}
+.lang button{background:#edf1f2;color:#333;min-width:54px}
+.lang button.active{background:#1c7d53;color:white}
+
