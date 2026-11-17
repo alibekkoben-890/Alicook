@@ -369,7 +369,7 @@ try{const s=LS.get('alicook-state',null);if(s&&s.id!=null&&Date.now()-s.t<3*3600
 Object.assign(translations.ru,{all:'Все типы блюд',allCuisines:'Все кухни',prot:'Б',fat:'Ж',carb:'У',timerStep:'шаг',saveFile:'💾 Сохранить в файл',loadFile:'📂 Восстановить из файла',fileSaved:'✓ Файл сохранён',fileFail:'Не удалось сохранить файл',fileBad:'Не удалось прочитать файл'});
 Object.assign(translations.kk,{all:'Барлық тағам түрлері',allCuisines:'Барлық асханалар',prot:'А',fat:'М',carb:'К',timerStep:'қадам',saveFile:'💾 Файлға сақтау',loadFile:'📂 Файлдан қалпына келтіру',fileSaved:'✓ Файл сақталды',fileFail:'Файлды сақтау мүмкін болмады',fileBad:'Файлды оқу мүмкін болмады'});
 Object.assign(translations.en,{all:'All dish types',allCuisines:'All cuisines',prot:'P',fat:'F',carb:'C',timerStep:'step',saveFile:'💾 Save to a file',loadFile:'📂 Restore from a file',fileSaved:'✓ File saved',fileFail:'Could not save the file',fileBad:'Could not read the file'});
-Object.assign(catTranslations,{'Вторые блюда':{kk:'Екінші тағамдар',en:'Main courses'},'Гарниры и каши':{kk:'Гарнирлер мен ботқалар',en:'Sides and porridge'},'Закуски':{kk:'Тіскебасарлар',en:'Starters and snacks'},'Выпечка и хлеб':{kk:'Нан және пісірмелер',en:'Bread and baking'},'Соусы и заготовки':{kk:'Тұздықтар мен дайындамалар',en:'Sauces and preserves'}});
+Object.assign(catTranslations,{'Кухня корё-сарам':{kk:'Корё-сарам асханасы',en:'Koryo-saram cuisine'},'Британская кухня':{kk:'Британ асханасы',en:'British cuisine'},'Вторые блюда':{kk:'Екінші тағамдар',en:'Main courses'},'Гарниры и каши':{kk:'Гарнирлер мен ботқалар',en:'Sides and porridge'},'Закуски':{kk:'Тіскебасарлар',en:'Starters and snacks'},'Выпечка и хлеб':{kk:'Нан және пісірмелер',en:'Bread and baking'},'Соусы и заготовки':{kk:'Тұздықтар мен дайындамалар',en:'Sauces and preserves'}});
 {const st=document.createElement('style');st.textContent=
 '#tbar{position:fixed;top:0;left:0;right:0;z-index:10002;display:none;gap:6px;overflow-x:auto;padding:6px 8px;background:#12382a;white-space:nowrap;box-sizing:border-box;height:44px;align-items:center}html.has-timers #tbar{display:flex}html.has-timers body{padding-top:44px}html.has-timers header{top:44px}html.has-timers .cook{padding-top:60px}'+
 '.tchip{flex:none;background:#fff;color:#12382a;border-radius:16px;padding:3px 4px 3px 10px;font-size:14px;display:inline-flex;align-items:center;gap:6px;max-width:80vw}.tchip.done{background:#c0392b;color:#fff}.tchip button{background:transparent;color:inherit;padding:2px 8px;font-size:18px;line-height:1}'+
@@ -381,7 +381,7 @@ const DISH_TYPES=['Супы','Вторые блюда','Гарниры и каш
 [...category.options].forEach(o=>{if(o.value&&!o.value.startsWith('__'))o.remove()});
 DISH_TYPES.forEach(t=>{const o=document.createElement('option');o.value=t;o.textContent=t;category.appendChild(o)});
 const cuisineSel=document.createElement('select');cuisineSel.id='cuisine';category.insertAdjacentElement('afterend',cuisineSel);
-{const set=new Set();recipes.forEach(r=>{[r.category,r.cuisine].forEach(c=>{if(c&&/кухня$/.test(c))set.add(c)})});
+{const set=new Set();recipes.forEach(r=>{[r.category,r.cuisine].forEach(c=>{if(c&&/кухня$|^Кухня /.test(c))set.add(c)})});
  const list=[...set].sort((a,b)=>a.localeCompare(b,'ru'));['Правильное питание','Диабетическое'].forEach(c=>list.push(c));
  cuisineSel.innerHTML='<option value=""></option>'+list.map(c=>'<option value="'+esc(c)+'"></option>').join('')}
 function labelCuisines(){[...cuisineSel.options].forEach(o=>o.textContent=o.value?localCategory(o.value):'🌍 '+tr('allCuisines'))}
