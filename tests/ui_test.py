@@ -57,6 +57,14 @@ def main():
         # products
         pg.click('#products-tab'); pg.wait_for_timeout(200)
         check('product groups shown', ev("document.querySelectorAll('.pgroups [data-g]').length") >= 9)
+        for n in ('картофель', 'лук', 'говядина'):
+            pg.fill('#product-search', n); pg.wait_for_timeout(80)
+            pg.locator('#product-grid [data-product="%s"]' % n).click()
+        pg.fill('#product-search', ''); pg.click('#show-matches'); pg.wait_for_timeout(300)
+        m = ev("[document.querySelectorAll('#app [data-id]').length, document.querySelectorAll('#app [data-id] img.thumb').length]")
+        check('product matches show photos', m[0] > 0 and m[1] == m[0], m)
+        ev("selected.clear();saveProducts();filterMode=false;render()")
+        pg.click('#products-tab'); pg.wait_for_timeout(200)
         pg.click('#recipes-tab')
 
         # recipe view
