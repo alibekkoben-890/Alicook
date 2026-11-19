@@ -52,7 +52,10 @@ def main():
         soups = ev("[...document.querySelectorAll('#app [data-id]')].length")
         check('type + cuisine filter (Kazakh soups)', 0 < soups < 40, soups)
         check('filter button counts filters', '(2)' in pg.inner_text('#flt-btn'))
-        pg.select_option('#category', ''); pg.select_option('#cuisine', ''); pg.click('#flt-btn')
+        pg.select_option('#category', ''); pg.select_option('#cuisine', 'Индийская кухня'); pg.wait_for_timeout(200)
+        check('new world cuisine is filterable (Indian)', ev("[...document.querySelectorAll('#app [data-id]')].length") >= 8)
+        check('new cuisines are listed', ev("['Тайская кухня','Испанская кухня','Польская кухня','Перуанская кухня'].every(c=>[...document.querySelectorAll('#cuisine option')].some(o=>o.value===c))"))
+        pg.select_option('#cuisine', ''); pg.click('#flt-btn')
 
         # products
         pg.click('#products-tab'); pg.wait_for_timeout(200)
